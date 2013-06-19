@@ -1,0 +1,4214 @@
+IPTC Newscode
+	{IPTC subjects}
+	Arts culture et spectacles
+		{arts culture and entertainment}
+		{01000000}
+		Archéologie
+			{archaeology}
+			{01001000}
+		Architecture
+			{architecture}
+			{01002000}
+		Tauromachie
+			{bullfighting}
+			{01003000}
+		Festivals et carnavals
+			{festive event (including carnival)}
+			{01004000}
+		Cinéma
+			{cinema}
+			{01005000}
+			Festival de cinéma
+				{film festival}
+				{01005001}
+		Danse
+			{dance}
+			{01006000}
+		Mode
+			{fashion}
+			{01007000}
+			Joaillerie
+				{jewelry}
+				{01007001}
+		Langue
+			{language}
+			{01008000}
+		Bibliothèque et musée
+			{library and museum}
+			{01009000}
+		Littérature
+			{literature}
+			{01010000}
+			Fiction
+				{fiction}
+				{01010001}
+			Poésie
+				{poetry}
+				{01010002}
+		Musique
+			{music}
+			{01011000}
+			Musique classique
+				{classical music}
+				{01011001}
+			Folk
+				{folk music}
+				{01011002}
+			Jazz
+				{jazz music}
+				{01011003}
+			Pop
+				{popular music}
+				{01011004}
+			Country
+				{country music}
+				{01011005}
+			Rock
+				{rock and roll music}
+				{01011006}
+			Hip Hop
+				{hip-hop}
+				{01011007}
+		Peinture
+			{painting}
+			{01012000}
+		Photographie
+			{photography}
+			{01013000}
+		Radio
+			{radio}
+			{01014000}
+		Sculpture
+			{sculpture}
+			{01015000}
+			Arts Plastiques
+				{plastic art}
+				{01015001}
+		Télévision
+			{television}
+			{01016000}
+			Soap opéra
+				{soap opera}
+				{01016001}
+		Théâtre
+			{theatre}
+			{01017000}
+			Musique scénique
+				{music theatre}
+				{01017001}
+		Patrimoine
+			{monument and heritage site}
+			{01018000}
+			Institutions-DEPRECATED
+				{institution-DEPRECATED}
+				{01018001}
+		Coutumes et traditions
+			{customs and tradition}
+			{01019000}
+		Arts
+			{arts (general)}
+			{01020000}
+		Divertissement
+			{entertainment (general)}
+			{01021000}
+			Trophée divertissement
+				{entertainment award}
+				{01021001}
+		Culture
+			{culture (general)}
+			{01022000}
+			Histoire de la culture
+				{cultural development}
+				{01022001}
+		Boîte de nuit
+			{nightclub}
+			{01023000}
+		Bande dessinée
+			{cartoon}
+			{01024000}
+		Dessin animé
+			{animation}
+			{01025000}
+		Média
+			{mass media}
+			{01026000}
+			Périodiques
+				{periodicals}
+				{01026001}
+			Radio-tv
+				{news media}
+				{01026002}
+			Journaux
+				{newspapers}
+				{01026003}
+			Revue de critiques
+				{reviews}
+				{01026004}
+		Internet
+			{internet}
+			{01027000}
+		Histoire
+			{history}
+			{01028000}
+	Police et justice
+		{crime law and justice}
+		{02000000}
+		Criminalité
+			{crime}
+			{02001000}
+			Homicide
+				{homicide}
+				{02001001}
+			Piratage informatique
+				{computer crime}
+				{02001002}
+			Vol
+				{theft}
+				{02001003}
+			Trafic de drogue
+				{drug trafficking}
+				{02001004}
+			Viol
+				{sexual assault}
+				{02001005}
+			Agression
+				{assault (general)}
+				{02001006}
+			Kidnapping
+				{kidnapping}
+				{02001007}
+			Incendie criminel
+				{arson}
+				{02001008}
+			Délinquance en bandes
+				{gang activity}
+				{02001009}
+			Terrorisme
+				{terrorism}
+				{02001010}
+		Système judicaire
+			{judiciary (system of justice)}
+			{02002000}
+			Avocat
+				{lawyer}
+				{02002001}
+			Juge
+				{judge}
+				{02002002}
+			Greffe
+				{court administration}
+				{02002003}
+		Police
+			{police}
+			{02003000}
+			Forces de l'ordre
+				{law enforcement}
+				{02003001}
+			Enquête
+				{investigation}
+				{02003002}
+			Arrestation
+				{arrest}
+				{02003003}
+		Peines
+			{punishment}
+			{02004000}
+			Amende
+				{fine}
+				{02004001}
+			Execution
+				{execution}
+				{02004002}
+		Prison
+			{prison}
+			{02005000}
+		Lois
+			{laws}
+			{02006000}
+			Droit Pénal
+				{criminal}
+				{02006001}
+			Droit civil
+				{civil}
+				{02006002}
+		Droits
+			{justice and rights}
+			{02007000}
+			Droits civils
+				{civil rights}
+				{02007001}
+		Procès
+			{trials}
+			{02008000}
+			Litige
+				{litigation}
+				{02008001}
+			Arbitrage
+				{arbitration}
+				{02008002}
+			Audiences préliminaires
+				{court preliminary}
+				{02008003}
+		Accusation
+			{prosecution}
+			{02009000}
+			Accusé
+				{defendant}
+				{02009001}
+			Témoin
+				{witness}
+				{02009002}
+		Crime organisé
+			{organized crime}
+			{02010000}
+		Droit International
+			{international law}
+			{02011000}
+			Cour ou tribunal international
+				{international court or tribunal}
+				{02011001}
+			Extradition
+				{extradition}
+				{02011002}
+		Délinquance financière
+			{corporate crime}
+			{02012000}
+			Fraude
+				{fraud}
+				{02012001}
+			Détournements
+				{embezzlement}
+				{02012002}
+			Infraction commerciale
+				{restraint of trade}
+				{02012003}
+			Violation de contrat
+				{breach of contract}
+				{02012004}
+			Infraction anti-trust
+				{anti-trust crime}
+				{02012005}
+			Corruption
+				{corruption}
+				{02012006}
+			Subornation de témoins
+				{bribery}
+				{02012007}
+		Crime de guerre
+			{war crime}
+			{02013000}
+		Enquête
+			{inquest}
+			{02014000}
+		Enquête
+			{inquiry}
+			{02015000}
+		Tribunal
+			{tribunal}
+			{02016000}
+	Désastres et accidents
+		{disaster and accident}
+		{03000000}
+		Sécheresse
+			{drought}
+			{03001000}
+		Tremblement de terre
+			{earthquake}
+			{03002000}
+		Famine
+			{famine}
+			{03003000}
+		Incendie
+			{fire}
+			{03004000}
+		Inondation
+			{flood}
+			{03005000}
+		Accident industriel
+			{industrial accident}
+			{03006000}
+			Effondrement
+				{structural failures}
+				{03006001}
+		Désastre météorologique
+			{meteorological disaster}
+			{03007000}
+			Tempête
+				{windstorms}
+				{03007001}
+		Accident nucléaire
+			{nuclear accident}
+			{03008000}
+		Pollution
+			{pollution}
+			{03009000}
+		Accident de transport
+			{transport accident}
+			{03010000}
+			Accident de la route
+				{road accident}
+				{03010001}
+			Accident de chemin de fer
+				{railway accident}
+				{03010002}
+			Accident dans l'air et l'espace
+				{air and space accident}
+				{03010003}
+			Accidents maritimes
+				{maritime accident}
+				{03010004}
+		éruption volcanique
+			{volcanic eruption}
+			{03011000}
+		ONG
+			{relief and aid organisation}
+			{03012000}
+		Accident
+			{accident (general)}
+			{03013000}
+		Situation d'urgence
+			{emergency incident}
+			{03014000}
+			Explosion
+				{explosion}
+				{03014001}
+		Désastre
+			{disaster (general)}
+			{03015000}
+			Catastrophe naturelle
+				{natural disasters}
+				{03015001}
+			Avalanche/Glissement de terrain
+				{avalanche/landslide}
+				{03015002}
+		Prévention et organisation des secours
+			{emergency planning}
+			{03016000}
+		Sauvetage
+			{rescue}
+			{03017000}
+	Economie et finances
+		{economy business and finance}
+		{04000000}
+		Agriculture
+			{agriculture}
+			{04001000}
+			Cultures
+				{arable farming}
+				{04001001}
+			Pêche
+				{fishing industry}
+				{04001002}
+			Exploitation forestière
+				{forestry and timber}
+				{04001003}
+			élevage
+				{livestock farming}
+				{04001004}
+			Viticulture
+				{viniculture}
+				{04001005}
+			Aquaculture
+				{aquaculture}
+				{04001006}
+		Chimie
+			{chemicals}
+			{04002000}
+			Biotechnologie
+				{biotechnology}
+				{04002001}
+			Engrais
+				{fertiliser}
+				{04002002}
+			Hygiène et Cosmétiques
+				{health and beauty product}
+				{04002003}
+			Chimie inorganique
+				{inorganic chemical}
+				{04002004}
+			Chimie organique
+				{organic chemical}
+				{04002005}
+			Pharmacie
+				{pharmaceutical}
+				{04002006}
+			Plastiques et synthétiques
+				{synthetic and plastic}
+				{04002007}
+		Informatique et technologie de l'information
+			{computing and information technology}
+			{04003000}
+			Matériel informatique
+				{hardware}
+				{04003001}
+			Réseaux et télécommunications
+				{networking}
+				{04003002}
+			Satellites
+				{satellite technology}
+				{04003003}
+			Semiconducteurs
+				{semiconductors and active components}
+				{04003004}
+			Logiciels
+				{software}
+				{04003005}
+			équipement de télécommunication
+				{telecommunication equipment}
+				{04003006}
+			Services télécoms
+				{telecommunication service}
+				{04003007}
+			Sécurité
+				{security}
+				{04003008}
+			Technologie sans-fil
+				{wireless technology}
+				{04003009}
+		équipement et immobilier
+			{construction and property}
+			{04004000}
+			Travaux Publics
+				{heavy construction}
+				{04004001}
+			Bâtiment
+				{house building}
+				{04004002}
+			Immobilier
+				{real estate}
+				{04004003}
+			Exploitations agricoles
+				{farms}
+				{04004004}
+			Foncier
+				{land price}
+				{04004005}
+			Rénovation
+				{renovation}
+				{04004006}
+			Design et ingénierie
+				{design and engineering}
+				{04004007}
+		énergie et ressources
+			{energy and resource}
+			{04005000}
+			énergies alternatives
+				{alternative energy}
+				{04005001}
+			Charbon
+				{coal}
+				{04005002}
+			Pétrole et gaz
+				{oil and gas - downstream activities}
+				{04005003}
+			Pétrole et gaz
+				{oil and gas - upstream activities}
+				{04005004}
+			énergie nucléaire
+				{nuclear power}
+				{04005005}
+			électricité
+				{electricity production and distribution}
+				{04005006}
+			Traitement des déchets
+				{waste management and pollution control}
+				{04005007}
+			Alimentation en eau
+				{water supply}
+				{04005008}
+			Ressources naturelles
+				{natural resources (general)}
+				{04005009}
+			énergie
+				{energy (general)}
+				{04005010}
+			Gaz naturel
+				{natural gas}
+				{04005011}
+			Essence
+				{petrol}
+				{04005012}
+			Carburant diesel
+				{diesel fuel}
+				{04005013}
+			Kérosène
+				{kerosene/paraffin}
+				{04005014}
+		Services financiers
+			{financial and business service}
+			{04006000}
+			Comptabilité et Audit
+				{accountancy and auditing}
+				{04006001}
+			Banque
+				{banking}
+				{04006002}
+			Consultants
+				{consultancy service}
+				{04006003}
+			Agence pour l'emploi
+				{employment agency}
+				{04006004}
+			Services de santé
+				{healthcare provider}
+				{04006005}
+			Assurances
+				{insurance}
+				{04006006}
+			Service juridique
+				{legal service}
+				{04006007}
+			études de marché
+				{market research}
+				{04006008}
+			Courtage d'actions
+				{stock broking}
+				{04006009}
+			Placements personnels
+				{personal investing}
+				{04006010}
+			Tendance du marché
+				{market trend}
+				{04006011}
+			Sociétés de tansport
+				{shipping service}
+				{04006012}
+			Soins de beauté
+				{personal service}
+				{04006013}
+			Sociétés d'entretien
+				{janitorial service}
+				{04006014}
+			Pompes funèbres
+				{funeral parlour and crematorium}
+				{04006015}
+			Sociétés de location
+				{rental service}
+				{04006016}
+			Services matrimoniaux
+				{wedding service}
+				{04006017}
+			épargne personnelle
+				{personal finance}
+				{04006018}
+			Revenus personnels
+				{personal income}
+				{04006019}
+			Ventes anx enchères
+				{auction service}
+				{04006020}
+			Reprographie
+				{printing/promotional service}
+				{04006021}
+			Conseillers financiers
+				{investment service}
+				{04006022}
+		Distribution
+			{consumer goods}
+			{04007000}
+			Habillement
+				{clothing}
+				{04007001}
+			Grands magasins
+				{department store}
+				{04007002}
+			Alimentation
+				{food}
+				{04007003}
+			Vente par correspondance
+				{mail order}
+				{04007004}
+			Commerce de détail
+				{retail}
+				{04007005}
+			Commerce spécialisé
+				{speciality store}
+				{04007006}
+			Grossistes
+				{wholesale}
+				{04007007}
+			Distribution de boissons
+				{beverage}
+				{04007008}
+			Commerce électronique
+				{electronic commerce}
+				{04007009}
+			Commerce de luxe
+				{luxury good}
+				{04007010}
+			Biens de consommation
+				{non-durable good}
+				{04007011}
+			Jouets
+				{toy}
+				{04007012}
+		Macro économie
+			{macro economics}
+			{04008000}
+			Banques centrales
+				{central bank}
+				{04008001}
+			Consommation
+				{consumer issue}
+				{04008002}
+			Marché obligataire
+				{debt market}
+				{04008003}
+			Indicateurs économiques
+				{economic indicator}
+				{04008004}
+			Pays émergents
+				{emerging market}
+				{04008005}
+			Marché des changes
+				{foreign exchange market}
+				{04008006}
+			Aide publique
+				{government aid}
+				{04008007}
+			Dette publique
+				{government debt}
+				{04008008}
+			Taux d'intérêts
+				{interest rate}
+				{04008009}
+			Institutions économiques internationales
+				{international economic institution}
+				{04008010}
+			Commerce International
+				{international (foreign) trade}
+				{04008011}
+			Financement
+				{loan market}
+				{04008012}
+			Organisations économiques
+				{economic organization}
+				{04008013}
+			Confiance des consommateurs
+				{consumer confidence}
+				{04008014}
+			Conflit commercial
+				{trade dispute}
+				{04008015}
+			Inflation et déflation
+				{inflation and deflation}
+				{04008016}
+			Prix
+				{prices}
+				{04008017}
+			Changes
+				{currency values}
+				{04008018}
+			Budget
+				{budgets and budgeting}
+				{04008019}
+			Crédit
+				{credit and debt}
+				{04008020}
+			Prêts
+				{loans}
+				{04008021}
+			Emprunts immobiliers
+				{mortgages}
+				{04008022}
+			Marchés financiers
+				{financial markets}
+				{04008023}
+			Marchés des matières premières
+				{commodity markets}
+				{04008024}
+			Investissements
+				{investments}
+				{04008025}
+			Parts de société
+				{stocks}
+				{04008026}
+			Obligations
+				{bonds}
+				{04008027}
+			Fonds d'investissement
+				{mutual funds}
+				{04008028}
+			Produits dérivés
+				{derivative securities}
+				{04008029}
+			Importations
+				{imports}
+				{04008030}
+			Exportations
+				{exports}
+				{04008031}
+			Accords commerciaux
+				{trade agreements}
+				{04008032}
+			Politique commerciale
+				{trade policy}
+				{04008033}
+			Entrepises
+				{business enterprises}
+				{04008034}
+			Droits de douane
+				{tariff}
+				{04008035}
+			Balance commerciale
+				{trade balance}
+				{04008036}
+		Marchés
+			{market and exchange}
+			{04009000}
+			Marché énergie
+				{energy}
+				{04009001}
+			Métaux
+				{metal}
+				{04009002}
+			Bourse
+				{securities}
+				{04009003}
+			Denrées
+				{soft commodity}
+				{04009004}
+		Médias
+			{media}
+			{04010000}
+			Publicité
+				{advertising}
+				{04010001}
+			édition
+				{book}
+				{04010002}
+			Cinéma
+				{cinema industry}
+				{04010003}
+			Agences de presse
+				{news agency}
+				{04010004}
+			Journaux et périodiques
+				{newspaper and magazine}
+				{04010005}
+			Services en ligne
+				{online}
+				{04010006}
+			Relations publiques
+				{public relation}
+				{04010007}
+			Industrie de la Radio
+				{radio industry}
+				{04010008}
+			Câble et satellite
+				{satellite and cable service}
+				{04010009}
+			Industrie de la télévision
+				{television industry}
+				{04010010}
+			Industrie musicale
+				{music industry}
+				{04010011}
+		Industries métallurgiques et mécaniques
+			{manufacturing and engineering}
+			{04011000}
+			Industrie aéronautique et de l' espace
+				{aerospace}
+				{04011001}
+			Industrie automobile
+				{automotive equipment}
+				{04011002}
+			Industrie de défense
+				{defence equipment}
+				{04011003}
+			équipement électrique
+				{electrical appliance}
+				{04011004}
+			Mécanique lourde
+				{heavy engineering}
+				{04011005}
+			Composants industriels
+				{industrial component}
+				{04011006}
+			contrôle et mesure
+				{instrument engineering}
+				{04011007}
+			Construction navale
+				{shipbuilding}
+				{04011008}
+			Machine outil
+				{machine manufacturing}
+				{04011009}
+		Métaux et minéraux
+			{metal and mineral}
+			{04012000}
+			Matériaux de construction
+				{building material}
+				{04012001}
+			Or et métaux précieux
+				{gold and precious material}
+				{04012002}
+			Sidérurgie
+				{iron and steel}
+				{04012003}
+			Métaux non ferreux
+				{non ferrous metal}
+				{04012004}
+			Mines
+				{mining}
+				{04012005}
+		Industries de transformation
+			{process industry}
+			{04013000}
+			Boissons alcoolisées
+				{distiller and brewer}
+				{04013001}
+			Alimentation
+				{food}
+				{04013002}
+			Meubles et décoration
+				{furnishings and furniture}
+				{04013003}
+			Papier et emballage
+				{paper and packaging product}
+				{04013004}
+			Caoutchouc
+				{rubber product}
+				{04013005}
+			Boissons non alcoolisées
+				{soft drinks}
+				{04013006}
+			Textile
+				{textile and clothing}
+				{04013007}
+			Tabac
+				{tobacco}
+				{04013008}
+		Tourisme et loisirs
+			{tourism and leisure}
+			{04014000}
+			Casinos
+				{casino and gambling}
+				{04014001}
+			Hotellerie
+				{hotel and accommodation}
+				{04014002}
+			Articles de sport et plein air
+				{recreational and sporting goods}
+				{04014003}
+			Restauration
+				{restaurant and catering}
+				{04014004}
+			Voyagistes
+				{tour operator}
+				{04014005}
+		Industrie de transport
+			{transport}
+			{04015000}
+			Transport aérien
+				{air transport}
+				{04015001}
+			Transport ferroviaire
+				{railway}
+				{04015002}
+			Transport routier
+				{road transport}
+				{04015003}
+			Transport fluvial et maritime
+				{waterway and maritime transport}
+				{04015004}
+		Vie des sociétés
+			{company information}
+			{04016000}
+			Comptabilité et audit
+				{accounting and audit}
+				{04016001}
+			Assemblées générales
+				{annual and special corporate meeting}
+				{04016002}
+			Rapports annuels
+				{annual report}
+				{04016003}
+			Problèmes de concurrence
+				{antitrust issue}
+				{04016004}
+			Fusions-acquisitions
+				{merger acquisition and takeover}
+				{04016005}
+			Commentaires d'analystes
+				{analysts' comment}
+				{04016006}
+			Défaillances d'entreprise
+				{bankruptcy}
+				{04016007}
+			Carnet des entreprises
+				{board of directors (appointment and change)}
+				{04016008}
+			Rachats d'actions
+				{buyback}
+				{04016009}
+			Interviews de dirigeants
+				{C.E.O. interview}
+				{04016010}
+			Dirigeants
+				{corporate officer}
+				{04016011}
+			Portraits d'entreprises
+				{corporate profile}
+				{04016012}
+			Contrats
+				{contract}
+				{04016013}
+			Contrats militaires
+				{defence contract}
+				{04016014}
+			Dividendes
+				{dividend announcement}
+				{04016015}
+			Prévisions de résultats
+				{earnings forecast}
+				{04016016}
+			Entreprise en difficulté
+				{financially distressed company}
+				{04016017}
+			Résultats
+				{earnings}
+				{04016018}
+			Introduction en bourse
+				{financing and stock offering}
+				{04016019}
+			Contrats publics
+				{government contract}
+				{04016020}
+			Développement international
+				{global expansion}
+				{04016021}
+			Délits d'initiés
+				{insider trading}
+				{04016022}
+			Entreprise en participation
+				{joint venture}
+				{04016023}
+			Rachats d'entreprises
+				{leveraged buyout}
+				{04016024}
+			Restructurations
+				{layoffs and downsizing}
+				{04016025}
+			Accords de licence
+				{licensing agreement}
+				{04016026}
+			Contentieux
+				{litigation and regulation}
+				{04016027}
+			Modification de l'organigramme
+				{management change}
+				{04016028}
+			Marketing
+				{marketing}
+				{04016029}
+			Nouveaux produits
+				{new product}
+				{04016030}
+			Patentes et brevets
+				{patent copyright and trademark}
+				{04016031}
+			Fermetures d'usines
+				{plant closing}
+				{04016032}
+			Ouvertures d'usines
+				{plant opening}
+				{04016033}
+			Privatisations
+				{privatisation}
+				{04016034}
+			Procurations
+				{proxy filing}
+				{04016035}
+			Indice et classement
+				{rating}
+				{04016036}
+			Recherche et developpement
+				{research and development}
+				{04016037}
+			Comptes trimestriels et semestriels
+				{quarterly or semiannual financial statement}
+				{04016038}
+			Recapitalisation
+				{restructuring and recapitalisation}
+				{04016039}
+			Essaimage
+				{spin-off}
+				{04016040}
+			Activité du titre
+				{stock activity}
+				{04016041}
+			Production industrielle
+				{industrial production}
+				{04016042}
+			Productivité
+				{productivity}
+				{04016043}
+			Stocks
+				{inventories}
+				{04016044}
+			Ventes
+				{sales}
+				{04016045}
+			Personne morale
+				{corporations}
+				{04016046}
+			Actionnaire
+				{shareholders}
+				{04016047}
+			Performance des entreprises
+				{corporate performance}
+				{04016048}
+			Pertes
+				{losses}
+				{04016049}
+			Degré de solvabilité
+				{credit ratings}
+				{04016050}
+			échanges d'actions
+				{stock splits}
+				{04016051}
+			Options sur titres
+				{stock options}
+				{04016052}
+			Echanges de marchandises
+				{recalls (products)}
+				{04016053}
+			Mondialisation
+				{globalization}
+				{04016054}
+			Consommateurs
+				{consumers}
+				{04016055}
+			Achat
+				{purchase}
+				{04016056}
+			Nouvelle activité
+				{new service}
+				{04016057}
+		économie
+			{economy (general)}
+			{04017000}
+			Politique économique
+				{economic policy}
+				{04017001}
+		Affaires
+			{business (general)}
+			{04018000}
+			Institution
+				{institution}
+				{04018001}
+		Finances
+			{finance (general)}
+			{04019000}
+			Politique monétaire
+				{money and monetary policy}
+				{04019001}
+	Education
+		{education}
+		{05000000}
+		Formation permanente
+			{adult education}
+			{05001000}
+		Enseignement post-scolaire
+			{further education}
+			{05002000}
+		Parents d'élèves
+			{parent organisation}
+			{05003000}
+		Préscolaire
+			{preschool}
+			{05004000}
+		écoles collèges lycées
+			{school}
+			{05005000}
+			école primaire
+				{elementary schools}
+				{05005001}
+			Collège
+				{middle schools}
+				{05005002}
+			Lycées
+				{high schools}
+				{05005003}
+		Syndicats d'enseignants
+			{teachers union}
+			{05006000}
+		Université
+			{university}
+			{05007000}
+		éducation en général
+			{upbringing}
+			{05008000}
+		Examen ou concours d'entrée
+			{entrance examination}
+			{05009000}
+		Pédagogie
+			{teaching and learning}
+			{05010000}
+			étudiants
+				{students}
+				{05010001}
+			Enseignants
+				{teachers}
+				{05010002}
+			Programmes d'étude
+				{curriculum}
+				{05010003}
+			Examen
+				{test/examination}
+				{05010004}
+		Education religieuse
+			{religious education}
+			{05011000}
+			Ecole catholique
+				{parochial school}
+				{05011001}
+			Séminaire
+				{seminary}
+				{05011002}
+			Yeshiva
+				{yeshiva}
+				{05011003}
+			Ecole coranique
+				{madrasa}
+				{05011004}
+	Environnement
+		{environmental issue}
+		{06000000}
+		énergies alternatives
+			{renewable energy}
+			{06001000}
+		Protection de la nature
+			{conservation}
+			{06002000}
+			Espèce menacée
+				{endangered species}
+				{06002001}
+			Ecosystème
+				{ecosystem}
+				{06002002}
+		économies d'énergie
+			{energy saving}
+			{06003000}
+		Politique de l'environnement
+			{environmental politics}
+			{06004000}
+		Pollution de l'environnement
+			{environmental pollution}
+			{06005000}
+			Pollution de l'air
+				{air pollution}
+				{06005001}
+			Pollution de l'eau
+				{water pollution}
+				{06005002}
+		Ressources naturelles
+			{natural resources}
+			{06006000}
+			Réserve naturelle
+				{land resources}
+				{06006001}
+			Parcs naturels
+				{parks}
+				{06006002}
+			Forêts
+				{forests}
+				{06006003}
+			Marais
+				{wetlands}
+				{06006004}
+			Montagnes
+				{mountains}
+				{06006005}
+			Rivières
+				{rivers}
+				{06006006}
+			Océans
+				{oceans}
+				{06006007}
+			Animaux sauvages
+				{wildlife}
+				{06006008}
+			Energie
+				{energy resources}
+				{06006009}
+		Nature
+			{nature}
+			{06007000}
+			Espèces envahissantes
+				{invasive species}
+				{06007001}
+			Population
+				{population}
+				{06008000}
+			Déchets
+				{waste}
+				{06009000}
+			Distribution de l'eau
+				{water}
+				{06010000}
+			Alerte à la pollution
+				{global warming}
+				{06011000}
+			Matières dangereuses
+				{hazardous materials}
+				{06012000}
+			Dépollution
+				{environmental cleanup}
+				{06013000}
+	Santé
+		{health}
+		{07000000}
+		Maladies
+			{disease}
+			{07001000}
+			Maladies contagieuses
+				{communicable diseases}
+				{07001001}
+			Maladie virale
+				{virus diseases}
+				{07001002}
+			SIDA
+				{AIDS}
+				{07001003}
+			Cancer
+				{cancer}
+				{07001004}
+			Maladie cardiaque
+				{heart disease}
+				{07001005}
+			Alzheimer
+				{alzheimer's disease}
+				{07001006}
+			Maladie animale
+				{animal diseases}
+				{07001007}
+			Maladie végétale
+				{plant diseases}
+				{07001008}
+			Retrovirus
+				{retrovirus}
+				{07001009}
+		épidémie
+			{epidemic and plague}
+			{07002000}
+		Traitements
+			{health treatment}
+			{07003000}
+			Prescription médicale
+				{prescription drugs}
+				{07003001}
+			Compléments nutritifs
+				{dietary supplements}
+				{07003002}
+			Régime
+				{diet}
+				{07003003}
+			Protocole médical
+				{medical procedure/test}
+				{07003004}
+			Thérapie
+				{therapy}
+				{07003005}
+		Organisations de santé
+			{health organisations}
+			{07004000}
+		Recherche médicale
+			{medical research}
+			{07005000}
+		Personnel médical
+			{medical staff}
+			{07006000}
+			Médecin généraliste
+				{primary care physician}
+				{07006001}
+			Syndicats des travailleurs de santé
+				{health-workers union}
+				{07006002}
+		Médicaments
+			{medicine}
+			{07007000}
+			Phytothérapie
+				{herbal}
+				{07007001}
+			Médecine holistique
+				{holistic}
+				{07007002}
+			Médecine occidentale
+				{western}
+				{07007003}
+			Médecine traditionnelle chinoise
+				{traditional Chinese}
+				{07007004}
+		Médecine préventive
+			{preventative medicine}
+			{07008000}
+			Vaccins
+				{vaccines}
+				{07008001}
+		Blessures
+			{injury}
+			{07009000}
+		Hôpitaux et cliniques
+			{hospital and clinic}
+			{07010000}
+		Santé publique
+			{government health care}
+			{07011000}
+			Medicare
+				{medicare}
+				{07011001}
+			Medicaid
+				{medicaid}
+				{07011002}
+		Assurances médicales
+			{private health care}
+			{07012000}
+		Politique de santé
+			{healthcare policy}
+			{07013000}
+			Sûreté alimenatire
+				{food safety}
+				{07013001}
+		Spécialisations médicales
+			{medical specialisation}
+			{07014000}
+			Gériatrie
+				{geriatric}
+				{07014001}
+			Pédiatrie
+				{pediatrics}
+				{07014002}
+			Reproduction
+				{reproduction}
+				{07014003}
+			Génétique
+				{genetics}
+				{07014004}
+			Gynécologie
+				{obstetrics/gynecology}
+				{07014005}
+		Examens médicaux
+			{medical service}
+			{07015000}
+		Etat physique
+			{physical fitness}
+			{07016000}
+		Maladie
+			{illness}
+			{07017000}
+			Maladie mentale
+				{mental illness}
+				{07017001}
+			Troubles alimentaires
+				{eating disorder}
+				{07017002}
+			Obésité
+				{obesity}
+				{07017003}
+		Etat de santé
+			{medical conditions}
+			{07018000}
+		Patient
+			{patient}
+			{07019000}
+	Centres d'intérêts
+		{human interest}
+		{08000000}
+		Animaux
+			{animal}
+			{08001000}
+		Insolite
+			{curiosity}
+			{08002000}
+		Gens
+			{people}
+			{08003000}
+			Conseil recettes
+				{advice}
+				{08003001}
+			Célébrités
+				{celebrity}
+				{08003002}
+			Succès
+				{accomplishment}
+				{08003003}
+			Mésaventures
+				{human mishap}
+				{08003004}
+			Bonne aventure
+				{fortune-telling}
+				{08003005}
+		ésotérisme
+			{mystery}
+			{08004000}
+		Mondanités
+			{society}
+			{08005000}
+			Cérémonie
+				{ceremony}
+				{08005001}
+			Mort
+				{death}
+				{08005002}
+			Funérailles
+				{funeral}
+				{08005003}
+			Don immobillier
+				{estate bestowal}
+				{08005004}
+			Mémorial
+				{memorial}
+				{08005005}
+		Prix et récompenses
+			{award and prize}
+			{08006000}
+			Record
+				{record}
+				{08006001}
+		Royauté
+			{imperial and royal matters}
+			{08007000}
+		Usine
+			{plant}
+			{08008000}
+	Travail
+		{labour}
+		{09000000}
+		Apprentissage
+			{apprentices}
+			{09001000}
+		Convention collective
+			{collective contract}
+			{09002000}
+			Accords salariaux
+				{contract issue-wages}
+				{09002001}
+			Assurance sociale privée
+				{contract issue-healthcare}
+				{09002002}
+			Règlement intérieur d'entreprises
+				{contract issue-work rules}
+				{09002003}
+		Emploi
+			{employment}
+			{09003000}
+			Marché du travail
+				{labor market}
+				{09003001}
+			Plan social
+				{job layoffs}
+				{09003002}
+			Travail des enfants
+				{child labor}
+				{09003003}
+			Profession
+				{occupations}
+				{09003004}
+		Conditions de travail
+			{labour dispute}
+			{09004000}
+		Législation du travail
+			{labour legislation}
+			{09005000}
+		Retraite
+			{retirement}
+			{09006000}
+		Reconversion
+			{retraining}
+			{09007000}
+		Grèves
+			{strike}
+			{09008000}
+		Chômage
+			{unemployment}
+			{09009000}
+		Syndicats
+			{unions}
+			{09010000}
+		Salaire brut
+			{wage and pension}
+			{09011000}
+			Allocations sociales
+				{employee benefits}
+				{09011001}
+			Cotisations Vieillesse
+				{social security}
+				{09011002}
+		Relations du travail
+			{work relations}
+			{09012000}
+		Règles de sécurité au travail
+			{health and safety at work}
+			{09013000}
+		Formation continue
+			{advanced training}
+			{09014000}
+		Employeurs
+			{employer}
+			{09015000}
+		Personnel
+			{employee}
+			{09016000}
+	Vie quotidienne et loisirs
+		{lifestyle and leisure}
+		{10000000}
+		Jeux
+			{game}
+			{10001000}
+			Jeu de Go
+				{Go}
+				{10001001}
+			échecs
+				{chess}
+				{10001002}
+			Bridge
+				{bridge}
+				{10001003}
+			Shogi
+				{shogi}
+				{10001004}
+		Jeux de hasard et loteries
+			{gaming and lottery}
+			{10002000}
+		Gastronomie
+			{gastronomy}
+			{10003000}
+			Aliments biologiques
+				{organic foods}
+				{10003001}
+		Violons d'Ingres
+			{hobby}
+			{10004000}
+			Loisirs créatifs
+				{DIY}
+				{10004001}
+			Shopping
+				{shopping}
+				{10004002}
+			Jardinage
+				{gardening}
+				{10004003}
+		Vacances
+			{holiday or vacation}
+			{10005000}
+		Tourisme
+			{tourism}
+			{10006000}
+		Voyage et transport quotidien
+			{travel and commuting}
+			{10007000}
+			Information routière
+				{traffic}
+				{10007001}
+			Associations et clubs
+				{club and association}
+				{10008000}
+		Vie quotidienne
+			{lifestyle (house and home)}
+			{10009000}
+		Loisirs
+			{leisure (general)}
+			{10010000}
+		Jour férié
+			{public holiday}
+			{10011000}
+		Chasse
+			{hunting}
+			{10012000}
+		Pêche
+			{fishing}
+			{10013000}
+		Evolution de l'automobile
+			{auto trends}
+			{10014000}
+		Aventure
+			{adventure}
+			{10015000}
+		Beauté
+			{beauty}
+			{10016000}
+		Consommateurs
+			{consumer issue}
+			{10017000}
+		Mariage
+			{wedding}
+			{10018000}
+	Politique
+		{politics}
+		{11000000}
+		Défense
+			{defence}
+			{11001000}
+			Anciens combattants
+				{veterans affairs}
+				{11001001}
+			Sécurité nationale
+				{national security}
+				{11001002}
+			Mesures de sécurité
+				{security measures}
+				{11001003}
+			Forces armées
+				{armed Forces}
+				{11001004}
+			équipement militaire
+				{military equipment}
+				{11001005}
+			Armes à feu
+				{firearms}
+				{11001006}
+			Armes biologiques et chimiques
+				{biological and chemical weapons}
+				{11001007}
+			Systèmes de missiles
+				{missile systems}
+				{11001008}
+			Arme nucléaire
+				{nuclear weapons}
+				{11001009}
+		Diplomatie
+			{diplomacy}
+			{11002000}
+			Sommet
+				{summit}
+				{11002001}
+			Relations internationales
+				{international relations}
+				{11002002}
+			Négociations de paix
+				{peace negotiations}
+				{11002003}
+			Alliances
+				{alliances}
+				{11002004}
+		élections
+			{election}
+			{11003000}
+			Candidats
+				{political candidates}
+				{11003001}
+			Campagne électorale
+				{political campaigns}
+				{11003002}
+			Financement de campagne
+				{campaign finance}
+				{11003003}
+			Elections nationales
+				{national elections}
+				{11003004}
+			Elections régionales
+				{regional elections}
+				{11003005}
+			Elections locales
+				{local elections}
+				{11003006}
+			Opération de vote
+				{voting}
+				{11003007}
+			Sondage
+				{poll}
+				{11003008}
+			Elections européennes
+				{european elections}
+				{11003009}
+			Elections primaires
+				{primary}
+				{11003010}
+		Espionnage
+			{espionage and intelligence}
+			{11004000}
+		Aide internationale
+			{foreign aid}
+			{11005000}
+			Sanction économique
+				{economic sanction}
+				{11005001}
+		Gouvernement
+			{government}
+			{11006000}
+			Service public
+				{civil and public service}
+				{11006001}
+			Sécurité publique
+				{safety of citizens}
+				{11006002}
+			Experts
+				{think tank}
+				{11006003}
+			Gouvernement national
+				{national government}
+				{11006004}
+			Pouvoir exécutif
+				{executive (government)}
+				{11006005}
+			Chef de l'Etat
+				{heads of state}
+				{11006006}
+			Ministère
+				{government departments}
+				{11006007}
+			Hauts fonctionnaires
+				{public officials}
+				{11006008}
+			Ministres
+				{ministers (government)}
+				{11006009}
+			Fonctionnaires
+				{public employees}
+				{11006010}
+			Privatisation
+				{privatisation}
+				{11006011}
+			Nationalisation
+				{nationalisation}
+				{11006012}
+			Procédure de destitution
+				{impeachment}
+				{11006013}
+		Droits de l'homme
+			{human rights}
+			{11007000}
+		Institutions locales
+			{local authority}
+			{11008000}
+		Parlement
+			{parliament}
+			{11009000}
+			Chambre haute
+				{upper house}
+				{11009001}
+			Chambre basse
+				{lower house}
+				{11009002}
+		Partis politiques
+			{parties and movements}
+			{11010000}
+			ONG
+				{non government organizations (NGO)}
+				{11010001}
+		Réfugiés
+			{refugee}
+			{11011000}
+		Institutions régionales
+			{regional authority}
+			{11012000}
+		Budget de l'Etat et impôts
+			{state budget and tax}
+			{11013000}
+			Finances publiques
+				{public finance}
+				{11013001}
+		Traités et organisations internationales
+			{treaty and international organisation-DEPRECATED}
+			{11014000}
+			Relations internationales
+				{international relations-DEPRECATED}
+				{11014001}
+			Négociations de paix
+				{peace negotiations-DEPRECATED}
+				{11014002}
+			Alliances
+				{alliances-DEPRECATED}
+				{11014003}
+		Constitution
+			{constitution}
+			{11015000}
+		Politique Intérieure
+			{interior policy}
+			{11016000}
+			Confidentialité des données
+				{data protection}
+				{11016001}
+			Urbanisme
+				{housing and urban planning}
+				{11016002}
+			Assistance sociale
+				{pension and welfare}
+				{11016003}
+			Contrôle des armes personnelles
+				{personal weapon control}
+				{11016004}
+			Autochtones
+				{indigenous people}
+				{11016005}
+			Données personnelles
+				{personal data collection}
+				{11016006}
+			Enquête d'utilité publique
+				{planning inquiries}
+				{11016007}
+		Migrations
+			{migration}
+			{11017000}
+		Initative populaire
+			{citizens initiative and recall}
+			{11018000}
+		Référendum
+			{referenda}
+			{11019000}
+		Politique Nucléaire
+			{nuclear policy}
+			{11020000}
+		Groupe de pression
+			{lobbying}
+			{11021000}
+		Médiateur
+			{regulatory policy and organisation}
+			{11022000}
+		Censure
+			{censorship}
+			{11023000}
+		Politique
+			{politics (general)}
+			{11024000}
+			Systèmes politiques
+				{political systems}
+				{11024001}
+			Démocratie
+				{democracy}
+				{11024002}
+			Histoire politique
+				{political development}
+				{11024003}
+		Liberté de la presse
+			{freedom of the press}
+			{11025000}
+		Liberté de culte
+			{freedom of religion}
+			{11026000}
+		Traité
+			{treaty}
+			{11027000}
+		Organisation internationale
+			{international organisation}
+			{11028000}
+	Religion et croyance
+		{religion and belief}
+		{12000000}
+		Cultes et sectes
+			{cult and sect}
+			{12001000}
+		Croyances
+			{belief (faith)}
+			{12002000}
+			Église de l'Unification
+				{unificationism}
+				{12002001}
+			Scientologie
+				{scientology}
+				{12002002}
+		Franc-maçonnerie
+			{freemasonry}
+			{12003000}
+		Religion-DEPRECATED
+			{religion-DEPRECATED}
+			{12004000}
+			Christianisme-DEPRECATED
+				{christianity-DEPRECATED}
+				{12004001}
+			Musulman-DEPRECATED
+				{islam-DEPRECATED}
+				{12004002}
+			Judaïsme-DEPRECATED
+				{judaism-DEPRECATED}
+				{12004003}
+			Boudhisme-DEPRECATED
+				{buddhism-DEPRECATED}
+				{12004004}
+			Hindouisme-DEPRECATED
+				{hinduism-DEPRECATED}
+				{12004005}
+		église-DEPRECATED
+			{church (organisation)-DEPRECATED}
+			{12005000}
+			établissement religieux-DEPRECATED
+				{religious facilities-DEPRECATED}
+				{12005001}
+		Valeurs
+			{values}
+			{12006000}
+			éthique
+				{ethics}
+				{12006001}
+			Corruption
+				{corrupt practices}
+				{12006002}
+		Relations entre l'église et l'Etat
+			{church and state relations}
+			{12007000}
+		Philosophie
+			{philosophy}
+			{12008000}
+		Christianisme
+			{christianity}
+			{12009000}
+			Protestantisme
+				{protestant}
+				{12009001}
+			Luthérianisme
+				{lutheran}
+				{12009002}
+			Calvinisme
+				{reformed}
+				{12009003}
+			Anglicanisme
+				{anglican}
+				{12009004}
+			Méthodisme
+				{methodist}
+				{12009005}
+			Eglise Baptiste
+				{baptist}
+				{12009006}
+			Mennonisme
+				{mennonite}
+				{12009007}
+			Mormon
+				{mormon}
+				{12009009}
+			Catholicisme romain
+				{roman catholic}
+				{12009010}
+			Vieux Catholique
+				{old catholic}
+				{12009011}
+			Orthodoxie
+				{orthodoxy}
+				{12009012}
+			Armée du Salut
+				{salvation army}
+				{12009013}
+		Islam
+			{islam}
+			{12010000}
+		Judaïsme
+			{judaism}
+			{12011000}
+		Bouddhisme
+			{buddhism}
+			{12012000}
+		Hindouisme
+			{hinduism}
+			{12013000}
+		Fête religieuse
+			{religious festival or holiday}
+			{12014000}
+			Noël
+				{christmas}
+				{12014001}
+			Pâques
+				{easter}
+				{12014002}
+			Pentecôte
+				{pentecost}
+				{12014003}
+			Ramadan
+				{ramadan}
+				{12014004}
+			Yom Kippour
+				{yom kippur}
+				{12014005}
+		Chefs religieux
+			{religious leader}
+			{12015000}
+			Pape
+				{pope}
+				{12015001}
+		Animisme
+			{nature religion}
+			{12016000}
+		Taoïsme
+			{taoism}
+			{12017000}
+		Shintoïsme
+			{shintoism}
+			{12018000}
+		Sikhisme
+			{sikhism}
+			{12019000}
+		Jaïnisme
+			{jainism}
+			{12020000}
+		Parsasm
+			{parsasm}
+			{12021000}
+		Confucianisme
+			{confucianism}
+			{12022000}
+		Textes religieux
+			{religious text}
+			{12023000}
+			Bible
+				{bible}
+				{12023001}
+			Coran
+				{qur'an}
+				{12023002}
+			Torah
+				{torah}
+				{12023003}
+		Dialogue interreligieux
+			{interreligious dialogue}
+			{12024000}
+		Evénement religieux
+			{religious event}
+			{12025000}
+			Réunion catholique
+				{catholic convention}
+				{12025001}
+			Réunion protestante
+				{protestant convention}
+				{12025002}
+			Rituel
+				{ritual}
+				{12025004}
+		Concordat
+			{concordat}
+			{12026000}
+		Oecuménisme
+			{ecumenism}
+			{12027000}
+	Science et technologie
+		{science and technology}
+		{13000000}
+		Sciences appliquées
+			{applied science}
+			{13001000}
+			Physique
+				{physics}
+				{13001001}
+			Chimie
+				{chemistry}
+				{13001002}
+			Cosmologie
+				{cosmology}
+				{13001003}
+			Physique des particules
+				{particle physics}
+				{13001004}
+		Ingénierie
+			{engineering}
+			{13002000}
+			Science des matériaux
+				{material science}
+				{13002001}
+		Sciences humaines
+			{human science}
+			{13003000}
+			Sciences sociales
+				{social sciences}
+				{13003001}
+			Histoire
+				{history}
+				{13003002}
+			Psychologie
+				{psychology}
+				{13003003}
+			Sociologie
+				{sociology}
+				{13003004}
+			Anthropologie
+				{anthropology}
+				{13003005}
+		Sciences naturelles
+			{natural science}
+			{13004000}
+			Géologie
+				{geology}
+				{13004001}
+			Paléontologie
+				{paleontology}
+				{13004002}
+			Géographie
+				{geography}
+				{13004003}
+			Botanique
+				{botany}
+				{13004004}
+			Zoologie
+				{zoology}
+				{13004005}
+			Physiologie
+				{physiology}
+				{13004006}
+			Astronomie
+				{astronomy}
+				{13004007}
+			Biologie
+				{biology}
+				{13004008}
+		Philosophie des sciences
+			{philosophical science}
+			{13005000}
+		Recherche
+			{research}
+			{13006000}
+			Enquête sociologique
+				{survey}
+				{13006001}
+		Exploration scientifique
+			{scientific exploration}
+			{13007000}
+		Programmes spatiaux
+			{space programme}
+			{13008000}
+		Science
+			{science (general)}
+			{13009000}
+		Technologie
+			{technology (general)}
+			{13010000}
+			Fuséologie
+				{rocketry}
+				{13010001}
+			Laser
+				{laser}
+				{13010002}
+		Standards
+			{standards}
+			{13011000}
+		Zoologie
+			{animal science}
+			{13012000}
+		Science de l'infiniment petit
+			{micro science}
+			{13013000}
+		Océanographie
+			{marine science}
+			{13014000}
+		Climatologie
+			{weather science}
+			{13015000}
+		Electronique
+			{electronics}
+			{13016000}
+		Technologie de l'identification
+			{identification technology}
+			{13017000}
+		Mathématiques
+			{mathematics}
+			{13018000}
+		Biotechnologie
+			{biotechnology}
+			{13019000}
+		Agronomie
+			{agricultural research and technology}
+			{13020000}
+		Nanotechnologie
+			{nanotechnology}
+			{13021000}
+		Science de l'informatique
+			{IT/computer sciences}
+			{13022000}
+		Institutions scientifiques
+			{scientific institutions}
+			{13023000}
+	Société
+		{social issue}
+		{14000000}
+		Toxicomanie
+			{addiction}
+			{14001000}
+		Activités caritatives
+			{charity}
+			{14002000}
+		Démographie
+			{demographics}
+			{14003000}
+			Recensement
+				{population and census}
+				{14003001}
+			Immigration
+				{immigration}
+				{14003002}
+			Immigration clandestine
+				{illegal immigrants}
+				{14003003}
+			Emigrés
+				{emigrants}
+				{14003004}
+		Handicapés
+			{disabled}
+			{14004000}
+		Euthanasie
+			{euthanasia (also includes assisted suicide)}
+			{14005000}
+			Suicide
+				{suicide}
+				{14005001}
+		Famille
+			{family}
+			{14006000}
+			Relation parent-enfant
+				{parent and child}
+				{14006001}
+			Adoption
+				{adoption}
+				{14006002}
+			Mariage
+				{marriage}
+				{14006003}
+			Divorce
+				{divorce}
+				{14006004}
+			Sexualité
+				{sex}
+				{14006005}
+			Flirt
+				{courtship}
+				{14006006}
+		Contrôle des naissances
+			{family planning}
+			{14007000}
+		Assurance maladie
+			{health insurance}
+			{14008000}
+		Sans abris
+			{homelessness}
+			{14009000}
+		Minorités
+			{minority group}
+			{14010000}
+			Homosexualité
+				{gays and lesbians}
+				{14010001}
+			Minorité ethnique ou nationale
+				{national or ethnic minority}
+				{14010002}
+		Pornographie
+			{pornography}
+			{14011000}
+		Pauvreté
+			{poverty}
+			{14012000}
+		Prostitution
+			{prostitution}
+			{14013000}
+		Racisme
+			{racism}
+			{14014000}
+		Protection sociale
+			{welfare}
+			{14015000}
+		Avortement
+			{abortion}
+			{14016000}
+		Personnes disparues
+			{missing person}
+			{14017000}
+			Personnes disparues en temps de guerre
+				{missing due to hostilities}
+				{14017001}
+		Soins de longue durée
+			{long term care}
+			{14018000}
+		Délinquance juvénile
+			{juvenile delinquency}
+			{14019000}
+		victimes irradiées
+			{nuclear radiation victims}
+			{14020000}
+		Esclavage
+			{slavery}
+			{14021000}
+		Harcèlement
+			{abusive behaviour}
+			{14022000}
+		Fin de vie et mort
+			{death and dying}
+			{14023000}
+		Peuple
+			{people}
+			{14024000}
+			Enfants
+				{children}
+				{14024001}
+			Bébé
+				{infants}
+				{14024002}
+			Adolescent
+				{teen-agers}
+				{14024003}
+			Adultes
+				{adults}
+				{14024004}
+			Personnes âgées
+				{senior citizens}
+				{14024005}
+		Problèmes de société
+			{social issues (general)}
+			{14025000}
+			Condition sociale
+				{social conditions}
+				{14025001}
+			Problèmes sociaux
+				{social problems}
+				{14025002}
+			Discrimination
+				{discrimination}
+				{14025003}
+			Services sociaux
+				{social services}
+				{14025004}
+			Peine de mort
+				{death penalty policies}
+				{14025005}
+		Déminage
+			{ordnance clearance}
+			{14026000}
+		Reconstruction
+			{reconstruction}
+			{14027000}
+	Sport
+		{sport}
+		{15000000}
+		Sports aériens et d'aviation
+			{aero and aviation sport}
+			{15001000}
+			Parachutisme
+				{parachuting}
+				{15001001}
+			Chute libre
+				{sky diving}
+				{15001002}
+		Ski alpin
+			{alpine skiing}
+			{15002000}
+			Descente
+				{downhill}
+				{15002001}
+			Slalom Géant
+				{giant slalom}
+				{15002002}
+			Super-G
+				{super G}
+				{15002003}
+			Slalom
+				{slalom}
+				{15002004}
+			Combiné
+				{combined}
+				{15002005}
+		Football américain
+			{American football}
+			{15003000}
+			National Football League
+				{(US) National Football League (NFL) (North American)}
+				{15003001}
+			entry deleted
+				{CFL}
+				{15003002}
+			AFL
+				{AFL-DEPRECATED}
+				{15003003}
+		Tir à l'arc
+			{archery}
+			{15004000}
+			Style FITA
+				{FITA / Outdoor target archery}
+				{15004001}
+			Tir à l'arbalète
+				{crossbow shooting}
+				{15004002}
+		Athlétisme
+			{athletics track and field}
+			{15005000}
+			100m
+				{100 m}
+				{15005001}
+			200m
+				{200 m}
+				{15005002}
+			400m
+				{400 m}
+				{15005003}
+			800m
+				{800 m}
+				{15005004}
+			1000m
+				{1000 m}
+				{15005005}
+			1500m
+				{1500 m}
+				{15005006}
+			Mile
+				{mile}
+				{15005007}
+			2000m
+				{2000 m}
+				{15005008}
+			3000m
+				{3000 m}
+				{15005009}
+			5000m
+				{5000 m}
+				{15005010}
+			10000m
+				{10000 m}
+				{15005011}
+			20km
+				{20 km}
+				{15005012}
+			L'heure
+				{one hour}
+				{15005013}
+			25km
+				{25000}
+				{15005014}
+			30km
+				{30000}
+				{15005015}
+			110mhaies
+				{110 m hurdles}
+				{15005016}
+			400mhaies
+				{400 m hurdles}
+				{15005017}
+			3000m steeple
+				{3000 m steeplechase}
+				{15005018}
+			Saut en hauteur
+				{high jump}
+				{15005019}
+			Saut à la perche
+				{pole vault}
+				{15005020}
+			Saut en longueur
+				{long jump}
+				{15005021}
+			Triple saut
+				{triple jump}
+				{15005022}
+			Lancer du poids
+				{shot put}
+				{15005023}
+			Lancer du disque
+				{discus throw}
+				{15005024}
+			Lancer de marteau
+				{hammer throw}
+				{15005025}
+			Lancer de javelot
+				{javelin throw}
+				{15005026}
+			Decathlon
+				{decathlon}
+				{15005027}
+			Relais 4x100 m
+				{4x100 m}
+				{15005028}
+			Relais 4x200 m
+				{4x200 m}
+				{15005029}
+			Relais 4x400 m
+				{4x400 m}
+				{15005030}
+			Relais 4x800 m
+				{4x800 m}
+				{15005031}
+			Relais4x1500 m
+				{4x1500 m}
+				{15005032}
+			Marche 1h
+				{walk 1 h}
+				{15005033}
+			Marche 2h
+				{walk 2 h}
+				{15005034}
+			10km marche
+				{10 km walk}
+				{15005035}
+			15km marche
+				{15 km walk}
+				{15005036}
+			20km marche
+				{20 km walk}
+				{15005037}
+			30km marche
+				{30 km walk}
+				{15005038}
+			50km marche
+				{50 km walk}
+				{15005039}
+			100m haies
+				{100 m hurdles}
+				{15005040}
+			5 km marche
+				{5 km walk}
+				{15005041}
+			heptathlon
+				{heptathlon}
+				{15005042}
+			1500m marche
+				{1500 m walk}
+				{15005043}
+			2000m marche
+				{2000 m walk}
+				{15005044}
+			3000m marche
+				{3000 m walk}
+				{15005045}
+			50m
+				{50 m}
+				{15005046}
+			50m haies
+				{50 m hurdles}
+				{15005047}
+			50 yards
+				{50 yards}
+				{15005048}
+			50 yard haies
+				{50 yard hurdles}
+				{15005049}
+			60m
+				{60 m}
+				{15005050}
+			60m haies
+				{60 m hurdles}
+				{15005051}
+			60 yards
+				{60 yards}
+				{15005052}
+			60 yard haies
+				{60 yard hurdles}
+				{15005053}
+			100 yards
+				{100 yards}
+				{15005054}
+			100 yard haies
+				{100 yard hurdles}
+				{15005055}
+			300m
+				{300 m}
+				{15005056}
+			300 yards
+				{300 yards}
+				{15005057}
+			440 yards
+				{440 yards}
+				{15005058}
+			500m
+				{500 m}
+				{15005059}
+			500 yards
+				{500 yards}
+				{15005060}
+			600m
+				{600 m}
+				{15005061}
+			600 yards
+				{600 yards}
+				{15005062}
+			880 yards
+				{880 yards}
+				{15005063}
+			1000 yards
+				{1000 yards}
+				{15005064}
+			2 miles
+				{2 miles}
+				{15005065}
+			3 miles
+				{3 miles}
+				{15005066}
+			6 miles
+				{6 miles}
+				{15005067}
+			Relais 4x1 mile
+				{4x1 mile}
+				{15005068}
+			Pentathlon
+				{pentathlon}
+				{15005069}
+		Badminton
+			{badminton}
+			{15006000}
+		Base-ball
+			{baseball}
+			{15007000}
+			American League
+				{Major League Baseball (North American Professional) - American League}
+				{15007001}
+			National League
+				{Major League Baseball (North American Professional) - National League}
+				{15007002}
+			Special
+				{Major League Baseball (North American Professional) - Special (e.g. All-Star World Series)}
+				{15007003}
+			Rubberball baseball
+				{rubberball baseball}
+				{15007004}
+			Playoffs
+				{Major League Baseball Playoffs}
+				{15007005}
+			World Series
+				{World Series}
+				{15007006}
+		Basket-ball
+			{basketball}
+			{15008000}
+			NBA
+				{National Basketball Association (North American Professional)}
+				{15008001}
+			Ligue professionnelle féminine
+				{professional - Women general}
+				{15008002}
+			Netball suisse
+				{Swiss netball}
+				{15008003}
+			Netball allemand
+				{German netball}
+				{15008004}
+			Netball néerlandais
+				{Dutch netball}
+				{15008005}
+		Biathlon
+			{biathlon}
+			{15009000}
+			7.5 km
+				{7.5 km}
+				{15009001}
+			10 km
+				{10 km}
+				{15009002}
+			15 km
+				{15 km}
+				{15009003}
+			20 km
+				{20 km}
+				{15009004}
+			Relais 4x7.5 km
+				{4x7.5 km relay}
+				{15009005}
+			Poursuite 12.5 km
+				{12.5 km pursuit}
+				{15009006}
+		Billards snooker et pool
+			{billiards snooker and pool}
+			{15010000}
+			8 ball
+				{8 ball}
+				{15010001}
+			9 ball
+				{9 ball}
+				{15010002}
+			14.1 continu
+				{14-janv.}
+				{15010003}
+			Continuous
+				{continuous-DEPRECATED}
+				{15010004}
+			Other
+				{other-DEPRECATED}
+				{15010005}
+			snooker
+				{snooker}
+				{15010006}
+		Bobsleigh
+			{bobsleigh}
+			{15011000}
+			Bob à deux
+				{two-man sled}
+				{15011001}
+			Bob à quatre
+				{four-man sled}
+				{15011002}
+		Bowling
+			{bowling}
+			{15012000}
+		Boule anglaise et pétanque
+			{bowls and petanque}
+			{15013000}
+		Boxe
+			{boxing}
+			{15014000}
+			Super-lourds
+				{super-heavyweight}
+				{15014001}
+			Lourds
+				{heavyweight}
+				{15014002}
+			Mi-lourds
+				{cruiserweight}
+				{15014003}
+			Moyens
+				{light-heavyweight}
+				{15014004}
+			Super mi-moyens
+				{super-middleweight}
+				{15014005}
+			Mi-moyens
+				{middleweight}
+				{15014006}
+			Super légers
+				{light-middleweight}
+				{15014007}
+			Légers
+				{welterweight}
+				{15014008}
+			Super-plumes
+				{light-welterweight}
+				{15014009}
+			Plumes
+				{lightweight}
+				{15014010}
+			Super-poids plumes
+				{super-featherweight}
+				{15014011}
+			Poids-plume
+				{featherweight}
+				{15014012}
+			Super coq
+				{super-bantamweight}
+				{15014013}
+			Coq
+				{bantamweight}
+				{15014014}
+			Super-mouches
+				{super-flyweight}
+				{15014015}
+			Mouches
+				{flyweight}
+				{15014016}
+			Mi-mouches
+				{light flyweight}
+				{15014017}
+			Pailles
+				{straw}
+				{15014018}
+			IBF
+				{IBF}
+				{15014019}
+			WBA
+				{WBA}
+				{15014020}
+			WBC
+				{WBC}
+				{15014021}
+			WBO
+				{WBO}
+				{15014022}
+			Boxe française
+				{French boxing}
+				{15014023}
+			Boxe Thai
+				{Thai boxing}
+				{15014024}
+		Canoë-kayak
+			{canoeing and kayaking}
+			{15015000}
+			Slalom
+				{Slalom}
+				{15015001}
+			200m
+				{200 m}
+				{15015002}
+			500m
+				{500 m}
+				{15015003}
+			1000m
+				{1000 m}
+				{15015004}
+			K1
+				{K1}
+				{15015005}
+			K2
+				{K2}
+				{15015006}
+			K4
+				{K4}
+				{15015007}
+			C1
+				{C1}
+				{15015008}
+			C2
+				{C2}
+				{15015009}
+			C4
+				{C4}
+				{15015010}
+			Canoe à voile
+				{canoe sailing}
+				{15015011}
+			Pontoniering
+				{pontoniering}
+				{15015012}
+		Alpinisme et escalade
+			{climbing}
+			{15016000}
+			Alpinisme
+				{mountaineering}
+				{15016001}
+			Escalade
+				{sport climbing}
+				{15016002}
+		Cricket
+			{cricket}
+			{15017000}
+		Curling
+			{curling}
+			{15018000}
+			Crosse sur glace
+				{icestock sport}
+				{15018001}
+		Cyclisme
+			{cycling}
+			{15019000}
+			piste
+				{track}
+				{15019001}
+			poursuite
+				{pursuit}
+				{15019002}
+			Sprint Olympique
+				{Olympic sprint}
+				{15019003}
+			vitesse
+				{sprint}
+				{15019004}
+			Keirin
+				{Keirin}
+				{15019005}
+			Course aux points
+				{points race}
+				{15019006}
+			course à l'Américaine
+				{Madison race}
+				{15019007}
+			500 m contre la montre
+				{500 m time trial}
+				{15019008}
+			1 km contre la montre
+				{1 km time trial}
+				{15019009}
+			1 heure
+				{one hour}
+				{15019010}
+			Course en ligne
+				{road race}
+				{15019011}
+			Contre la montre
+				{road time trial}
+				{15019012}
+			Course à étapes
+				{staging race}
+				{15019013}
+			cyclo-cross
+				{cyclo-cross}
+				{15019014}
+			Le VTT
+				{Vtt}
+				{15019015}
+			Vtt cross
+				{Vtt-cross}
+				{15019016}
+			Vtt descente
+				{Vtt-downhill}
+				{15019017}
+			Bicross
+				{bi-crossing}
+				{15019018}
+			VTT trial
+				{trial}
+				{15019019}
+			Cyclisme artistique
+				{artistic cycling}
+				{15019020}
+			Cycle balle
+				{cycle ball}
+				{15019021}
+		Danse sportive
+			{dancing}
+			{15020000}
+		Plongeon
+			{diving}
+			{15021000}
+			Haut vol 10 m
+				{10 m platform}
+				{15021001}
+			Haut vol synchronisé
+				{10 m platform synchronised}
+				{15021002}
+			Tremplin 3 m
+				{3 m springboard}
+				{15021003}
+			Tremplin synchronisé 3 m
+				{3 m springboard synchronised}
+				{15021004}
+			Subaquatique
+				{subaquatics}
+				{15021005}
+			Plongée sous-marine
+				{scuba diving}
+				{15021006}
+		Equitation
+			{equestrian}
+			{15022000}
+			Concours complet
+				{three-day event}
+				{15022001}
+			dressage
+				{dressage}
+				{15022002}
+			Saut d'obstacles
+				{jumping}
+				{15022003}
+			Cross-country
+				{cross country}
+				{15022004}
+		Escrime
+			{fencing}
+			{15023000}
+			Epée
+				{epee}
+				{15023001}
+			Fleuret
+				{foil}
+				{15023002}
+			Sabre
+				{sabre}
+				{15023003}
+		Hockey sur gazon
+			{field Hockey}
+			{15024000}
+			Roll hockey
+				{roll hockey}
+				{15024001}
+		Patinage artistique
+			{figure Skating}
+			{15025000}
+			Individuel
+				{singles}
+				{15025001}
+			Couple
+				{pairs}
+				{15025002}
+			Danse
+				{ice dance}
+				{15025003}
+		Ski acrobatique
+			{freestyle Skiing}
+			{15026000}
+			Ski de bosses
+				{moguls}
+				{15026001}
+			Saut acrobatique
+				{aerials}
+				{15026002}
+			acroski
+				{artistic skiing}
+				{15026003}
+		Golf
+			{golf}
+			{15027000}
+		Gymnastique artistique
+			{gymnastics}
+			{15028000}
+			Sol
+				{floor exercise}
+				{15028001}
+			Saut de cheval
+				{vault}
+				{15028002}
+			Cheval d'arçon
+				{pommel horse}
+				{15028003}
+			Barres asymétriques
+				{uneven bars}
+				{15028004}
+			Barres parallèles
+				{parallel bars}
+				{15028005}
+			Barre fixe
+				{horizontal bar}
+				{15028006}
+			Anneaux
+				{rings}
+				{15028007}
+			Poutre
+				{beam}
+				{15028008}
+			Gymnastique rythmique
+				{rhythmic}
+				{15028009}
+			massues
+				{clubs}
+				{15028010}
+			cerceau
+				{hoop}
+				{15028011}
+			ruban
+				{ribbon}
+				{15028012}
+			corde
+				{rope}
+				{15028013}
+			ballon
+				{ball}
+				{15028014}
+			trampoline
+				{trampoline}
+				{15028015}
+		Handball
+			{handball (team)}
+			{15029000}
+		Hippisme
+			{horse racing harness racing}
+			{15030000}
+			Course de plat
+				{flat racing}
+				{15030001}
+			Course d'obstacles
+				{steeple chase}
+				{15030002}
+			Course de trot
+				{trotting}
+				{15030003}
+			Cross-country
+				{cross country}
+				{15030004}
+		Hockey sur glace
+			{ice hockey}
+			{15031000}
+			NHL
+				{National Hockey League (North American)}
+				{15031001}
+			Sledge hockey
+				{sledge hockey}
+				{15031002}
+		Pelote basque
+			{Jai Alai (Pelota)}
+			{15032000}
+			Place libre
+				{fronton}
+				{15032001}
+			Jai-alai
+				{jai-alai}
+				{15032002}
+			Mur gauche
+				{left wall}
+				{15032003}
+			trinquet
+				{trinquet}
+				{15032004}
+			rebot
+				{rebot}
+				{15032005}
+			chistera ancha
+				{chistera ancha}
+				{15032006}
+			chistera corta
+				{chistera corta}
+				{15032007}
+			main nue
+				{bare hand}
+				{15032008}
+			pala-ancha
+				{pala-ancha}
+				{15032009}
+			pala-corta
+				{pala-corta}
+				{15032010}
+			pasaka
+				{pasaka}
+				{15032011}
+			xare
+				{xare}
+				{15032012}
+		Judo
+			{judo}
+			{15033000}
+			Lourds
+				{heavyweight}
+				{15033001}
+			Mi-lourds
+				{half-heavyweight}
+				{15033002}
+			Moyens
+				{middleweight}
+				{15033003}
+			Mi-moyens
+				{half-middleweight}
+				{15033004}
+			Mi-légers
+				{half-lightweight}
+				{15033005}
+			Légers
+				{lightweight}
+				{15033006}
+			Super-légers
+				{extra lightweight}
+				{15033007}
+		Karaté
+			{karate}
+			{15034000}
+			Entraînement
+				{sparring}
+				{15034001}
+			Combat
+				{formal exercise-DEPRECATED}
+				{15034002}
+		Lacrosse
+			{lacrosse}
+			{15035000}
+		Luge
+			{luge}
+			{15036000}
+			monoplace
+				{singles}
+				{15036001}
+			biplace
+				{doubles}
+				{15036002}
+		Marathon
+			{marathon}
+			{15037000}
+		Pentathlon moderne
+			{modern pentathlon}
+			{15038000}
+			Course à pied
+				{running}
+				{15038001}
+			tir
+				{shooting}
+				{15038002}
+			Natation
+				{swimming}
+				{15038003}
+			escrime
+				{fencing}
+				{15038004}
+			Equitation
+				{showjumping}
+				{15038005}
+		Automobile
+			{motor racing}
+			{15039000}
+			F1
+				{Formula One}
+				{15039001}
+			F3000
+				{F3000}
+				{15039002}
+			Course d'endurance
+				{endurance}
+				{15039003}
+			Formule Indy
+				{Indy}
+				{15039004}
+			CART
+				{CART}
+				{15039005}
+			NHRA
+				{NHRA}
+				{15039006}
+			NASCAR
+				{NASCAR}
+				{15039007}
+			TRUCKI
+				{TRUCKI}
+				{15039008}
+		Rallyes
+			{motor rallying}
+			{15040000}
+			étape
+				{rallying}
+				{15040001}
+			Rallyes-raid
+				{pursuit}
+				{15040002}
+			Rallycross
+				{rallycross}
+				{15040003}
+		Moto
+			{motorcycling}
+			{15041000}
+			Grand-Prix de vitesse
+				{speed-Grand-Prix}
+				{15041001}
+			enduro
+				{enduro}
+				{15041002}
+			Course sur herbe
+				{grass-track}
+				{15041003}
+			moto-ball
+				{moto-ball}
+				{15041004}
+			Motocross
+				{moto-cross}
+				{15041005}
+			Rallyes
+				{rallying}
+				{15041006}
+			Trial
+				{trial}
+				{15041007}
+			Endurance
+				{endurance}
+				{15041008}
+			superbike
+				{superbike}
+				{15041009}
+			125cm3
+				{125 cm3}
+				{15041010}
+			250cm3
+				{250 cm3}
+				{15041011}
+			500cm3
+				{500 cm3}
+				{15041012}
+			side-cars
+				{side-cars}
+				{15041013}
+			MotoGP
+				{motoGP}
+				{15041014}
+		Netball
+			{netball}
+			{15042000}
+		Ski nordique
+			{nordic skiing}
+			{15043000}
+			Course de fond
+				{cross-country}
+				{15043001}
+			5 km Style classique
+				{5 km classical time}
+				{15043002}
+			10 km style classique
+				{10 km classical style}
+				{15043003}
+			10 km poursuite libre
+				{10 km pursuit free style}
+				{15043004}
+			15 km style classique
+				{15 km classical style}
+				{15043005}
+			15 km poursuite libre
+				{15 km pursuit free style}
+				{15043006}
+			10 km + 15 km combiné
+				{10 km + 15 km combined}
+				{15043007}
+			30 km style classique
+				{30 km classical style}
+				{15043008}
+			30 km libre
+				{30km free style}
+				{15043009}
+			50 km libre
+				{50 km free style}
+				{15043010}
+			4x5 km relais
+				{4x5 km relay}
+				{15043011}
+			4x10 km relais
+				{4x10 km relay}
+				{15043012}
+			Combiné nordique
+				{nordic combined}
+				{15043013}
+			Raid
+				{raid}
+				{15043014}
+			5 km poursuite libre
+				{5 km pursuit free style}
+				{15043015}
+			1.5 km style libre
+				{1.5 km sprint free}
+				{15043016}
+			50 km style classique
+				{50 km classic style}
+				{15043017}
+		Course d'orientation
+			{orienteering}
+			{15044000}
+			Course d'orientation à skis
+				{ski orienteering}
+				{15044001}
+		Polo
+			{polo}
+			{15045000}
+		Motonautisme
+			{power boating}
+			{15046000}
+			F1
+				{F1}
+				{15046001}
+			F2
+				{F2}
+				{15046002}
+		Aviron
+			{rowing}
+			{15047000}
+			Skiff
+				{single sculls}
+				{15047001}
+			Double sculls
+				{double sculls}
+				{15047002}
+			Quatre en couple sans barreur
+				{quadruple sculls}
+				{15047003}
+			Deux sans barreur
+				{coxless pair}
+				{15047004}
+			Quatre sans barreur
+				{coxless four}
+				{15047005}
+			Huit
+				{eight}
+				{15047006}
+			Poids léger
+				{lightweight}
+				{15047007}
+		Jeu à XIII
+			{rugby league}
+			{15048000}
+		Rugby à XV
+			{rugby union}
+			{15049000}
+			Rugby à VII
+				{rugby 7}
+				{15049001}
+		Voile
+			{sailing}
+			{15050000}
+			Tornado
+				{Tornado}
+				{15050001}
+			Soling
+				{soling}
+				{15050002}
+			49er
+				{49er}
+				{15050003}
+			Europe
+				{Europe}
+				{15050004}
+			Laser
+				{Laser}
+				{15050005}
+			470
+				{470}
+				{15050006}
+			Finn
+				{Finn}
+				{15050007}
+			Star
+				{Star}
+				{15050008}
+			Flying dutchmann
+				{flying dutchmann}
+				{15050009}
+			505
+				{505}
+				{15050010}
+			Course à étape
+				{staging race}
+				{15050011}
+			Autour du monde
+				{around the world}
+				{15050012}
+			Monocoque
+				{monohull}
+				{15050013}
+			Multicoques
+				{multihulls}
+				{15050014}
+			Yngling
+				{yngling}
+				{15050015}
+			Mistral
+				{mistral}
+				{15050016}
+		Tir
+			{shooting}
+			{15051000}
+			Carabine à air comprimé 10 m
+				{10 m air rifle}
+				{15051001}
+			Pistolet à air comprimé à 10 m
+				{10 m air pistol}
+				{15051002}
+			10 m cible mouvante
+				{10 m running target}
+				{15051003}
+			Pistolet 25 m
+				{25 m rapid fire pistol}
+				{15051004}
+			25 m pistolet sport
+				{25 m sport pistol}
+				{15051005}
+			Pistolet libre à 50 m
+				{50 m free pistol}
+				{15051006}
+			50 m carabine libre couché
+				{50 m free rifle prone}
+				{15051007}
+			50 m carabine libre 3x40
+				{50 m free rifle 3x40}
+				{15051008}
+			50 m carabine sport 3x20
+				{50 m sport rifle 3x20}
+				{15051009}
+			Trap
+				{trap}
+				{15051010}
+			Double trap
+				{double trap}
+				{15051011}
+			Skeet
+				{skeet}
+				{15051012}
+		Saut à skis
+			{ski jumping}
+			{15052000}
+			K90
+				{K90 jump}
+				{15052001}
+			K120
+				{K120 jump}
+				{15052002}
+			K180
+				{K180 (flying jump)}
+				{15052003}
+		Surf des neiges
+			{snow boarding}
+			{15053000}
+			Slalom géant parallèle
+				{giant slalom}
+				{15053001}
+			Half-pipe
+				{half-pipe}
+				{15053002}
+		Football
+			{soccer}
+			{15054000}
+		Softball
+			{softball}
+			{15055000}
+		Patinage de vitesse
+			{speed skating}
+			{15056000}
+			500m
+				{500 m}
+				{15056001}
+			1000m
+				{1000 m}
+				{15056002}
+			1500m
+				{1500 m}
+				{15056003}
+			3000m
+				{3000 m}
+				{15056004}
+			5000m
+				{5000 m}
+				{15056005}
+			10000m
+				{10000 m}
+				{15056006}
+			Short-track
+				{Short-track}
+				{15056007}
+			st500m
+				{st 500 m}
+				{15056008}
+			st1000m
+				{st 1000m}
+				{15056009}
+			st1500m
+				{st 1500m}
+				{15056010}
+			st3000m
+				{st 3000m}
+				{15056011}
+			st 3000m relais
+				{st 3000m relay}
+				{15056012}
+			st5000m
+				{st 5000m}
+				{15056013}
+			st 5000m relais
+				{st 5000m relay}
+				{15056014}
+		Speedway
+			{speedway}
+			{15057000}
+		Organisations sportives
+			{sports organisations}
+			{15058000}
+			CIO
+				{IOC}
+				{15058001}
+			Fédération internationale
+				{international federation}
+				{15058002}
+			Fédération continentale
+				{continental federation}
+				{15058003}
+			Fédération nationale
+				{national federation}
+				{15058004}
+			AGFIS
+				{GAISF}
+				{15058005}
+		Squash
+			{squash}
+			{15059000}
+		Sumo
+			{sumo wrestling}
+			{15060000}
+		Surf
+			{surfing}
+			{15061000}
+		Natation
+			{swimming}
+			{15062000}
+			50 m libre
+				{50 m freestyle}
+				{15062001}
+			100 m libre
+				{100 m freestyle}
+				{15062002}
+			200 m libre
+				{200 m freestyle}
+				{15062003}
+			400 m libre
+				{400 m freestyle}
+				{15062004}
+			800 m libre
+				{800 m freestyle}
+				{15062005}
+			1500 m libre
+				{1500 m freestyle}
+				{15062006}
+			Relais 4x50 m libre
+				{relay 4x50 m freestyle}
+				{15062007}
+			Relais 4x100 m libre
+				{relay 4x100 m freestyle}
+				{15062008}
+			Relais 4x200 m libre
+				{relay 4x200 m freestyle}
+				{15062009}
+			50m dos
+				{50 m backstroke}
+				{15062010}
+			100m dos
+				{100 m backstroke}
+				{15062011}
+			200m dos
+				{200 m backstroke}
+				{15062012}
+			50m brasse
+				{50 m breaststroke}
+				{15062013}
+			100m brasse
+				{100 m breaststroke}
+				{15062014}
+			200m brasse
+				{200 m breaststroke}
+				{15062015}
+			50m papillon
+				{50 m butterfly}
+				{15062016}
+			100m papillon
+				{100 m butterfly}
+				{15062017}
+			200 m papillon
+				{200 m butterfly}
+				{15062018}
+			100 m 4 nages
+				{100 m medley}
+				{15062019}
+			200 m 4 nages
+				{200 m medley}
+				{15062020}
+			400 m 4 nages
+				{400 m medley}
+				{15062021}
+			relais 4x50m 4 nages
+				{relay 4x50 m medlay}
+				{15062022}
+			Relais 4x100 m 4nages
+				{relay4x100 m medley}
+				{15062023}
+			petit bassin
+				{short course}
+				{15062024}
+			Natation synchronisée programme technique
+				{synchronised technical routine}
+				{15062025}
+			Natation synchronisée programme libre
+				{synchronised free routine}
+				{15062026}
+		Tennis de table
+			{table tennis}
+			{15063000}
+		Taekwondo
+			{Taekwon-Do}
+			{15064000}
+			Moins de 49 kg
+				{under 49 kg}
+				{15064001}
+			Moins de 58 kg
+				{under 58 kg}
+				{15064002}
+			49-57 kg
+				{49-57 kg}
+				{15064003}
+			58-68kg
+				{58-68 kg}
+				{15064004}
+			57-67kg
+				{57-67 kg}
+				{15064005}
+			68-80kg
+				{68-80 kg}
+				{15064006}
+			Plus de 67 kg
+				{over 67 kg}
+				{15064007}
+			Plus de 80 kg
+				{over 80 kg}
+				{15064008}
+		Tennis
+			{tennis}
+			{15065000}
+			Soft tennis
+				{soft tennis}
+				{15065001}
+		Triathlon
+			{triathlon}
+			{15066000}
+			Natation
+				{triathlon swimming}
+				{15066001}
+			Cyclisme
+				{triathlon cycling}
+				{15066002}
+			Course
+				{triathlon run}
+				{15066003}
+		Volley-ball
+			{volleyball}
+			{15067000}
+			Beach volley
+				{beach volleyball}
+				{15067001}
+		Water polo
+			{water polo}
+			{15068000}
+		Ski nautique
+			{water skiing}
+			{15069000}
+			Slalom
+				{slalom}
+				{15069001}
+			Figures
+				{trick}
+				{15069002}
+			Saut
+				{jump}
+				{15069003}
+			combiné
+				{combined}
+				{15069004}
+		Haltérophilie
+			{weightlifting}
+			{15070000}
+			Arrachée
+				{snatch}
+				{15070001}
+			épaulé-jeté
+				{clean and jerk}
+				{15070002}
+			48kg
+				{48 kg}
+				{15070003}
+			53kg
+				{53 kg}
+				{15070004}
+			63kg
+				{63 kg}
+				{15070005}
+			75kg
+				{75 kg}
+				{15070006}
+			Plus de 75kg
+				{over 75 kg}
+				{15070007}
+			56kg
+				{56 kg}
+				{15070008}
+			62kg
+				{62 kg}
+				{15070009}
+			69kg
+				{69 kg}
+				{15070010}
+			77kg
+				{77 kg}
+				{15070011}
+			85kg
+				{85 kg}
+				{15070012}
+			94kg
+				{94 kg}
+				{15070013}
+			105kg
+				{105 kg}
+				{15070014}
+			> 105 kg
+				{over 105 kg}
+				{15070015}
+			Force athlétique
+				{powerlifting}
+				{15070016}
+		Planche à voile
+			{windsurfing}
+			{15071000}
+			Courses en mer
+				{ocean}
+				{15071001}
+			Régates sur lac
+				{lake}
+				{15071002}
+			Régates sur fleuve
+				{river}
+				{15071003}
+			Courses sur terre
+				{land}
+				{15071004}
+		Lutte
+			{wrestling}
+			{15072000}
+			Lutte libre
+				{freestyle}
+				{15072001}
+			Lutte gréco-romaine
+				{greco-roman}
+				{15072002}
+			Plus de 130 kg
+				{over 130 kg}
+				{15072003}
+			130kg
+				{130 kg}
+				{15072004}
+			97kg
+				{97 kg}
+				{15072005}
+			85kg
+				{85 kg}
+				{15072006}
+			76kg
+				{76 kg}
+				{15072007}
+			69kg
+				{69 kg}
+				{15072008}
+			63kg
+				{63 kg}
+				{15072009}
+			58kg
+				{58 kg}
+				{15072010}
+			54kg
+				{54 kg}
+				{15072011}
+			Lutte suisse
+				{Swiss wrestling}
+				{15072012}
+		Evènements sportifs
+			{sports event}
+			{15073000}
+			JO d'été
+				{Summer Olympics}
+				{15073001}
+			JO d'hiver
+				{Winter Olympics}
+				{15073002}
+			Universiade d'été
+				{Summer universiade}
+				{15073003}
+			Universiade d'hiver
+				{Winter Universiade}
+				{15073004}
+			Jeux du Commonwealth
+				{Commonwealth Games}
+				{15073005}
+			Goodwill Games hiver
+				{Winter Goodwill Games}
+				{15073006}
+			Jeux asiatiques d'été
+				{Summer Asian Games}
+				{15073007}
+			Jeux asiatiques d'hiver
+				{Winter Asian Games}
+				{15073008}
+			Jeux panaméricains
+				{Panamerican Games}
+				{15073009}
+			Jeux africains
+				{African Games}
+				{15073010}
+			Jeux méditerranéens
+				{Mediterranean Games}
+				{15073011}
+			Jeux du sud est asiatique
+				{SouthEast Asiatic Games}
+				{15073012}
+			Jeux Panpacifique
+				{PanPacific Games}
+				{15073013}
+			Jeux du Pacifique sud
+				{SouthPacific Games}
+				{15073014}
+			Jeux panarabiques
+				{PanArabic Games}
+				{15073015}
+			Goodwill Games été
+				{Summer Goodwill Games}
+				{15073016}
+			Mondiaux
+				{World games}
+				{15073017}
+			Coupe du monde
+				{World Cup}
+				{15073018}
+			Coupe intercontinentale
+				{intercontinental cup}
+				{15073019}
+			Coupe continentale
+				{continental cup}
+				{15073020}
+			Coupe internationale
+				{international cup}
+				{15073021}
+			Coupe nationale
+				{National Cup}
+				{15073022}
+			Coupe interregionale
+				{interregional cup}
+				{15073023}
+			Coupe régionale
+				{regional cup}
+				{15073024}
+			Coupe de Ligue
+				{league cup}
+				{15073025}
+			Championnat du Monde
+				{world championship}
+				{15073026}
+			Championnat intercontinental
+				{intercontinental championship}
+				{15073027}
+			Championnat continental 1er niveau
+				{continental championship 1st level}
+				{15073028}
+			Championnat continental 2ème niveau
+				{continental championship 2nd level}
+				{15073029}
+			Championnat continental 3ème niveau
+				{continental championship 3rd level}
+				{15073030}
+			Championnat national 1er niveau
+				{national championship 1st level}
+				{15073031}
+			Championnat national 2eme niveau
+				{national championship 2nd level}
+				{15073032}
+			Championnat national 3ème niveau
+				{national championship3rdlevel}
+				{15073033}
+			Championnat national 4ème niveau
+				{national championship 4th level}
+				{15073034}
+			Championnat régional
+				{regional championship}
+				{15073035}
+			Grand Prix
+				{Grand Prix}
+				{15073036}
+			Tournoi intercontinental
+				{intercontinental tournament}
+				{15073037}
+			Tournoi continental
+				{continental tournament}
+				{15073038}
+			Tournoi international
+				{international tournament}
+				{15073039}
+			Tournoi national
+				{national tournament}
+				{15073040}
+			Compétition internationale
+				{inter-nations competition}
+				{15073041}
+			Compétition inter-clubs
+				{inter-clubs competition}
+				{15073042}
+			Compétition amicale
+				{friendly competition}
+				{15073043}
+			Compétition all-stars
+				{all-stars competition}
+				{15073044}
+			Exhibition
+				{exhibition}
+				{15073045}
+			Super Bowl
+				{Super Bowl}
+				{15073046}
+			Jeux paralympiques
+				{paralympic games}
+				{15073047}
+		Rodéo
+			{rodeo}
+			{15074000}
+			Barrel racing
+				{barrel racing}
+				{15074001}
+			Calf roping
+				{calf roping}
+				{15074002}
+			Bull riding
+				{bull riding}
+				{15074003}
+			Bulldogging
+				{bulldogging}
+				{15074004}
+			Saddle bronc
+				{saddle bronc}
+				{15074005}
+			Bareback
+				{bareback}
+				{15074006}
+			Goat roping
+				{goat roping}
+				{15074007}
+		Mini golf sport
+			{mini golf sport}
+			{15075000}
+		Bandy
+			{bandy}
+			{15076000}
+		Frisbee
+			{flying disc}
+			{15077000}
+			Ultimate
+				{ultimate}
+				{15077001}
+			Guts
+				{guts}
+				{15077002}
+			Overall
+				{overall}
+				{15077003}
+			Distance
+				{distance}
+				{15077004}
+			Discathon
+				{discathon}
+				{15077005}
+			DDC
+				{DDC}
+				{15077006}
+			SCF
+				{SCF}
+				{15077007}
+			Freestyle
+				{freestyle}
+				{15077008}
+			Accuracy
+				{accuracy}
+				{15077009}
+			Disc golf
+				{disc golf}
+				{15077010}
+			Floorball
+				{floorball}
+				{15078000}
+		Casting
+			{casting}
+			{15079000}
+		Tug-of-war
+			{tug-of-war}
+			{15080000}
+		Croquette
+			{croquette}
+			{15081000}
+		Course de chiens
+			{dog racing}
+			{15082000}
+			Sled
+				{sled}
+				{15082001}
+			Oval track
+				{oval track}
+				{15082002}
+		Skeleton
+			{skeleton}
+			{15083000}
+		Football australien
+			{Australian rules football}
+			{15084000}
+		Football canadien
+			{Canadian football}
+			{15085000}
+		Duathlon
+			{duathlon}
+			{15086000}
+		Hornuss
+			{hornuss}
+			{15087000}
+		Fist ball
+			{fist ball}
+			{15088000}
+		Inline skating
+			{inline skating}
+			{15089000}
+		Grass ski
+			{grass ski}
+			{15090000}
+		Snowbiking
+			{snowbiking}
+			{15091000}
+		Twirling
+			{twirling}
+			{15092000}
+		Kendo
+			{kendo}
+			{15093000}
+		Jukendo
+			{jukendo}
+			{15094000}
+		Naginata
+			{naginata}
+			{15095000}
+		Kyudo
+			{kyudo}
+			{15096000}
+		Kabaddi
+			{kabaddi}
+			{15097000}
+		Sepak takraw
+			{sepak takraw}
+			{15098000}
+		Wushu
+			{wushu}
+			{15099000}
+		Fléchettes
+			{darts}
+			{15100000}
+		Bodybuilding
+			{bodybuilding}
+			{15101000}
+		Action disciplinaire sportive
+			{sports disciplinary action}
+			{15102000}
+		Récompenses sportives
+			{sports awards}
+			{15103000}
+	Guerres et conflits
+		{unrest conflicts and war}
+		{16000000}
+		Actes de terrorisme
+			{act of terror}
+			{16001000}
+		Conflits armés
+			{armed conflict}
+			{16002000}
+		Désordres civils
+			{civil unrest}
+			{16003000}
+			Révolutions
+				{revolutions}
+				{16003001}
+			Rébellions
+				{rebellions}
+				{16003002}
+			Dissidence
+				{political dissent}
+				{16003003}
+			Conflit religieux
+				{religious conflict}
+				{16003004}
+			Conflit social
+				{social conflict}
+				{16003005}
+		Coup d'état
+			{coup d'etat}
+			{16004000}
+		Guérilla
+			{guerrilla activity}
+			{16005000}
+			Bioterrorisme
+				{bioterrorism}
+				{16005001}
+			Explosion de bombes
+				{bombings}
+				{16005002}
+		Massacre
+			{massacre}
+			{16006000}
+			Génocide
+				{genocide}
+				{16006001}
+		émeutes
+			{riots}
+			{16007000}
+		Manifestations
+			{demonstration}
+			{16008000}
+		Guerre
+			{war}
+			{16009000}
+			Guerre civile
+				{civil war}
+				{16009001}
+			Interventions militaires
+				{international military intervention}
+				{16009002}
+			Prisonniers et détenus
+				{prisoners and detainees}
+				{16009003}
+		Conflits
+			{conflict (general)}
+			{16010000}
+			Forces de maintien de la paix
+				{peacekeeping force}
+				{16010001}
+		Crise
+			{crisis}
+			{16011000}
+		Armement
+			{weaponry}
+			{16012000}
+	Météo
+		{weather}
+		{17000000}
+		Prévisions
+			{forecast}
+			{17001000}
+		évolutions climatiques
+			{global change}
+			{17002000}
+		Bulletins
+			{report}
+			{17003000}
+			Informations météorologiques
+				{weather news}
+				{17003001}
+		Statistiques
+			{statistic}
+			{17004000}
+		Alertes
+			{warning}
+			{17005000}
