@@ -21,9 +21,9 @@ Mots clés génériques
 			Quatre personnes
 			Sans personnage
 			Trois personnes
+			Une personne et un groupe
 			Une seule personne
 			Équipe sportive
-			Une personne et un groupe
 		Age
 			0-1 mois
 			0-11 mois
@@ -78,28 +78,28 @@ Mots clés génériques
 			Âge humain
 			Âges mélangés
 		Sexe
-			Hommes
 			Femmes
+			Hommes
+			Personnes féminines
+			Personnes masculines
+			Petites filles
+			Petits garçons
+			Seulement des femmes
+			Seulement des hommes
+			Seulement des petites filles
+			Seulement des petits garçons
 			Un seul homme
 			Une seule femme
-			Seulement des hommes
-			Seulement des femmes
-			Personnes masculines
-			Personnes féminines
-			Petits garçons
-			Petites filles
-			Seulement des petits garçons
-			Seulement des petites filles
 		Ethnicité et Nationalité
-			Blanc
-			Arabe
 			Afro-caraïbien
 			Américain
 			Amérindien
+			Arabe
 			Argentin
 			Asiatique de l'Est
 			Asiatique de l'Est et du Sud-Est
 			Asiatique du Sud-Est
+			Blanc
 			Brésilien
 			Cambodgien
 			Chilien
@@ -126,6 +126,7 @@ Mots clés génériques
 			Origine ethnique
 			Pakistanais
 			Personne de race blanche
+			personne et un groupe
 			Peuple du sous-continent indien
 			Peuples d'Asie et du sous-continent indien
 			Philippin
@@ -133,9 +134,7 @@ Mots clés génériques
 			Russe
 			Scandinave
 			Vietnamien
-			personne et un groupe
 		Caractéristiques physiques
-			À la mode
 			Afro
 			Allongé
 			Calvitie
@@ -147,10 +146,10 @@ Mots clés génériques
 			Cheveux longs
 			Cheveux roux
 			Corpulent
-			Gros
-			Maigre
 			Dents manquantes
 			Grimaçant
+			Gros
+			Maigre
 			Mince
 			Musclé
 			Nu
@@ -162,49 +161,16 @@ Mots clés génériques
 			Sexy
 			Souriant
 			Taille forte
-			Tête et épaules
 			Torse nu
+			Tête et épaules
 			Yeux baissés
 			Yeux levés
+			À la mode
 	Composition et type de photo
-		Sous-marine
-		Aérienne
-		Intérieur
-		Extérieur
-		Arrêt sur image
-		Coupe
-		Détourable
-		Détourage
-		En rang
-		Exposition multiple
-		Extérieur
-		Flou
-		Gros plan
-		Horizon
-		Image simple
-		Intérieur
-		Jour
-		Motif en filet
-		Mouvement
-		Multicolore
-		Nature morte
-		Nuit
-		Partie du corps
-		Point de vue personnel
-		Pris sur le vif
-		Regarde l’objectif
-		Rétro-éclairé
-		Silhouette
-		Texture
-		Vue aérienne
-		Vue de face 
-		Vue d’en dessous 
-		Vue d’en haut
-		Vue en plan incliné
-		En pied
-		Plan américain
-		Photo de studio 
 		Abstrait
+		Arrêt sur image
+		Astronomique
+		Aérienne
 		Bordure
 		Bordure noire
 		Cadrage aux genoux
@@ -212,41 +178,75 @@ Mots clés génériques
 		Cadrage à la taille
 		Carré
 		Composition
+		Contre-plongée
+		Coupe
+		Détourable
+		Détourage
 		Effet de perspective
+		En pied
+		En rang
 		Espace texte
+		Exposition multiple
+		Extérieur
+		Extérieur
+		Flou
 		Fort grossissement
+		Gros plan
 		Grossissement
+		Horizon
 		Horizontal
 		Image dépouillée
 		Image multiple
 		Image saisie sur le vif
+		Image simple
 		Image séquentielle
+		Intérieur
+		Intérieur
+		Jour
+		Macro
 		Microphotographie immunofluorescente
 		Microscopie
 		Microscopie optique
 		Microscopie électronique
+		Motif en filet
+		Mouvement
+		Multicolore
 		Nature morte
+		Nature morte
+		Nuit
 		Objet ou sujet détouré
 		Panoramique
+		Partie du corps
+		Photo de studio 
+		Plan américain
 		Plan moyen
 		Plan rapproché
 		Plan très rapproché
 		Plein cadre
+		Plongée
 		Point de fuite
+		Point de vue personnel
+		Pris sur le vif
 		Regardant l'objectif
+		Regarde l’objectif
+		Rétro-éclairé
+		Silhouette
+		Sous-marine
 		Série
+		Texture
 		Tracé de détourage
 		Tête
 		Tête et épaules
 		Vertical
 		Vue au microscope électronique à balayage en réflexion
 		Vue au microscope électronique à transmission
+		Vue aérienne
 		Vue de dos
 		Vue de face
-		Plongée
-		Contre-plongée
-		Astronomique
-		Macro
+		Vue de face 
+		Vue d’en dessous 
+		Vue d’en haut
+		Vue en plan incliné
 	Concepts
 		Agilité
 		Amitié
@@ -260,11 +260,10 @@ Mots clés génériques
 		Bonheur
 		Buts
 		Calme
-		Célèbre
 		Choc
 		Colère
-		Compétence
 		Complexité
+		Compétence
 		Connaissance
 		Conte de fées
 		Contraste
@@ -273,7 +272,11 @@ Mots clés génériques
 		Courage
 		Créativité
 		Curiosité
+		Célèbre
 		Danger
+		Dignité
+		Dorloter
+		Douceur
 		Début
 		Découverte
 		Défi
@@ -282,26 +285,17 @@ Mots clés génériques
 		Démoniaque
 		Désir sexuel
 		Désolation
-		Dignité
-		Dorloter
-		Douceur
-		Éclat
 		Effort
 		Embarras
 		Enchantement
-		Énergie
 		Enfance
-		Équilibre 
-		Érotisme
 		Espoir
-		Étrange
-		Être parent
 		Extase
 		Faim
-		Férocité
-		Fétiche
 		Frustration
 		Futuriste
+		Férocité
+		Fétiche
 		Guerre des sexes
 		Haute technologie
 		Horreur
@@ -319,8 +313,8 @@ Mots clés génériques
 		Liberté
 		Lubricité
 		Magie
-		Méfiance
 		Mystère
+		Méfiance
 		Non-conformité
 		Nostalgie
 		Optimisme
@@ -328,18 +322,17 @@ Mots clés génériques
 		Panique
 		Pensif
 		Possibilité
-		Précision
 		Prise de décision
 		Progrès
 		Propre
+		Précision
 		Pureté
+		Richesse
 		Répétition
 		Rétro
 		Rêverie
-		Richesse
 		Sagesse
 		Satisfaction
-		Séduction
 		Service
 		Sexe
 		Sexy
@@ -350,6 +343,7 @@ Mots clés génériques
 		Souci
 		Stress
 		Symétrie
+		Séduction
 		Tendance
 		Tendresse
 		Tentation
@@ -359,10 +353,13 @@ Mots clés génériques
 		Victoire
 		Vie nocturne
 		Violence
+		Éclat
+		Énergie
+		Équilibre 
+		Érotisme
+		Étrange
+		Être parent
 		Style de vie
-			Loisirs
-			Rapports humains
-			Relaxation
 			Adolescence
 			Amis
 			Amoureux
@@ -374,18 +371,18 @@ Mots clés génériques
 			Chic
 			Complicité
 			Créativité
-			Écotourisme
 			En mouvement
 			Enfance
-			Fêter
 			Flirter
-			Générations
+			Fêter
 			Glamour
 			Grossesse
+			Générations
 			Insouciance
 			Instant de vie
 			Jeu vidéo
 			Jeunesse 
+			Loisirs
 			Luxe
 			Maitre d’un animal domestique
 			Métrosexuel
@@ -393,9 +390,11 @@ Mots clés génériques
 			Paresse
 			Paternité
 			Polyvalence
+			Rapports humains
+			Relaxation
+			Retraite
 			Rébellion
 			Régime
-			Retraite
 			Rétro
 			Seniors actifs
 			Shopping
@@ -406,17 +405,16 @@ Mots clés génériques
 			Vie nocturne
 			Vintage
 			Voyager en voiture
+			Écotourisme
 		Santé et beauté
-			Beauté
-			Fitness
-			Santé
-			Soins de beauté
 			Acupuncture
 			Angiocardiographie
 			Aromathérapie
 			Athlétisme
 			Ballon de gymnastique
+			Beauté
 			Botox
+			Chirurgie esthétique
 			Chirurgie esthétique
 			Chouchouter
 			Club de gym
@@ -424,23 +422,18 @@ Mots clés génériques
 			Coupe de cheveux
 			Couveuse
 			Cuvette de rein
-			Chirurgie esthétique
-			Défibrillateur
+			Dentiste
 			Douceur
-			Échographie
-			Élégance
-			Épilation à la cire
-			Épiler
-			Équipement de salle de 
-			sport
+			Défibrillateur
 			Faire de l’exercice
 			Fitness
-			Gérontologie
+			Fitness
 			Glamour
 			Gracieux
 			Gymnase
-			Hématologie
+			Gérontologie
 			Homéopathie
+			Hématologie
 			Hôpital
 			Image de soi
 			Infirmier
@@ -453,56 +446,55 @@ Mots clés génériques
 			Manucure
 			Massage
 			Massage thérapeutique
-			Médecin
-			Médecine douce
 			Microbiologie
 			Micrographie
-			Pédiatrie
-			Pédicure
+			Médecin
+			Médecine douce
+			Opticien
 			Produit de beauté
 			Prothèse
 			Pureté
+			Pédiatrie
+			Pédicure
 			Rafraîchissant
 			Recherche médicale
-			Régime
 			Relooking
+			Régime
 			Salle de musculation
+			Santé
 			Santé
 			Scanner 
 			Sexy
+			Soins de beauté
 			Soins des cheveux
 			Soins du toilette
 			Soins du visage
 			Spa
+			sport
 			Tableau optométrique
+			Urgences
 			Vanité
 			Vitalité
 			Yoga
-			Dentiste
-			Opticien
-			Urgences
+			Échographie
+			Élégance
+			Épilation à la cire
+			Épiler
+			Équipement de salle de 
 		Voyages
-			Attraction touristique
-			Coutumes et célébrations
-			Paysage rural
-			Scène marine
-			Scènes urbaines
-			Transports
-			Vacances 
-			Voyage
-			Camping
-			Sac à dos
-			Aéroport
 			Architecture
+			Attraction touristique
 			Automobile
 			Aventure
 			Avion de ligne
+			Aéroport
 			Bronzer
 			Campagne
+			Camping
 			Coucher de soleil
+			Coutumes et célébrations
 			Crépuscule
 			Détente
-			Été
 			Exotique
 			Horizons
 			Idyllique
@@ -513,56 +505,62 @@ Mots clés génériques
 			Nourriture et boisson
 			Panoramique
 			Paysage
+			Paysage rural
 			Paysages marins
 			Pittoresque
 			Plaisir
 			Point culminant
 			Relaxation
+			Sac à dos
+			Scène marine
+			Scènes urbaines
 			Sérénité
 			S’évader
 			Tourisme
 			Touriste
 			Train
+			Transports
+			Vacances 
 			Valise
 			Vie nocturne
+			Voyage
 			Voyager en voiture
+			Été
 		Nature et faune
 			Animal
-			Faune sauvage
-			Flore
-			Météo
-			Monde naturel
-			Panoramique
-			Paysage
-			Paysages marins
-			Plein air
-			À la surface de l’eau
 			Animaux juste éclos 
 			Aube
 			Camouflage
 			Charognard
 			Chien (ou Canis familiaris)
 			Coucher de soleil
-			Découverte
 			Desquamation
 			Desséché
-			Écume
+			Découverte
 			En rut
-			Férocité
+			Faune sauvage
+			Flore
 			Fourrés
+			Férocité
 			Gibier d’eau
 			Horizon
 			Lointain
 			Lune
 			Luxuriant
 			Majestueux
-			Métamorphose
+			melanoleuca)
+			Monde naturel
 			Muer
+			Métamorphose
+			Météo
 			Neige
 			Panda géant (ou Ailuropoda 
-			melanoleuca)
+			Panoramique
 			Parade nuptiale
 			Pastoral
+			Paysage
+			Paysages marins
+			Plein air
 			Prédateur
 			Savane
 			Scène sous-marine
@@ -571,24 +569,23 @@ Mots clés génériques
 			Silhouette 
 			Solitude
 			Vue en orbite basse
+			À la surface de l’eau
+			Écume
 		Affaire et communication
-			Affaires et commerce
-			Communication
-			Métiers et travail
 			Accomplissement
+			Affaires et commerce
 			Ambition
 			Assurance
 			Brainstorming 
+			Communication
 			Connectivité
 			Croissance
 			Deadline
-			Défi
 			Données
-			Échec
+			Défi
 			Employé de bureau
 			En mouvement
 			Entretien d’embauche
-			Évolution de carrière 
 			Femme d’affaires
 			Flirt au bureau
 			Gestion du temps
@@ -600,6 +597,7 @@ Mots clés génériques
 			Le temps c’est de l’argent
 			Leadership
 			Mobilité
+			Métiers et travail
 			Occupé
 			Ordinateur
 			Ordinateur portable
@@ -616,41 +614,42 @@ Mots clés génériques
 			SMS
 			Stratégie
 			Surmené
+			Travail d’équipe
 			Télécommunications
 			Télétravail
-			Travail d’équipe
 			Utilisateur d’ordinateur
 			Voyage d’affaires
 			WiFi
+			Échec
+			Évolution de carrière 
 		Maison et architecture
 			Architecture
 			Architecture paysagère
 			Décoration intérieure
 				Styles
 					Antebellum
-					Roman
-					Gothique
 					Art déco
 					Art nouveau
 					Bauhaus
 					Brutaliste
+					Colonial
 					Contemporain
 					Déconstructiviste
-					Éclectique
 					Fédéral
-					Mauresque
-					Colonial
-					Le Corbusier
+					Gothique
 					Hausmannien
-						{Néo-classique américain}
 					Industriel
+					Le Corbusier
+					Mauresque
 					Minimalisme 
 					Moderniste
+					Néo-classique américain
 					Néo-colonial espagnol
 					Néo-grec
 					Néo-Tudor
 					Ouest Americain
 					Post-moderne
+					Roman
 					Rétro
 					Shabby chic
 					Style anglais
@@ -668,15 +667,16 @@ Mots clés génériques
 					Style scandinave
 					Style traditionnel
 					Victorien
+					Éclectique
 				Acier inoxydable
 				Animal empaillé
-				Armoire à porcelaine
 				Armoire vitrée
+				Armoire à porcelaine
 				Bardage de planches
-				Bâtiment à colombages
-				Bâtiment industriel converti
 				Bougeoir mural
 				Bureau à la maison
+				Bâtiment industriel converti
+				Bâtiment à colombages
 				Cabane en rondins
 				Cabine de douche
 				Cabinet de travail
@@ -687,15 +687,12 @@ Mots clés génériques
 				Couleurs neutres
 				Cuisine
 				Dosseret
-				Éclairage encastré
-				Évier à tablier avant
 				Fauteuil club
 				Fenêtre en ogive
 				Gland
 				Home cinéma
 				Hotte
 				Housses
-				Îlot central de cuisine
 				Lambris
 				Lit à baldaquin
 				Loft
@@ -716,6 +713,9 @@ Mots clés génériques
 				Sol carrelé
 				Suspension
 				Taie d’oreiller
-				Tête de lit
 				Tourelle
+				Tête de lit
 				Véranda
+				Éclairage encastré
+				Évier à tablier avant
+				Îlot central de cuisine
