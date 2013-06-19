@@ -63,6 +63,7 @@ Mots clés génériques
 			Jeune adulte
 			La vingtaine
 			Nouveau-né
+			Nonagénaire
 			Octogénaire et plus
 			Pré-adolescent
 			Quadragénaire
@@ -97,11 +98,13 @@ Mots clés génériques
 			Américain
 			Amérindien
 			Argentin
+			Anglais
 			Asiatique de l'Est
 			Asiatique de l'Est et du Sud-Est
 			Asiatique du Sud-Est
 			Brésilien
 			Cambodgien
+			Caucasien
 			Chilien
 			Chinois
 			Coréen
@@ -139,6 +142,7 @@ Mots clés génériques
 			Afro
 			Allongé
 			Calvitie
+			Chauve
 			Cheveux blonds
 			Cheveux bouclés
 			Cheveux bruns 
@@ -147,6 +151,7 @@ Mots clés génériques
 			Cheveux longs
 			Cheveux roux
 			Corpulent
+			Grand
 			Gros
 			Maigre
 			Dents manquantes
@@ -188,6 +193,7 @@ Mots clés génériques
 		Mouvement
 		Multicolore
 		Nature morte
+		Nu
 		Nuit
 		Partie du corps
 		Point de vue personnel
@@ -212,6 +218,8 @@ Mots clés génériques
 		Cadrage à la taille
 		Carré
 		Composition
+		Contre-jour
+		Contre-plongée
 		Effet de perspective
 		Espace texte
 		Fort grossissement
@@ -228,13 +236,17 @@ Mots clés génériques
 		Nature morte
 		Objet ou sujet détouré
 		Panoramique
+		Plan général
 		Plan moyen
 		Plan rapproché
 		Plan très rapproché
 		Plein cadre
+		Plongée
 		Point de fuite
 		Regardant l'objectif
 		Série
+		Sous-exposition
+		Surexposition
 		Tracé de détourage
 		Tête
 		Tête et épaules
