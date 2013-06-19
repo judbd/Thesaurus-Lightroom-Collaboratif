@@ -150,12 +150,9 @@ Mots clés génériques
 			Cheveux longs
 			Cheveux roux
 			Corpulent
-<<<<<<< HEAD
-=======
 			Grand
 			Gros
 			Maigre
->>>>>>> 18c12870408e9839ebd4a6e6173580ad086ac350
 			Dents manquantes
 			Grimaçant
 			Gros
@@ -177,8 +174,6 @@ Mots clés génériques
 			Yeux levés
 			À la mode
 	Composition et type de photo
-<<<<<<< HEAD
-=======
 		Sous-marine
 		Aérienne
 		Intérieur
@@ -217,7 +212,6 @@ Mots clés génériques
 		En pied
 		Plan américain
 		Photo de studio 
->>>>>>> 18c12870408e9839ebd4a6e6173580ad086ac350
 		Abstrait
 		Arrêt sur image
 		Astronomique
@@ -229,15 +223,12 @@ Mots clés génériques
 		Cadrage à la taille
 		Carré
 		Composition
-<<<<<<< HEAD
 		Contre-plongée
 		Coupe
 		Détourable
 		Détourage
-=======
 		Contre-jour
 		Contre-plongée
->>>>>>> 18c12870408e9839ebd4a6e6173580ad086ac350
 		Effet de perspective
 		En pied
 		En rang
@@ -272,13 +263,10 @@ Mots clés génériques
 		Nuit
 		Objet ou sujet détouré
 		Panoramique
-<<<<<<< HEAD
 		Partie du corps
 		Photo de studio 
 		Plan américain
-=======
 		Plan général
->>>>>>> 18c12870408e9839ebd4a6e6173580ad086ac350
 		Plan moyen
 		Plan rapproché
 		Plan très rapproché
@@ -293,12 +281,9 @@ Mots clés génériques
 		Silhouette
 		Sous-marine
 		Série
-<<<<<<< HEAD
 		Texture
-=======
 		Sous-exposition
 		Surexposition
->>>>>>> 18c12870408e9839ebd4a6e6173580ad086ac350
 		Tracé de détourage
 		Tête
 		Tête et épaules
@@ -779,12 +764,8 @@ Mots clés génériques
 				Suspension
 				Taie d’oreiller
 				Tourelle
-<<<<<<< HEAD
 				Tête de lit
 				Véranda
 				Éclairage encastré
 				Évier à tablier avant
 				Îlot central de cuisine
-=======
-				Véranda
->>>>>>> 18c12870408e9839ebd4a6e6173580ad086ac350
