@@ -209,6 +209,15 @@ Continents et pays
 			{Argentina}
 			{AR}
 			{ARG}
+			Bariloche
+			Buenos Aires
+			Cordoba
+		   	Porteños
+			Puerto Valdes
+			Puerto Gallego
+			San Martin de los Andes
+			Ushuaia
+			
 		Bahamas
 			{BS}
 			{BHS}
