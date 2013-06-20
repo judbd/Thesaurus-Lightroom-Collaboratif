@@ -659,6 +659,239 @@ Continents et pays
 			{Thailand}
 			{TH}
 			{THA}
+			{thaïland}
+                	{Thaïlande}
+			{thailande}
+			{Thailand}
+			{la thailande}
+			{la Thaïlande}
+			{Siam}
+			{royaume du Siam}
+			{pays du sourire}
+			{la thailane}
+			Ayutthaya
+		{ayutthaya}
+		{ayutaya}
+		{ayuthaya}
+		Bang Pa-in
+		Phranakhon Si Ayutthaya
+		ratchaburana
+		Talard
+		Village japonnais
+		Wat Mahathat
+		Wat Phra Ram
+		Wat Phra Si Sanphet
+		Wat Ratchaburana
+		Wat Yai chaya mongkol
+	Bang Pa-In
+	Bangkok
+		Ban Bang Si Khot
+		Ban Khlong Bang Bon
+		Ban Khok Krabu
+		Ban Rang Pho
+		Bang Bon
+		Bang Khae
+		Bang Khun Thian
+		Bangkok Noi
+		Chao Phraya
+			{chao praya}
+		Chao Praya
+		Ko Kret
+			{koo kret}
+			{koh khret}
+			{koh klet}
+		Maeklong
+		Muang Samut Sakhon
+		Muang Samut Songkhram
+		Samut Sakhon
+		Samut Songkhram
+			{Samutsongkhram}
+			Nong Khaem
+		Wat Phra Keao
+	Cha Am
+	Chanthaburi
+		Parc du roi Thaksin
+		Wat Manqkon Buppharam
+	Chiang Maï
+		Ban Muang Pha
+		Ban San Pa Lan
+		Ban Thung Kwian
+		Hang Chat
+		Lampang
+		Lamphun
+		Mae Rim
+		Muang Chiang Mai
+		Muang Lamphun
+		San Kamphaeng
+		Tha Ton
+		Wat Phra Sing
+		Wat Phrathat Doi Suthep
+			{temple}
+			{Doi Suthep}
+		wat phrathat Doi Suthep Rajvoravihara
+	Chiang Raï
+		Ban Pa Tung (7)
+		Ban Pa Yang (3)
+		Ban Ton Pom
+		Bo Sang
+		Muang Chiang Rai
+		Wat rong khun
+	Hua Hin
+	I-san
+		{Issan}
+		Amphoe Si Chiang Mai
+		Amphoe Tha Bo
+		Ban Don Ko
+		Ban Hua Sai
+		Ban Khwao Sinarin
+		Ban Kong Nang
+		Ban Na Ngam Tai
+		Ban Nam Mong
+		Ban Phon Thong
+		Ban Ta Klang
+		ban thai tha bo
+		Khon Kaen
+			Gare routière
+			Udon Thani
+		Muang Nakhon Phanom
+		Muang Rayong
+		Mukdahan
+		Nakhon Phanom
+			Ban Noi Pho Kham
+		Nam Som
+		Nong Khai
+		Phra Nakhon Si Ayutthaya
+		Pla Plak
+		Prasat Si Khoraphum
+			{Wat Si Khoraphum}
+		Renu Nakhon
+		Si Chiang Mai
+		Surin
+			Ban Chan Rom
+			Prasat Hin Muang Tam
+				{temple}
+			Prasat Phanom Rung
+				{temple}
+				{wat}
+			Prasat Sikhoraphum
+				{temple}
+				{wat}
+			Prasat Ta Muean
+				{temple}
+				{wat}
+			Réservoir Huai Saneng
+				{retenue d'eau}
+				{barrage}
+				{eau}
+				{reservoir}
+				{lac}
+				{étang}
+				{etang}
+			village des éléphants
+		Tha Bo
+	Kao Lak
+	Khao Lak
+		{Kao Lak}
+		{kaolak}
+		{khaolak}
+		Ao Pakharang
+			{pakarang}
+		Chong Fah
+			{water fall}
+			{nam tok}
+		Tapuaka
+	Krabi
+		Ao Luk
+		Ban Ao Nang
+		Ban Khlong Mo
+		Ban Khlong Muang
+		Ban Khru Toei
+		Ban Laem Pho
+		Ban Pu Toei
+		Ban Tai
+		Koh Kaï
+		Koh Poda
+		Nua Khlong
+		Panom Bencha Mountain
+		Phanom Bencha Mountain
+			{panom bencha mountain}
+			{hotel}
+			{hôtel}
+		Railay Beach
+		Sakéo
+		Sra Morakot
+		Trang
+			Sra Nam Put
+		Wat Kaeo Porawaram
+		Wat Thum Sua
+	Kuraburi
+		{Khuraburi}
+		{Khura Buri}
+		{Kura Buri}
+	Nathon Pathom
+	Pak Kret
+		{pak kret}
+		Ko Kret
+			{kokret}
+			{ko kret}
+	Patong
+	Phuket
+		Ban Kamala
+		Ban Na Nai
+		Ban Patong
+		Chalong
+		Chalong   Bay
+		Chalong Bay
+			{chalong bay}
+			{baie de Chalong}
+		Kathu
+		Koh Yao Noï
+			{ko yao noi}
+			{ile}
+		Patong
+		Phuket town
+		Rawaï
+		Talang
+			Wat Phra Tong
+				{temple}
+		Wat Sapam Thammaram
+			{temple Sapam Thammaram}
+	Pranburi
+		{Pran Buri}
+		Phraya Nakhon cave
+	Ranong
+		baan thalaenok
+			{Ban Thalae nok}
+			{baan talaenork}
+			{baan thalaenork}
+		Koh Payam
+			{ko pa-yam}
+	Rayong
+	Sukhothai
+		Ban Dan Lan Hoi
+		Wat Sa Si
+	Trat
+		Ban Nam Chieo
+		Ban Plai Khlong
+		Ban Pu Resort
+		Ban Wat Yom
+		Koh Chang
+			{ko chang}
+			{ile de Ko Chang}
+			{kho chang}
+			{île}
+			{kho}
+			{koh}
+			Ban Phai Bae
+			Ban Suan Yai
+			Bang Bao
+		Koh Mak
+			{Koh Maak}
+			{kho Mak}
+			{kho Maak}
+		Laem Ngop
+
+			
 		Timor oriental
 			{East Timor}
 			{TL}
