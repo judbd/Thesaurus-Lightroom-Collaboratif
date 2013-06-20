@@ -1,4 +1,4 @@
-Continents et pays
+[Continents et pays]
 	Afrique
 		{Africa}
 		Afrique du Sud
@@ -33,23 +33,10 @@ Continents et pays
 			{Cape Verde}
 			{CV}
 			{CPV}
-		République centrafricaine
-			{Central African Republic}
-			{CF}
-			{CAF}
 		Comores
 			{Comoros}
 			{KM}
 			{COM}
-		République du Congo
-			{Congo}
-			{Congo-Brazzaville}
-			{CD}
-			{COG}
-		République démocratique du Congo
-			{The Democratic Republic of the Congo}
-			{CD}
-			{COD}
 		Côte d'Ivoire
 			{Ivory Coast}
 			{CI}
@@ -83,14 +70,14 @@ Continents et pays
 			{Guinea}
 			{GN}
 			{GIN}
-		Guinée-Bissau
-			{Guinea-Bissau}
-			{GW}
-			{GNB}
 		Guinée équatoriale
 			{Equatorial Guinea}
 			{GQ}
 			{GNQ}
+		Guinée-Bissau
+			{Guinea-Bissau}
+			{GW}
+			{GNB}
 		Kenya
 			{KE}
 			{KEN}
@@ -144,6 +131,23 @@ Continents et pays
 			{Uganda}
 			{UG}
 			{UGA}
+		Pount
+			{Puntland}
+		République arabe sahraouie démocratique
+			{Sahrawi Arab Democratic Republic}
+		République centrafricaine
+			{Central African Republic}
+			{CF}
+			{CAF}
+		République démocratique du Congo
+			{The Democratic Republic of the Congo}
+			{CD}
+			{COD}
+		République du Congo
+			{Congo}
+			{Congo-Brazzaville}
+			{CD}
+			{COG}
 		Rwanda
 			{RW}
 			{RWA}
@@ -164,6 +168,7 @@ Continents et pays
 			{Somalia}
 			{SO}
 			{SOM}
+		Somaliland
 		Soudan
 			{Sudan}
 			{SD}
@@ -197,11 +202,6 @@ Continents et pays
 		Zimbabwe
 			{ZW}
 			{ZWE}
-		Pount
-			{Puntland}
-		République arabe sahraouie démocratique
-			{Sahrawi Arab Democratic Republic}
-		Somaliland
 	Amérique
 		{America}
 		Antigua-et-Barbuda
@@ -227,33 +227,33 @@ Continents et pays
 			{Brazil}
 			{BR}
 			{BRA}
-			Roraima
+			Acre
+			Alagoas
 			Amapá
 			Amazonas
-			Pará
-			Tocantins
-			Acre
-			Rondônia
-			Maranhão
-			Piauí
-			Ceará
-			Rio Grande do Norte
-			Paraíba
-			Pernambuco
-			Alagoas
-			Sergipe
 			Bahia
-			Mato Grosso
-			Goiás
+			Ceará
 			Distrito Federal
+			Espírito Santo
+			Goiás
+			Maranhão
+			Mato Grosso
 			Mato Grosso do Sul
 			Minas Gerais
-			Espírito Santo
-			Rio de Janeiro
-			São Paulo
+			Pará
+			Paraíba
 			Paraná
-			Santa Catarina
+			Pernambuco
+			Piauí
+			Rio de Janeiro
+			Rio Grande do Norte
 			Rio Grande do Sul
+			Rondônia
+			Roraima
+			Santa Catarina
+			São Paulo
+			Sergipe
+			Tocantins
 		Canada
 			{CA}
 			{CAN}
@@ -271,10 +271,6 @@ Continents et pays
 		Cuba
 			{CU}
 			{CUB}
-		République dominicaine
-			{Dominican Republic}
-			{DO}
-			{DOM}
 		Dominique
 			{Dominica}
 			{DM}
@@ -438,6 +434,10 @@ Continents et pays
 			{Peru}
 			{PE}
 			{PER}
+		République dominicaine
+			{Dominican Republic}
+			{DO}
+			{DOM}
 		Saint-Christophe-et-Niévès
 			{Saint Kitts and Nevis}
 			{KN}
@@ -511,39 +511,39 @@ Continents et pays
 			{China}
 			{CN}
 			{CHN}
-			Guangdong
-			Shandong
-			Henan
-			Sichuan
-			Jiangsu
-			Hebei
-			Hunan
 			Anhui
-			Hubei
-			Zhejiang
-			Guangxi
-			Yunnan
-			Jiangxi
-			Liaoning
-			Heilongjiang
-			Shaanxi
-			Fujian
-			Shanxi
-			Guizhou
 			Chongqing
-			Jilin
+			Fujian
 			Gansu
-			Mongolie-Intérieure
-			Shanghai
-			Xinjiang
-			Pékin
-			Tianjin
+			Guangdong
+			Guangxi
+			Guizhou
 			Hainan
+			Hebei
+			Heilongjiang
+			Henan
 			Hong Kong
-			Ningxia
-			Qinghai
-			Tibet
+			Hubei
+			Hunan
+			Jiangsu
+			Jiangxi
+			Jilin
+			Liaoning
 			Macao
+			Mongolie-Intérieure
+			Ningxia
+			Pékin
+			Qinghai
+			Shaanxi
+			Shandong
+			Shanghai
+			Shanxi
+			Sichuan
+			Tianjin
+			Tibet
+			Xinjiang
+			Yunnan
+			Zhejiang
 		Corée du Nord
 			{North Korea}
 			{KP}
@@ -598,6 +598,7 @@ Continents et pays
 			{Kuwait}
 			{KW}
 			{KWT}
+		Kurdistan
 		Laos
 			{LA}
 			{LAO}
@@ -627,13 +628,13 @@ Continents et pays
 			{Uzbekistan}
 			{UZ}
 			{UZB}
+		Pakistan
+			{PK}
+			{PAK}
 		Palestine
 			{Palestine}
 			{PS}
 			{PSE}
-		Pakistan
-			{PK}
-			{PAK}
 		Philippines
 			{PH}
 			{PHL}
@@ -659,6 +660,7 @@ Continents et pays
 			{Thailand}
 			{TH}
 			{THA}
+		Tibet
 		Timor oriental
 			{East Timor}
 			{TL}
@@ -678,8 +680,6 @@ Continents et pays
 			{Yemen}
 			{YE}
 			{YEM}
-		Kurdistan
-		Tibet
 	Europe
 		Albanie
 			{Albania}
@@ -940,6 +940,10 @@ Continents et pays
 		Portugal
 			{PT}
 			{PRT}
+		République tchèque
+			{Czech Republic}
+			{CZ}
+			{CZE}
 		Roumanie
 			{Romania}
 			{RO}
@@ -976,10 +980,6 @@ Continents et pays
 			{Switzerland}
 			{CH}
 			{CHE}
-		République tchèque
-			{Czech Republic}
-			{CZ}
-			{CZE}
 		Ukraine
 			{UA}
 			{UKR}
