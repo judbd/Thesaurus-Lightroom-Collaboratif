@@ -69,6 +69,10 @@ Continents et pays
 			{Ethiopia}
 			{ET}
 			{ETH}
+			Addis Abbeba
+			Arba Minch
+			Konso
+			Ogaden
 		Gabon
 			{GA}
 			{GAB}
