@@ -10,12 +10,10 @@ Mots clés génériques
 			Femme dans un groupe d'hommes
 			Foule
 			Grand groupe de personnes
-			Grand groupe de personnes
 			Groupe de personnes
 			Groupe moyen de personnes
 			Homme dans un groupe de femmes
 			Nombre de personnes
-			Petit groupe de personnes
 			Petit groupe de personnes
 			Présence humaine
 			Quatre personnes
@@ -156,7 +154,6 @@ Mots clés génériques
 			Gros
 			Gros
 			Maigre
-			Maigre
 			Mince
 			Musclé
 			Nu
@@ -191,41 +188,26 @@ Mots clés génériques
 		Coupe
 		Coupe
 		Détourable
-		Détourable
 		Détourage
-		Détourage
+		Eclairage
 		Effet de perspective
 		En pied
-		En pied
-		En rang
 		En rang
 		Espace texte
 		Exposition multiple
-		Exposition multiple
 		Extérieur
-		Extérieur
-		Extérieur
-		Extérieur
-		Flou
 		Flou
 		Fort grossissement
 		Gros plan
-		Gros plan
 		Grossissement
-		Horizon
 		Horizon
 		Horizontal
 		Image dépouillée
 		Image multiple
 		Image saisie sur le vif
 		Image simple
-		Image simple
 		Image séquentielle
 		Intérieur
-		Intérieur
-		Intérieur
-		Intérieur
-		Jour
 		Jour
 		Macro
 		Microphotographie immunofluorescente
@@ -235,20 +217,13 @@ Mots clés génériques
 		Motif en filet
 		Motif en filet
 		Mouvement
-		Mouvement
 		Multicolore
-		Multicolore
-		Nature morte
-		Nature morte
 		Nature morte
 		Nu
-		Nuit
 		Nuit
 		Objet ou sujet détouré
 		Panoramique
 		Partie du corps
-		Partie du corps
-		Photo de studio 
 		Photo de studio 
 		Plan américain
 		Plan américain
@@ -260,22 +235,17 @@ Mots clés génériques
 		Plongée
 		Point de fuite
 		Point de vue personnel
-		Point de vue personnel
+		Portrait
 		Pris sur le vif
-		Pris sur le vif
+		Réflecteur
 		Regardant l'objectif
 		Regarde l’objectif
-		Regarde l’objectif
 		Rétro-éclairé
-		Rétro-éclairé
-		Silhouette
 		Silhouette
 		Sous-exposition
 		Sous-marine
-		Sous-marine
 		Surexposition
 		Série
-		Texture
 		Texture
 		Tracé de détourage
 		Tête
@@ -286,12 +256,8 @@ Mots clés génériques
 		Vue aérienne
 		Vue aérienne
 		Vue de dos
-		Vue de face
-		Vue de face 
 		Vue de face 
 		Vue d’en dessous 
-		Vue d’en dessous 
-		Vue d’en haut
 		Vue d’en haut
 		Vue en plan incliné
 		Vue en plan incliné
