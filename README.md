@@ -20,9 +20,6 @@ Voici quelques règles pour contribuer à ces thesaurus
 Thesaurus Pays du monde
 -----------------------
 
-The following markups are supported.  The dependencies listed are required if
-you wish to run the library.
-
 * Continents en français et anglais
 * Pays du monde en français, anglais, code ISO 3166-1 (2 lettres) et 3 lettre
 * États des États-Unis en français, anglais, et code sur 2 lettres
