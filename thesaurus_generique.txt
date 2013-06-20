@@ -140,8 +140,8 @@ Mots clés génériques
 		Caractéristiques physiques
 			Afro
 			Allongé
-			Calvitie
 			Chauve
+				{Calvitie}
 			Cheveux blonds
 			Cheveux bouclés
 			Cheveux bruns 
@@ -150,12 +150,12 @@ Mots clés génériques
 			Cheveux longs
 			Cheveux roux
 			Corpulent
-			Grand
-			Gros
-			Maigre
 			Dents manquantes
+			Grand
 			Grimaçant
 			Gros
+			Gros
+			Maigre
 			Maigre
 			Mince
 			Musclé
@@ -174,45 +174,8 @@ Mots clés génériques
 			Yeux levés
 			À la mode
 	Composition et type de photo
-		Sous-marine
-		Aérienne
-		Intérieur
-		Extérieur
-		Arrêt sur image
-		Coupe
-		Détourable
-		Détourage
-		En rang
-		Exposition multiple
-		Extérieur
-		Flou
-		Gros plan
-		Horizon
-		Image simple
-		Intérieur
-		Jour
-		Motif en filet
-		Mouvement
-		Multicolore
-		Nature morte
-		Nu
-		Nuit
-		Partie du corps
-		Point de vue personnel
-		Pris sur le vif
-		Regarde l’objectif
-		Rétro-éclairé
-		Silhouette
-		Texture
-		Vue aérienne
-		Vue de face 
-		Vue d’en dessous 
-		Vue d’en haut
-		Vue en plan incliné
-		En pied
-		Plan américain
-		Photo de studio 
 		Abstrait
+		Arrêt sur image
 		Arrêt sur image
 		Astronomique
 		Aérienne
@@ -223,32 +186,46 @@ Mots clés génériques
 		Cadrage à la taille
 		Carré
 		Composition
-		Contre-plongée
-		Coupe
-		Détourable
-		Détourage
 		Contre-jour
 		Contre-plongée
+		Coupe
+		Coupe
+		Détourable
+		Détourable
+		Détourage
+		Détourage
 		Effet de perspective
 		En pied
+		En pied
+		En rang
 		En rang
 		Espace texte
 		Exposition multiple
+		Exposition multiple
+		Extérieur
+		Extérieur
 		Extérieur
 		Extérieur
 		Flou
+		Flou
 		Fort grossissement
 		Gros plan
+		Gros plan
 		Grossissement
+		Horizon
 		Horizon
 		Horizontal
 		Image dépouillée
 		Image multiple
 		Image saisie sur le vif
 		Image simple
+		Image simple
 		Image séquentielle
 		Intérieur
 		Intérieur
+		Intérieur
+		Intérieur
+		Jour
 		Jour
 		Macro
 		Microphotographie immunofluorescente
@@ -256,15 +233,24 @@ Mots clés génériques
 		Microscopie optique
 		Microscopie électronique
 		Motif en filet
+		Motif en filet
 		Mouvement
+		Mouvement
+		Multicolore
 		Multicolore
 		Nature morte
 		Nature morte
+		Nature morte
+		Nu
+		Nuit
 		Nuit
 		Objet ou sujet détouré
 		Panoramique
 		Partie du corps
+		Partie du corps
 		Photo de studio 
+		Photo de studio 
+		Plan américain
 		Plan américain
 		Plan général
 		Plan moyen
@@ -274,16 +260,23 @@ Mots clés génériques
 		Plongée
 		Point de fuite
 		Point de vue personnel
+		Point de vue personnel
+		Pris sur le vif
 		Pris sur le vif
 		Regardant l'objectif
 		Regarde l’objectif
+		Regarde l’objectif
+		Rétro-éclairé
 		Rétro-éclairé
 		Silhouette
+		Silhouette
+		Sous-exposition
 		Sous-marine
+		Sous-marine
+		Surexposition
 		Série
 		Texture
-		Sous-exposition
-		Surexposition
+		Texture
 		Tracé de détourage
 		Tête
 		Tête et épaules
@@ -291,11 +284,16 @@ Mots clés génériques
 		Vue au microscope électronique à balayage en réflexion
 		Vue au microscope électronique à transmission
 		Vue aérienne
+		Vue aérienne
 		Vue de dos
 		Vue de face
 		Vue de face 
+		Vue de face 
+		Vue d’en dessous 
 		Vue d’en dessous 
 		Vue d’en haut
+		Vue d’en haut
+		Vue en plan incliné
 		Vue en plan incliné
 	Concepts
 		Agilité
@@ -530,7 +528,7 @@ Mots clés génériques
 			Élégance
 			Épilation à la cire
 			Épiler
-			Équipement de salle de 
+			Équipement de salle de sport
 		Voyages
 			Architecture
 			Attraction touristique
