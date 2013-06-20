@@ -1,195 +1,20 @@
-Mots clés génériques
-	Personnes
-		Nombre de personnes
-			Assemblée de fidèles
-			Aucune personne
-			Cinq personnes
-			Cohue
-			Couple
-			Deux personnes
-			Femme dans un groupe d'hommes
-			Foule
-			Grand groupe de personnes
-			Groupe de personnes
-			Groupe moyen de personnes
-			Homme dans un groupe de femmes
-			Nombre de personnes
-			Petit groupe de personnes
-			Présence humaine
-			Quatre personnes
-			Sans personnage
-			Trois personnes
-			Une personne et un groupe
-			Une seule personne
-			Équipe sportive
-		Age
-			0-1 mois
-			0-11 mois
-			10-11 ans
-			12-13 ans
-			12-17 mois
-			12-23 mois
-			14-15 ans
-			16-17 ans
-			18-19 ans
-			18-25 Mois
-			2-3 ans
-			2-5 mois
-			20-25 ans
-			25-30 ans
-			30-35 ans
-			35-40 ans
-			4-5 ans
-			40-45 ans
-			45-50 ans
-			50-55 ans
-			55-60 ans
-			6-11 mois
-			6-7 ans
-			60-65 ans
-			65-70 ans
-			8-9 ans
-			Adolescent
-			Adulte
-			Adulte d'âge moyen
-			Adulte d'âge mûr
-			Bébé
-			Bébé prématuré
-			Enfant
-			Enfant d'âge pré-scolaire
-			Enfant d'âge scolaire
-			Jeune adulte
-			La vingtaine
-			Nouveau-né
-			Nonagénaire
-			Octogénaire et plus
-			Pré-adolescent
-			Quadragénaire
-			Quinquagénaire
-			Septuagénaire
-			Seulement des adolescents ou adolescentes
-			Seulement des adultes
-			Seulement des bébés
-			Seulement des enfants
-			Sexagénaire
-			Trentenaire
-			Troisième âge
-			Âge humain
-			Âges mélangés
-		Sexe
-			Femmes
-			Hommes
-			Personnes féminines
-			Personnes masculines
-			Petites filles
-			Petits garçons
-			Seulement des femmes
-			Seulement des hommes
-			Seulement des petites filles
-			Seulement des petits garçons
-			Un seul homme
-			Une seule femme
-		Ethnicité et Nationalité
-			Afro-caraïbien
-			Américain
-			Amérindien
-			Arabe
-			Argentin
-			Anglais
-			Asiatique de l'Est
-			Asiatique de l'Est et du Sud-Est
-			Asiatique du Sud-Est
-			Blanc
-			Brésilien
-			Cambodgien
-			Caucasien
-			Chilien
-			Chinois
-			Coréen
-			Cubain
-			D'origine africaine
-			Dominicain
-			Européen du Nord
-			Européen du Sud
-			Français
-			Groupe multi-ethnique
-			Habitant des îles du Pacifique
-			Haïtien
-			Hispanique
-			Indien d'Inde
-			Japonais
-			Latino-américain
-			Mexicain
-			Moyen-oriental
-			Métis
-			Noir
-			Noir américain
-			Origine ethnique
-			Pakistanais
-			Personne de race blanche
-			personne et un groupe
-			Peuple du sous-continent indien
-			Peuples d'Asie et du sous-continent indien
-			Philippin
-			Portoricain
-			Russe
-			Scandinave
-			Vietnamien
-		Caractéristiques physiques
-			Afro
-			Allongé
-			Chauve
-				{Calvitie}
-			Cheveux blonds
-			Cheveux bouclés
-			Cheveux bruns 
-			Cheveux courts
-			Cheveux gris
-			Cheveux longs
-			Cheveux roux
-			Corpulent
-			Dents manquantes
-			Grand
-			Grimaçant
-			Gros
-			Gros
-			Maigre
-			Mince
-			Musclé
-			Nu
-			Pieds nus
-			Posant
-			queue de cheval
-			Regarde l’objectif
-			Rire
-			Sexy
-			Souriant
-			Taille forte
-			Torse nu
-			Tête et épaules
-			Yeux baissés
-			Yeux levés
-			À la mode
+[Mots clés génériques]
 	Composition et type de photo
 		Abstrait
-		Arrêt sur image
+		Aérienne
 		Arrêt sur image
 		Astronomique
-		Aérienne
 		Bordure
 		Bordure noire
+		Cadrage à la taille
 		Cadrage aux genoux
 		Cadrage en pied
-		Cadrage à la taille
 		Carré
 		Composition
-		Contre-jour
 		Contre-plongée
-		Coupe
 		Coupe
 		Détourable
 		Détourage
-		Eclairage
 		Effet de perspective
 		En pied
 		En rang
@@ -205,29 +30,25 @@ Mots clés génériques
 		Image dépouillée
 		Image multiple
 		Image saisie sur le vif
-		Image simple
 		Image séquentielle
+		Image simple
 		Intérieur
 		Jour
 		Macro
 		Microphotographie immunofluorescente
 		Microscopie
-		Microscopie optique
 		Microscopie électronique
-		Motif en filet
+		Microscopie optique
 		Motif en filet
 		Mouvement
 		Multicolore
 		Nature morte
-		Nu
 		Nuit
 		Objet ou sujet détouré
 		Panoramique
 		Partie du corps
-		Photo de studio 
+		Photo de studio
 		Plan américain
-		Plan américain
-		Plan général
 		Plan moyen
 		Plan rapproché
 		Plan très rapproché
@@ -235,33 +56,78 @@ Mots clés génériques
 		Plongée
 		Point de fuite
 		Point de vue personnel
-		Portrait
 		Pris sur le vif
-		Réflecteur
 		Regardant l'objectif
 		Regarde l’objectif
 		Rétro-éclairé
-		Silhouette
-		Sous-exposition
-		Sous-marine
-		Surexposition
 		Série
-		Texture
-		Tracé de détourage
+		Silhouette
+		Sous-marine
 		Tête
 		Tête et épaules
+		Texture
+		Tracé de détourage
 		Vertical
+		Vue aérienne
 		Vue au microscope électronique à balayage en réflexion
 		Vue au microscope électronique à transmission
-		Vue aérienne
-		Vue aérienne
-		Vue de dos
-		Vue de face 
-		Vue d’en dessous 
+		Vue d’en dessous
 		Vue d’en haut
-		Vue en plan incliné
+		Vue de dos
+		Vue de face
 		Vue en plan incliné
 	Concepts
+		Affaire et communication
+			Accomplissement
+			Affaires et commerce
+			Ambition
+			Assurance
+			Brainstorming
+			Communication
+			Connectivité
+			Croissance
+			Deadline
+			Défi
+			Données
+			Échec
+			Employé de bureau
+			En mouvement
+			Entretien d’embauche
+			Évolution de carrière
+			Femme d’affaires
+			Flirt au bureau
+			Gestion du temps
+			Haute technologie
+			Homme d’affaires
+			Idées
+			Information
+			Internet
+			Le temps c’est de l’argent
+			Leadership
+			Métiers et travail
+			Mobilité
+			Occupé
+			Ordinateur
+			Ordinateur portable
+			Organisation
+			PDA
+			Plafond de verre
+			Podcasting
+			Polyvalence
+			Pression
+			Promotion
+			Réseau
+			Réunion d’affaires
+			Service
+			SMS
+			Stratégie
+			Surmené
+			Télécommunications
+			Télétravail
+			Travail d’équipe
+			Utilisateur d’ordinateur
+			Voyage d’affaires
+			WiFi
 		Agilité
 		Amitié
 		Amour
@@ -274,10 +140,11 @@ Mots clés génériques
 		Bonheur
 		Buts
 		Calme
+		Célèbre
 		Choc
 		Colère
-		Complexité
 		Compétence
+		Complexité
 		Connaissance
 		Conte de fées
 		Contraste
@@ -286,11 +153,7 @@ Mots clés génériques
 		Courage
 		Créativité
 		Curiosité
-		Célèbre
 		Danger
-		Dignité
-		Dorloter
-		Douceur
 		Début
 		Découverte
 		Défi
@@ -299,17 +162,26 @@ Mots clés génériques
 		Démoniaque
 		Désir sexuel
 		Désolation
+		Dignité
+		Dorloter
+		Douceur
+		Éclat
 		Effort
 		Embarras
 		Enchantement
+		Énergie
 		Enfance
+		Équilibre
+		Érotisme
 		Espoir
+		Étrange
+		Être parent
 		Extase
 		Faim
-		Frustration
-		Futuriste
 		Férocité
 		Fétiche
+		Frustration
+		Futuriste
 		Guerre des sexes
 		Haute technologie
 		Horreur
@@ -327,370 +199,19 @@ Mots clés génériques
 		Liberté
 		Lubricité
 		Magie
-		Mystère
-		Méfiance
-		Non-conformité
-		Nostalgie
-		Optimisme
-		Opulence
-		Panique
-		Pensif
-		Possibilité
-		Prise de décision
-		Progrès
-		Propre
-		Précision
-		Pureté
-		Richesse
-		Répétition
-		Rétro
-		Rêverie
-		Sagesse
-		Satisfaction
-		Service
-		Sexe
-		Sexy
-		Simplicité
-		Singularité
-		Soif
-		Solitude
-		Souci
-		Stress
-		Symétrie
-		Séduction
-		Tendance
-		Tendresse
-		Tentation
-		Timidité
-		Vanité
-		Variété
-		Victoire
-		Vie nocturne
-		Violence
-		Éclat
-		Énergie
-		Équilibre 
-		Érotisme
-		Étrange
-		Être parent
-		Style de vie
-			Adolescence
-			Amis
-			Amoureux
-			Athlétique
-			Aventure
-			Bling Bling
-			Bureau à la maison
-			Centre d’intérêt
-			Chic
-			Complicité
-			Créativité
-			En mouvement
-			Enfance
-			Flirter
-			Fêter
-			Glamour
-			Grossesse
-			Générations
-			Insouciance
-			Instant de vie
-			Jeu vidéo
-			Jeunesse 
-			Loisirs
-			Luxe
-			Maitre d’un animal domestique
-			Métrosexuel
-			Non-conformité
-			Paresse
-			Paternité
-			Polyvalence
-			Rapports humains
-			Relaxation
-			Retraite
-			Rébellion
-			Régime
-			Rétro
-			Seniors actifs
-			Shopping
-			Sortie entre filles
-			Sortir ensemble
-			Sports extrêmes
-			Travaux ménagers
-			Vie nocturne
-			Vintage
-			Voyager en voiture
-			Écotourisme
-		Santé et beauté
-			Acupuncture
-			Angiocardiographie
-			Aromathérapie
-			Athlétisme
-			Ballon de gymnastique
-			Beauté
-			Botox
-			Chirurgie esthétique
-			Chirurgie esthétique
-			Chouchouter
-			Club de gym
-			Coiffeur/Coiffeuse
-			Coupe de cheveux
-			Couveuse
-			Cuvette de rein
-			Dentiste
-			Douceur
-			Défibrillateur
-			Faire de l’exercice
-			Fitness
-			Fitness
-			Glamour
-			Gracieux
-			Gymnase
-			Gérontologie
-			Homéopathie
-			Hématologie
-			Hôpital
-			Image de soi
-			Infirmier
-			IRM
-			Jeunesse
-			Kinésithérapie
-			Laboratoire
-			Liposuccion
-			Luxe
-			Manucure
-			Massage
-			Massage thérapeutique
-			Microbiologie
-			Micrographie
-			Médecin
-			Médecine douce
-			Opticien
-			Produit de beauté
-			Prothèse
-			Pureté
-			Pédiatrie
-			Pédicure
-			Rafraîchissant
-			Recherche médicale
-			Relooking
-			Régime
-			Salle de musculation
-			Santé
-			Santé
-			Scanner 
-			Sexy
-			Soins de beauté
-			Soins des cheveux
-			Soins du toilette
-			Soins du visage
-			Spa
-			sport
-			Tableau optométrique
-			Urgences
-			Vanité
-			Vitalité
-			Yoga
-			Échographie
-			Élégance
-			Épilation à la cire
-			Épiler
-			Équipement de salle de sport
-		Voyages
-			Architecture
-			Attraction touristique
-			Automobile
-			Aventure
-			Avion de ligne
-			Aéroport
-			Bronzer
-			Campagne
-			Camping
-			Coucher de soleil
-			Coutumes et célébrations
-			Crépuscule
-			Détente
-			Exotique
-			Horizons
-			Idyllique
-			Liberté
-			Loin de tout
-			Loisir
-			Majestueux
-			Nourriture et boisson
-			Panoramique
-			Paysage
-			Paysage rural
-			Paysages marins
-			Pittoresque
-			Plaisir
-			Point culminant
-			Relaxation
-			Sac à dos
-			Scène marine
-			Scènes urbaines
-			Sérénité
-			S’évader
-			Tourisme
-			Touriste
-			Train
-			Transports
-			Vacances 
-			Valise
-			Vie nocturne
-			Voyage
-			Voyager en voiture
-			Été
-		Nature et faune
-			Animal
-			Animaux juste éclos 
-			Aube
-			Camouflage
-			Charognard
-			Chien (ou Canis familiaris)
-			Coucher de soleil
-			Desquamation
-			Desséché
-			Découverte
-			En rut
-			Faune sauvage
-			Flore
-			Fourrés
-			Férocité
-			Gibier d’eau
-			Horizon
-			Lointain
-			Lune
-			Luxuriant
-			Majestueux
-			melanoleuca)
-			Monde naturel
-			Muer
-			Métamorphose
-			Météo
-			Neige
-			Panda géant (ou Ailuropoda 
-			Panoramique
-			Parade nuptiale
-			Pastoral
-			Paysage
-			Paysages marins
-			Plein air
-			Prédateur
-			Savane
-			Scène sous-marine
-			Scènes avec ciel
-			Se blottir
-			Silhouette 
-			Solitude
-			Vue en orbite basse
-			À la surface de l’eau
-			Écume
-		Affaire et communication
-			Accomplissement
-			Affaires et commerce
-			Ambition
-			Assurance
-			Brainstorming 
-			Communication
-			Connectivité
-			Croissance
-			Deadline
-			Données
-			Défi
-			Employé de bureau
-			En mouvement
-			Entretien d’embauche
-			Femme d’affaires
-			Flirt au bureau
-			Gestion du temps
-			Haute technologie
-			Homme d’affaires 
-			Idées
-			Information
-			Internet
-			Le temps c’est de l’argent
-			Leadership
-			Mobilité
-			Métiers et travail
-			Occupé
-			Ordinateur
-			Ordinateur portable
-			Organisation
-			PDA
-			Plafond de verre
-			Podcasting
-			Polyvalence
-			Pression
-			Promotion
-			Réseau
-			Réunion d’affaires
-			Service
-			SMS
-			Stratégie
-			Surmené
-			Travail d’équipe
-			Télécommunications
-			Télétravail
-			Utilisateur d’ordinateur
-			Voyage d’affaires
-			WiFi
-			Échec
-			Évolution de carrière 
 		Maison et architecture
 			Architecture
 			Architecture paysagère
 			Décoration intérieure
-				Styles
-					Antebellum
-					Art déco
-					Art nouveau
-					Bauhaus
-					Brutaliste
-					Colonial
-					Contemporain
-					Déconstructiviste
-					Fédéral
-					Gothique
-					Hausmannien
-					Industriel
-					Le Corbusier
-					Mauresque
-					Minimalisme 
-					Moderniste
-					Néo-classique américain
-					Néo-colonial espagnol
-					Néo-grec
-					Néo-Tudor
-					Ouest Americain
-					Post-moderne
-					Roman
-					Rétro
-					Shabby chic
-					Style anglais
-					Style asiatique
-					Style campagnard
-					Style des années 50
-					Style du sud-ouest
-					Style international
-					Style japonais
-					Style marocain
-					Style mission espagnol
-					Style néo-gothique
-					Style queen Anne
-					Style romantique
-					Style scandinave
-					Style traditionnel
-					Victorien
-					Éclectique
 				Acier inoxydable
 				Animal empaillé
-				Armoire vitrée
 				Armoire à porcelaine
+				Armoire vitrée
 				Bardage de planches
+				Bâtiment à colombages
+				Bâtiment industriel converti
 				Bougeoir mural
 				Bureau à la maison
-				Bâtiment industriel converti
-				Bâtiment à colombages
 				Cabane en rondins
 				Cabine de douche
 				Cabinet de travail
@@ -701,12 +222,15 @@ Mots clés génériques
 				Couleurs neutres
 				Cuisine
 				Dosseret
+				Éclairage encastré
+				Évier à tablier avant
 				Fauteuil club
 				Fenêtre en ogive
 				Gland
 				Home cinéma
 				Hotte
 				Housses
+				Îlot central de cuisine
 				Lambris
 				Lit à baldaquin
 				Loft
@@ -725,11 +249,464 @@ Mots clés génériques
 				Rideau
 				Salon
 				Sol carrelé
+				Styles
+					Antebellum
+					Art déco
+					Art nouveau
+					Bauhaus
+					Brutaliste
+					Colonial
+					Contemporain
+					Déconstructiviste
+					Éclectique
+					Fédéral
+					Gothique
+					Hausmannien
+					Industriel
+					Le Corbusier
+					Mauresque
+					Minimalisme
+					Moderniste
+					Néo-classique américain
+					Néo-colonial espagnol
+					Néo-grec
+					Néo-Tudor
+					Ouest Americain
+					Post-moderne
+					Rétro
+					Roman
+					Shabby chic
+					Style anglais
+					Style asiatique
+					Style campagnard
+					Style des années 50
+					Style du sud-ouest
+					Style international
+					Style japonais
+					Style marocain
+					Style mission espagnol
+					Style néo-gothique
+					Style queen Anne
+					Style romantique
+					Style scandinave
+					Style traditionnel
+					Victorien
 				Suspension
 				Taie d’oreiller
-				Tourelle
 				Tête de lit
+				Tourelle
 				Véranda
-				Éclairage encastré
-				Évier à tablier avant
-				Îlot central de cuisine
+		Méfiance
+		Mystère
+		Nature et faune
+			À la surface de l’eau
+			Animal
+			Animaux juste éclos
+			Aube
+			Camouflage
+			Charognard
+			Chien (ou Canis familiaris)
+			Coucher de soleil
+			Découverte
+			Desquamation
+			Desséché
+			Écume
+			En rut
+			Faune sauvage
+			Férocité
+			Flore
+			Fourrés
+			Gibier d’eau
+			Horizon
+			Lointain
+			Lune
+			Luxuriant
+			Majestueux
+			melanoleuca)
+			Métamorphose
+			Météo
+			Monde naturel
+			Muer
+			Neige
+			Panda géant (ou Ailuropoda
+			Panoramique
+			Parade nuptiale
+			Pastoral
+			Paysage
+			Paysages marins
+			Plein air
+			Prédateur
+			Savane
+			Scène sous-marine
+			Scènes avec ciel
+			Se blottir
+			Silhouette
+			Solitude
+			Vue en orbite basse
+		Non-conformité
+		Nostalgie
+		Optimisme
+		Opulence
+		Panique
+		Pensif
+		Possibilité
+		Précision
+		Prise de décision
+		Progrès
+		Propre
+		Pureté
+		Répétition
+		Rétro
+		Rêverie
+		Richesse
+		Sagesse
+		Santé et beauté
+			Acupuncture
+			Angiocardiographie
+			Aromathérapie
+			Athlétisme
+			Ballon de gymnastique
+			Beauté
+			Botox
+			Chirurgie esthétique
+			Chouchouter
+			Club de gym
+			Coiffeur/Coiffeuse
+			Coupe de cheveux
+			Couveuse
+			Cuvette de rein
+			Défibrillateur
+			Dentiste
+			Douceur
+			Échographie
+			Élégance
+			Épilation à la cire
+			Épiler
+			Équipement de salle de
+			Faire de l’exercice
+			Fitness
+			Gérontologie
+			Glamour
+			Gracieux
+			Gymnase
+			Hématologie
+			Homéopathie
+			Hôpital
+			Image de soi
+			Infirmier
+			IRM
+			Jeunesse
+			Kinésithérapie
+			Laboratoire
+			Liposuccion
+			Luxe
+			Manucure
+			Massage
+			Massage thérapeutique
+			Médecin
+			Médecine douce
+			Microbiologie
+			Micrographie
+			Opticien
+			Pédiatrie
+			Pédicure
+			Produit de beauté
+			Prothèse
+			Pureté
+			Rafraîchissant
+			Recherche médicale
+			Régime
+			Relooking
+			Salle de musculation
+			Santé
+			Scanner
+			Sexy
+			Soins de beauté
+			Soins des cheveux
+			Soins du toilette
+			Soins du visage
+			Spa
+			sport
+			Tableau optométrique
+			Urgences
+			Vanité
+			Vitalité
+			Yoga
+		Satisfaction
+		Séduction
+		Service
+		Sexe
+		Sexy
+		Simplicité
+		Singularité
+		Soif
+		Solitude
+		Souci
+		Stress
+		Style de vie
+			Adolescence
+			Amis
+			Amoureux
+			Athlétique
+			Aventure
+			Bling Bling
+			Bureau à la maison
+			Centre d’intérêt
+			Chic
+			Complicité
+			Créativité
+			Écotourisme
+			En mouvement
+			Enfance
+			Fêter
+			Flirter
+			Générations
+			Glamour
+			Grossesse
+			Insouciance
+			Instant de vie
+			Jeu vidéo
+			Jeunesse
+			Loisirs
+			Luxe
+			Maitre d’un animal domestique
+			Métrosexuel
+			Non-conformité
+			Paresse
+			Paternité
+			Polyvalence
+			Rapports humains
+			Rébellion
+			Régime
+			Relaxation
+			Retraite
+			Rétro
+			Seniors actifs
+			Shopping
+			Sortie entre filles
+			Sortir ensemble
+			Sports extrêmes
+			Travaux ménagers
+			Vie nocturne
+			Vintage
+			Voyager en voiture
+		Symétrie
+		Tendance
+		Tendresse
+		Tentation
+		Timidité
+		Vanité
+		Variété
+		Victoire
+		Vie nocturne
+		Violence
+		Voyages
+			Aéroport
+			Architecture
+			Attraction touristique
+			Automobile
+			Aventure
+			Avion de ligne
+			Bronzer
+			Campagne
+			Camping
+			Coucher de soleil
+			Coutumes et célébrations
+			Crépuscule
+			Détente
+			Été
+			Exotique
+			Horizons
+			Idyllique
+			Liberté
+			Loin de tout
+			Loisir
+			Majestueux
+			Nourriture et boisson
+			Panoramique
+			Paysage
+			Paysage rural
+			Paysages marins
+			Pittoresque
+			Plaisir
+			Point culminant
+			Relaxation
+			S’évader
+			Sac à dos
+			Scène marine
+			Scènes urbaines
+			Sérénité
+			Tourisme
+			Touriste
+			Train
+			Transports
+			Vacances
+			Valise
+			Vie nocturne
+			Voyage
+			Voyager en voiture
+	Personnes
+		Age
+			0-1 mois
+			0-11 mois
+			2-3 ans
+			2-5 mois
+			4-5 ans
+			6-7 ans
+			6-11 mois
+			8-9 ans
+			10-11 ans
+			12-13 ans
+			12-17 mois
+			12-23 mois
+			14-15 ans
+			16-17 ans
+			18-19 ans
+			18-25 Mois
+			20-25 ans
+			25-30 ans
+			30-35 ans
+			35-40 ans
+			40-45 ans
+			45-50 ans
+			50-55 ans
+			55-60 ans
+			60-65 ans
+			65-70 ans
+			Adolescent
+			Adulte
+			Adulte d'âge moyen
+			Adulte d'âge mûr
+			Âge humain
+			Âges mélangés
+			Bébé
+			Bébé prématuré
+			Enfant
+			Enfant d'âge pré-scolaire
+			Enfant d'âge scolaire
+			Jeune adulte
+			La vingtaine
+			Nouveau-né
+			Octogénaire et plus
+			Pré-adolescent
+			Quadragénaire
+			Quinquagénaire
+			Septuagénaire
+			Seulement des adolescents ou adolescentes
+			Seulement des adultes
+			Seulement des bébés
+			Seulement des enfants
+			Sexagénaire
+			Trentenaire
+			Troisième âge
+		Caractéristiques physiques
+			À la mode
+			Afro
+			Allongé
+			Calvitie
+			Cheveux blonds
+			Cheveux bouclés
+			Cheveux bruns
+			Cheveux courts
+			Cheveux gris
+			Cheveux longs
+			Cheveux roux
+			Corpulent
+			Dents manquantes
+			Grimaçant
+			Gros
+			Maigre
+			Mince
+			Musclé
+			Nu
+			Pieds nus
+			Posant
+			queue de cheval
+			Regarde l’objectif
+			Rire
+			Sexy
+			Souriant
+			Taille forte
+			Tête et épaules
+			Torse nu
+			Yeux baissés
+			Yeux levés
+		Ethnicité et Nationalité
+			Afro-caraïbien
+			Américain
+			Amérindien
+			Arabe
+			Argentin
+			Asiatique de l'Est
+			Asiatique de l'Est et du Sud-Est
+			Asiatique du Sud-Est
+			Blanc
+			Brésilien
+			Cambodgien
+			Chilien
+			Chinois
+			Coréen
+			Cubain
+			Dominicain
+			D'origine africaine
+			Européen du Nord
+			Européen du Sud
+			Français
+			Groupe multi-ethnique
+			Habitant des îles du Pacifique
+			Haïtien
+			Hispanique
+			Indien d'Inde
+			Japonais
+			Latino-américain
+			Métis
+			Mexicain
+			Moyen-oriental
+			Noir
+			Noir américain
+			Origine ethnique
+			Pakistanais
+			Personne de race blanche
+			personne et un groupe
+			Peuple du sous-continent indien
+			Peuples d'Asie et du sous-continent indien
+			Philippin
+			Portoricain
+			Russe
+			Scandinave
+			Vietnamien
+		Nombre de personnes
+			Assemblée de fidèles
+			Aucune personne
+			Cinq personnes
+			Cohue
+			Couple
+			Deux personnes
+			Équipe sportive
+			Femme dans un groupe d'hommes
+			Foule
+			Grand groupe de personnes
+			Groupe de personnes
+			Groupe moyen de personnes
+			Homme dans un groupe de femmes
+			Nombre de personnes
+			Petit groupe de personnes
+			Présence humaine
+			Quatre personnes
+			Sans personnage
+			Trois personnes
+			Une personne et un groupe
+			Une seule personne
+		Sexe
+			Femmes
+			Hommes
+			Personnes féminines
+			Personnes masculines
+			Petites filles
+			Petits garçons
+			Seulement des femmes
+			Seulement des hommes
+			Seulement des petites filles
+			Seulement des petits garçons
+			Un seul homme
+			Une seule femme
