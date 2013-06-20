@@ -14,14 +14,14 @@ Important, à lire avant de contribuer
 
 Voici quelques règles pour contribuer à ces thesaurus
 
-* Dans la mesure du possible, utiliser des bases de données généraiques reconnues par tous
+* Dans la mesure du possible, utiliser des bases de données génériques reconnues par tous
 * Les mots clés devront être orthographiquement corrects (Majuscule, espaces, accents)
 
 Thesaurus Pays du monde
 -----------------------
 
 * Continents en français et anglais
-* Pays du monde en français, anglais, code ISO 3166-1 (2 lettres) et 3 lettre
+* Pays du monde en français, anglais, code ISO 3166-1 (2 lettres) et 3 lettres
 * États des États-Unis en français, anglais, et code sur 2 lettres
 * Provinces de Chine
 * États du Brésil
@@ -56,8 +56,8 @@ Thesaurus Culinaire
 * Viandes
 * Poissons
 * Coquillages et crustacés
-* Style de cuisine
-* Type de cuisson
+* Styles de cuisine
+* Types de cuisson
 * Farines et graines
 * Ustensiles de cuisine
 
