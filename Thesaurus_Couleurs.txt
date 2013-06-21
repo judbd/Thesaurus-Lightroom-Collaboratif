@@ -1,0 +1,360 @@
+[COULEUR]
+  Abricot
+	Absinthe
+	Acajou
+	Aigue-marine
+	Aile de corbeau 
+	Albâtre
+	Alezan 
+	Amande
+	Amarante
+	Ambre jaune
+	Ambre rouge
+	Améthyste
+	Anthracite
+	Aquilain 
+	Ardoise
+	Argent
+	Argent 
+	Argile
+	Asperge
+	Aubergine
+	Auburn 
+	Aurore
+	Avocat
+	Azur
+	Azur 
+	Azur brume
+	Azur clair
+	Azurin
+	Baillet 
+	Banane
+	Basané 
+	Beige
+	Beige clair
+	Beigeasse 
+	Beurre
+	Beurre frais
+	Bis
+	Bis 
+	Bisque
+	Bistre
+	Bitume
+	Blanc
+	Blanc cassé
+	Blanc d'argent 
+	Blanc de lait
+	Blanc de Meudon ou de Troyes 
+	Blanc de zinc 
+	Blanc d'Espagne 
+	Blanc lunaire
+	Blé
+	Blet
+	Bleu acier
+	Bleu barbeau ou bleuet
+	Bleu canard
+	Bleu céleste
+	Bleu charrette
+	Bleu ciel
+	Bleu de cobalt 
+	Bleu de minuit
+	Bleu de Prusse 
+	Bleu des mers du sud
+	Bleu dragée
+	Bleu électrique
+	Bleu fumée
+	Bleu givré
+	Bleu guède
+	Bleu Klein
+	Bleu Majorelle
+	Bleu nuit
+	Bleu outremer
+	Bleu paon
+	Bleu Persan
+	Bleu pétrole
+	Bleu roi ou de France
+	Bleu turquin
+	Bleu primaire
+	Blond vénitien 
+	Blond 
+	Bordeaux
+	Bourgogne
+	Bouton d'or
+	Brique
+	Bronze
+	Brou de noix
+	Brun 
+	Brun clair 
+	Bureau
+	Byzantin
+	Byzantium
+	Caca d'oie
+	Cacao
+	Cachou
+	Cæruléum
+	Café
+	Café au lait
+	Cannelle
+	Capucine
+	Caramel
+	Carmin
+	Carnation 
+	Carotte
+	Cassis
+	Cerise
+	Céruse 
+	Chair
+	Chamois
+	Champagne
+	Charbonneux
+	Chartreuse
+	Châtaigne
+	Châtain 
+	Chaudron
+	Chenu 
+	Chocolat
+	Cinabre
+	Citron
+	Citrouille
+	Clarissimo 
+	Claro claro 
+	Claro 
+	Colombin 
+	Colorado claro 
+	Colorado 
+	Coquelicot
+	Coquille d'œuf
+	Corail
+	Cramoisi
+	Crème
+	Cuisse de nymphe
+	Cuisse de nymphe émue
+	Cuivre
+	Cyan
+	Cyan secondaire
+	Denim
+	Dium 
+	Ébène
+	Écarlate
+	Écru
+	Émeraude
+	Étain oxydé
+	Étain pur
+	Fauve
+	Fer
+	Feu
+	Feuille morte
+	Flave
+	Fraise
+	Fraise écrasée
+	Framboise
+	Fuchsia
+	Garance
+	Glauque
+	Glycine
+	Grège
+	Grenadine
+	Grenat
+	Gris
+	Gris acier
+	Gris de lin
+	Gris de maure
+	Gris de Payne
+	Gris fer
+	Gris perle
+	Gris tourdille 
+	Groseille
+	Gueules 
+	Havane
+	Héliotrope
+	Hoto
+	Incarnadin
+	Incarnat
+	Indigo 
+	Indigo chaud
+	Indigo du web
+	Indigo électrique
+	Isabelle 
+	Ivoire
+	Jade
+	Jais
+	Jaune auréolin
+	Jaune bouton d’or
+	Jaune canari
+	Jaune chartreuse
+	Jaune chrome 
+	Jaune de Mars
+	Jaune de Naples 
+	Jaune d'or
+	Jaune impérial
+	Jaune mimosa
+	Jaune poussin
+	Jaune primaire
+	Kaki
+	Lapis-lazuli
+	Lavallière 
+	Lavande
+	Lie de vin
+	Lilas
+	Lin
+	Maduro colorado 
+	Maduro 
+	Magenta foncé
+	Magenta fuchsia 
+	Magenta secondaire
+	Maïs
+	Malachite
+	Mandarine
+	Marine
+	Marron
+	Mastic
+	Mauve 
+	Melon
+	Menthe
+	Menthe à l'eau
+	Miel
+	Mordoré
+	Moreau 
+	Moutarde
+	Nacarat
+	Nankin
+	Neige
+	Noir
+	Noir animal
+	Noir charbon
+	Noir d'aniline
+	Noir de carbone 
+	Noir de fumée 
+	Noir de jais
+	Noir d'encre
+	Noir d'ivoire 
+	Noiraud 
+	Noisette
+	Ocre jaune
+	Ocre rouge
+	Olive
+	Opalin
+	Or
+	Orange
+	Orange brûlée
+	Orchidée
+	Orpiment
+	Orpin de Perse
+	Oscuro 
+	Paille
+	Papaye
+	Papier bulle
+	Parme
+	Passe-velours
+	Pastel
+	Pêche
+	Pelure d'oignon 
+	Pervenche
+	Pinchard 
+	Pistache
+	Platine
+	Plomb
+	Poil de chameau
+	Ponceau
+	Pourpre 
+	Prasin
+	Prune
+	Puce
+	Queue-de-renard
+	Queue-de-vache
+	Réglisse
+	Rose
+	Rose balais 
+	Rose bonbon
+	Rose dragée
+	Rose fuchsia
+	Rose Mountbatten
+	Rose thé
+	Rose vif
+	Rouge anglais
+	Rouge Bismarck
+	Rouge cardinal
+	Rouge cerise
+	Rouge d'alizarine 
+	Rouge d'Andrinople
+	Rouge d'aniline
+	Rouge de Falun
+	Rouge de Mars 
+	Rouge écrevisse
+	Rouge feu
+	Rouge sang
+	Rouge Sokai
+	Rouge tomette
+	Rouge turc
+	Rouge primaire
+	Rouge-violet
+	Rouille
+	Roux
+	Rubis
+	Sable
+	Sable 
+	Safran
+	Safre
+	Sang de bœuf
+	Sanguine 
+	Saphir
+	Sarcelle
+	Saumon
+	Senois 
+	Sépia
+	Sinople 
+	Smalt
+	Smaragdin
+	Soufre
+	Souris
+	Tabac
+	Tangerine 
+	Tanné 
+	Taupe
+	Terre de Sienne
+	Terre d'ombre
+	Tilleul
+	Tomate
+	Topaze
+	Tourterelle
+	Turquoise
+	Vanille
+	Ventre de biche
+	Vermeil
+	Vermillon
+	Vert anis
+	Vert bouteille
+	Vert céladon
+	Vert chartreuse
+	Vert de chrome ou anglais 
+	Vert de Hooker
+	Vert de vessie
+	Vert d'eau
+	Vert épinard
+	Vert gazon ou herbe
+	Vert impérial
+	Vert kaki
+	Vert lichen
+	Vert lime
+	Vert mélèze
+	Vert militaire
+	Vert mousse
+	Vert opaline
+	Vert perroquet
+	Vert pin
+	Vert poireau
+	Vert pomme
+	Vert prairie
+	Vert printemps
+	Vert sapin
+	Vert sauge
+	Vert tilleul
+	Vert Véronèse 
+	Vert secondaire
+	Vert-de-gris
+	Violet
+	Violet de Bayeux
+	Violet d'évêque
+	Violine
+	Viride
+	Zinzolin
