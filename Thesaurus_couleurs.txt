@@ -1,5 +1,5 @@
-[COULEUR]
-  Abricot
+[Couleurs]
+	Abricot
 	Absinthe
 	Acajou
 	Aigue-marine
@@ -50,31 +50,32 @@
 	Blanc lunaire
 	Blé
 	Blet
-	Bleu acier
-	Bleu barbeau ou bleuet
-	Bleu canard
-	Bleu céleste
-	Bleu charrette
-	Bleu ciel
-	Bleu de cobalt 
-	Bleu de minuit
-	Bleu de Prusse 
-	Bleu des mers du sud
-	Bleu dragée
-	Bleu électrique
-	Bleu fumée
-	Bleu givré
-	Bleu guède
-	Bleu Klein
-	Bleu Majorelle
-	Bleu nuit
-	Bleu outremer
-	Bleu paon
-	Bleu Persan
-	Bleu pétrole
-	Bleu roi ou de France
-	Bleu turquin
-	Bleu primaire
+	Bleu
+		Bleu acier
+		Bleu barbeau ou bleuet
+		Bleu canard
+		Bleu céleste
+		Bleu charrette
+		Bleu ciel
+		Bleu de cobalt 
+		Bleu de minuit
+		Bleu de Prusse 
+		Bleu des mers du sud
+		Bleu dragée
+		Bleu électrique
+		Bleu fumée
+		Bleu givré
+		Bleu guède
+		Bleu Klein
+		Bleu Majorelle
+		Bleu nuit
+		Bleu outremer
+		Bleu paon
+		Bleu Persan
+		Bleu pétrole
+		Bleu roi ou de France
+		Bleu turquin
+		Bleu primaire
 	Blond vénitien 
 	Blond 
 	Bordeaux
@@ -271,26 +272,27 @@
 	Rose Mountbatten
 	Rose thé
 	Rose vif
-	Rouge anglais
-	Rouge Bismarck
-	Rouge cardinal
-	Rouge cerise
-	Rouge d'alizarine 
-	Rouge d'Andrinople
-	Rouge d'aniline
-	Rouge de Falun
-	Rouge de Mars 
-	Rouge écrevisse
-	Rouge feu
-	Rouge sang
-	Rouge Sokai
-	Rouge tomette
-	Rouge turc
-	Rouge primaire
-	Rouge-violet
-	Rouille
-	Roux
-	Rubis
+	Rouge
+		Rouge anglais
+		Rouge Bismarck
+		Rouge cardinal
+		Rouge cerise
+		Rouge d'alizarine 
+		Rouge d'Andrinople
+		Rouge d'aniline
+		Rouge de Falun
+		Rouge de Mars 
+		Rouge écrevisse
+		Rouge feu
+		Rouge sang
+		Rouge Sokai
+		Rouge tomette
+		Rouge turc
+		Rouge primaire
+		Rouge-violet
+		Rouille
+		Roux
+		Rubis
 	Sable
 	Sable 
 	Safran
@@ -322,36 +324,37 @@
 	Ventre de biche
 	Vermeil
 	Vermillon
-	Vert anis
-	Vert bouteille
-	Vert céladon
-	Vert chartreuse
-	Vert de chrome ou anglais 
-	Vert de Hooker
-	Vert de vessie
-	Vert d'eau
-	Vert épinard
-	Vert gazon ou herbe
-	Vert impérial
-	Vert kaki
-	Vert lichen
-	Vert lime
-	Vert mélèze
-	Vert militaire
-	Vert mousse
-	Vert opaline
-	Vert perroquet
-	Vert pin
-	Vert poireau
-	Vert pomme
-	Vert prairie
-	Vert printemps
-	Vert sapin
-	Vert sauge
-	Vert tilleul
-	Vert Véronèse 
-	Vert secondaire
-	Vert-de-gris
+	Vert
+		Vert anis
+		Vert bouteille
+		Vert céladon
+		Vert chartreuse
+		Vert de chrome ou anglais 
+		Vert de Hooker
+		Vert de vessie
+		Vert d'eau
+		Vert épinard
+		Vert gazon ou herbe
+		Vert impérial
+		Vert kaki
+		Vert lichen
+		Vert lime
+		Vert mélèze
+		Vert militaire
+		Vert mousse
+		Vert opaline
+		Vert perroquet
+		Vert pin
+		Vert poireau
+		Vert pomme
+		Vert prairie
+		Vert printemps
+		Vert sapin
+		Vert sauge
+		Vert tilleul
+		Vert Véronèse 
+		Vert secondaire
+		Vert-de-gris
 	Violet
 	Violet de Bayeux
 	Violet d'évêque
