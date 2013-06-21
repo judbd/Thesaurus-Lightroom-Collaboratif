@@ -23,6 +23,7 @@ Thesaurus Pays du monde
 * Continents en français et anglais
 * Pays du monde en français, anglais, code ISO 3166-1 (2 lettres) et 3 lettres
 * États des États-Unis en français, anglais, et code sur 2 lettres
+* Comtés des États-unis
 * Provinces de Chine
 * États du Brésil
 * Régions de France
