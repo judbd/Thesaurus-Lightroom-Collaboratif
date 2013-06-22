@@ -6,11 +6,13 @@
 		Astronomique
 		Bordure
 		Bordure noire
+		Cache
 		Cadrage à la taille
 		Cadrage aux genoux
 		Cadrage en pied
 		Carré
 		Composition
+		Contraste
 		Contre-plongée
 		Coupe
 		Détourable
@@ -43,6 +45,7 @@
 		Mouvement
 		Multicolore
 		Nature morte
+		Netteté
 		Nuit
 		Objet ou sujet détouré
 		Panoramique
@@ -57,9 +60,11 @@
 		Point de fuite
 		Point de vue personnel
 		Pris sur le vif
+		RAW
 		Regardant l'objectif
 		Regarde l’objectif
 		Rétro-éclairé
+		Saturation
 		Série
 		Silhouette
 		Sous-marine
@@ -76,6 +81,7 @@
 		Vue de dos
 		Vue de face
 		Vue en plan incliné
+		Zoom
 	Concepts
 		Affaire et communication
 			Accomplissement
