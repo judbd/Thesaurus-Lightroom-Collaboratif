@@ -2,8 +2,10 @@
 	Composition et type de photo
 		Abstrait
 		Aérienne
+		Agrandissement
 		Arrêt sur image
 		Astronomique
+		Bascule
 		Bordure
 		Bordure noire
 		Cadrage à la taille
@@ -13,6 +15,7 @@
 		Composition
 		Contre-plongée
 		Coupe
+		Décentrement
 		Détourable
 		Détourage
 		Effet de perspective
@@ -21,6 +24,12 @@
 		Espace texte
 		Exposition multiple
 		Extérieur
+		Filtre
+		Focal
+		Focale
+		Focus
+		Fond
+		Fond blanc
 		Flou
 		Fort grossissement
 		Gros plan
@@ -44,6 +53,8 @@
 		Multicolore
 		Nature morte
 		Nuit
+		Objectif
+		Objectif fixe
 		Objet ou sujet détouré
 		Panoramique
 		Partie du corps
