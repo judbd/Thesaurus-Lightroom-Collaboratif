@@ -1,0 +1,863 @@
+Arbres
+{Plantae}
+{Trees}
+	Phanérogames
+		Gymnospermes
+			Ginkgo
+				Ginkgoacées
+					Ginkgo bilobé
+			Conifères
+				Taxodiacées
+					Cyprès
+					{Cupressus}
+						Cyprès de Santa Cruz
+							{Cupressus abramsiana}
+						Cyprès de l'Arizona
+							{Cupressus arizonica} 
+						Cyprès du Maroc 
+							{Cupressus atlantica} 
+						Cyprès de Baker 
+							{Cupressus bakeri}
+						Cyprès de Bentham 
+							{Cupressus benthamii} 
+						Cyprès du Bhoutan 
+							{Cupressus cashmeriana}
+						Cyprès du Yunnan
+							{Cupressus duclouxiana} 
+						Cyprès du Tassili
+							{Cupressus dupreziana} 
+						Cyprès de Forbes
+							{Cupressus forbesii} 
+						Cyprès de Chine
+							{Cupressus funebris} 
+						Cyprès de Tibet
+							{Cupressus gigantea} 
+						Cyprès blanc de l'Arizona
+							{Cupressus glabra} 
+						Cyprès de Gowen
+							{Cupressus goveniana} 
+						Cyprès de Guadalupe
+							{Cupressus guadalupensis} 
+						Cyprès du Mexique
+							{Cupressus lusitanica} 
+						Cyprès de MacNab
+							{Cupressus macnabiana} 
+						Cyprès de Monterey
+							{Cupressus macrocarpa} 
+						Cyprès San Pedro Martir
+							{Cupressus montana Cyprès} 
+						Cyprès Piute
+							{Cupressus nevadensis} 
+						Cyprès de Nootka
+							{Cupressus nootkatensis} 
+						Cyprès de Mendocino
+							{Cupressus pygmaea} 
+						Cyprès de Sargent
+							{Cupressus sargentii} 
+						Cyprès toujours-vert
+							{Cupressus sempervirens} 
+						Cyprès Cuyamaca
+							{Cupressus stephensonii} 
+						Cyprès de Tonkin
+							{Cupressus tonkinensis} 
+						Cyprès de l'Himalaya
+							{Cupressus torulosa} 
+						Cyprès doré vietnamien
+							{Cupressus vietnamensis} 
+					Séquoia
+					{Sequoia}
+						Séquoia toujours vert 
+							{Sequoia sempervirens}
+					Genévrier
+					{Juniperus}
+						Genévrier de Chine
+							{Juniperus chinensis} 
+						Genévrier commun
+							{Juniperus communis} 
+						Genévrier de Syrie
+							{Juniperus drupacea} 
+						Genévrier grec
+							{Juniperus excelsa} 
+						Genévrier rampant
+							{Juniperus horizontalis}
+						Genévrier occidental
+							{Juniperus occidentalis} 
+						Genévrier cade ou Oxycèdre
+							{Juniperus oxycedrus} 
+						Genévrier de Phénicie
+							{Juniperus phoenicea} 
+						Genévrier d'Afrique
+							{Juniperus procera} 
+						Genévrier de l'Himalaya
+							{Juniperus recurva} 
+						Genévrier rigide
+							{Juniperus rigida} 
+						Genévrier sabine
+							{Juniperus sabina} 
+						Genévrier de Sibérie
+							{Juniperus sibirica} 
+						Genévrier écailleux
+							{Juniperus squamata} 
+						Genévrier des Rocheuses
+							{Juniperus scopulorum} 
+						Genévrier thurifère
+							{Juniperus thurifera} 
+						Genévrier de Virginie
+							{Juniperus virginiana} 
+						Genévrier tibétain
+							{Juniperus tibetica} 
+				Pinacées
+					Mélèzes
+					{Larix}
+						Mélèze d'Europe
+							{Larix decidua}
+						Mélèze de Sibérie
+							{Larix sibirica}
+						Mélèze du Japon
+							{Larix kaempfen}
+						Mélèze de Dunkeld
+							{Larix x eurolepsis}
+						Mélèze tamarack
+							{Larix lancina}
+						Mélèze de l'Orégon
+							{Larix occidentalis}
+						Mélèze  du Dahour
+							{Larix gmelinii}
+						Mélèze du Sikkim
+							{Larix griffithii}
+						Mélèze  doré
+							{Pseudolarix amabilis}
+					Sapins
+					{Abies}
+						Sapin de Nordmann 
+							{Abies nordmanniana}
+						Sapin gracieux 
+							{Abies amabilis}
+						Sapin de Veitch 
+							{Abies veitchii}
+						Sapin de Maries 
+							{Abies mariesii}
+						Sapin de Turquie 
+							{Abies bornmuellerana}
+						Sapin concolore 
+							{Abies concolor}
+						Sapin de Farges 
+							{Abies fargesii}
+						Sapin de l'Arizona 
+							{Abies lasiocarpa}
+						Sapin de Cilicie 
+							{Abies cilicica}
+						Sapin de Vancouver 
+							{Abies grandis}
+						Sapin noble d'Amérique 
+							{Abies procera}
+						Sapin rouge de Californie
+							{Abies magnifica}
+						Sapin de Forrest 
+							{Abies forrestii}
+						Sapin de l'Himalaya 
+							{Abies spectabilis}
+						Sapin pindrow 
+							{Abies pindrow}
+						Sapin de Sibérie orientale 
+							{Abies nephrolepsis}
+						Sapin du roi Boris 
+							{Abies borisii-regis}
+						Sapin du Japon 
+							{Abies sachalinensis}
+						Sapin de Sibérie 
+							{Abies sibirica}
+						Sapin pectiné 
+							{Abies alba}
+						Sapin de Grèce 
+							{Abies cephalonica}
+						Sapin nikko 
+							{Abies homolepsis}
+						Sapin pinsapo 
+							{Abies pinsapo}
+						Sapin de Numidie 
+							{Abies numidica}
+						Sapin de Corée 
+							{Abies koreana}
+						Sapin momi 
+							{Abies firma}
+						Sapin min 
+							{Abies recurvata}
+						Sapin à bractées 
+							{Abies bracteata}
+						Sapin de Mandchourie 
+							{Abies holophylla}
+					Pins
+					{Pinus}
+						Pin sylvestre 
+							{Pinus sylvestris}
+						Pin rouge 
+							{Pinus resinosa}
+						Pin rouge du Japon 
+							{Pinus densiflora}
+						Pin de Bishop 
+							{Pinus muricata}
+						Pin noir d'Autriche 
+							{Pinus nigra var. nigra}
+						Pin de Crimée 
+							{Pinus nigra var. caramanica}
+						Pin laricio 
+							{Pinus nigra var. maritima}
+						Pin vrillé 
+							{Pinus contorta  var. concorta}
+						Pin de Murray 
+							{Pinus contorta var. latifolia}
+						Pin de Banks 
+							{Pinus banksiana}
+						Pin à crochets 
+							{Pinus uncinata}
+						Pin de Bosnie 
+							{Pinus leucodermis}
+						Pin noir du Japon 
+							{Pinus thunbergii}
+						Pin d'Alep 
+							{Pinus halepensis}
+						Pin de Calabre 
+							{Pinus brutia}
+						Pin parasol 
+							{Pinus pinea}
+						Pin maritime 
+							{Pinus pinaster}
+						Pin de Monterey 
+							{Pinus radiata}
+						Pin de l'Eldorado 
+							{Pinus attenuata}
+						Pin dur, Pitchpin 
+							{Pinus rigida}
+						Pin du Mexique 
+							{Pinus patula}
+						Pin de Jeffrey 
+							{Pinus jeffreyii}
+						Pin jaune de l'Ouest 
+							{Pinus ponderosa}
+						Pin à gros fruits 
+							{Pinus coulteri}
+						Pin Napoléon 
+							{Pinus bungeana}
+						Pin à queue de renard 
+							{Pinus aristata}
+						Pin de Balfour 
+							{Pinus balfouriana}
+						Pin de Montezuma 
+							{Pinus montezumae}
+						Pin pleureur de l'Himalaya 
+							{Pinus wallichiana}
+						Pin de Holford 
+							{Pinus x holfordiana}
+						Pin blanc du Mexique 
+							{Pinus ayacahuite}
+						Pin weymouth 
+							{Pinus strobus}
+						Pin à sucre 
+							{Pinus lambertiana}
+						Pin de Macédoine 
+							{Pinus peuce}
+						Pin de montagne 
+							{Pinus monticola}
+						Pin d'Armand 
+							{Pinus armandii}
+						Pin cembro, Arolle 
+							{Pinus cembra}
+						Pin du Japon 
+							{Pinus parviflora}
+						Pin des Rocheuses 
+							{Pinus flexilis}
+						Pin de Corée 
+							{Pinus koraiensis}
+					Epicéas
+					{Picea}
+						Epicéa queue de tigre 
+							{Picea polita}
+						Epicéa de Schrenk 
+							{Picea schrenkiana}
+						Epicéa de l'Himalaya 
+							{Picea smithiana}
+						Epicéade  Brewer 
+							{Picea breweriana}
+						Epicéa du Sikkim 
+							{Picea spinulosa}
+						Epicéa de Sargent 
+							{Picea brachtyla}
+						Epicéa de Serbie 
+							{Picea omorika}
+						Epicéa d'Orient 
+							{Picea orientalis}
+						Epicéa de Sitka 
+							{Picea sitchensis}
+						Epicéa du Japon 
+							{Picea jezoensis var. hondoensis}
+						Epicéa commun 
+							{Picea abies}
+						Epicéa de Sibérie 
+							{Picea obovata}
+						Epicéa de Likiang 
+							{Picea likiangensis}
+						Epicéa du Colorado 
+							{Picea pungens var. glauca}
+						Epicéa d'Engelmann 
+							{Picea engelmannii}
+						Epicéa noir d'Amérique 
+							{Picea mariana}
+						Epicéa rouge 
+							{Picea rubens}
+						Epicéa du Canada 
+							{Picea glauca}
+						Epicéa de Chine 
+							{Picea saperata}
+						Epicéa d'Alcock 
+							{Picea bicolor}
+					Tsugas
+					{Tsuga}
+						Tsuga de l'Ouest 
+							{Tsuga heterophylla}
+						Tsuga du Canada 
+							{Tsuga canadensis}
+						Tsuga de Caroline 
+							{Tsuga caroliniana}
+						Tsuga de Chine 
+							{Tsuga chinensis}
+						Tsuga de Siebold 
+							{Tsuga sieboldii}
+						Tsuga du Japon 
+							{Tsuga diversifolia}
+						Tsuga de l'Himalaya 
+							{Tsuga dumosa}
+						Tsuga de Californie 
+							{Tsuga mertensiana}
+						Tsuga de Jeffrey 
+							{Tsuga x jeffreyii}
+					Douglas
+					{Pseudotsuga}
+						Douglas vert 
+							{Pseudotsuga menziesii}
+						Douglas bleu 
+							{Pseudotsuga menziesii var. glauca}
+						Douglas de Californie 
+							{Pseudotsuga macrocarpa}
+						Douglas du Japon 
+							{Pseudotsuga japonica}
+					Cèdres
+					{Cedrus}
+						Cèdre déodar 
+							{Cedrus deodara}
+						Cèdre de l'Atlas 
+							{Cedrus atlantica}
+						Cèdre du Liban 
+							{Cedrus libani}
+						Cèdre de Chypre 
+							{Cedrus brevifolia}
+		Angiospermes
+			Dicotylédones
+				Moracées
+					Murier
+					{Morus}
+						Mûrier blanc
+							{Morus alba} 
+						Mûrier noir
+							{Morus nigra} 
+						Mûrier rouge
+							{Morus rubra} 
+					Figuier
+					{Ficus}
+						Figuier des Banyans 
+							{Ficus benghalensis}
+						Figuier blanc 
+							{Ficus virens}
+						Figuier commun 
+							{Ficus carica}
+						Figuier des pagodes 
+							{Ficus religiosa}
+						Figuier pleureur 
+							{Ficus benjamina}
+						Figuier de Port Jackson 
+							{Ficus rubiginosa}
+						Figuier sycomore 
+							{Ficus sycomorus}
+				Myrtacées
+					Eucalyptus
+					{Eucalyptus}
+						Gommier rouge
+							{Eucalyptus camaldulensis}
+						Eucalyptus citronné
+							{Eucalyptus citriodora} 
+						Gommier bleu
+							{Eucalyptus globulus} 
+						Eucalyptus à feuilles rondes
+							Eucalyptus gunnii} 
+						Eucalyptus radié
+							{Eucalyptus radiata} 
+						Eucalyptus royal
+							{Eucalyptus regnans} 
+						Eucalyptus de Smith
+							{Eucalyptus smithii} 
+				Magnoliacées
+					Magnolia
+					{Magnolia}
+						Magnolier à grandes fleurs
+							{Magnolia grandiflora} 
+						Magnolia à fleurs de lis
+							{Magnolia liliiflora} 
+						Magnolia étoilé
+							{Magnolia stellata} 
+						Magnolier de Soulange
+							{Magnolia ×soulangeana} 
+				Tiliacées
+					Tilleuls
+					{Tilia}
+						Tilleul d'Amérique
+							{Tilia americana} 
+						Tilleul commun
+							{Tilia ×europaea} 
+						Tilleul du Caucase
+							{Tilia dasystyla Steven} 
+				Oléacées
+					Frêne
+					{Fraxinus}
+						Frêne d'Amérique
+							{Fraxinus americana} 
+						Frêne du Midi
+							{Fraxinus angustifolia}
+						Frêne européen
+							{Fraxinus excelsior} 
+					Jasmin
+					{Jasminum}
+						Jasmin d'Espagne
+							{Jasminum grandiflorum} 
+						Jasmin commun
+							{Jasminum officinale} 
+					Lilas
+					{Syringa}
+						Lilas commun
+							{Syringa vulgaris} 
+					Olivier
+					{Olea}
+						Olivier méditerranéen 
+							{Olea europaea}
+				Acéracées
+					Erables
+					{Acer}
+						Érable trident
+							{Acer buergerianum} 
+						Érable champêtre
+							{Acer campestre} 
+						Érable de Cappadoce
+							{Acer cappadocicum} 
+						Érable circiné
+							{Acer circinatum} 
+						Érable à feuille de vigne
+							{Acer cissifolium} 
+						Érable du Père David
+							{Acer davidii} 
+						Érable Ginnala
+							{Acer ginnala} 
+						Érable nain
+							{Acer glabrum} 
+						Érable d'Espagne
+							{Acer grandidentatum} 
+						Érable à écorce de papier
+							{Acer griseum} 
+						Érable du Japon
+							{Acer japonicum} 
+						Érable à écorce blanche
+							{Acer leucoderme} 
+						Érable à grandes feuilles
+							{Acer macrophyllum} 
+						Érable de Miyabe
+							{Acer miyabei} 
+						Érable de Montpellier
+							{Acer monspessulanum} 
+						Érable du Manitoba
+							{Acer negundo} 
+						Érable noir
+							{Acer nigrum} 
+						Érable d'Italie
+							{Acer opalus} 
+						Érable du japon
+							{Acer palmatum} 
+						Érable de Pennsylvanie
+							{Acer pennsylvanicum} 
+						Érable à cinq folioles
+							{Acer pentaphyllum} 
+						Érable plane
+							{Acer platanoides}  
+						Érable sycomore
+							{Acer pseudoplatanus} 
+						Érable rouge
+							{Acer rubrum} 
+						Érable à veines rouges
+							{Acer rufinerve} 
+						Érable argenté
+							{Acer saccharinum} 
+						Érable à sucre
+							{Acer saccharum} 
+						Érable de Crète
+							{Acer sempervirens} 
+						Erable du Japon
+							{Acer shirasawanum} 
+						Érable à épis
+							{Acer spicatum} 
+						Érable des Tatars
+							{Acer tataricum} 
+				Hippocastanacées
+					Marronier
+					{Aesculus}
+						Marronnier commun
+							{Aesculus hippocastanum} 
+						Marronnier à fleurs rouges
+							{Aesculus × carnea} 
+						Marronnier du Japon
+							{Aesculus turbinata} 
+						Marronnier à fleurs jaunes
+							{Aesculus flava} 
+						Marronnier de Virginie
+							{Aesculus pavia} 
+				Salicacées	 
+					Peuplier
+					{Populus}
+						Peuplier noir 
+							{Populus nigra var. betulifolia}
+						Peuplier de Berlin 
+							{Populus x berolinensis}
+						Peupliers hybrides 
+							{Populus x canadensis}
+						Peuplier blanc 
+							{Populus alba}
+						Peuplier grisard 
+							{Populus canescens}
+						Tremble 
+							{Populus tremula}
+						Peuplier baumier 
+							{Populus trichocarpa}
+						Peuplier de Chine 
+							{Populus lasiocarpa}
+					Saule
+					{Salix}
+						Saule fragile 
+							{Salix fragilis}
+						Saule à 5 étamine 
+							{Salix pentandra}
+						Saule marsault 
+							{Salix caprea}
+						Saule cendré 
+							{Salix cinerea}
+						Saule à feuilles de laurier 
+							{Salix daphnoides}
+						Saule blanc 
+							{Salix alba}
+						Saule argenté 
+							{Salix alba 'Argentera'}
+						Saule pleureur 
+							{Salix x chrysocoma}
+						Saule bleu
+							{Salix alba 'Coerulea'}
+						Osier rouge 
+							{Salix alba 'Britzensis'}
+				Juglandacées	 
+					Noyer
+					{Juglans}
+						Noyer d'Europe 
+							{Juglans regia}
+						Noyer noir 
+							{Juglans nigra}
+						Noyer cendré 
+							{Juglans cinerea}
+						Noyer de Chine 
+							{Juglans mandschurica}
+						Noyer du Japon 
+							{Juglans ailantifolia}
+						Noyer de Bolivie 
+							{Juglans boliviana}
+						Noyer de Californie 
+							{Juglans californica}
+						Noyer de Chine 
+							{Juglans cathayensis}
+						Noyer de Hind 
+							{Juglans hindsii}
+						Noyer des Antilles 
+							{Juglans jamaicensis}
+						Noyer noir d'Arizona 
+							{Juglans major}
+						Noyer à petits fruits 
+							{Juglans microcarpa}
+						Noyer des Andes 
+							{Juglans neotropica}
+						Noyer à fruits durs 
+							{Juglans stenocarpa}
+				Myricacées	
+				Bétulacées	 
+					Aulne
+					{Alnus}
+						Aulne glutineux 
+							{Alnus glutinosa}
+						Aulne blanc 
+							{Alnus incana}
+						Aulne rouge 
+							{Alnus rubra}
+						Aulne de Corse 
+							{Alnus cordata}
+						Aulne vert 
+							{Alnus viridis}
+					Bouleau
+					{Betula}
+						Bouleau verruqueux 
+							{Betula pendula}
+						Bouleau pubescent 
+							{Betula pubescens}
+						Bouleau de Mandchourie 
+							{Betula platyphylla} 
+						Bouleau de Mandchourie 
+							{Betula platyphylla var. szechuanica}
+						Bouleau à papier 
+							{Betula papyfera}
+						Bouleau du Japon 
+							{Betula ermanii}
+						Bouleau à écorce rouge 
+							{Betula albosinensis}
+						Bouleau de l'Himalaya 
+							{Betula utilis}
+						Bouleau de Jacquemont 
+							{Betula jacquemontii}
+						Bouleau jaune 
+							{Betula lutea}
+						Bouleau merisier 
+							{Betula lenta}
+						Bouleau noir 
+							{Betula nigra}
+						Bouleau transcaucasien
+							{Betula medwediewii}
+						Bouleau monarque 
+							{Betula maximowicziana}
+					Charme
+					{Carpinus}
+						Charme commun 
+							{Carpinus betulus}
+						Charme du Japon 
+							{Carpinus japonica}
+						Charme d'Orient 
+							{Carpinus orientalis}
+					Noisetier
+					{Coryllus}
+						Noisetier commun  
+							{Coryllus avellana}
+						Noisetier de Turquie 
+							{Coryllus colurna}
+						Noisetier du Japon
+							{Corylus heterophylla} 
+				Fagacées	 
+					Châtaignier
+					{Castanea}
+						Châtaignier commun 
+							{Castanea sativa}
+						Châtaignier du Japon 
+							{Castanea crenata}
+						Châtaignier de Chine 
+							{Castanea mollissima}
+						Châtaignier d'Amérique 
+							{Castanea dentata}
+					Chêne
+					{Quercus}
+						Chêne pédonculé 
+							{Quercus robur}
+						Chêne rouvre 
+							{Quercus petraea}
+						Chêne pubescent
+							{Quercus pubescens}
+						Chêne chevelu 
+							{Quercus cerris}
+						Chêne châtaignier 
+							{Quercus castaneifolia}
+						Chêne des Canaries 
+							{Quercus canariensis}
+						Chêne de Turner 
+							{Quercus x turneri}
+						Chêne de Lucombe 
+							{Quercus x hispanica}
+						Chêne Tauzin 
+							{Quercus pyreanica}
+						Chêne de Hongrie 
+							{Quercus frainetto}
+						Chêne du Caucase 
+							{Quercus macranthera}
+						Chêne Daimyo 
+							{Quercus dentata}
+						Chêne bicolore 
+							{Quercus bicolor}
+						Chêne à gros glands 
+							{Quercus macrocarpa}
+						Chêne noir 
+							{Quercus nigra}
+						Chêne du Maryland 
+							{Quercus marilandica}
+						Chêne blanc d'Amérique 
+							{Quercus alba}
+						Chêne rouge d'Amérique 
+							{Quercus rubra}
+						Chêne écarlate 
+							{Quercus coccinea}
+						Chêne des marais 
+							{Quercus palustris}
+						Chêne des teinturiers 
+							{Quercus velutina}
+						Chêne vert, Yeuse 
+							{Quercus ilex}
+						Chêne vert de Californie 
+							{Quercus agrifolia}
+						Chêne liège 
+							{Quercus suber}
+						Chêne liège de Chine 
+							{Quercus variabilis}
+						Chêne d'Arménie 
+							{Quercus pontica}
+						Chêne à feuilles de saule 
+							{Quercus phellos}
+						Chêne imbriqué 
+							{Quercus imbricaria}
+						Chêne vert du Japon 
+							{Quercus acuta}
+						Chêne bambou 
+							{Quercus myrsinifolia}
+						Chêne à dents de scie 
+							{Quercus acutissima}
+						Chêne du Liban 
+							{Quercus libani}
+						Chêne kermès 
+							{Quercus coccifera}
+
+					Hêtre
+					{Fagus}
+						Hêtre commun 
+							{Fagus sylvatica}
+						Hêtre pleureur 
+							{Fagus sylvatica 'Pendula'}
+						Hêtre pourpre 
+							{Fagus sylvatica 'Purpurea'}
+						Hêtre fougère 
+							{Fagus sylvatica 'Asplenifolia'}
+						Hêtre d'Orient 
+							{Fagus orientalis}
+						Hêtre de Chine 
+							{Fagus englerana}
+				Ulmacées	 
+					Micocoulier
+					{Celtis}
+						Micocoulier de Provence
+							{Celtis australis} 
+						Micocoulier occidental 
+							{Celtis occidentalis}
+					Orme
+					{Ulmus}
+						Orme blanc 
+							{Ulmus glabra}
+						Orme anglais 
+							{Ulmus procera}
+						Orme d'Amérique 
+							{Ulmus americana}
+						Orme diffus 
+							{Ulmus laevis}
+						Orme champêtre 
+							{Ulmus carpinifolia}
+						Orme de Hollande 
+							{Ulmus x hollandica}
+						Orme de Chine 
+							{Ulmus parsifolia}
+						Orme nain de Sibérie 
+							{Ulmus pumila}
+					Zelkova
+					{Zelkova}
+						Zelkova de Crète
+							{Zelkova abelicea} 
+						Zelkova du Caucase
+							{Zelkova carpinifolia}  
+						Zelkova du Japon
+							{Zelkova serrata} 
+						Zelkova de Sicile
+							{Zelkova sicula} 
+						Zelkova de Chine
+							{Zelkova sinica 
+				Hippocastanacées	 
+					Marronniers
+					{Aesculus}
+						Marronnier d'Inde 
+							{Aesculus hippocastanum}
+						Marronnier à fleurs rouges 
+							{Aesculus x carnea}
+						Marronnier du Japon 
+							{Aesculus turbinata}
+						Marronnier aurore 
+							{Aesculus neglecta 'Erythroblastos'}
+						Marronnier d'Amérique 
+							{Aesculus flava}
+						Marronnier hybride d'Amérique 
+							{Aesculus x hybrida}
+						Marronnier de l'Himalaya 
+							{Aesculus indica}
+				Cannabacées	
+				Moracées	 
+					Mûriers
+					{Morus}
+						Mûrier blanc 
+							{Morus alba}
+						Mûrier noir 
+							{Morus nigra}
+				Rosacées
+					Cognassier
+					{Cydonia}
+						Cognassier 
+							{Cydonia oblonga}
+					Pommier
+					{Malus}
+						Pommier japonais
+							{Malus floribunda} 
+						Pommier commun
+							{Malus domestica} 
+						Pommier microcarpe de Sibérie
+							{Malus baccata} 
+						Pommier sauvage
+							{Malus sylvestris} 
+						Pommier paradis
+							{Malus pumila} 
+					Poirier
+					{Pyrus}
+						Poirier commun 
+							{Pyrus communis}
+					Néflier
+					{Mespilus}
+						Néflier 
+							{Mespilus germanica}
+					Amandier
+					{Prunus}
+						Amandier
+							{Prunus dulcis} 
+						Amandier de Chine
+							{Prunus triloba} 
+					Pêchers
+					{Prunus}
+						Pêcher commun
+							{Prunus persica} 
+						Nectarine
+							{Prunus persica var. nucipersica} 
+					Prunier
+					{Prunus}
+						Prunier des jardins
+							{Prunus domestica} 
+						Mirabellier
+							{Prunus domestica n. subsp. syriaca} 
+						Prunellier à gros fruits
+							{Prunus ×fruticans} 
+					Cerisier
+					{Prunus}
+						Merisier
+							{Prunus avium} 
+						Cerisier commun
+							{Prunus cerasus} 
+					Abricotier
+					{Prunus}
+						Abricotier
+							{Prunus armeniaca} 
+						Abricotier de Briançon
+							{Prunus brigantina}

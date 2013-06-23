@@ -1,0 +1,102 @@
+Batraciens
+	{Amphibians}
+	{Amphibien}
+	Alytidae
+		Crapaud accoucheur
+			{Alytes obstetricans}
+			{Common Midwife Toad}
+	Bombinatoridae
+		Sonneur à ventre jaune
+			{Bombina variegata}
+			{Yellow-Bellied Toad}
+	Bufonidae
+		Crapaud calamite
+			{Bufo calamita}
+			{Natterjack Toad}
+		Crapaud commun
+			{Bufo bufo}
+			{Common Toad}
+	Hylidae
+		Rainette verte
+			{Hyla arborea}
+			{European tree frog}
+	Plethodontidae
+		{Salamandre cavernicole}
+		Spéléomante de Strinati
+			{Speleomantes strinatii}
+	Ranidae
+		Grenouille agile
+			{Rana dalmatina}
+			{Agile Frog}
+		Grenouille rousse
+			{Rana temporaria}
+			{Common Frog}
+		Grenouille verte
+			{Rana esculenta}
+			{Edible Frog}
+	Salamandridae
+		Salamandre noire
+			{Salamandra atra}
+			{Alpine Salamander}
+		Salamandre tâchetée
+			{Fire Salamander}
+			{Salamandra salamandra}
+		Triton à crête
+			{Triturus cristatus}
+			{Great Crested Newt}
+		Triton alpestre
+			{Triturus alpestris}
+			{Alpine Newt}
+		Triton palmé
+			{Triturus helveticus}
+			{Palmate Newt}
+		Triton ponctué
+			{Triturus vulgaris}
+			{Smooth Newt}
+Reptiles
+	{Reptilien}
+	Anguidae
+		Orvet
+			{Anguis fragilis fragilis}
+			{Slow worm}
+	Colubridae
+		Coronelle lisse
+			{Coronella austriaca}
+			{Smooth snake}
+		Couleuvre à collier
+			{Natrix natrix}
+			{European Grass Snake}
+		Couleuvre d'Esculape
+			{Elaphe longissima}
+			{Aesculapian snake}
+		Couleuvre tessellée
+			{Natrix tessellata}
+			{Dice Snake}
+		Couleuvre verte-jaune
+			{Coluber viridiflavus}
+			{Green Whip Snake}
+		Couleuvre vipérine
+			{Natrix maura}
+			{Viperine Water Snake}
+	Emydidae
+		Cistude d'Europe
+			{Tortue bourbeuse}
+			{Emys orbicularis}
+			{European pond terrapin}
+	Lacertidae
+		Lézard des murailles
+			{Podarcis muralis}
+			{Common Wall Lizard}
+		Lézard des souches
+			{Lacerta agilis}
+			{Sand Lizard}
+		Lézard vert
+			{Lacerta bilineata viridis}
+			{European Green Lizard}
+		Lézard vivipare
+			{Zootoca vivipara}
+			{Viviparous Lizard}
+	Viperidae
+		Vipère aspic
+			{Vipera aspis}
+			{Asp Viper}

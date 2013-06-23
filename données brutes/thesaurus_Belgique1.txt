@@ -1,0 +1,15 @@
+﻿Belgique
+	Bruxelles-Capitale
+		Bruxelles-Capitale
+	Flandre
+		Anvers
+		Brabant-flamand
+		Flandre-Occidentale
+		Flandre-Orientale
+		Limbourg
+	Wallonie
+		Brabant-wallon
+		Hainaut
+		Liege
+		Luxembourg
+		Namur

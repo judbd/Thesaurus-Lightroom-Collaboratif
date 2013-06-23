@@ -1,0 +1,363 @@
+﻿Libellules
+	{Odonates}
+	Anisoptères
+		{Anisoptera}
+		Aeshnidae
+			Aeshna affinis
+				{aeschne affine}
+			Aeshna caerulea
+				{Aeschne azurée}
+			Aeshna crenata
+				{Aeschne crénelée}
+			Aeshna cyanea
+				{Aeschne bleue}
+			Aeshna grandis
+				{Grande aeschne}
+			Aeshna isoceles
+				{Aeschne isocèle}
+			Aeshna juncea
+				{Aeschne des joncs}
+			Aeshna mixta
+				{Aeschne mixte}
+			Aeshna serrata
+				{Aeschne denticulée}
+			Aeshna subarctica
+				{Aeschne subarctique}
+			Aeshna viridis
+				{Aeschne verte}
+			Anax immaculifrons
+				{Anax annelé}
+			Anax imperator
+				{Anax empereur}
+			Anax junius
+				{Anax de juin}
+				{Anax cyclope}
+			Anax parthenope
+				{Anax napolitain}
+			Boyeria cretensis
+				{Spectre de Crète}
+			Boyeria irene
+				{Aeschne paisible}
+				{Spectre paisible}
+			Brachytron pratense
+				{Aeschne printanière}
+				{Aeschne velue}
+			Caliaeschna microstigma
+				{Caliaeschne à petits stigmas}
+			Hemianax ephippiger
+				{Anax porte-selle}
+		Cordulegastridae
+			Cordulegaster bidentata
+				{Cordulégastre bidenté}
+			Cordulegaster boltonii
+				{Cordulégastre annelé}
+			Cordulegaster helladica
+				{Cordulégastre grec}
+			Cordulegaster heros
+				{Cordulégastre des Balkans}
+			Cordulegaster insignis
+				{Cordulégastre aux yeux bleus}
+			Cordulegaster picta
+				{Cordulégastre pontique}
+			Cordulegaster princeps
+				{Cordulégastre de l'Atlas}
+			Cordulegaster trinacriae
+				{Cordulégastre italien}
+		Corduliidae
+			Cordulia aenea
+				{Cordulie bronzée}
+			Epitheca bimaculata
+				{Epithèque bimaculée}
+				{Cordulie à deux taches}
+			Oxygastra curtisii
+				{Cordulie à corps fin}
+			Somatochlora alpestris
+				{Cordulie alpestre}
+			Somatochlora arctica
+				{Cordulie arctique}
+			Somatochlora borisi
+				{Chlorocordulie de Thrace}
+			Somatochlora flavomaculata
+				{Cordulie à taches jaunes}
+			Somatochlora meridionalis
+				{Cordulie méridionale}
+			Somatochlora metallica
+				{Cordulie métallique}
+			Somatochlora sahlbergi
+				{Chlorocordulie polaire}
+		Gomphidae
+			Gomphus davidi
+				{Gomphe proche-oriental}
+			Gomphus flavipes
+				{Gomphe à pattes jaunes}
+			Gomphus graslinii
+				{Gomphe de Graslin}
+			Gomphus lucasii
+				{Gomphe d'Algérie}
+			Gomphus pulchellus
+				{Gomphe joli}
+				{Gomphe gentil}
+			Gomphus schneiderii
+				{Gomphe turc}
+			Gomphus simillimus
+				{Gomphe semblable}
+			Gomphus ubadschii
+				{Gomphe kurde}
+			Gomphus vulgatissimus
+				{Gomphe vulgaire}
+				{Gomphe à pattes noires}
+			Lindenia tetraphylla
+				{Lindénie caudifoliée}
+			Onychogomphus assimilis
+				{Onychogomphe à bec}
+			Onychogomphus costae
+				{Onychogomphe à sabres}
+			Onychogomphus flexuosus
+				{Onychogomphe flexueux}
+			Onychogomphus forcipatus
+				{Gomphe à forceps}
+				{Onychogomphe à pinces}
+			Onychogomphus lefebvrii
+				{Onychogomphe à faucilles}
+			Onychogomphus macrodon
+				{Onychogomphe à grande dent}
+			Onychogomphus uncatus
+				{Gomphe à crochets}
+			Ophiogomphus cecilia
+				{Gomphe serpentin}
+			Paragomphus genei
+				{Gomphe de Gené}
+			Paragomphus lineatus
+				{Paragomphe sable}
+		Libellulidae
+			Acisoma panorpoides
+				{Panorpoïde pointu}
+			Brachythemis leucosticta
+				{Brachythémis à ailes barrées}
+			Crocothemis erythraea
+				{Crocothemis écarlate}
+			Crocothemis servilia
+				{Crocothémis d'Asie}
+			Diplacodes lefebvrii
+				{Diplacode noir}
+			Leucorrhinia albifrons
+				{Leucorrhine à front blanc}
+			Leucorrhinia caudalis
+				{Leucorrhine à large queue}
+			Leucorrhinia dubia
+				{Leucorrhine douteuse}
+			Leucorrhinia pectoralis
+				{Leucorrhine à gros thorax}
+			Leucorrhinia rubicunda
+				{Leucorrhine rubiconde}
+			Libellula depressa
+				{Libellule déprimée}
+			Libellula fulva
+				{Libellule fauve}
+			Libellula pontica
+				{Libellule rouge-brique}
+			Libellula quadrimaculata
+				{Libellule quadrimaculée}
+				{Libellule à quatre taches}
+			Orthetrum albistylum
+				{Orthétrum à stylets blancs}
+			Orthetrum brunneum
+				{Orthétrum brun}
+			Orthetrum cancellatum
+				{Orthétrum réticulé}
+			Orthetrum chrysostigma
+				{Orthétrum à taille fine}
+			Orthetrum coerulescens
+				{Orthétrum bleuissant}
+			Orthetrum nitidinerve
+				{Orthétrum à nervures jaunes}
+			Orthetrum sabina
+				{Orthétrum en alêne}
+			Orthetrum taeniolatum
+				{Orthétrum aux yeux bruns}
+			Orthetrum trinacria
+				{Orthétrum effilé}
+			Pantala flavescens
+				{Pantale globe-trotter}
+			Pachydiplax longipennis
+				{Sympétrule à front blanc}
+			Rhyothemis semihyalina
+				{Rhyiothémis irisé}
+			Selysiothemis nigra
+				{Selysiothémis noir}
+			Sympetrum danae
+				{Sympétrum noir}
+			Sympetrum depressiusculum
+				{Sympétrum déprimé}
+			Sympetrum flaveolum
+				{Sympétrum jaune d’or}
+			Sympetrum fonscolombii
+				{Sympétrum de Fonscolombe}
+				{Sympétrum à nervures rouges}
+			Sympetrum haritonovi
+				{Sympétrum nain}
+			Sympetrum meridionale
+				{Sympétrum méridional}
+			Sympetrum nigrifemur
+				{Sympétrum strié de Macronésie}
+			Sympetrum pedemontanum
+				{Sympétrum du Piémont}
+			Sympetrum sanguineum
+				{Sympétrum sanguin}
+			Sympetrum sinaiticum
+				{Sympétrum éraflé}
+			Sympetrum striolatum
+				{Sympétrum fascié}
+			Sympetrum vulgatum
+				{Sympétrum vulgaire}
+			Trithemis annulata
+				{Trithémis annelé}
+			Trithemis arteriosa
+				{Trithémis écarlate}
+			Trithemis festiva
+				{Trithémis indigo}
+			Trithemis kirbyi
+				{Trithémis à ailes ambrées}
+			Urothemis edwardsii
+				{Urothémis prune}
+			Zygonyx torridus
+				{Cascatelle annelée}
+		Macromiidae
+			Macromia splendens
+				{Cordulie splendide}
+	Zygoptères
+		{Zygoptera}
+		{Demoiselles}
+		Calopterygidae
+			Calopteryx exul
+				{Calopteryx maghrébin}
+				{calopteryx exilé}
+			Calopteryx haemorrhoidalis
+				{Caloptéryx hémorroïdal}
+			Calopteryx splendens
+				{Caloptéryx éclatant}
+			Calopteryx virgo
+				{Caloptéryx vierge}
+			Calopteryx xanthostoma
+				{Caloptéryx occitan}
+		Coenagrionidae
+			Cercion lindenii
+				{Erythromma lindenii}
+				{Agrion de Vander Linden}
+			Ceriagrion georgifreyi
+				{Cériagrion turc}
+			Ceriagrion tenellum
+				{Agrion délicat}
+			Coenagrion armatum
+				{Agrion armé}
+			Coenagrion caerulescens
+				{Agrion bleuissant}
+				{Agrion à stigmas pointus}
+				{Agrion bleuâtre}
+			Coenagrion hastulatum
+				{Agrion à fer de lance}
+				{Agrion hasté}
+			Coenagrion hylas
+				{Agrion sibérien}
+			Coenagrion intermedium
+				{Agrion crétois}
+			Coenagrion johanssoni
+				{Agrion boréal}
+			Coenagrion lunulatum
+				{Agrion à lunules}
+			Coenagrion mercuriale
+				{Agrion de Mercure}
+			Coenagrion ornatum
+				{Agrion orné}
+			Coenagrion puella
+				{Agrion jouvencelle}
+			Coenagrion pulchellum
+				{Agrion joli}
+				{Agrion exclamatif}
+			Coenagrion scitulum
+				{Agrion mignon}
+			Coenagrion syriacum
+				{Agrion de Syrie}
+			Enallagma cyathigerum
+				{Agrion porte-coupe}
+			Enallagma deserti
+				{Agrion porte-coupe du désert}
+			Erythromma najas
+				{Naïade aux yeux rouges}
+			Erythromma lindenii
+				{Agrion de Vander Linden}
+				{Naïade aux yeux bleus}
+			Erythromma viridulum
+				{Naïade au corps vert}
+			Ischnura elegans
+				{Agrion élégant}
+			Ischnura fountaineae
+				{Agrion de Fountaine}
+				{Ischnure des déserts}
+			Ischnura genei
+				{Agrion de Géné}
+				{Ischnure tyrrhénienne}
+			Ischnura graellsii
+				{Agrion de Graëlls}
+				{Ischnure maghribérique}
+			Ischnura hastata
+				{Ischnure citrine}
+			Ischnura pumilio
+				{Agrion nain}
+				{Ischnure naine}
+			Ischnura saharensis
+				{Agrion du Sahara}
+				{Ischnure saharienne}
+			Ischnura senegalensis
+			Nehalennia speciosa
+				{Déesse précieuse}
+				{Néhalennie précieuse}
+			Pseudagrion sublacteum
+				{Pseudagrion laiteux}
+			Pyrrhosoma nymphula
+				{Petite nymphe au corps de feu}
+			Pyrrhosoma elisabethae
+				{Nymphe de Grèce}
+		Euphaeidae
+			Epallage fatime
+				{Odalisque pruineuse}
+		Lestidae
+			Lestes barbarus
+				{Leste sauvage}
+			Lestes dryas
+				{Leste des bois}
+				{Leste dryade}
+			Lestes macrostigma
+				{Leste à grands stigmas}
+				{Leste à grands ptérostigmas}
+			Lestes parvidens
+				{Leste à cerques retroussés}
+				{Leste italien}
+			Lestes sponsa
+				{Leste fiancé}
+			Lestes virens
+				{Leste verdoyant}
+			Chalcolestes viridis
+				{Leste vert}
+			Sympecma fusca
+				{Leste brun}
+				{Brunette hivernale}
+			Sympecma paedisca
+				{Leste enfant}
+				{Brunette sibérienne}
+		Platycnemididae
+			Platycnemis acutipennis
+				{Agrion orangé}
+				{Pennipatte orangé}
+			Platycnemis dealbata
+				{Pennipatte ivoire}
+			Platycnemis kervillei
+				{Pennipatte pruineux}
+			Platycnemis latipes
+				{Agrion blanchâtre}
+				{Pennipatte blanchâtre}
+			Platycnemis pennipes
+				{Agrion à larges pattes}
+				{Pennipatte bleuâtre}
+			Platycnemis subdilatata
+				{Pennipatte maghrébin}

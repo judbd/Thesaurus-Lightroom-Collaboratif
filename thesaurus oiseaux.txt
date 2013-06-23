@@ -1,0 +1,3319 @@
+﻿Oiseaux
+	{Aves}
+	{Birds}
+	Accipitriformes
+		Accipitridés
+			{Accipitridae}
+			Aigle criard
+				{Aquila clanga}
+				{Greater Spotted Eagle}
+			Aigle de Bonelli
+				{Aquila fasciata}
+				{Bonelli's Eagle}
+			Aigle des steppes
+				{Aquila nipalensis}
+				{Steppe Eagle}
+			Aigle ibérique
+				{Aquila adalberti}
+				{Spanish Imperial Eagle}
+			Aigle impérial
+				{Aquila heliaca}
+				{Eastern Imperial Eagle}
+			Aigle pomarin
+				{Aquila pomarina}
+				{Lesser Spotted Eagle}
+			Aigle ravisseur
+				{Aquila rapax}
+				{Tawny Eagle}
+			Aigle royal
+				{Aquila chrysaetos}
+				{Golden Eagle}
+			Autour des palombes
+				{Accipiter gentilis}
+				{Northern Goshawk}
+			Autour sombre
+				{Melierax metabates}
+				{Dark Chanting Goshawk}
+			Bondrée apivore
+				{Pernis apivorus}
+				{European Honey Buzzard}
+			Busard cendré
+				{Circus pygargus}
+				{Montagu's Harrier}
+			Busard des roseaux
+				{Circus aeruginosus}
+				{Western Marsh Harrier}
+			Busard pâle
+				{Circus macrourus}
+				{Pallid Harrier}
+			Busard Saint-Martin
+				{Circus cyaneus}
+				{Northern Harrier}
+			Buse à queue blanche
+				{Buteo albicaudatus}
+				{White-tailed Hawk}
+			Buse à queue rousse
+				{Buteo jamaicensis}
+				{Red-tailed Hawk}
+			Buse de Swainson
+				{Buteo swainsoni}
+				{Swainson's Hawk}
+			Buse féroce
+				{Buteo rufinus}
+				{Long-legged Buzzard}
+			Buse noire
+				{Buteogallus anthracinus}
+				{Common Black Hawk}
+			Buse pattue
+				{Buteo lagopus}
+				{Rough-legged Buzzard}
+			Buse variable
+				{Buteo buteo}
+				{Common Buzzard}
+			Circaète Jean-le-Blanc
+				{Circaetus gallicus}
+				{Short-toed Snake Eagle}
+			Élanion blanc
+				{Elanus caeruleus}
+				{Black-winged Kite}
+			Épervier à pieds courts
+				{Accipiter brevipes}
+				{Levant Sparrowhawk}
+			Épervier d'Europe
+				{Accipiter nisus}
+				{Eurasian Sparrowhawk}
+			Gypaète barbu
+				{Gypaetus barbatus}
+				{Bearded Vulture}
+			Milan à queue fourchue
+				{Elanoides forficatus}
+				{Swallow-tailed Kite}
+			Milan bec-en-croc
+				{Chondrohierax uncinatus}
+				{Hook-billed Kite}
+			Milan noir
+				{Milvus migrans}
+				{Black Kite}
+			Milan royal
+				{Milvus milvus}
+				{Red Kite}
+			Petite Buse
+				{Buteo platypterus}
+				{Broad-winged Hawk}
+			Pygargue à queue blanche
+				{Haliaeetus albicilla}
+				{White-tailed Eagle}
+			Pygargue à tête blanche
+				{Haliaeetus leucocephalus}
+				{Bald Eagle}
+			Pygargue de Pallas
+				{Haliaeetus leucoryphus}
+				{Pallas's Fish Eagle}
+			Vautour de Rüppell
+				{Gyps rueppellii}
+				{Rüppell's Vulture}
+			Vautour fauve
+				{Gyps fulvus}
+				{Griffon Vulture}
+			Vautour moine
+				{Aegypius monachus}
+				{Cinereous Vulture}
+			Vautour oricou
+				{Torgos tracheliotus}
+				{Lappet-faced Vulture}
+			Vautour percnoptère
+				{Neophron percnopterus}
+				{Egyptian Vulture}
+		Cathartidés
+			{Cathartidae}
+			Urubu noir
+				{Coragyps atratus}
+				{Black Vulture}
+		Pandionidés
+			{Pandionidae}
+			Balbuzard pêcheur
+				{Pandion haliaetus}
+				{Western Osprey}
+	Ansériformes
+		Anatidés
+			{Anatidae}
+			Arlequin plongeur
+				{Histrionicus histrionicus}
+				{Harlequin Duck}
+			Bernache à cou roux
+				{Branta ruficollis}
+				{Red-breasted Goose}
+			Bernache cravant
+				{Branta bernicla}
+				{Brant Goose}
+			Bernache de Hutchins
+				{Branta hutchinsii}
+				{Cackling Goose}
+			Bernache du Canada
+				{Branta canadensis}
+				{Canada Goose}
+			Bernache du Pacifique
+				{Branta nigricans}
+				{Black Brant}
+			Bernache nonnette
+				{Branta leucopsis}
+				{Barnacle Goose}
+			Canard à bosse
+				{Sarkidiornis melanotos}
+				{Knob-billed Duck}
+			Canard à faucilles
+				{Anas falcata}
+				{Falcated Duck}
+			Canard à front blanc
+				{Anas americana}
+				{American Wigeon}
+			Canard carolin
+				{Aix sponsa}
+				{Wood Duck}
+			Canard chipeau
+				{Anas strepera}
+				{Gadwall}
+			Canard colvert
+				{Anas platyrhynchos}
+				{Mallard}
+			Canard des Bahamas
+				{Anas bahamensis}
+				{White-cheeked Pintail}
+			Canard mandarin
+				{Aix galericulata}
+				{Mandarin Duck}
+			Canard noir
+				{Anas rubripes}
+				{American Black Duck}
+			Canard pilet
+				{Anas acuta}
+				{Northern Pintail}
+			Canard siffleur
+				{Anas penelope}
+				{Eurasian Wigeon}
+			Canard souchet
+				{Anas clypeata}
+				{Northern Shoveler}
+			Cygne chanteur
+				{Cygnus cygnus}
+				{Whooper Swan}
+			Cygne de Bewick
+				{Cygnus bewickii}
+				{Bewick's Swan}
+			Cygne noir
+				{Cygnus atratus}
+				{Black Swan}
+			Cygne tuberculé
+				{Cygnus olor}
+				{Mute Swan}
+			Dendrocygne à ventre noir
+				{Dendrocygna autumnalis}
+				{Black-bellied Whistling Duck}
+			Dendrocygne des Antilles
+				{Dendrocygna arborea}
+				{West Indian Whistling Duck}
+			Dendrocygne fauve
+				{Dendrocygna bicolor}
+				{Fulvous Whistling Duck}
+			Dendrocygne veuf
+				{Dendrocygna viduata}
+				{White-faced Whistling Duck}
+			Eider à duvet
+				{Somateria mollissima}
+				{Common Eider}
+			Eider à lunettes
+				{Somateria fischeri}
+				{Spectacled Eider}
+			Eider à tête grise
+				{Somateria spectabilis}
+				{King Eider}
+			Eider de Steller
+				{Polysticta stelleri}
+				{Steller's Eider}
+			Érismature à tête blanche
+				{Oxyura leucocephala}
+				{White-headed Duck}
+			Érismature rousse
+				{Oxyura jamaicensis}
+				{Ruddy Duck}
+			Érismature routoutou
+				{Nomonyx dominicus}
+				{Masked Duck}
+			Fuligule à bec cerclé
+				{Aythya collaris}
+				{Ring-necked Duck}
+			Fuligule à dos blanc
+				{Aythya valisineria}
+				{Canvasback}
+			Fuligule à tête noire
+				{Aythya affinis}
+				{Lesser Scaup}
+			Fuligule à tête rouge
+				{Aythya americana}
+				{Redhead}
+			Fuligule milouin
+				{Aythya ferina}
+				{Common Pochard}
+			Fuligule milouinan
+				{Aythya marila}
+				{Greater Scaup}
+			Fuligule morillon
+				{Aythya fuligula}
+				{Tufted Duck}
+			Fuligule nyroca
+				{Aythya nyroca}
+				{Ferruginous Duck}
+			Garrot à oeil d'or
+				{Bucephala clangula}
+				{Common Goldeneye}
+			Garrot albéole
+				{Bucephala albeola}
+				{Bufflehead}
+			Garrot d'Islande
+				{Bucephala islandica}
+				{Barrow's Goldeneye}
+			Harelde boréale
+				{Clangula hyemalis}
+				{Long-tailed Duck}
+			Harle bièvre
+				{Mergus merganser}
+				{Common Merganser}
+			Harle couronné
+				{Lophodytes cucullatus}
+				{Hooded Merganser}
+			Harle huppé
+				{Mergus serrator}
+				{Red-breasted Merganser}
+			Harle piette
+				{Mergellus albellus}
+				{Smew}
+			Macreuse à ailes blanches
+				{Melanitta deglandi}
+				{White-winged Scoter}
+			Macreuse à bec jaune
+				{Melanitta americana}
+				{American Scoter}
+			Macreuse à front blanc
+				{Melanitta perspicillata}
+				{Surf Scoter}
+			Macreuse brune
+				{Melanitta fusca}
+				{Velvet Scoter}
+			Macreuse noire
+				{Melanitta nigra}
+				{Black Scoter}
+			Nette rousse
+				{Netta rufina}
+				{Red-crested Pochard}
+			Oie à bec court
+				{Anser brachyrhynchus}
+				{Pink-footed Goose}
+			Oie à tête barrée
+				{Anser indicus}
+				{Bar-headed Goose}
+			Oie cendrée
+				{Anser anser}
+				{Greylag Goose}
+			Oie de la toundra
+				{Anser serrirostris}
+				{Tundra Bean Goose}
+			Oie de Ross
+				{Chen rossii}
+				{Ross's Goose}
+			Oie des moissons
+				{Anser fabalis}
+				{Taiga Bean Goose}
+			Oie des neiges
+				{Chen caerulescens}
+				{Snow Goose}
+			Oie empereur
+				{Chen canagica}
+				{Emperor Goose}
+			Oie naine
+				{Anser erythropus}
+				{Lesser White-fronted Goose}
+			Oie rieuse
+				{Anser albifrons}
+				{Greater White-fronted Goose}
+			Ouette d'Egypte
+				{Alopochen aegyptiaca}
+				{Egyptian Goose}
+			Sarcelle à ailes bleues
+				{Anas discors}
+				{Blue-winged Teal}
+			Sarcelle à ailes vertes
+				{Anas carolinensis}
+				{Green-winged Teal}
+			Sarcelle cannelle
+				{Anas cyanoptera}
+				{Cinnamon Teal}
+			Sarcelle d'été
+				{Anas querquedula}
+				{Garganey}
+			Sarcelle d'hiver
+				{Anas crecca}
+				{Eurasian Teal}
+			Sarcelle élégante
+				{Anas formosa}
+				{Baikal Teal}
+			Sarcelle marbrée
+				{Marmaronetta angustirostris}
+				{Marbled Duck}
+			Tadorne casarca
+				{Tadorna ferruginea}
+				{Ruddy Shelduck}
+			Tadorne de Belon
+				{Tadorna tadorna}
+				{Common Shelduck}
+	Apodiformes
+		Apodidés
+			{Apodidae}
+			Martinet à collier blanc
+				{Streptoprocne zonaris}
+				{White-collared Swift}
+			Martinet à croupion gris
+				{Chaetura cinereiventris}
+				{Grey-rumped Swift}
+			Martinet à ventre blanc
+				{Tachymarptis melba}
+				{Alpine Swift}
+			Martinet cafre
+				{Apus caffer}
+				{White-rumped Swift}
+			Martinet chiquesol
+				{Chaetura martinica}
+				{Lesser Antillean Swift}
+			Martinet de Sibérie
+				{Apus pacificus}
+				{Fork-tailed Swift}
+			Martinet des maisons
+				{Apus affinis}
+				{Little Swift}
+			Martinet épineux
+				{Hirundapus caudacutus}
+				{White-throated Needletail}
+			Martinet noir
+				{Apus apus}
+				{Common Swift}
+			Martinet pâle
+				{Apus pallidus}
+				{Pallid Swift}
+			Martinet polioure
+				{Chaetura brachyura}
+				{Short-tailed Swift}
+			Martinet ramoneur
+				{Chaetura pelagica}
+				{Chimney Swift}
+			Martinet sombre
+				{Cypseloides niger}
+				{American Black Swift}
+			Martinet unicolore
+				{Apus unicolor}
+				{Plain Swift}
+		Trochilidés
+			{Trochilidae}
+			Colibri à tête bleue
+				{Cyanophaia bicolor}
+				{Blue-headed Hummingbird}
+			Colibri falle-vert
+				{Eulampis holosericeus}
+				{Green-throated Carib}
+			Colibri huppé
+				{Orthorhyncus cristatus}
+				{Antillean Crested Hummingbird}
+			Colibri jacobin
+				{Florisuga mellivora}
+				{White-necked Jacobin}
+			Colibri madère
+				{Eulampis jugularis}
+				{Purple-throated Carib}
+			Colibri rubis-topaze
+				{Chrysolampis mosquitus}
+				{Ruby Topaz}
+			Émeraude orvert
+				{Chlorostilbon mellisugus}
+				{Blue-tailed Emerald}
+			Ermite à gorge rayée
+				{Phaethornis striigularis}
+				{Stripe-throated Hermit}
+			Ermite hirsute
+				{Glaucis hirsutus}
+				{Rufous-breasted Hermit}
+			Mango à cravate verte
+				{Anthracothorax viridigula}
+				{Green-throated Mango}
+	Bucérotiformes
+		Upupidés
+			{Upupidae}
+			Huppe fasciée
+				{Upupa epops}
+				{Eurasian Hoopoe}
+	Caprimulgiformes
+		Caprimulgidés
+			{Caprimulgidae}
+			Engoulevent à collier roux
+				{Caprimulgus ruficollis}
+				{Red-necked Nightjar}
+			Engoulevent coré
+				{Caprimulgus cayennensis}
+				{White-tailed Nightjar}
+			Engoulevent d'Amérique
+				{Chordeiles minor}
+				{Common Nighthawk}
+			Engoulevent de Caroline
+				{Caprimulgus carolinensis}
+				{Chuck-will's-widow}
+			Engoulevent d'Europe
+				{Caprimulgus europaeus}
+				{European Nightjar}
+			Engoulevent du désert
+				{Caprimulgus aegyptius}
+				{Egyptian Nightjar}
+			Engoulevent piramidig
+				{Chordeiles gundlachii}
+				{Antillean Nighthawk}
+		Stéatornithidés
+			{Stéatornithidae}
+			Guacharo des cavernes
+				{Steatornis caripensis}
+				{Oilbird}
+	Charadriiformes
+		Alcidés
+			{Alcidae}
+			Guillemot à cou blanc
+				{Synthliboramphus antiquus}
+				{Ancient Murrelet}
+			Guillemot à long bec
+				{Brachyramphus perdix}
+				{Long-billed Murrelet}
+			Guillemot à miroir
+				{Cepphus grylle}
+				{Black Guillemot}
+			Guillemot de Brünnich
+				{Uria lomvia}
+				{Thick-billed Murre}
+			Guillemot de Troïl
+				{Uria aalge}
+				{Common Murre}
+			Macareux huppé
+				{Fratercula cirrhata}
+				{Tufted Puffin}
+			Macareux moine
+				{Fratercula arctica}
+				{Atlantic Puffin}
+			Mergule nain
+				{Alle alle}
+				{Little Auk}
+			Pingouin torda
+				{Alca torda}
+				{Razorbill}
+			Starique cristatelle
+				{Aethia cristatella}
+				{Crested Auklet}
+			Starique perroquet
+				{Aethia psittacula}
+				{Parakeet Auklet}
+		Burhinidés
+			{Burhinidae}
+			Oedicnème criard
+				{Burhinus oedicnemus}
+				{Eurasian Stone-curlew}
+			Oedicnème du Sénégal
+				{Burhinus senegalensis}
+				{Senegal Thick-knee}
+		Charadriidés
+			{Charadriidae}
+			Grand Gravelot
+				{Charadrius hiaticula}
+				{Common Ringed Plover}
+			Gravelot à collier interrompu
+				{Charadrius alexandrinus}
+				{Kentish Plover}
+			Gravelot asiatique
+				{Charadrius asiaticus}
+				{Caspian Plover}
+			Gravelot d'Azara
+				{Charadrius collaris}
+				{Collared Plover}
+			Gravelot de Leschenault
+				{Charadrius leschenaultii}
+				{Greater Sand Plover}
+			Gravelot de Wilson
+				{Charadrius wilsonia}
+				{Wilson's Plover}
+			Gravelot guignard
+				{Charadrius morinellus}
+				{Eurasian Dotterel}
+			Gravelot kildir
+				{Charadrius vociferus}
+				{Killdeer}
+			Gravelot mongol
+				{Charadrius mongolus}
+				{Lesser Sand Plover}
+			Gravelot oriental
+				{Charadrius veredus}
+				{Oriental Plover}
+			Gravelot pâtre
+				{Charadrius pecuarius}
+				{Kittlitz's Plover}
+			Gravelot semipalmé
+				{Charadrius semipalmatus}
+				{Semipalmated Plover}
+			Gravelot siffleur
+				{Charadrius melodus}
+				{Piping Plover}
+			Petit Gravelot
+				{Charadrius dubius}
+				{Little Ringed Plover}
+			Pluvier argenté
+				{Pluvialis squatarola}
+				{Grey Plover}
+			Pluvier bronzé
+				{Pluvialis dominica}
+				{American Golden Plover}
+			Pluvier doré
+				{Pluvialis apricaria}
+				{European Golden Plover}
+			Pluvier fauve
+				{Pluvialis fulva}
+				{Pacific Golden Plover}
+			Vanneau à queue blanche
+				{Vanellus leucurus}
+				{White-tailed Lapwing}
+			Vanneau à tête noire
+				{Vanellus tectus}
+				{Black-headed Lapwing}
+			Vanneau éperonné
+				{Vanellus spinosus}
+				{Spur-winged Lapwing}
+			Vanneau huppé
+				{Vanellus vanellus}
+				{Northern Lapwing}
+			Vanneau indien
+				{Vanellus indicus}
+				{Red-wattled Lapwing}
+			Vanneau sociable
+				{Vanellus gregarius}
+				{Sociable Lapwing}
+			Vanneau téro
+				{Vanellus chilensis}
+				{Southern Lapwing}
+		Glaréolidés
+			{Glaréolidae}
+			Courvite isabelle
+				{Cursorius cursor}
+				{Cream-colored Courser}
+			Glaréole à ailes noires
+				{Glareola nordmanni}
+				{Black-winged Pratincole}
+			Glaréole à collier
+				{Glareola pratincola}
+				{Collared Pratincole}
+			Glaréole orientale
+				{Glareola maldivarum}
+				{Oriental Pratincole}
+		Haematopodidés
+			{Haematopodidae}
+			Huîtrier d'Amérique
+				{Haematopus palliatus}
+				{American Oystercatcher}
+			Huîtrier pie
+				{Haematopus ostralegus}
+				{Eurasian Oystercatcher}
+		Jacanidés
+			{Jacanidae}
+			Jacana noir
+				{Jacana jacana}
+				{Wattled Jacana}
+		Laridés
+			{Laridae}
+			Bec-en-ciseaux d'Afrique
+				{Rynchops flavirostris}
+				{African Skimmer}
+			Bec-en-ciseaux noir
+				{Rynchops niger}
+				{Black Skimmer}
+			Goéland à ailes blanches
+				{Larus glaucoides}
+				{Iceland Gull}
+			Goéland à ailes grises
+				{Larus glaucescens}
+				{Glaucous-winged Gull}
+			Goéland à bec cerclé
+				{Larus delawarensis}
+				{Ring-billed Gull}
+			Goéland à iris blanc
+				{Ichthyaetus leucophthalmus}
+				{White-eyed Gull}
+			Goéland argenté
+				{Larus argentatus}
+				{European Herring Gull}
+			Goéland bourgmestre
+				{Larus hyperboreus}
+				{Glaucous Gull}
+			Goéland brun
+				{Larus fuscus}
+				{Lesser Black-backed Gull}
+			Goéland cendré
+				{Larus canus}
+				{Mew Gull}
+			Goéland d'Amérique
+				{Larus smithsonianus}
+				{American Herring Gull}
+			Goéland d'Arménie
+				{Larus armenicus}
+				{Armenian Gull}
+			Goéland d'Audouin
+				{Ichthyaetus audouinii}
+				{Audouin's Gull}
+			Goéland de Thayer
+				{Larus thayeri}
+				{Thayer's Gull}
+			Goéland ichthyaète
+				{Ichthyaetus ichthyaetus}
+				{Pallas's Gull}
+			Goéland leucophée
+				{Larus michahellis}
+				{Yellow-legged Gull}
+			Goéland marin
+				{Larus marinus}
+				{Great Black-backed Gull}
+			Goéland pontique
+				{Larus cachinnans}
+				{Caspian Gull}
+			Goéland railleur
+				{Chroicocephalus genei}
+				{Slender-billed Gull}
+			Guifette leucoptère
+				{Chlidonias leucopterus}
+				{White-winged Tern}
+			Guifette moustac
+				{Chlidonias hybrida}
+				{Whiskered Tern}
+			Guifette noire
+				{Chlidonias niger}
+				{Black Tern}
+			Mouette à tête grise
+				{Chroicocephalus cirrocephalus}
+				{Grey-hooded Gull}
+			Mouette atricille
+				{Leucophaeus atricilla}
+				{Laughing Gull}
+			Mouette blanche
+				{Pagophila eburnea}
+				{Ivory Gull}
+			Mouette de Bonaparte
+				{Chroicocephalus philadelphia}
+				{Bonaparte's Gull}
+			Mouette de Franklin
+				{Leucophaeus pipixcan}
+				{Franklin's Gull}
+			Mouette de Ross
+				{Rhodostethia rosea}
+				{Ross's Gull}
+			Mouette de Sabine
+				{Xema sabini}
+				{Sabine's Gull}
+			Mouette mélanocéphale
+				{Ichthyaetus melanocephalus}
+				{Mediterranean Gull}
+			Mouette pygmée
+				{Hydrocoloeus minutus}
+				{Little Gull}
+			Mouette rieuse
+				{Chroicocephalus ridibundus}
+				{Black-headed Gull}
+			Mouette tridactyle
+				{Rissa tridactyla}
+				{Black-legged Kittiwake}
+			Noddi brun
+				{Anous stolidus}
+				{Brown Noddy}
+			Noddi noir
+				{Anous minutus}
+				{Black Noddy}
+			Petite Sterne
+				{Sternula antillarum}
+				{Least Tern}
+			Sterne à gros bec
+				{Phaetusa simplex}
+				{Large-billed Tern}
+			Sterne arctique
+				{Sterna paradisaea}
+				{Arctic Tern}
+			Sterne bridée
+				{Onychoprion anaethetus}
+				{Bridled Tern}
+			Sterne caspienne
+				{Hydroprogne caspia}
+				{Caspian Tern}
+			Sterne caugek
+				{Thalasseus sandvicensis}
+				{Sandwich Tern}
+			Sterne de Dougall
+				{Sterna dougallii}
+				{Roseate Tern}
+			Sterne de Forster
+				{Sterna forsteri}
+				{Forster's Tern}
+			Sterne des Aléoutiennes
+				{Onychoprion aleuticus}
+				{Aleutian Tern}
+			Sterne élégante
+				{Thalasseus elegans}
+				{Elegant Tern}
+			Sterne fuligineuse
+				{Onychoprion fuscatus}
+				{Sooty Tern}
+			Sterne hansel
+				{Gelochelidon nilotica}
+				{Gull-billed Tern}
+			Sterne naine
+				{Sternula albifrons}
+				{Little Tern}
+			Sterne pierregarin
+				{Sterna hirundo}
+				{Common Tern}
+			Sterne royale
+				{Thalasseus maximus}
+				{Royal Tern}
+			Sterne voyageuse
+				{Thalasseus bengalensis}
+				{Lesser Crested Tern}
+		Pluvianidés
+			{Pluvianidae}
+			Pluvian fluviatile
+				{Pluvianus aegyptius}
+				{Egyptian Plover}
+		Récurvirostridés
+			{Récurvirostridae}
+			Avocette d'Amérique
+				{Recurvirostra americana}
+				{American Avocet}
+			Avocette élégante
+				{Recurvirostra avosetta}
+				{Pied Avocet}
+			Échasse blanche
+				{Himantopus himantopus}
+				{Black-winged Stilt}
+			Échasse d'Amérique
+				{Himantopus mexicanus}
+				{Black-necked Stilt}
+		Scolopacidés
+			{Scolopacidae}
+			Barge à queue noire
+				{Limosa limosa}
+				{Black-tailed Godwit}
+			Barge hudsonienne
+				{Limosa haemastica}
+				{Hudsonian Godwit}
+			Barge marbrée
+				{Limosa fedoa}
+				{Marbled Godwit}
+			Barge rousse
+				{Limosa lapponica}
+				{Bar-tailed Godwit}
+			Bartramie des champs
+				{Bartramia longicauda}
+				{Upland Sandpiper}
+			Bécasse d'Amérique
+				{Scolopax minor}
+				{American Woodcock}
+			Bécasse des bois
+				{Scolopax rusticola}
+				{Eurasian Woodcock}
+			Bécasseau à cou roux
+				{Calidris ruficollis}
+				{Red-necked Stint}
+			Bécasseau à échasses
+				{Calidris himantopus}
+				{Stilt Sandpiper}
+			Bécasseau à longs doigts
+				{Calidris subminuta}
+				{Long-toed Stint}
+			Bécasseau à queue pointue
+				{Calidris acuminata}
+				{Sharp-tailed Sandpiper}
+			Bécasseau cocorli
+				{Calidris ferruginea}
+				{Curlew Sandpiper}
+			Bécasseau d'Alaska
+				{Calidris mauri}
+				{Western Sandpiper}
+			Bécasseau de Baird
+				{Calidris bairdii}
+				{Baird's Sandpiper}
+			Bécasseau de Bonaparte
+				{Calidris fuscicollis}
+				{White-rumped Sandpiper}
+			Bécasseau de l'Anadyr
+				{Calidris tenuirostris}
+				{Great Knot}
+			Bécasseau de Temminck
+				{Calidris temminckii}
+				{Temminck's Stint}
+			Bécasseau falcinelle
+				{Limicola falcinellus}
+				{Broad-billed Sandpiper}
+			Bécasseau maubèche
+				{Calidris canutus}
+				{Red Knot}
+			Bécasseau minuscule
+				{Calidris minutilla}
+				{Least Sandpiper}
+			Bécasseau minute
+				{Calidris minuta}
+				{Little Stint}
+			Bécasseau rousset
+				{Tryngites subruficollis}
+				{Buff-breasted Sandpiper}
+			Bécasseau sanderling
+				{Calidris alba}
+				{Sanderling}
+			Bécasseau semipalmé
+				{Calidris pusilla}
+				{Semipalmated Sandpiper}
+			Bécasseau spatule
+				{Eurynorhynchus pygmeus}
+				{Spoon-billed Sandpiper}
+			Bécasseau tacheté
+				{Calidris melanotos}
+				{Pectoral Sandpiper}
+			Bécasseau variable
+				{Calidris alpina}
+				{Dunlin}
+			Bécasseau violet
+				{Calidris maritima}
+				{Purple Sandpiper}
+			Bécassin à bec court
+				{Limnodromus griseus}
+				{Short-billed Dowitcher}
+			Bécassin à long bec
+				{Limnodromus scolopaceus}
+				{Long-billed Dowitcher}
+			Bécassine à queue pointue
+				{Gallinago stenura}
+				{Pin-tailed Snipe}
+			Bécassine de Swinhoe
+				{Gallinago megala}
+				{Swinhoe's Snipe}
+			Bécassine de Wilson
+				{Gallinago delicata}
+				{Wilson's Snipe}
+			Bécassine des marais
+				{Gallinago gallinago}
+				{Common Snipe}
+			Bécassine double
+				{Gallinago media}
+				{Great Snipe}
+			Bécassine sourde
+				{Lymnocryptes minimus}
+				{Jack Snipe}
+			Chevalier à pattes jaunes
+				{Tringa flavipes}
+				{Lesser Yellowlegs}
+			Chevalier aboyeur
+				{Tringa nebularia}
+				{Common Greenshank}
+			Chevalier arlequin
+				{Tringa erythropus}
+				{Spotted Redshank}
+			Chevalier bargette
+				{Xenus cinereus}
+				{Terek Sandpiper}
+			Chevalier criard
+				{Tringa melanoleuca}
+				{Greater Yellowlegs}
+			Chevalier culblanc
+				{Tringa ochropus}
+				{Green Sandpiper}
+			Chevalier de Sibérie
+				{Tringa brevipes}
+				{Grey-tailed Tattler}
+			Chevalier gambette
+				{Tringa totanus}
+				{Common Redshank}
+			Chevalier grivelé
+				{Actitis macularius}
+				{Spotted Sandpiper}
+			Chevalier guignette
+				{Actitis hypoleucos}
+				{Common Sandpiper}
+			Chevalier semipalmé
+				{Tringa semipalmata}
+				{Willet}
+			Chevalier solitaire
+				{Tringa solitaria}
+				{Solitary Sandpiper}
+			Chevalier stagnatile
+				{Tringa stagnatilis}
+				{Marsh Sandpiper}
+			Chevalier sylvain
+				{Tringa glareola}
+				{Wood Sandpiper}
+			Combattant varié
+				{Philomachus pugnax}
+				{Ruff}
+			Courlis à bec grêle
+				{Numenius tenuirostris}
+				{Slender-billed Curlew}
+			Courlis cendré
+				{Numenius arquata}
+				{Eurasian Curlew}
+			Courlis corlieu
+				{Numenius phaeopus}
+				{Whimbrel}
+			Courlis esquimau
+				{Numenius borealis}
+				{Eskimo Curlew}
+			Courlis nain
+				{Numenius minutus}
+				{Little Curlew}
+			Phalarope à bec étroit
+				{Phalaropus lobatus}
+				{Red-necked Phalarope}
+			Phalarope à bec large
+				{Phalaropus fulicarius}
+				{Red Phalarope}
+			Phalarope de Wilson
+				{Phalaropus tricolor}
+				{Wilson's Phalarope}
+			Tournepierre à collier
+				{Arenaria interpres}
+				{Ruddy Turnstone}
+		Stercorariidés
+			{Stercorariidae}
+			Grand Labbe
+				{Stercorarius skua}
+				{Great Skua}
+			Labbe à longue queue
+				{Stercorarius longicaudus}
+				{Long-tailed Jaeger}
+			Labbe de McCormick
+				{Stercorarius maccormicki}
+				{South Polar Skua}
+			Labbe parasite
+				{Stercorarius parasiticus}
+				{Parasitic Jaeger}
+			Labbe pomarin
+				{Stercorarius pomarinus}
+				{Pomarine Skua}
+		Turnicidés
+			{Turnicidae}
+			Turnix mugissant
+				{Turnix sylvaticus}
+				{Kurrichane Buttonquail}
+	Ciconiiformes
+		Ciconiidés
+			{Ciconiidae}
+			Cigogne blanche
+				{Ciconia ciconia}
+				{White Stork}
+			Cigogne épiscopale
+				{Ciconia episcopus}
+				{Woolly-necked Stork}
+			Cigogne noire
+				{Ciconia nigra}
+				{Black Stork}
+			Marabout d'Afrique
+				{Leptoptilos crumeniferus}
+				{Marabou Stork}
+			Tantale ibis
+				{Mycteria ibis}
+				{Yellow-billed Stork}
+	Columbiformes
+		Columbidés
+			{Columbidae}
+			Colombe à croissants
+				{Geotrygon mystacea}
+				{Bridled Quail-Dove}
+			Colombe à queue noire
+				{Columbina passerina}
+				{Common Ground Dove}
+			Colombe rouviolette
+				{Geotrygon montana}
+				{Ruddy Quail-Dove}
+			Pigeon à cou rouge
+				{Patagioenas squamosa}
+				{Scaly-naped Pigeon}
+			Pigeon biset
+				{Columba livia}
+				{Common Pigeon}
+			Pigeon colombin
+				{Columba oenas}
+				{Stock Dove}
+			Pigeon de Bolle
+				{Columba bollii}
+				{Bolle's Pigeon}
+			Pigeon des lauriers
+				{Columba junoniae}
+				{Laurel Pigeon}
+			Pigeon d'Eversmann
+				{Columba eversmanni}
+				{Yellow-eyed Pigeon}
+			Pigeon jounud
+				{Patagioenas corensis}
+				{Bare-eyed Pigeon}
+			Pigeon ramier
+				{Columba palumbus}
+				{Common Wood Pigeon}
+			Pigeon trocaz
+				{Columba trocaz}
+				{Trocaz Pigeon}
+			Tourterelle à queue carrée
+				{Zenaida aurita}
+				{Zenaida Dove}
+			Tourterelle des bois
+				{Streptopelia turtur}
+				{European Turtle Dove}
+			Tourterelle maillée
+				{Stigmatopelia senegalensis}
+				{Laughing Dove}
+			Tourterelle oreillarde
+				{Zenaida auriculata}
+				{Eared Dove}
+			Tourterelle orientale
+				{Streptopelia orientalis}
+				{Oriental Turtle Dove}
+			Tourterelle rieuse
+				{Streptopelia roseogrisea}
+				{African Collared Dove}
+			Tourterelle triste
+				{Zenaida macroura}
+				{Mourning Dove}
+			Tourterelle turque
+				{Streptopelia decaocto}
+				{Eurasian Collared Dove}
+	Coraciiformes
+		Alcédinidés
+			{Alcédinidae}
+			Martin-chasseur de Smyrne
+				{Halcyon smyrnensis}
+				{White-throated Kingfisher}
+			Martin-pêcheur à ventre roux
+				{Megaceryle torquata}
+				{Ringed Kingfisher}
+			Martin-pêcheur d'Amérique
+				{Megaceryle alcyon}
+				{Belted Kingfisher}
+			Martin-pêcheur d'Europe
+				{Alcedo atthis}
+				{Common Kingfisher}
+			Martin-pêcheur pie
+				{Ceryle rudis}
+				{Pied Kingfisher}
+		Coraciidés
+			{Coraciidae}
+			Rollier d'Europe
+				{Coracias garrulus}
+				{European Roller}
+			Rollier indien
+				{Coracias benghalensis}
+				{Indian Roller}
+		Méropidés
+			{Méropidae}
+			Guêpier de Madagascar
+				{Merops superciliosus}
+				{Olive Bee-eater}
+			Guêpier de Perse
+				{Merops persicus}
+				{Blue-cheeked Bee-eater}
+			Guêpier d'Europe
+				{Merops apiaster}
+				{European Bee-eater}
+	Cuculiformes
+		Cuculidés
+			{Cuculidae}
+			Ani à bec lisse
+				{Crotophaga ani}
+				{Smooth-billed Ani}
+			Coucou de l'Himalaya
+				{Cuculus optatus}
+				{Himalayan Cuckoo}
+			Coucou didric
+				{Chrysococcyx caprius}
+				{Dideric Cuckoo}
+			Coucou geai
+				{Clamator glandarius}
+				{Great Spotted Cuckoo}
+			Coucou gris
+				{Cuculus canorus}
+				{Common Cuckoo}
+			Coulicou à bec jaune
+				{Coccyzus americanus}
+				{Yellow-billed Cuckoo}
+			Coulicou à bec noir
+				{Coccyzus erythropthalmus}
+				{Black-billed Cuckoo}
+			Coulicou à tête grise
+				{Coccyzus lansbergi}
+				{Grey-capped Cuckoo}
+			Coulicou de Vieillot
+				{Coccyzus melacoryphus}
+				{Dark-billed Cuckoo}
+			Coulicou manioc
+				{Coccyzus minor}
+				{Mangrove Cuckoo}
+			Guira cantara
+				{Guira guira}
+				{Guira Cuckoo}
+	Falconiformes
+		Falconidés
+			{Falconidae}
+			Caracara à tête jaune
+				{Milvago chimachima}
+				{Yellow-headed Caracara}
+			Crécerelle d'Amérique
+				{Falco sparverius}
+				{American Kestrel}
+			Faucon concolore
+				{Falco concolor}
+				{Sooty Falcon}
+			Faucon crécerelle
+				{Falco tinnunculus}
+				{Common Kestrel}
+			Faucon crécerellette
+				{Falco naumanni}
+				{Lesser Kestrel}
+			Faucon de Barbarie
+				{Falco pelegrinoides}
+				{Barbary Falcon}
+			Faucon de l'Amour
+				{Falco amurensis}
+				{Amur Falcon}
+			Faucon d'Éléonore
+				{Falco eleonorae}
+				{Eleonora's Falcon}
+			Faucon émerillon
+				{Falco columbarius}
+				{Merlin}
+			Faucon gerfaut
+				{Falco rusticolus}
+				{Gyrfalcon}
+			Faucon hobereau
+				{Falco subbuteo}
+				{Eurasian Hobby}
+			Faucon kobez
+				{Falco vespertinus}
+				{Red-footed Falcon}
+			Faucon lanier
+				{Falco biarmicus}
+				{Lanner Falcon}
+			Faucon pèlerin
+				{Falco peregrinus}
+				{Peregrine Falcon}
+			Faucon sacre
+				{Falco cherrug}
+				{Saker Falcon}
+	Galliformes
+		Numididés
+			{Numididae}
+			Pintade de Numidie
+				{Numida meleagris}
+				{Helmeted Guineafowl}
+		Odontophoridés
+			{Odontophoridae}
+			Colin de Californie
+				{Callipepla californica}
+				{California Quail}
+			Colin de Virginie
+				{Colinus virginianus}
+				{Northern Bobwhite}
+		Phasianidés
+			{Phasianidae}
+			Caille des blés
+				{Coturnix coturnix}
+				{Common Quail}
+			Dindon sauvage
+				{Meleagris gallopavo}
+				{Wild Turkey}
+			Faisan argenté
+				{Lophura nycthemera}
+				{Silver Pheasant}
+			Faisan de Colchide
+				{Phasianus colchicus}
+				{Common Pheasant}
+			Faisan de Lady Amherst
+				{Chrysolophus amherstiae}
+				{Lady Amherst's Pheasant}
+			Faisan doré
+				{Chrysolophus pictus}
+				{Golden Pheasant}
+			Faisan vénéré
+				{Syrmaticus reevesii}
+				{Reeves's Pheasant}
+			Francolin d'Erckel
+				{Pternistis erckelii}
+				{Erckel's Francolin}
+			Francolin noir
+				{Francolinus francolinus}
+				{Black Francolin}
+			Gélinotte des bois
+				{Tetrastes bonasia}
+				{Hazel Grouse}
+			Grand Tétras
+				{Tetrao urogallus}
+				{Western Capercaillie}
+			Lagopède alpin
+				{Lagopus muta}
+				{Rock Ptarmigan}
+			Lagopède des saules
+				{Lagopus lagopus}
+				{Willow Ptarmigan}
+			Perdrix bartavelle
+				{Alectoris graeca}
+				{Rock Partridge}
+			Perdrix choukar
+				{Alectoris chukar}
+				{Chukar Partridge}
+			Perdrix de Daourie
+				{Perdix dauurica}
+				{Daurian Partridge}
+			Perdrix gambra
+				{Alectoris barbara}
+				{Barbary Partridge}
+			Perdrix grise
+				{Perdix perdix}
+				{Grey Partridge}
+			Perdrix rouge
+				{Alectoris rufa}
+				{Red-legged Partridge}
+			Perdrix si-si
+				{Ammoperdix griseogularis}
+				{See-see Partridge}
+			Tétraogalle de Perse
+				{Tetraogallus caspius}
+				{Caspian Snowcock}
+			Tétraogalle du Caucase
+				{Tetraogallus caucasicus}
+				{Caucasian Snowcock}
+			Tétras du Caucase
+				{Lyrurus mlokosiewiczi}
+				{Caucasian Grouse}
+			Tétras lyre
+				{Lyrurus tetrix}
+				{Black Grouse}
+	Gaviiformes
+		Gaviidés
+			{Gaviidae}
+			Plongeon à bec blanc
+				{Gavia adamsii}
+				{Yellow-billed Loon}
+			Plongeon arctique
+				{Gavia arctica}
+				{Black-throated Loon}
+			Plongeon catmarin
+				{Gavia stellata}
+				{Red-throated Loon}
+			Plongeon du Pacifique
+				{Gavia pacifica}
+				{Pacific Loon}
+			Plongeon imbrin
+				{Gavia immer}
+				{Great Northern Loon}
+	Gruiformes
+		Gruidés
+			{Gruidae}
+			Grue cendrée
+				{Grus grus}
+				{Common Crane}
+			Grue de Sibérie
+				{Grus leucogeranus}
+				{Siberian Crane}
+			Grue demoiselle
+				{Anthropoides virgo}
+				{Demoiselle Crane}
+			Grue du Canada
+				{Grus canadensis}
+				{Sandhill Crane}
+		Rallidés
+			{Rallidae}
+			Foulque à cachet blanc
+				{Fulica caribaea}
+				{Caribbean Coot}
+			Foulque caronculée
+				{Fulica cristata}
+				{Red-knobbed Coot}
+			Foulque d'Amérique
+				{Fulica americana}
+				{American Coot}
+			Foulque macroule
+				{Fulica atra}
+				{Eurasian Coot}
+			Gallinule poule-d'eau
+				{Gallinula chloropus}
+				{Common Moorhen}
+			Marouette de Baillon
+				{Porzana pusilla}
+				{Baillon's Crake}
+			Marouette de Caroline
+				{Porzana carolina}
+				{Sora}
+			Marouette ponctuée
+				{Porzana porzana}
+				{Spotted Crake}
+			Marouette poussin
+				{Porzana parva}
+				{Little Crake}
+			Marouette rayée
+				{Aenigmatolimnas marginalis}
+				{Striped Crake}
+			Râle à bec jaune
+				{Amaurornis flavirostra}
+				{Black Crake}
+			Râle de Virginie
+				{Rallus limicola}
+				{Virginia Rail}
+			Râle d'eau
+				{Rallus aquaticus}
+				{Water Rail}
+			Râle des genêts
+				{Crex crex}
+				{Corn Crake}
+			Râle des prés
+				{Crex egregia}
+				{African Crake}
+			Râle gris
+				{Rallus longirostris}
+				{Clapper Rail}
+			Talève d'Allen
+				{Porphyrio alleni}
+				{Allen's Gallinule}
+			Talève sultane
+				{Porphyrio porphyrio}
+				{Purple Swamphen}
+			Talève violacée
+				{Porphyrio martinica}
+				{Purple Gallinule}
+	Otidiformes
+		Otididés
+			{Otididae}
+			Outarde barbue
+				{Otis tarda}
+				{Great Bustard}
+			Outarde canepetière
+				{Tetrax tetrax}
+				{Little Bustard}
+			Outarde de Macqueen
+				{Chlamydotis macqueenii}
+				{Macqueen's Bustard}
+			Outarde houbara
+				{Chlamydotis undulata}
+				{Houbara Bustard}
+	Passériformes
+		Acrocephalidés
+			{Acrocephalidae}
+			Hypolaïs bottée
+				{Iduna caligata}
+				{Booted Warbler}
+			Hypolaïs des oliviers
+				{Hippolais olivetorum}
+				{Olive-tree Warbler}
+			Hypolaïs d'Upcher
+				{Hippolais languida}
+				{Upcher's Warbler}
+			Hypolaïs ictérine
+				{Hippolais icterina}
+				{Icterine Warbler}
+			Hypolaïs obscure
+				{Iduna opaca}
+				{Western Olivaceous Warbler}
+			Hypolaïs pâle
+				{Iduna pallida}
+				{Eastern Olivaceous Warbler}
+			Hypolaïs polyglotte
+				{Hippolais polyglotta}
+				{Melodious Warbler}
+			Hypolaïs rama
+				{Iduna rama}
+				{Sykes's Warbler}
+			Lusciniole à moustaches
+				{Acrocephalus melanopogon}
+				{Moustached Warbler}
+			Phragmite aquatique
+				{Acrocephalus paludicola}
+				{Aquatic Warbler}
+			Phragmite des joncs
+				{Acrocephalus schoenobaenus}
+				{Sedge Warbler}
+			Rousserolle à gros bec
+				{Iduna aedon}
+				{Thick-billed Warbler}
+			Rousserolle des buissons
+				{Acrocephalus dumetorum}
+				{Blyth's Reed Warbler}
+			Rousserolle d'Irak
+				{Acrocephalus griseldis}
+				{Basra Reed Warbler}
+			Rousserolle effarvatte
+				{Acrocephalus scirpaceus}
+				{Eurasian Reed Warbler}
+			Rousserolle isabelle
+				{Acrocephalus agricola}
+				{Paddyfield Warbler}
+			Rousserolle turdoïde
+				{Acrocephalus arundinaceus}
+				{Great Reed Warbler}
+			Rousserolle verderolle
+				{Acrocephalus palustris}
+				{Marsh Warbler}
+		Aegithalidés
+			{Aegithalidae}
+			Mésange à longue queue
+				{Aegithalos caudatus}
+				{Long-tailed Tit}
+		Alaudidés
+			{Alaudidae}
+			Alouette bilophe
+				{Eremophila bilopha}
+				{Temminck's Lark}
+			Alouette calandre
+				{Melanocorypha calandra}
+				{Calandra Lark}
+			Alouette calandrelle
+				{Calandrella brachydactyla}
+				{Greater Short-toed Lark}
+			Alouette des champs
+				{Alauda arvensis}
+				{Eurasian Skylark}
+			Alouette haussecol
+				{Eremophila alpestris}
+				{Horned Lark}
+			Alouette leucoptère
+				{Melanocorypha leucoptera}
+				{White-winged Lark}
+			Alouette lulu
+				{Lullula arborea}
+				{Woodlark}
+			Alouette monticole
+				{Melanocorypha bimaculata}
+				{Bimaculated Lark}
+			Alouette nègre
+				{Melanocorypha yeltoniensis}
+				{Black Lark}
+			Alouette pispolette
+				{Calandrella rufescens}
+				{Lesser Short-toed Lark}
+			Alouette raytal
+				{Calandrella raytal}
+				{Sand Lark}
+			Ammomane élégante
+				{Ammomanes cinctura}
+				{Bar-tailed Lark}
+			Ammomane isabelline
+				{Ammomanes deserti}
+				{Desert Lark}
+			Cochevis de Thékla
+				{Galerida theklae}
+				{Thekla Lark}
+			Cochevis huppé
+				{Galerida cristata}
+				{Crested Lark}
+			Sirli de Dupont
+				{Chersophilus duponti}
+				{Dupont's Lark}
+			Sirli du désert
+				{Alaemon alaudipes}
+				{Greater Hoopoe-Lark}
+		Bombycillidés
+			{Bombycillidae}
+			Jaseur boréal
+				{Bombycilla garrulus}
+				{Bohemian Waxwing}
+			Jaseur d'Amérique
+				{Bombycilla cedrorum}
+				{Cedar Waxwing}
+		Calcariidés
+			{Calcariidae}
+			Bruant des neiges
+				{Plectrophenax nivalis}
+				{Snow Bunting}
+			Bruant lapon
+				{Calcarius lapponicus}
+				{Lapland Longspur}
+		Cardinalidés
+			{Cardinalidae}
+			Cardinal à poitrine rose
+				{Pheucticus ludovicianus}
+				{Rose-breasted Grosbeak}
+			Cardinal à tête noire
+				{Pheucticus melanocephalus}
+				{Black-headed Grosbeak}
+			Dickcissel d'Amérique
+				{Spiza americana}
+				{Dickcissel}
+			Guiraca bleu
+				{Passerina caerulea}
+				{Blue Grosbeak}
+			Passerin azuré
+				{Passerina amoena}
+				{Lazuli Bunting}
+			Passerin indigo
+				{Passerina cyanea}
+				{Indigo Bunting}
+			Passerin nonpareil
+				{Passerina ciris}
+				{Painted Bunting}
+			Passerin varié
+				{Passerina versicolor}
+				{Varied Bunting}
+		Certhiidés
+			{Certhiidae}
+			Grimpereau des bois
+				{Certhia familiaris}
+				{Eurasian Treecreeper}
+			Grimpereau des jardins
+				{Certhia brachydactyla}
+				{Short-toed Treecreeper}
+		Cettidés
+			{Cettidae}
+			Bouscarle de Cetti
+				{Cettia cetti}
+				{Cetti's Warbler}
+		Cinclidés
+			{Cinclidae}
+			Cincle plongeur
+				{Cinclus cinclus}
+				{White-throated Dipper}
+		Cisticolidés
+			{Cisticolidae}
+			Cisticole des joncs
+				{Cisticola juncidis}
+				{Zitting Cisticola}
+			Prinia gracile
+				{Prinia gracilis}
+				{Graceful Prinia}
+		Coerébidés
+			{Coerébidae}
+			Sucrier à ventre jaune
+				{Coereba flaveola}
+				{Bananaquit}
+		Corvidés
+			{Corvidae}
+			Cassenoix moucheté
+				{Nucifraga caryocatactes}
+				{Spotted Nutcracker}
+			Chocard à bec jaune
+				{Pyrrhocorax graculus}
+				{Alpine Chough}
+			Choucas de Daourie
+				{Coloeus dauuricus}
+				{Daurian Jackdaw}
+			Corbeau brun
+				{Corvus ruficollis}
+				{Brown-necked Raven}
+			Corbeau familier
+				{Corvus splendens}
+				{House Crow}
+			Corbeau freux
+				{Corvus frugilegus}
+				{Rook}
+			Corbeau pie
+				{Corvus albus}
+				{Pied Crow}
+			Corneille mantelée
+				{Corvus cornix}
+				{Hooded Crow}
+			Corneille noire
+				{Corvus corone}
+				{Carrion Crow}
+			Crave à bec rouge
+				{Pyrrhocorax pyrrhocorax}
+				{Red-billed Chough}
+			Geai des chênes
+				{Garrulus glandarius}
+				{Eurasian Jay}
+			Grand Corbeau
+				{Corvus corax}
+				{Northern Raven}
+			Mésangeai imitateur
+				{Perisoreus infaustus}
+				{Siberian Jay}
+			Pie bavarde
+				{Pica pica}
+				{Eurasian Magpie}
+			Pie bleue
+				{Cyanopica cyanus}
+				{Azure-winged Magpie}
+		Emberizidés
+			{Emberizidae}
+			Bruant à calotte blanche
+				{Emberiza leucocephalos}
+				{Pine Bunting}
+			Bruant à cou gris
+				{Emberiza buchanani}
+				{Grey-necked Bunting}
+			Bruant à couronne blanche
+				{Zonotrichia leucophrys}
+				{White-crowned Sparrow}
+			Bruant à gorge blanche
+				{Zonotrichia albicollis}
+				{White-throated Sparrow}
+			Bruant à joues marron
+				{Chondestes grammacus}
+				{Lark Sparrow}
+			Bruant à longue queue
+				{Emberiza cioides}
+				{Meadow Bunting}
+			Bruant à sourcils jaunes
+				{Emberiza chrysophrys}
+				{Yellow-browed Bunting}
+			Bruant à tête rousse
+				{Emberiza bruniceps}
+				{Red-headed Bunting}
+			Bruant auréole
+				{Emberiza aureola}
+				{Yellow-breasted Bunting}
+			Bruant cendré
+				{Emberiza cineracea}
+				{Cinereous Bunting}
+			Bruant cendrillard
+				{Emberiza caesia}
+				{Cretzschmar's Bunting}
+			Bruant chanteur
+				{Melospiza melodia}
+				{Song Sparrow}
+			Bruant chingolo
+				{Zonotrichia capensis}
+				{Rufous-collared Sparrow}
+			Bruant de Lincoln
+				{Melospiza lincolnii}
+				{Lincoln's Sparrow}
+			Bruant de Pallas
+				{Emberiza pallasi}
+				{Pallas's Reed Bunting}
+			Bruant de Stewart
+				{Emberiza stewarti}
+				{White-capped Bunting}
+			Bruant des prés
+				{Passerculus sandwichensis}
+				{Savannah Sparrow}
+			Bruant des roseaux
+				{Emberiza schoeniclus}
+				{Common Reed Bunting}
+			Bruant fauve
+				{Passerella iliaca}
+				{Fox Sparrow}
+			Bruant fou
+				{Emberiza cia}
+				{Rock Bunting}
+			Bruant jaune
+				{Emberiza citrinella}
+				{Yellowhammer}
+			Bruant masqué
+				{Emberiza spodocephala}
+				{Black-faced Bunting}
+			Bruant mélanocéphale
+				{Emberiza melanocephala}
+				{Black-headed Bunting}
+			Bruant nain
+				{Emberiza pusilla}
+				{Little Bunting}
+			Bruant ortolan
+				{Emberiza hortulana}
+				{Ortolan Bunting}
+			Bruant proyer
+				{Emberiza calandra}
+				{Corn Bunting}
+			Bruant roux
+				{Emberiza rutila}
+				{Chestnut Bunting}
+			Bruant rustique
+				{Emberiza rustica}
+				{Rustic Bunting}
+			Bruant striolé
+				{Emberiza striolata}
+				{Striolated Bunting}
+			Bruant zizi
+				{Emberiza cirlus}
+				{Cirl Bunting}
+			Junco ardoisé
+				{Junco hyemalis}
+				{Dark-eyed Junco}
+			Tohi à flancs roux
+				{Pipilo erythrophthalmus}
+				{Eastern Towhee}
+		Estrildidés
+			{Estrildidae}
+			Amadine cou-coupé
+				{Amadina fasciata}
+				{Cut-throat Finch}
+			Astrild à joues orange
+				{Estrilda melpoda}
+				{Orange-cheeked Waxbill}
+			Astrild à tête noire
+				{Estrilda atricapilla}
+				{Black-headed Waxbill}
+			Astrild cendré
+				{Estrilda troglodytes}
+				{Black-rumped Waxbill}
+			Astrild ondulé
+				{Estrilda astrild}
+				{Common Waxbill}
+			Bengali rouge
+				{Amandava amandava}
+				{Red Avadavat}
+			Capucin à dos marron
+				{Lonchura malacca}
+				{Tricolored Munia}
+			Capucin à tête blanche
+				{Lonchura maja}
+				{White-headed Munia}
+			Capucin bec-d'argent
+				{Euodice cantans}
+				{African Silverbill}
+			Capucin bec-de-plomb
+				{Euodice malabarica}
+				{Indian Silverbill}
+			Diamant mandarin
+				{Taeniopygia guttata}
+				{Zebra Finch}
+		Fringillidés
+			{Fringillidae}
+			Bec-croisé bifascié
+				{Loxia leucoptera}
+				{Two-barred Crossbill}
+			Bec-croisé des sapins
+				{Loxia curvirostra}
+				{Red Crossbill}
+			Bec-croisé perroquet
+				{Loxia pytyopsittacus}
+				{Parrot Crossbill}
+			Bouvreuil des Açores
+				{Pyrrhula murina}
+				{Azores Bullfinch}
+			Bouvreuil pivoine
+				{Pyrrhula pyrrhula}
+				{Eurasian Bullfinch}
+			Chardonneret élégant
+				{Carduelis carduelis}
+				{European Goldfinch}
+			Durbec des sapins
+				{Pinicola enucleator}
+				{Pine Grosbeak}
+			Grosbec casse-noyaux
+				{Coccothraustes coccothraustes}
+				{Hawfinch}
+			Grosbec errant
+				{Hesperiphona vespertina}
+				{Evening Grosbeak}
+			Gros-bec migrateur
+				{Eophona migratoria}
+				{Chinese Grosbeak}
+			Linotte à bec jaune
+				{Carduelis flavirostris}
+				{Twite}
+			Linotte mélodieuse
+				{Carduelis cannabina}
+				{Common Linnet}
+			Organiste louis-d'or
+				{Euphonia musica}
+				{Antillean Euphonia}
+			Pinson bleu
+				{Fringilla teydea}
+				{Blue Chaffinch}
+			Pinson des arbres
+				{Fringilla coelebs}
+				{Common Chaffinch}
+			Pinson du Nord
+				{Fringilla montifringilla}
+				{Brambling}
+			Roselin à longue queue
+				{Uragus sibiricus}
+				{Long-tailed Rosefinch}
+			Roselin cramoisi
+				{Carpodacus erythrinus}
+				{Common Rosefinch}
+			Roselin de l'Atlas
+				{Rhodopechys alienus}
+				{African Crimson-winged Finch}
+			Roselin de Lichtenstein
+				{Rhodospiza obsoleta}
+				{Desert Finch}
+			Roselin de Mongolie
+				{Bucanetes mongolicus}
+				{Mongolian Finch}
+			Roselin githagine
+				{Bucanetes githagineus}
+				{Trumpeter Finch}
+			Roselin rose
+				{Carpodacus roseus}
+				{Pallas's Rosefinch}
+			Roselin tacheté
+				{Carpodacus rubicilla}
+				{Caucasian Great Rosefinch}
+			Serin à front rouge
+				{Serinus pusillus}
+				{Red-fronted Serin}
+			Serin cini
+				{Serinus serinus}
+				{European Serin}
+			Serin des Canaries
+				{Serinus canaria}
+				{Atlantic Canary}
+			Serin du Mozambique
+				{Crithagra mozambica}
+				{Yellow-fronted Canary}
+			Sizerin blanchâtre
+				{Carduelis hornemanni}
+				{Arctic Redpoll}
+			Sizerin cabaret
+				{Carduelis cabaret}
+				{Lesser Redpoll}
+			Sizerin flammé
+				{Carduelis flammea}
+				{Common Redpoll}
+			Tarin des aulnes
+				{Carduelis spinus}
+				{Eurasian Siskin}
+			Venturon corse
+				{Carduelis corsicana}
+				{Corsican Finch}
+			Venturon montagnard
+				{Carduelis citrinella}
+				{Citril Finch}
+			Verdier de Chine
+				{Carduelis sinica}
+				{Grey-capped Greenfinch}
+			Verdier d'Europe
+				{Carduelis chloris}
+				{European Greenfinch}
+		Hirundinidés
+			{Hirundinidae}
+			Hirondelle à ailes blanches
+				{Tachycineta albiventer}
+				{White-winged Swallow}
+			Hirondelle à front blanc
+				{Petrochelidon pyrrhonota}
+				{American Cliff Swallow}
+			Hirondelle à front brun
+				{Petrochelidon fulva}
+				{Cave Swallow}
+			Hirondelle à ventre blanc
+				{Progne dominicensis}
+				{Caribbean Martin}
+			Hirondelle bicolore
+				{Tachycineta bicolor}
+				{Tree Swallow}
+			Hirondelle de Cuba
+				{Progne cryptoleuca}
+				{Cuban Martin}
+			Hirondelle de fenêtre
+				{Delichon urbicum}
+				{Common House Martin}
+			Hirondelle de rivage
+				{Riparia riparia}
+				{Sand Martin}
+			Hirondelle de rochers
+				{Ptyonoprogne rupestris}
+				{Eurasian Crag Martin}
+			Hirondelle paludicole
+				{Riparia paludicola}
+				{Brown-throated Martin}
+			Hirondelle rousseline
+				{Cecropis daurica}
+				{Red-rumped Swallow}
+			Hirondelle rustique
+				{Hirundo rustica}
+				{Barn Swallow}
+		Hypocoliidés
+			{Hypocoliidae}
+			Hypocolius gris
+				{Hypocolius ampelinus}
+				{Hypocolius}
+		Ictéridés
+			{Ictéridae}
+			Carouge à capuchon
+				{Chrysomus icterocephalus}
+				{Yellow-hooded Blackbird}
+			Carouge à tête jaune
+				{Xanthocephalus xanthocephalus}
+				{Yellow-headed Blackbird}
+			Goglu des prés
+				{Dolichonyx oryzivorus}
+				{Bobolink}
+			Oriole cul-noir
+				{Icterus wagleri}
+				{Black-vented Oriole}
+			Oriole du Nord
+				{Icterus galbula}
+				{Baltimore Oriole}
+			Oriole jaune
+				{Icterus nigrogularis}
+				{Yellow Oriole}
+			Oriole troupiale
+				{Icterus icterus}
+				{Venezuelan Troupial}
+			Quiscale bronzé
+				{Quiscalus quiscula}
+				{Common Grackle}
+			Quiscale merle
+				{Quiscalus lugubris}
+				{Carib Grackle}
+			Quiscale rouilleux
+				{Euphagus carolinus}
+				{Rusty Blackbird}
+			Sturnelle des prés
+				{Sturnella magna}
+				{Eastern Meadowlark}
+			Vacher à tête brune
+				{Molothrus ater}
+				{Brown-headed Cowbird}
+			Vacher luisant
+				{Molothrus bonariensis}
+				{Shiny Cowbird}
+		Incertain
+			{Incertain}
+			Paruline polyglotte
+				{Icteria virens}
+				{Yellow-breasted Chat}
+		Laniidés
+			{Laniidae}
+			Pie-grièche à poitrine rose
+				{Lanius minor}
+				{Lesser Grey Shrike}
+			Pie-grièche à tête rousse
+				{Lanius senator}
+				{Woodchat Shrike}
+			Pie-grièche brune
+				{Lanius cristatus}
+				{Brown Shrike}
+			Pie-grièche écorcheur
+				{Lanius collurio}
+				{Red-backed Shrike}
+			Pie-grièche grise
+				{Lanius excubitor}
+				{Great Grey Shrike}
+			Pie-grièche isabelle
+				{Lanius isabellinus}
+				{Isabelline Shrike}
+			Pie-grièche masquée
+				{Lanius nubicus}
+				{Masked Shrike}
+			Pie-grièche méridionale
+				{Lanius meridionalis}
+				{Southern Grey Shrike}
+			Pie-grièche schach
+				{Lanius schach}
+				{Long-tailed Shrike}
+		Mégaluridés
+			{Mégaluridae}
+			Locustelle de Pallas
+				{Locustella certhiola}
+				{Pallas's Grasshopper Warbler}
+			Locustelle fasciée
+				{Locustella fasciolata}
+				{Gray's Grasshopper Warbler}
+			Locustelle fluviatile
+				{Locustella fluviatilis}
+				{River Warbler}
+			Locustelle lancéolée
+				{Locustella lanceolata}
+				{Lanceolated Warbler}
+			Locustelle luscinioïde
+				{Locustella luscinioides}
+				{Savi's Warbler}
+			Locustelle tachetée
+				{Locustella naevia}
+				{Common Grasshopper Warbler}
+		Mimidés
+			{Mimidae}
+			Moqueur chat
+				{Dumetella carolinensis}
+				{Grey Catbird}
+			Moqueur corossol
+				{Margarops fuscatus}
+				{Pearly-eyed Thrasher}
+			Moqueur des savanes
+				{Mimus gilvus}
+				{Tropical Mockingbird}
+			Moqueur grivotte
+				{Allenia fusca}
+				{Scaly-breasted Thrasher}
+			Moqueur polyglotte
+				{Mimus polyglottos}
+				{Northern Mockingbird}
+			Moqueur roux
+				{Toxostoma rufum}
+				{Brown Thrasher}
+			Trembleur brun
+				{Cinclocerthia ruficauda}
+				{Brown Trembler}
+			Trembleur gris
+				{Cinclocerthia gutturalis}
+				{Grey Trembler}
+		Motacillidés
+			{Motacillidae}
+			Bergeronnette citrine
+				{Motacilla citreola}
+				{Citrine Wagtail}
+			Bergeronnette de Yarrell
+				{Motacilla yarrellii}
+				{Pied Wagtail}
+			Bergeronnette des Balkans
+				{Motacilla feldegg}
+				{Black-headed Wagtail}
+			Bergeronnette des ruisseaux
+				{Motacilla cinerea}
+				{Grey Wagtail}
+			Bergeronnette grise
+				{Motacilla alba}
+				{White Wagtail}
+			Bergeronnette printanière
+				{Motacilla flava}
+				{Western Yellow Wagtail}
+			Pipit à dos olive
+				{Anthus hodgsoni}
+				{Olive-backed Pipit}
+			Pipit à gorge rousse
+				{Anthus cervinus}
+				{Red-throated Pipit}
+			Pipit à long bec
+				{Anthus similis}
+				{Long-billed Pipit}
+			Pipit de Berthelot
+				{Anthus berthelotii}
+				{Berthelot's Pipit}
+			Pipit de Godlewski
+				{Anthus godlewskii}
+				{Blyth's Pipit}
+			Pipit de la Petchora
+				{Anthus gustavi}
+				{Pechora Pipit}
+			Pipit de Richard
+				{Anthus richardi}
+				{Richard's Pipit}
+			Pipit des arbres
+				{Anthus trivialis}
+				{Tree Pipit}
+			Pipit farlousane
+				{Anthus rubescens}
+				{Buff-bellied Pipit}
+			Pipit farlouse
+				{Anthus pratensis}
+				{Meadow Pipit}
+			Pipit maritime
+				{Anthus petrosus}
+				{Eurasian Rock Pipit}
+			Pipit rousseline
+				{Anthus campestris}
+				{Tawny Pipit}
+			Pipit spioncelle
+				{Anthus spinoletta}
+				{Water Pipit}
+		Muscicapidés
+			{Muscicapidae}
+			Agrobate roux
+				{Erythropygia galactotes}
+				{Rufous-tailed Scrub Robin}
+			Calliope sibérienne
+				{Luscinia calliope}
+				{Siberian Rubythroat}
+			Gobemouche à collier
+				{Ficedula albicollis}
+				{Collared Flycatcher}
+			Gobemouche à demi-collier
+				{Ficedula semitorquata}
+				{Semicollared Flycatcher}
+			Gobemouche brun
+				{Muscicapa dauurica}
+				{Asian Brown Flycatcher}
+			Gobemouche de la taïga
+				{Ficedula albicilla}
+				{Taiga Flycatcher}
+			Gobemouche gris
+				{Muscicapa striata}
+				{Spotted Flycatcher}
+			Gobemouche mugimaki
+				{Ficedula mugimaki}
+				{Mugimaki Flycatcher}
+			Gobemouche nain
+				{Ficedula parva}
+				{Red-breasted Flycatcher}
+			Gobemouche noir
+				{Ficedula hypoleuca}
+				{European Pied Flycatcher}
+			Gorgebleue à miroir
+				{Luscinia svecica}
+				{Bluethroat}
+			Iranie à gorge blanche
+				{Irania gutturalis}
+				{White-throated Robin}
+			Monticole bleu
+				{Monticola solitarius}
+				{Blue Rock Thrush}
+			Monticole de roche
+				{Monticola saxatilis}
+				{Rufous-tailed Rock Thrush}
+			Robin à flancs roux
+				{Tarsiger cyanurus}
+				{Red-flanked Bluetail}
+			Rossignol bleu
+				{Luscinia cyane}
+				{Siberian Blue Robin}
+			Rossignol philomèle
+				{Luscinia megarhynchos}
+				{Common Nightingale}
+			Rossignol progné
+				{Luscinia luscinia}
+				{Thrush Nightingale}
+			Rougegorge familier
+				{Erithacus rubecula}
+				{European Robin}
+			Rougequeue à front blanc
+				{Phoenicurus phoenicurus}
+				{Common Redstart}
+			Rougequeue aurore
+				{Phoenicurus auroreus}
+				{Daurian Redstart}
+			Rougequeue de Güldenstädt
+				{Phoenicurus erythrogastrus}
+				{Güldenstädt's Redstart}
+			Rougequeue de Moussier
+				{Phoenicurus moussieri}
+				{Moussier's Redstart}
+			Rougequeue noir
+				{Phoenicurus ochruros}
+				{Black Redstart}
+			Tarier de Sibérie
+				{Saxicola maurus}
+				{Siberian Stonechat}
+			Tarier des Canaries
+				{Saxicola dacotiae}
+				{Canary Islands Stonechat}
+			Tarier des prés
+				{Saxicola rubetra}
+				{Whinchat}
+			Tarier pâtre
+				{Saxicola rubicola}
+				{European Stonechat}
+			Tarier pie
+				{Saxicola caprata}
+				{Pied Bush Chat}
+			Traquet à capuchon
+				{Oenanthe monacha}
+				{Hooded Wheatear}
+			Traquet à tête blanche
+				{Oenanthe leucopyga}
+				{White-crowned Wheatear}
+			Traquet à tête grise
+				{Oenanthe moesta}
+				{Red-rumped Wheatear}
+			Traquet de Chypre
+				{Oenanthe cypriaca}
+				{Cyprus Wheatear}
+			Traquet de Finsch
+				{Oenanthe finschii}
+				{Finsch's Wheatear}
+			Traquet de Perse
+				{Oenanthe chrysopygia}
+				{Red-tailed Wheatear}
+			Traquet deuil
+				{Oenanthe lugens}
+				{Mourning Wheatear}
+			Traquet du désert
+				{Oenanthe deserti}
+				{Desert Wheatear}
+			Traquet isabelle
+				{Oenanthe isabellina}
+				{Isabelline Wheatear}
+			Traquet motteux
+				{Oenanthe oenanthe}
+				{Northern Wheatear}
+			Traquet oreillard
+				{Oenanthe hispanica}
+				{Black-eared Wheatear}
+			Traquet pie
+				{Oenanthe pleschanka}
+				{Pied Wheatear}
+			Traquet rieur
+				{Oenanthe leucura}
+				{Black Wheatear}
+		Oriolidés
+			{Oriolidae}
+			Loriot d'Europe
+				{Oriolus oriolus}
+				{Eurasian Golden Oriole}
+		Panuridés
+			{Panuridae}
+			Panure à moustaches
+				{Panurus biarmicus}
+				{Bearded Reedling}
+		Paridés
+			{Paridae}
+			Mésange azurée
+				{Cyanistes cyanus}
+				{Azure Tit}
+			Mésange bleue
+				{Cyanistes caeruleus}
+				{Eurasian Blue Tit}
+			Mésange boréale
+				{Poecile montanus}
+				{Willow Tit}
+			Mésange charbonnière
+				{Parus major}
+				{Great Tit}
+			Mésange huppée
+				{Lophophanes cristatus}
+				{European Crested Tit}
+			Mésange lapone
+				{Poecile cinctus}
+				{Grey-headed Chickadee}
+			Mésange lugubre
+				{Poecile lugubris}
+				{Sombre Tit}
+			Mésange noire
+				{Periparus ater}
+				{Coal Tit}
+			Mésange nonnette
+				{Poecile palustris}
+				{Marsh Tit}
+		Parulidés
+			{Parulidae}
+			Paruline à ailes bleues
+				{Vermivora pinus}
+				{Blue-winged Warbler}
+			Paruline à ailes dorées
+				{Vermivora chrysoptera}
+				{Golden-winged Warbler}
+			Paruline à calotte noire
+				{Wilsonia pusilla}
+				{Wilson's Warbler}
+			Paruline à capuchon
+				{Wilsonia citrina}
+				{Hooded Warbler}
+			Paruline à collier
+				{Parula americana}
+				{Northern Parula}
+			Paruline à couronne rousse
+				{Dendroica palmarum}
+				{Palm Warbler}
+			Paruline à croupion jaune
+				{Dendroica coronata}
+				{Yellow-rumped Warbler}
+			Paruline à flancs marron
+				{Dendroica pensylvanica}
+				{Chestnut-sided Warbler}
+			Paruline à gorge grise
+				{Oporornis agilis}
+				{Connecticut Warbler}
+			Paruline à gorge jaune
+				{Dendroica dominica}
+				{Yellow-throated Warbler}
+			Paruline à gorge noire
+				{Dendroica virens}
+				{Black-throated Green Warbler}
+			Paruline à gorge orangée
+				{Dendroica fusca}
+				{Blackburnian Warbler}
+			Paruline à joues grises
+				{Vermivora ruficapilla}
+				{Nashville Warbler}
+			Paruline à poitrine baie
+				{Dendroica castanea}
+				{Bay-breasted Warbler}
+			Paruline à tête cendrée
+				{Dendroica magnolia}
+				{Magnolia Warbler}
+			Paruline azurée
+				{Dendroica cerulea}
+				{Cerulean Warbler}
+			Paruline bleue
+				{Dendroica caerulescens}
+				{Black-throated Blue Warbler}
+			Paruline caféiette
+				{Dendroica plumbea}
+				{Plumbeous Warbler}
+			Paruline couronnée
+				{Seiurus aurocapilla}
+				{Ovenbird}
+			Paruline d'Adélaïde
+				{Dendroica adelaidae}
+				{Adelaide's Warbler}
+			Paruline des pins
+				{Dendroica pinus}
+				{Pine Warbler}
+			Paruline des prés
+				{Dendroica discolor}
+				{Prairie Warbler}
+			Paruline des rochers
+				{Euthlypis lachrymosa}
+				{Fan-tailed Warbler}
+			Paruline des ruisseaux
+				{Seiurus noveboracensis}
+				{Northern Waterthrush}
+			Paruline du Canada
+				{Wilsonia canadensis}
+				{Canada Warbler}
+			Paruline du Kentucky
+				{Oporornis formosus}
+				{Kentucky Warbler}
+			Paruline flamboyante
+				{Setophaga ruticilla}
+				{American Redstart}
+			Paruline hochequeue
+				{Seiurus motacilla}
+				{Louisiana Waterthrush}
+			Paruline jaune
+				{Dendroica petechia}
+				{Mangrove Warbler}
+			Paruline masquée
+				{Geothlypis trichas}
+				{Common Yellowthroat}
+			Paruline noir et blanc
+				{Mniotilta varia}
+				{Black-and-white Warbler}
+			Paruline obscure
+				{Vermivora peregrina}
+				{Tennessee Warbler}
+			Paruline orangée
+				{Protonotaria citrea}
+				{Prothonotary Warbler}
+			Paruline rayée
+				{Dendroica striata}
+				{Blackpoll Warbler}
+			Paruline tigrée
+				{Dendroica tigrina}
+				{Cape May Warbler}
+			Paruline triste
+				{Oporornis philadelphia}
+				{Mourning Warbler}
+			Paruline verdâtre
+				{Vermivora celata}
+				{Orange-crowned Warbler}
+		Passeridés
+			{Passeridae}
+			Moineau à gorge jaune
+				{Gymnoris xanthocollis}
+				{Yellow-throated Sparrow}
+			Moineau cisalpin
+				{Passer italiae}
+				{Italian Sparrow}
+			Moineau de la mer Morte
+				{Passer moabiticus}
+				{Dead Sea Sparrow}
+			Moineau domestique
+				{Passer domesticus}
+				{House Sparrow}
+			Moineau espagnol
+				{Passer hispaniolensis}
+				{Spanish Sparrow}
+			Moineau friquet
+				{Passer montanus}
+				{Eurasian Tree Sparrow}
+			Moineau pâle
+				{Carpospiza brachydactyla}
+				{Pale Rockfinch}
+			Moineau soulcie
+				{Petronia petronia}
+				{Rock Sparrow}
+			Niverolle alpine
+				{Montifringilla nivalis}
+				{White-winged Snowfinch}
+		Phylloscopidés
+			{Phylloscopidae}
+			Pouillot à grands sourcils
+				{Phylloscopus inornatus}
+				{Yellow-browed Warbler}
+			Pouillot boréal
+				{Phylloscopus borealis}
+				{Arctic Warbler}
+			Pouillot brun
+				{Phylloscopus fuscatus}
+				{Dusky Warbler}
+			Pouillot de Bonelli
+				{Phylloscopus bonelli}
+				{Western Bonelli's Warbler}
+			Pouillot de Hume
+				{Phylloscopus humei}
+				{Hume's Leaf Warbler}
+			Pouillot de Pallas
+				{Phylloscopus proregulus}
+				{Pallas's Leaf Warbler}
+			Pouillot de Schwarz
+				{Phylloscopus schwarzi}
+				{Radde's Warbler}
+			Pouillot de Temminck
+				{Phylloscopus coronatus}
+				{Eastern Crowned Warbler}
+			Pouillot des Canaries
+				{Phylloscopus canariensis}
+				{Canary Islands Chiffchaff}
+			Pouillot du Caucase
+				{Phylloscopus nitidus}
+				{Green Warbler}
+			Pouillot fitis
+				{Phylloscopus trochilus}
+				{Willow Warbler}
+			Pouillot ibérique
+				{Phylloscopus ibericus}
+				{Iberian Chiffchaff}
+			Pouillot modeste
+				{Phylloscopus neglectus}
+				{Plain Leaf Warbler}
+			Pouillot montagnard
+				{Phylloscopus sindianus}
+				{Mountain Chiffchaff}
+			Pouillot oriental
+				{Phylloscopus orientalis}
+				{Eastern Bonelli's Warbler}
+			Pouillot siffleur
+				{Phylloscopus sibilatrix}
+				{Wood Warbler}
+			Pouillot véloce
+				{Phylloscopus collybita}
+				{Common Chiffchaff}
+			Pouillot verdâtre
+				{Phylloscopus trochiloides}
+				{Greenish Warbler}
+		Plocéidés
+			{Plocéidae}
+			Euplecte franciscain
+				{Euplectes franciscanus}
+				{Northern Red Bishop}
+			Euplecte vorabé
+				{Euplectes afer}
+				{Yellow-crowned Bishop}
+			Tisserin gendarme
+				{Ploceus cucullatus}
+				{Village Weaver}
+			Tisserin jaune
+				{Ploceus subaureus}
+				{Yellow Weaver}
+			Travailleur à bec rouge
+				{Quelea quelea}
+				{Red-billed Quelea}
+		Prunellidés
+			{Prunellidae}
+			Accenteur à gorge noire
+				{Prunella atrogularis}
+				{Black-throated Accentor}
+			Accenteur alpin
+				{Prunella collaris}
+				{Alpine Accentor}
+			Accenteur de Radde
+				{Prunella ocularis}
+				{Radde's Accentor}
+			Accenteur montanelle
+				{Prunella montanella}
+				{Siberian Accentor}
+			Accenteur mouchet
+				{Prunella modularis}
+				{Dunnock}
+		Pycnonotidés
+			{Pycnonotidae}
+			Bulbul d'Arabie
+				{Pycnonotus xanthopygos}
+				{White-spectacled Bulbul}
+			Bulbul des jardins
+				{Pycnonotus barbatus}
+				{Common Bulbul}
+			Bulbul orphée
+				{Pycnonotus jocosus}
+				{Red-whiskered Bulbul}
+		Régulidés
+			{Régulidae}
+			Roitelet à couronne rubis
+				{Regulus calendula}
+				{Ruby-crowned Kinglet}
+			Roitelet de Madère
+				{Regulus madeirensis}
+				{Madeira Firecrest}
+			Roitelet huppé
+				{Regulus regulus}
+				{Goldcrest}
+			Roitelet triple-bandeau
+				{Regulus ignicapilla}
+				{Common Firecrest}
+		Rémizidés
+			{Rémizidae}
+			Rémiz couronnée
+				{Remiz coronatus}
+				{White-crowned Penduline Tit}
+			Rémiz penduline
+				{Remiz pendulinus}
+				{Eurasian Penduline Tit}
+		Sittidés
+			{Sittidae}
+			Sittelle à poitrine rousse
+				{Sitta canadensis}
+				{Red-breasted Nuthatch}
+			Sittelle corse
+				{Sitta whiteheadi}
+				{Corsican Nuthatch}
+			Sittelle de Krüper
+				{Sitta krueperi}
+				{Krüper's Nuthatch}
+			Sittelle de Neumayer
+				{Sitta neumayer}
+				{Western Rock Nuthatch}
+			Sittelle torchepot
+				{Sitta europaea}
+				{Eurasian Nuthatch}
+		Sturnidés
+			{Sturnidae}
+			Choucador pourpré
+				{Lamprotornis purpureus}
+				{Purple Starling}
+			Étourneau de Daourie
+				{Agropsar sturninus}
+				{Daurian Starling}
+			Étourneau roselin
+				{Pastor roseus}
+				{Rosy Starling}
+			Étourneau sansonnet
+				{Sturnus vulgaris}
+				{Common Starling}
+			Étourneau unicolore
+				{Sturnus unicolor}
+				{Spotless Starling}
+			Mainate religieux
+				{Gracula religiosa}
+				{Common Hill Myna}
+			Martin triste
+				{Acridotheres tristis}
+				{Common Myna}
+		Sylviidés
+			{Sylviidae}
+			Fauvelle de Moltoni
+				{Sylvia moltonii}
+				{Moltoni's Warbler}
+			Fauvette à lunettes
+				{Sylvia conspicillata}
+				{Spectacled Warbler}
+			Fauvette à tête noire
+				{Sylvia atricapilla}
+				{Eurasian Blackcap}
+			Fauvette babillarde
+				{Sylvia curruca}
+				{Lesser Whitethroat}
+			Fauvette de Chypre
+				{Sylvia melanothorax}
+				{Cyprus Warbler}
+			Fauvette de l'Atlas
+				{Sylvia deserticola}
+				{Tristram's Warbler}
+			Fauvette de Ménétries
+				{Sylvia mystacea}
+				{Menetries's Warbler}
+			Fauvette de Rüppell
+				{Sylvia rueppelli}
+				{Rüppell's Warbler}
+			Fauvette des jardins
+				{Sylvia borin}
+				{Garden Warbler}
+			Fauvette épervière
+				{Sylvia nisoria}
+				{Barred Warbler}
+			Fauvette grisette
+				{Sylvia communis}
+				{Common Whitethroat}
+			Fauvette mélanocéphale
+				{Sylvia melanocephala}
+				{Sardinian Warbler}
+			Fauvette naine
+				{Sylvia nana}
+				{Asian Desert Warbler}
+			Fauvette orphée
+				{Sylvia hortensis}
+				{Western Orphean Warbler}
+			Fauvette passerinette
+				{Sylvia cantillans}
+				{Subalpine Warbler}
+			Fauvette pitchou
+				{Sylvia undata}
+				{Dartford Warbler}
+			Fauvette sarde
+				{Sylvia sarda}
+				{Marmora's Warbler}
+		Thraupidés
+			{Thraupidae}
+			Calliste dos-bleu
+				{Tangara cucullata}
+				{Lesser Antillean Tanager}
+			Jacarini noir
+				{Volatinia jacarina}
+				{Blue-black Grassquit}
+			Sicale bouton-d'or
+				{Sicalis flaveola}
+				{Saffron Finch}
+			Sicale des savanes
+				{Sicalis luteola}
+				{Grassland Yellow Finch}
+			Sporophile à ventre jaune
+				{Sporophila nigricollis}
+				{Yellow-bellied Seedeater}
+			Sporophile cici
+				{Tiaris bicolor}
+				{Black-faced Grassquit}
+			Sporophile rougegorge
+				{Loxigilla noctis}
+				{Lesser Antillean Bullfinch}
+			Tangara écarlate
+				{Piranga olivacea}
+				{Scarlet Tanager}
+			Tangara orangé
+				{Piranga flava}
+				{Red Tanager}
+			Tangara vermillon
+				{Piranga rubra}
+				{Summer Tanager}
+		Tichodromidés
+			{Tichodromidae}
+			Tichodrome échelette
+				{Tichodroma muraria}
+				{Wallcreeper}
+		Timaliidés
+			{Timaliidae}
+			Léiothrix jaune
+				{Leiothrix lutea}
+				{Red-billed Leiothrix}
+			Paradoxornis à gorge cendrée
+				{Paradoxornis alphonsianus}
+				{Ashy-throated Parrotbill}
+		Troglodytidés
+			{Troglodytidae}
+			Troglodyte des marais
+				{Cistothorus palustris}
+				{Marsh Wren}
+			Troglodyte familier
+				{Troglodytes aedon}
+				{House Wren}
+			Troglodyte mignon
+				{Troglodytes troglodytes}
+				{Winter Wren}
+		Turdidés
+			{Turdidae}
+			Grive à ailes rousses
+				{Turdus eunomus}
+				{Dusky Thrush}
+			Grive à collier
+				{Ixoreus naevius}
+				{Varied Thrush}
+			Grive à dos olive
+				{Catharus ustulatus}
+				{Swainson's Thrush}
+			Grive à gorge noire
+				{Turdus atrogularis}
+				{Black-throated Thrush}
+			Grive à gorge rousse
+				{Turdus ruficollis}
+				{Red-throated Thrush}
+			Grive à joues grises
+				{Catharus minimus}
+				{Grey-cheeked Thrush}
+			Grive dama
+				{Zoothera dauma}
+				{Scaly Thrush}
+			Grive de Bicknell
+				{Catharus bicknelli}
+				{Bicknell's Thrush}
+			Grive de Naumann
+				{Turdus naumanni}
+				{Naumann's Thrush}
+			Grive de Sibérie
+				{Zoothera sibirica}
+				{Siberian Thrush}
+			Grive des bois
+				{Hylocichla mustelina}
+				{Wood Thrush}
+			Grive dorée
+				{Zoothera aurea}
+				{White's Thrush}
+			Grive draine
+				{Turdus viscivorus}
+				{Mistle Thrush}
+			Grive fauve
+				{Catharus fuscescens}
+				{Veery}
+			Grive litorne
+				{Turdus pilaris}
+				{Fieldfare}
+			Grive mauvis
+				{Turdus iliacus}
+				{Redwing}
+			Grive musicienne
+				{Turdus philomelos}
+				{Song Thrush}
+			Grive obscure
+				{Turdus obscurus}
+				{Eyebrowed Thrush}
+			Grive solitaire
+				{Catharus guttatus}
+				{Hermit Thrush}
+			Merle à plastron
+				{Turdus torquatus}
+				{Ring Ouzel}
+			Merle cacao
+				{Turdus fumigatus}
+				{Cocoa Thrush}
+			Merle d'Amérique
+				{Turdus migratorius}
+				{American Robin}
+			Merle noir
+				{Turdus merula}
+				{Common Blackbird}
+			Merle pâle
+				{Turdus pallidus}
+				{Pale Thrush}
+			Merle unicolore
+				{Turdus unicolor}
+				{Tickell's Thrush}
+			Merle vantard
+				{Turdus plumbeus}
+				{Red-legged Thrush}
+			Solitaire siffleur
+				{Myadestes genibarbis}
+				{Rufous-throated Solitaire}
+		Tyrannidés
+			{Tyrannidae}
+			Élénie à bec court
+				{Elaenia parvirostris}
+				{Small-billed Elaenia}
+			Élénie à ventre jaune
+				{Elaenia flavogaster}
+				{Yellow-bellied Elaenia}
+			Élénie menue
+				{Elaenia chiriquensis}
+				{Lesser Elaenia}
+			Élénie siffleuse
+				{Elaenia martinica}
+				{Caribbean Elaenia}
+			Moucherolle à côtés olive
+				{Contopus cooperi}
+				{Olive-sided Flycatcher}
+			Moucherolle à ventre jaune
+				{Empidonax flaviventris}
+				{Yellow-bellied Flycatcher}
+			Moucherolle d'Euler
+				{Lathrotriccus euleri}
+				{Euler's Flycatcher}
+			Moucherolle gobemouche
+				{Contopus latirostris}
+				{Lesser Antillean Pewee}
+			Moucherolle phébi
+				{Sayornis phoebe}
+				{Eastern Phoebe}
+			Moucherolle vert
+				{Empidonax virescens}
+				{Acadian Flycatcher}
+			Tyran bavard
+				{Myiarchus nugator}
+				{Grenada Flycatcher}
+			Tyran de Wied
+				{Myiarchus tyrannulus}
+				{Brown-crested Flycatcher}
+			Tyran des savanes
+				{Tyrannus savana}
+				{Fork-tailed Flycatcher}
+			Tyran gris
+				{Tyrannus dominicensis}
+				{Grey Kingbird}
+			Tyran janeau
+				{Myiarchus oberi}
+				{Lesser Antillean Flycatcher}
+			Tyran mélancolique
+				{Tyrannus melancholicus}
+				{Tropical Kingbird}
+			Tyran tritri
+				{Tyrannus tyrannus}
+				{Eastern Kingbird}
+			Tyranneau des palétuviers
+				{Sublegatus arenarum}
+				{Northern Scrub Flycatcher}
+		Viduidés
+			{Viduidae}
+			Veuve de paradis
+				{Vidua paradisaea}
+				{Long-tailed Paradise Whydah}
+			Veuve dominicaine
+				{Vidua macroura}
+				{Pin-tailed Whydah}
+		Viréonidés
+			{Viréonidae}
+			Viréo à gorge jaune
+				{Vireo flavifrons}
+				{Yellow-throated Vireo}
+			Viréo à moustaches
+				{Vireo altiloquus}
+				{Black-whiskered Vireo}
+			Viréo à oeil rouge
+				{Vireo olivaceus}
+				{Red-eyed Vireo}
+			Viréo de Philadelphie
+				{Vireo philadelphicus}
+				{Philadelphia Vireo}
+	Pélécaniformes
+		Anhingidés
+			{Anhingidae}
+			Anhinga d'Afrique
+				{Anhinga rufa}
+				{African Darter}
+			Anhinga d'Amérique
+				{Anhinga anhinga}
+				{Anhinga}
+		Ardéidés
+			{Ardéidae}
+			Aigrette bleue
+				{Egretta caerulea}
+				{Little Blue Heron}
+			Aigrette des récifs
+				{Egretta gularis}
+				{Western Reef Heron}
+			Aigrette garzette
+				{Egretta garzetta}
+				{Little Egret}
+			Aigrette neigeuse
+				{Egretta thula}
+				{Snowy Egret}
+			Aigrette roussâtre
+				{Egretta rufescens}
+				{Reddish Egret}
+			Aigrette tricolore
+				{Egretta tricolor}
+				{Tricolored Heron}
+			Bihoreau gris
+				{Nycticorax nycticorax}
+				{Black-crowned Night Heron}
+			Bihoreau violacé
+				{Nyctanassa violacea}
+				{Yellow-crowned Night Heron}
+			Blongios de Sturm
+				{Ixobrychus sturmii}
+				{Dwarf Bittern}
+			Blongios mandchou
+				{Ixobrychus eurhythmus}
+				{Von Schrenck's Bittern}
+			Blongios nain
+				{Ixobrychus minutus}
+				{Little Bittern}
+			Butor d'Amérique
+				{Botaurus lentiginosus}
+				{American Bittern}
+			Butor étoilé
+				{Botaurus stellaris}
+				{Eurasian Bittern}
+			Butor mirasol
+				{Botaurus pinnatus}
+				{Pinnated Bittern}
+			Crabier chevelu
+				{Ardeola ralloides}
+				{Squacco Heron}
+			Crabier chinois
+				{Ardeola bacchus}
+				{Chinese Pond Heron}
+			Grand Héron
+				{Ardea herodias}
+				{Great Blue Heron}
+			Grande Aigrette
+				{Ardea alba}
+				{Western Great Egret}
+			Héron cendré
+				{Ardea cinerea}
+				{Grey Heron}
+			Héron garde-boeufs
+				{Bubulcus ibis}
+				{Western Cattle Egret}
+			Héron mélanocéphale
+				{Ardea melanocephala}
+				{Black-headed Heron}
+			Héron pourpré
+				{Ardea purpurea}
+				{Purple Heron}
+			Héron strié
+				{Butorides striata}
+				{Striated Heron}
+			Héron vert
+				{Butorides virescens}
+				{Green Heron}
+			Petit Blongios
+				{Ixobrychus exilis}
+				{Least Bittern}
+		Frégatidés
+			{Frégatidae}
+			Frégate aigle-de-mer
+				{Fregata aquila}
+				{Ascension Frigatebird}
+			Frégate superbe
+				{Fregata magnificens}
+				{Magnificent Frigatebird}
+		Pélécanidés
+			{Pélécanidae}
+			Pélican blanc
+				{Pelecanus onocrotalus}
+				{Great White Pelican}
+			Pélican frisé
+				{Pelecanus crispus}
+				{Dalmatian Pelican}
+			Pélican gris
+				{Pelecanus rufescens}
+				{Pink-backed Pelican}
+		Phalacrocoracidés
+			{Phalacrocoracidae}
+			Cormoran à aigrettes
+				{Phalacrocorax auritus}
+				{Double-crested Cormorant}
+			Cormoran huppé
+				{Phalacrocorax aristotelis}
+				{European Shag}
+			Cormoran pygmée
+				{Microcarbo pygmeus}
+				{Pygmy Cormorant}
+			Cormoran vigua
+				{Phalacrocorax brasilianus}
+				{Neotropic Cormorant}
+			Grand Cormoran
+				{Phalacrocorax carbo}
+				{Great Cormorant}
+		Sulidés
+			{Sulidae}
+			Fou à pieds rouges
+				{Sula sula}
+				{Red-footed Booby}
+			Fou brun
+				{Sula leucogaster}
+				{Brown Booby}
+			Fou de Bassan
+				{Morus bassanus}
+				{Northern Gannet}
+			Fou du Cap
+				{Morus capensis}
+				{Cape Gannet}
+			Fou masqué
+				{Sula dactylatra}
+				{Masked Booby}
+		Threskiornithidés
+			{Threskiornithidae}
+			Ibis chauve
+				{Geronticus eremita}
+				{Northern Bald Ibis}
+			Ibis falcinelle
+				{Plegadis falcinellus}
+				{Glossy Ibis}
+			Ibis rouge
+				{Eudocimus ruber}
+				{Scarlet Ibis}
+			Ibis sacré
+				{Threskiornis aethiopicus}
+				{African Sacred Ibis}
+			Spatule blanche
+				{Platalea leucorodia}
+				{Eurasian Spoonbill}
+			Spatule d'Afrique
+				{Platalea alba}
+				{African Spoonbill}
+			Spatule rosée
+				{Platalea ajaja}
+				{Roseate Spoonbill}
+	Phaethontiformes
+		Phaethontidés
+			{Phaethontidae}
+			Phaéton à bec jaune
+				{Phaethon lepturus}
+				{White-tailed Tropicbird}
+			Phaéton à bec rouge
+				{Phaethon aethereus}
+				{Red-billed Tropicbird}
+	Phoenicoptériformes
+		Phoenicoptéridés
+			{Phoenicoptéridae}
+			Flamant des Caraïbes
+				{Phoenicopterus ruber}
+				{American Flamingo}
+			Flamant du Chili
+				{Phoenicopterus chilensis}
+				{Chilean Flamingo}
+			Flamant nain
+				{Phoeniconaias minor}
+				{Lesser Flamingo}
+			Flamant rose
+				{Phoenicopterus roseus}
+				{Greater Flamingo}
+	Piciformes
+		Picidés
+			{Picidae}
+			Pic à dos blanc
+				{Dendrocopos leucotos}
+				{White-backed Woodpecker}
+			Pic cendré
+				{Picus canus}
+				{Grey-headed Woodpecker}
+			Pic épeiche
+				{Dendrocopos major}
+				{Great Spotted Woodpecker}
+			Pic épeichette
+				{Dendrocopos minor}
+				{Lesser Spotted Woodpecker}
+			Pic flamboyant
+				{Colaptes auratus}
+				{Northern Flicker}
+			Pic maculé
+				{Sphyrapicus varius}
+				{Yellow-bellied Sapsucker}
+			Pic mar
+				{Dendrocopos medius}
+				{Middle Spotted Woodpecker}
+			Pic noir
+				{Dryocopus martius}
+				{Black Woodpecker}
+			Pic syriaque
+				{Dendrocopos syriacus}
+				{Syrian Woodpecker}
+			Pic tridactyle
+				{Picoides tridactylus}
+				{Eurasian Three-toed Woodpecker}
+			Pic vert
+				{Picus viridis}
+				{European Green Woodpecker}
+			Torcol fourmilier
+				{Jynx torquilla}
+				{Eurasian Wryneck}
+	Podicipédiformes
+		Podicipédidés
+			{Podicipédidae}
+			Grand Grèbe
+				{Podiceps major}
+				{Great Grebe}
+			Grèbe à bec bigarré
+				{Podilymbus podiceps}
+				{Pied-billed Grebe}
+			Grèbe à cou noir
+				{Podiceps nigricollis}
+				{Black-necked Grebe}
+			Grèbe castagneux
+				{Tachybaptus ruficollis}
+				{Little Grebe}
+			Grèbe esclavon
+				{Podiceps auritus}
+				{Horned Grebe}
+			Grèbe huppé
+				{Podiceps cristatus}
+				{Great Crested Grebe}
+			Grèbe jougris
+				{Podiceps grisegena}
+				{Red-necked Grebe}
+	Procellariiformes
+		Diomédéidés
+			{Diomédéidae}
+			Albatros à nez jaune
+				{Thalassarche chlororhynchos}
+				{Atlantic Yellow-nosed Albatross}
+			Albatros à pieds noirs
+				{Phoebastria nigripes}
+				{Black-footed Albatross}
+			Albatros à sourcils noirs
+				{Thalassarche melanophris}
+				{Black-browed Albatross}
+			Albatros hurleur
+				{Diomedea exulans}
+				{Wandering Albatross}
+		Hydrobatidés
+			{Hydrobatidae}
+			Océanite culblanc
+				{Oceanodroma leucorhoa}
+				{Leach's Storm Petrel}
+			Océanite de Castro
+				{Oceanodroma castro}
+				{Band-rumped Storm Petrel}
+			Océanite de Swinhoe
+				{Oceanodroma monorhis}
+				{Swinhoe's Storm Petrel}
+			Océanite de Wilson
+				{Oceanites oceanicus}
+				{Wilson's Storm Petrel}
+			Océanite frégate
+				{Pelagodroma marina}
+				{White-faced Storm Petrel}
+			Océanite tempête
+				{Hydrobates pelagicus}
+				{European Storm Petrel}
+		Procellariidés
+			{Procellariidae}
+			Damier du Cap
+				{Daption capense}
+				{Cape Petrel}
+			Fulmar boréal
+				{Fulmarus glacialis}
+				{Northern Fulmar}
+			Petit Puffin
+				{Puffinus assimilis}
+				{Little Shearwater}
+			Pétrel de Bulwer
+				{Bulweria bulwerii}
+				{Bulwer's Petrel}
+			Pétrel de Jouanin
+				{Bulweria fallax}
+				{Jouanin's Petrel}
+			Pétrel de la Trinité
+				{Pterodroma arminjoniana}
+				{Trindade Petrel}
+			Pétrel de Madère
+				{Pterodroma madeira}
+				{Zino's Petrel}
+			Pétrel de Schlegel
+				{Pterodroma incerta}
+				{Atlantic Petrel}
+			Pétrel diablotin
+				{Pterodroma hasitata}
+				{Black-capped Petrel}
+			Pétrel gongon
+				{Pterodroma feae}
+				{Fea's Petrel}
+			Pétrel hérault
+				{Pterodroma heraldica}
+				{Herald Petrel}
+			Pétrel soyeux
+				{Pterodroma mollis}
+				{Soft-plumaged Petrel}
+			Puffin cendré
+				{Calonectris diomedea}
+				{Cory's Shearwater}
+			Puffin d'Audubon
+				{Puffinus lherminieri}
+				{Audubon's Shearwater}
+			Puffin de Buller
+				{Puffinus bulleri}
+				{Buller's Shearwater}
+			Puffin de Macaronésie
+				{Puffinus baroli}
+				{Macaronesian Shearwater}
+			Puffin des Anglais
+				{Puffinus puffinus}
+				{Manx Shearwater}
+			Puffin des Baléares
+				{Puffinus mauretanicus}
+				{Balearic Shearwater}
+			Puffin fuligineux
+				{Puffinus griseus}
+				{Sooty Shearwater}
+			Puffin majeur
+				{Puffinus gravis}
+				{Great Shearwater}
+			Puffin yelkouan
+				{Puffinus yelkouan}
+				{Yelkouan Shearwater}
+	Psittaciformes
+		Psittacidés
+			{Psittacidae}
+			Amazone à épaulettes jaunes
+				{Amazona barbadensis}
+				{Yellow-shouldered Amazon}
+			Amazone à front bleu
+				{Amazona aestiva}
+				{Turquoise-fronted Amazon}
+			Conure à tête bleue
+				{Aratinga acuticaudata}
+				{Blue-crowned Parakeet}
+			Conure à tête rouge
+				{Aratinga erythrogenys}
+				{Red-masked Parakeet}
+			Conure cuivrée
+				{Aratinga pertinax}
+				{Brown-throated Parakeet}
+			Conure de Patagonie
+				{Cyanoliseus patagonus}
+				{Burrowing Parrot}
+			Conure nanday
+				{Nandayus nenday}
+				{Nanday Parakeet}
+			Conure veuve
+				{Myiopsitta monachus}
+				{Monk Parakeet}
+			Inséparable de Fischer
+				{Agapornis fischeri}
+				{Fischer's Lovebird}
+			Inséparable masqué
+				{Agapornis personatus}
+				{Yellow-collared Lovebird}
+			Perroquet youyou
+				{Poicephalus senegalus}
+				{Senegal Parrot}
+			Perruche à collier
+				{Psittacula krameri}
+				{Rose-ringed Parakeet}
+			Perruche alexandre
+				{Psittacula eupatria}
+				{Alexandrine Parakeet}
+			Perruche ondulée
+				{Melopsittacus undulatus}
+				{Budgerigar}
+			Toui été
+				{Forpus passerinus}
+				{Green-rumped Parrotlet}
+	Ptéroclidiformes
+		Ptéroclididés
+			{Ptéroclididae}
+			Ganga à ventre brun
+				{Pterocles exustus}
+				{Chestnut-bellied Sandgrouse}
+			Ganga cata
+				{Pterocles alchata}
+				{Pin-tailed Sandgrouse}
+			Ganga quadribande
+				{Pterocles quadricinctus}
+				{Four-banded Sandgrouse}
+			Ganga tacheté
+				{Pterocles senegallus}
+				{Spotted Sandgrouse}
+			Ganga unibande
+				{Pterocles orientalis}
+				{Black-bellied Sandgrouse}
+			Syrrhapte paradoxal
+				{Syrrhaptes paradoxus}
+				{Pallas's Sandgrouse}
+	Strigiformes
+		Strigidés
+			{Strigidae}
+			Chevêche d'Athéna
+				{Athene noctua}
+				{Little Owl}
+			Chevêche des terriers
+				{Athene cunicularia}
+				{Burrowing Owl}
+			Chevêchette d'Europe
+				{Glaucidium passerinum}
+				{Eurasian Pygmy Owl}
+			Chouette de l'Oural
+				{Strix uralensis}
+				{Ural Owl}
+			Chouette de Tengmalm
+				{Aegolius funereus}
+				{Boreal Owl}
+			Chouette épervière
+				{Surnia ulula}
+				{Northern Hawk-Owl}
+			Chouette hulotte
+				{Strix aluco}
+				{Tawny Owl}
+			Chouette lapone
+				{Strix nebulosa}
+				{Great Grey Owl}
+			Grand-duc d'Europe
+				{Bubo bubo}
+				{Eurasian Eagle-Owl}
+			Harfang des neiges
+				{Bubo scandiacus}
+				{Snowy Owl}
+			Hibou des marais
+				{Asio flammeus}
+				{Short-eared Owl}
+			Hibou du Cap
+				{Asio capensis}
+				{Marsh Owl}
+			Hibou moyen-duc
+				{Asio otus}
+				{Long-eared Owl}
+			Kétoupa brun
+				{Ketupa zeylonensis}
+				{Brown Fish Owl}
+			Petit-duc de Bruce
+				{Otus brucei}
+				{Pallid Scops Owl}
+			Petit-duc scops
+				{Otus scops}
+				{Eurasian Scops Owl}
+		Tytonidés
+			{Tytonidae}
+			Effraie des clochers
+				{Tyto alba}
+				{Western Barn Owl}

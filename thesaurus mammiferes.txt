@@ -1,0 +1,1778 @@
+﻿Mammifères
+	{Mammalia}
+	{Mammals}
+	Artiodactyles
+		{Artiodactyla}
+		Bovidés
+			{Bovidae}
+			Bison d'Europe
+				{Bison bonasus}
+				{Wisent}
+			Bœuf domestique
+				{Bos taurus}
+				{Vache domestique}
+				{Park Cattle}
+				Vache Abondance
+				Vache Armoricaine
+				Vache Aubrac
+				Aurochs de Heck
+				Vache Bazadaise
+					{Boeuf Bazadais}
+				Vache Béarnaise
+				Vache Betizu
+				Vache Blanc-Bleu
+					{Blanc-Bleu Belge}
+				Vache Bleue du Nord
+				Vache Blonde d'Aquitaine
+				Vache Bordelaise
+					{Boeuf Bordelais}
+				Vache Bretonne Pie Noire
+				Vache Brune
+				Vache Casta
+				Vache charolaise
+					{Boeuf Charolais}
+				Vache Corse
+				Vache Creole de Guadeloupe
+				Vache Creole de Martinique
+				Vache Espagnole Brava
+				Vache Ferrandaise
+				Vache Flamande
+				Vache Froment Du Léon
+				Vache Gasconne
+					{Boeuf Gascon}
+				Vache Hereford
+				Vache Hérens
+				Vache Jersiaise
+				Vache Limousine
+				Vache Lourdaise
+				Vache Maraîchine
+				Vache Marine Landaise
+				Vache Mirandaise
+				Vache Montbéliarde
+				Vache Nantaise
+					{Boeuf Nantais}
+				Vache Normande
+				Vache Parthenaise
+					{Boeuf Parthenais}
+				Vache Pie Rouge Des Plaines
+				Vache Prim'holstein
+				Vache Raco di Biou
+				Vache Rouge des prés
+				Vache Rouge Flamande
+				Vache Salers
+				Vache Saônoise
+				Vache Simmental Francaise
+				Vache Tarentaise
+				Vache Villard De Lans
+				Vache Vosgienne
+			Buffle domestique
+				{Bubalus bubalis}
+				{Buffle d'eau}
+				{Water Buffalo}
+			Chèvre domestique
+				{Capra hircus}
+				{Feral Goat}
+				Chèvre Alpine Polychrome
+				Chèvre Angora
+				Chèvre Blanche des Cévennes
+				Chèvre Catalane
+				Chèvre Corse
+				Chèvre Cou-Clair de Berry
+				Chèvre Creole
+				Chèvre du Massif Central
+				Chèvre Poitevine
+				Chèvre Provencale
+				Chèvre Pyrénéenne
+				Chèvre Rove
+				Chèvre Saanen
+				Chèvre Sundgau
+			Bouquetin
+				{Capra ibex}
+				{Bouquetin des Alpes}
+				{Alpine Ibex}
+			Bouquetin des Pyrénées
+				{Capra pyrenaica}
+				{Pyrenean Ibex}
+			Boeuf musqué
+				{Ovibos moschatus}
+				{Muskox}
+			Mouflon
+				{Ovis aries}
+				{Mouton domestique}
+				{Feral Sheep}
+				Mouton Alfort
+				Mouton Alpine
+				Mouton Ardes
+				Mouton Artois
+				Mouton Aure-Campan Brigasque
+				Mouton Avranchin
+				Mouton Barégeois
+				Mouton Béarnais
+				Mouton Belle Ile
+				Mouton Berrichon de l'Indre
+				Mouton Berrichon Du Cher
+				Mouton Bizet
+				Mouton Blackface
+				Mouton Blanc Du Massif Central
+				Mouton Bleu du Maine
+				Mouton Boischaut
+				Mouton Boulonnais
+				Mouton Brenne
+				Mouton Brigasque
+				Mouton Cambrai
+				Mouton Campan
+				Mouton Castillonnais
+				Mouton Cauchois
+				Mouton Caussenard de la Lozère
+				Mouton Caussenard des Garrigues
+				Mouton Caussenard du Lot
+				Mouton Champagne
+				Mouton Charmoise
+				Mouton Charollais
+				Mouton Châtillonais
+				Mouton Choletais
+				Mouton Clun Forest
+				Mouton Corbières
+				Mouton Corse
+				Mouton Côtentin
+				Mouton Crevant
+				Mouton Dorset Down
+				Mouton Est à Laine Mérinos
+				Mouton Finnois
+				Mouton Flamand
+				Mouton Franconie
+				Mouton Gascon
+				Mouton Grivette
+				Mouton Hampshire Down
+				Mouton Ile-de-France
+				Mouton Lacaune
+				Mouton Lacaune Lait
+				Mouton Lacaune Viande
+				Mouton Landaise
+				Mouton Landes de Bretagne
+				Mouton Larzac
+				Mouton Lauraguais
+				Mouton Limousin
+				Mouton Lourdaise
+				Mouton Maine à Tête Blanche
+				Mouton Manech Tête Noire
+				Mouton Manech Tête Rousse
+				Mouton Marchois
+				Mouton Martinik
+				Mouton Mérinos champenois
+				Mouton Mérinos d'Arles
+				Mouton Mérinos de la Camargue
+				Mouton Mérinos de Mauchamp
+				Mouton Mérinos de Rambouillet
+				Mouton Mérinos du Naz
+				Mouton Mérinos Précoces
+				Mouton Morvandelle
+				Mouton Mourerous
+				Mouton à tête noire
+				Mouton Noir du Velay
+				Mouton Ouessant
+				Mouton Petite Manech
+				Mouton Picard
+				Mouton Préalpes du Sud
+				Mouton Raiole
+				Mouton Rambouillet
+				Mouton Rava
+				Mouton Romanov
+				Mouton Rouge De L'ouest
+				Mouton Rouge Du Roussillon
+				Mouton Roussillon Merino
+				Mouton Roussin De La Hague
+				Mouton Ruthenois
+				Mouton Ségala
+				Mouton Soissonais
+				Mouton Solognot
+				Mouton South Down
+				Mouton St. Quentin
+					{Mouton Saint Quentin}
+				Mouton Suffolk
+				Mouton Tarasconnais
+				Mouton Texel
+				Mouton Thones et Marthod
+				Mouton Trun
+				Mouton Vendeen
+			Isard
+				{Rupicapra pyrenaica}
+				{Pyrenean Chamois}
+			Chamois
+				{Rupicapra rupicapra}
+				{Chamois}
+			Antilope saïga
+				{Saiga tatarica}
+				{Saïga}
+				{Saiga Antelope}
+		Cervidés
+			{Cervidae}
+			Elan
+				{Alces alces}
+				{Moose}
+			Chevreuil
+				{Capreolus capreolus}
+				{Roe Deer}
+			Cerf élaphe
+				{Cervus elaphus}
+				{Red Deer}
+			Cerf sika
+				{Cervus nippon}
+				{Sika Deer}
+			Daim
+				{Dama dama}
+				{Fallow Deer}
+			Hydropote chinois
+				{Hydropotes inermis}
+				{Hydropote de Chine}
+				{Chinese Water Deer}
+			Muntjac de Chine
+				{Muntiacus reevesi}
+				{Chinese Muntjac}
+			Renne
+				{Rangifer tarandus}
+				{Caribou}
+				{Reindeer}
+		Suidés
+			{Suidae}
+			Cochon domestique
+				{Sus domesticus}
+				{Cochon}
+				{Porc}
+				{Domestic Pig}
+				Porc d'Acadie
+				Porc Amélioré de l'Est
+				Porc de Bayeux
+				Porc du Béarn
+				Porc Bigourdain
+				Porc Blanc de l'Ouest
+				Porc Bleu de Bologne
+				Porc Boulonnais
+				Porc Bourdeaux
+				Porc de Bresse
+				Porc Breton
+				Porc de Carélie
+				Porc Cazères
+				Porc Charolais
+				Porc de Corrèze
+				Porc Corse
+				Porc Craonnais
+				Porc Créole
+				Porc du Dauphiné
+				Porc Duroc
+				Porc Flamand
+				Porc Gallia
+				Porc de Gasconne
+				Porc du Hampshire
+				Porc Jia-Xing
+				Porc de Laconie
+				Porc Landrace
+				Porc Landrace Belge
+				Porc Landrace Selpa
+				Porc Large White
+				Porc Lauragais
+				Porc de Loches
+				Porc Marseillais
+				Porc Meishan
+				Porc Miélan
+				Porc Montmorillonnais
+				Porc Musclor
+				Porc Pen Ar Lan
+				Porc Penshire
+				Porc Piégut
+				Porc Pie Noir du Pays Basque
+				Porc Piétrain
+				Porc de Saint Yriex
+				Porc Tia Meslan
+				Porc Tournayais
+				Porc Willebrand
+			Sanglier
+				{Sus scrofa}
+				{Wild Boar}
+	Carnivores
+		{Carnivora}
+		Canidés
+			{Canidae}
+			Renard polaire
+				{Alopex lagopus}
+				{Renard isatis}
+				{Arctic Fox}
+			Chien
+				{Canis familiaris}
+				{Dog}
+				Affenpinscher
+				Airedale Terrier
+				Akita Inu
+				American Staffordshire Terrier
+					{Staffordshire Terrier Américain}
+					{Amstaff}
+				Ancien Chien d'arrêt Danois
+					{Gammel Dansk}
+				Anglo Français de Petite Vénerie
+				Ariégeois
+				Azawakh
+				Barbet
+				Barzoï
+					{Lévrier Russe}
+				Basenji
+				Basset Artésien Normand
+				Basset Bleu de Gascogne
+				Basset de Westphalie
+					{Westfalische Dachsbracke}
+				Basset des Alpes
+					{Alpenländische Dachsbracke}
+				Basset Fauve de Bretagne
+				Basset Hound
+				Beagle
+				Beagle Harrier
+				Bedlington Terrier
+				Berger Allemand
+					{Chien Loup d'Alsace}
+				Berger Australien d'Amérique
+					{L'Aussie}
+				Berger Australien Kelpie
+					{Kelpie}
+				Berger Belge Groenendael
+					{Groenendael}
+				Berger Belge Laekenois
+					{Laekenois}
+				Berger Belge Malinois
+					{Malinois}
+				Berger Belge Tervueren
+					{Tervueren}
+				Berger Blanc Suisse
+					{Berger Blanc}
+				Berger Catalan
+					{Gos d'Atura}
+				Berger d'Anatolie
+					{Coban Kopegi}
+				Berger d'Asie Centrale
+					{Chien de berger d’Asie Centrale}
+				Berger d'Islande
+					{Iceland Dog}
+					{Chien de Berger d'Islande}
+				Berger de Beauce
+					{Beauceron}
+					{Bas-rouge}
+				Berger de Bergame
+					{Berger Bergamasque}
+					{Cane da pastore Bergamasco}
+				Berger de Brie
+					{Briard}
+				Berger de Croatie
+					{Hrvatski Ovcar}
+				Berger de Krast
+					{Berger du bassin de Krast}
+				Berger de Maremme et Abruzzes
+					{Cane da pastore Maremmano-Abruzzese}
+				Berger de Russie Méridionale
+					{Youjak}
+				Berger des Pyrénées à face rase
+					{Labrit}
+				Berger des Pyrénées à poil long
+					{Labrit}
+				Berger des Shetland
+					{Colley Shetland}
+				Berger du Caucase
+					{Chien de berger du Caucase}
+				Berger Espagnol de Majorque
+					{Ca de Bestiar}
+				Berger Finnois de Laponie
+					{Lapinporokoira}
+				Berger Hollandais à poil court
+					{Hollandse Herdershond}
+				Berger Hollandais à poil dur
+					{Hollandse Herdershond}
+				Berger Hollandais à poil long
+					{Hollandse Herdershond}
+				Berger Picard
+					{Berger de Picardie}
+				Berger Polonais de Plaine
+					{Nizinny}
+				Berger Polonais de Podhale
+					{Berger des Tatras}
+				Berger Portugais
+					{Chien de berger de la Serra de Aires}
+				Berger Slovaque
+					{Tchouvatch Slovaque}
+				Berger Yougoslave
+					{Charplanina ou Sarplaninac}
+					{Chien de Berger Yougoslave de Charplanina}
+				Bichon à poil Frisé
+					{Bichon frisé}
+				Bichon Bolonais
+					{Bolognese}
+				Bichon Havanais
+				Bichon Maltais
+					{Maltese}
+				Billy
+				Bobtail
+					{Old English Sheepdog}
+				Border Collie
+					{Border Collie}
+				Border Terrier
+				Bouledogue Americain
+					{Bulldog Américain}
+				Bouledogue Anglais
+					{Bulldog Anglais}
+				Bouledogue Français
+				Bouvier Australien
+					{Australian cattle dog}
+				Bouvier Bernois
+					{Berner Sennenhund}
+					{Dürrbächler}
+				Bouvier d'Appenzell
+					{Appenzeller Sennenhund}
+				Bouvier de l'Entlebuch
+					{Entlebucher Mountain Dog}
+				Bouvier des Ardennes
+				Bouvier des Flandres
+					{Flanders Cattle Dog}
+				Boxer
+					{Deutscher Boxer}
+				Boykin Spaniel
+				Brachet Allemand à poil court
+					{Deutsche Bracke}
+				Brachet Autrichien Noir et Feu
+					{Chien courant Autrichien}
+				Brachet de Styrie à poil dur
+					{Steiriche Rauhhaarige Hohcgebirgsbracke}
+					{Peintinger Bracke}
+				Brachet Polonais
+					{Chien courant Polonais}
+				Brachet Tyrolien
+					{Tiroler Bracke}
+				Braque Allemand à poil court
+					{Deutsch Kurzhaar}
+				Braque Allemand à poil dur
+					{Drathaar}
+					{Deutsch Drahthaar}
+					{Chien d'arrêt Allemand à poil dur}
+				Braque d'Auvergne
+				Braque de Burgos
+					{Perdiguero de Burgos}
+				Braque de l'Ariège
+				Braque de Weimar à poil court
+					{Weimaraner}
+				Braque de Weimar à poil long
+					{Weimaraner}
+				Braque du Bourbonnais
+				Braque Dupuy
+				Braque Français type Gascogne
+				Braque Français type Pyrénées
+				Braque Hongrois à poil court
+					{Vizsla}
+				Braque Hongrois à poil dur
+					{Vizsla}
+				Braque Italien
+					{Bracco Italiano}
+				Braque Portuguais
+					{Chien d’arrêt portugais}
+				Braque Saint Germain
+				Braque Slovaque à poil dur
+					{Griffon d’arrêt slovaque à poil dur}
+				Briquet Griffon Vendéen
+				Broholmer
+				Bruno du Jura type Bruno
+					{Chien courant Suisse}
+					{Bruno du Jura}
+				Bruno du Jura type Saint Hubert
+					{Chien courant Suisse}
+					{Bruno du Jura}
+				Buhund Norvégien
+					{Norsk Buhund}
+				Bull Terrier
+					{English Bull Terrier}
+				Bull Terrier Miniature
+					{Miniature Bull Terrier}
+				Bullmastiff
+				Cairn Terrier
+					{Cairn}
+				Cane Corso
+					{Chien de cour Italien}
+				Caniche
+					Grand caniche
+						Caniche Royal
+					Caniche Moyen
+					Caniche Nain
+					Caniche Toy
+						{Caniche miniature}
+				Cao de Castro Laboreiro
+				Cao Fila de Sao Miguel
+				Carlin
+					{Mops Pug}
+				Cavalier King Charles
+					{Cavalier King Charles Spaniel}
+				Chien Chinois à Crête
+					{Chien nu Chinois}
+				Chien Corse
+					{U Cursinu}
+				Chien Courant Bernois
+					{Chien courant Suisse}
+					{Bernois}
+				Chien Courant d'Istrie à poil dur
+					{Istarski Ostrodlaki Goniè}
+				Chien Courant d'Istrie à poil ras
+					{Istarski Kratkodlaki Gonic}
+				Chien Courant de Bosnie
+					{Chien courant d'Illyrie}
+				Chien Courant de Halden
+					{Haldenstövare}
+					{Haldenstøver}
+				Chien Courant de Hygen
+					{Hygenhund}
+				Chien Courant de Posavatz
+					{Chien Courant de la vallée de la Save}
+				Chien Courant de Schwyz
+					{Chien Courant Suisse}
+					{Courant schwytzois}
+				Chien Courant de Transylvanie
+					{Erdélyi Kopó}
+				Chien Courant des Balkans
+					{Srpski Gonic}
+				Chien Courant Espagnol
+					{Sabueso Español}
+				Chien Courant Finnois
+					{Chien Courant Finlandais}
+				Chien Courant Grec
+					{Chien Courant Hellenique}
+				Chien Courant Italien à poil court
+					{Segugio Italiano}
+				Chien Courant Italien à poil dur
+					{Segugio Italiano a pelo forte}
+				Chien Courant Lucernois
+					{Chien Courant Suisse}
+					{Lucernois}
+				Chien Courant Slovaque
+					{Slovenský Kopov}
+				Chien Courant Yougoslave de Montagne
+					{Planinski}
+					{Chien Courant de Montagne Slovène}
+				Chien Courant Yougoslave Tricolore
+					{Chien Courant Tricolore Serbe}
+				Chien d'arrêt Allemand à poil long
+					{Langhaar}
+					{Deutsch Langhaar}
+				Chien d'Artois
+				Chien d'eau Américain
+					{American water Spaniel}
+				Chien d'eau Espagnol
+					{Perro de agua Espanol}
+				Chien d'eau Frison
+					{Chien d'eau néerlandais}
+				Chien d'eau Irlandais
+					{Irish water Spaniel}
+				Chien d'eau Portugais
+					{Cao de agua}
+				Chien d'eau Romagnol
+					{Lagotto romagnolo}
+				Chien d'Elan Norvégien gris
+					{Norsk Elghund Gra}
+				Chien d'Elan Norvégien noir
+					{Norsk Elghund Sort}
+				Chien d'Elan Suédois
+					{Jamthund}
+				Chien d'Ours de Carélie
+					{Karjalankarhukoira}
+				Chien d'Oysel
+					{Wachtelhund}
+				Chien de Canaan
+					{Canaan Dog}
+				Chien de l'Atlas
+					{Aïdi}
+					{Berger de l'Atlas}
+				Chien de Loutre
+					{Otterhound}
+				Chien de montagne Portugais à poil court
+					{Chien de la Serra da Estrela}
+				Chien de montagne Portugais à poil ondulé
+					{Chien de la Serra da Estrela}
+				Chien des Goths
+					{Vastgotaspets}
+					{Chien des Goths de l'Ouest}
+					{Spitz des Wisigoths}
+					{Berger Suédois}
+					{Vallhund Suédois}
+				Chien du Mexique à peau nue
+					{Chien nu mexicain}
+				Chien du Pérou à peau nue
+					{Chien nu péruvien}
+				Chien du Pharaon
+					{Pharaoh Hound}
+				Chien Finnois de Laponie
+					{Lapinkoira}
+				Chien Léopard Catahoula
+					{Catahoula Stock Dog}
+					{Catahoula Hound Dog}
+				Chien Loup de Saarloos
+					{Saarlooswolfhond}
+				Chien Loup Slovaque
+					{Chien Loup Tchèque}
+					{Ceskoslovensky Vlcak}
+				Chien Norvégien de Macareux
+					{Norsk Lundehund}
+				Chien rouge de Bavière
+					{Bayerischer Gebirgsschweisshund}
+				Chien rouge de Hanovre
+					{Hannoverscher Scheweisshund}
+				Chien Suédois de Laponie
+					{Lapphund Suèdois}
+				Chien Thailandais à crête dorsale
+					{Thaï Ridgeback Dog}
+				Chihuahua
+					{Chihuahueño}
+				Chow Chow
+				Cirneco de l'Etna
+					{Cirneco dell’Etna}
+				Clumber
+					{Clumber Spaniel}
+				Cocker Américain
+					{American Cocker Spaniel}
+				Cocker Anglais
+					{English Cocker Spaniel}
+				Colley à poil court
+					{Collie Smooth}
+				Colley à poil long
+					{Collie Rough}
+				Colley Barbu
+					{Beardy}
+				Coonhound noir et feu
+					{Chien courant Noir et Feu pour la chasse au raton laveur}
+				Coton de Tulear
+				Dalmatien
+					{Dalmatinac}
+				Dobermann
+				Dogo Canario
+					{Chien des Canaries}
+					{Perro de Presa Canario}
+				Dogue Allemand
+					{Deutsche Dogge}
+				Dogue Argentin
+					{Dogo Argentino}
+				Dogue de Bordeaux
+				Dogue de Majorque
+					{Ca de Bou}
+					{Perro de Presa Mallorquin}
+					{Chien de combat Majorquin}
+				Dogue du Tibet
+					{Do Khyi}
+				Drever
+				Dunker
+					{Chien courant norvégien}
+				Epagneul à perdrix de Drente
+					{Drentsche Patrijshond}
+				Epagneul Bleu Picard
+					{Epagneul Bleu de Picardie}
+				Epagneul Breton
+				Epagneul de Saint-Usuge
+				Epagneul du Tibet
+					{Tibetan Spaniel}
+				Epagneul Français
+				Epagneul Japonais
+					{Tchin}
+				Epagneul Papillon Nain Continental
+					{Papillon}
+				Epagneul Phalène Nain Continental
+					{Phalène}
+				Epagneul Picard
+				Epagneul Pont Audemer
+				Esquimau du Groënland
+					{Groënlandais}
+					{Esquimau du Canada}
+					{Chien du Groënland}
+				Eurasier
+				Field Spaniel
+				Fila Brasileiro
+				Fox Terrier à poil dur
+					{Wire Fox Terrier}
+				Fox Terrier à poil lisse
+					{Fox Anglais}
+				Foxhound
+					{Foxhound Anglais}
+				Foxhound Américain
+					{American Foxhound}
+				Français Blanc et Noir
+					{Chien Français Blanc et Noir}
+				Français Blanc et Orange
+					{Chien Français Blanc et Orange}
+				Français Tricolore
+					{Chien Français Tricolore}
+				Galgo Espagnol
+					{Galgo}
+				Golden Retriever
+				Grand Anglo Français Blanc et Noir
+				Grand Anglo Français Blanc et Orange
+				Grand Anglo Français tricolore
+				Grand Basset Griffon Vendéen
+				Grand Bleu de Gascogne
+				Grand Bouvier Suisse
+					{Grosser Schweizer Sennnhund}
+				Grand Chien Japonais
+					{Akita Américain}
+					{Formerly American Akita}
+				Grand Gascon Saintongeois
+				Grand Griffon Vendéen
+				Grand Munsterlander
+					{Grand Epagneul de Münster}
+				Greyhound
+				Griffon à poil Laineux
+					{Griffon Boulet}
+				Griffon Belge
+				Griffon bleu de Gascogne
+				Griffon Bruxellois
+				Griffon d'arrêt à poil dur
+					{Griffon à poils durs Kortkals}
+				Griffon d'arrêt Tchèque
+					{Barbu Tchèque}
+				Griffon Fauve de Bretagne
+				Griffon Nivernais
+				Hamilton Stovare
+					{Chien courant de Hamilton}
+				Harrier
+				Hokkaïdo
+				Hovawart
+				Husky Sibérien
+					{Husky d'arctique}
+					{Husky}
+				Jack Russell Terrier
+					{Jack Russell d'Australie}
+					{Jack Russell}
+				Jagd Terrier
+					{Terrier de chasse Allemand}
+				Kai
+				Kerry Blue Terrier
+					{Terrier Kerry Blue}
+				King Charles
+					{King Charles Spaniel}
+				Kishu
+				Komondor
+				Korea Jindo Dog
+					{Jindo Coréen}
+				Kromfohrlander
+				Kuvasz
+					{Berger Hongrois}
+				Kyi Leo
+				Labrador
+					{Retriever du Labrador}
+					{Labrador Retriever}
+				Laika de Sibérie Occidentale
+					{Zapadno Sibirskaia Laika}
+				Laika de Sibérie Orientale
+					{Vostotchno Sibirskaia Laika}
+				Laika Russo Européen
+					{Russko Evropeïskaïa Laïka}
+				Lakeland Terrier
+				Landseer
+				Leonberg
+					{Leonberger}
+				Lévrier Afghan
+					{Afghan Hound}
+				Lévrier Ecossais
+					{Deerhound}
+				Lévrier Hongrois
+					{Magyar Agar}
+				Lévrier Irlandais
+					{Wolfhound}
+				Lévrier Polonais
+					{Chart Polski}
+				Lhassa Apso
+				Lion d'Occitanie
+				Malamute de l'Alaska
+					{Alaskan Malamute}
+					{Malamute}
+				Mastiff
+				Mâtin de Naples
+					{Mâtin Napolitain}
+				Mâtin des Pyrénées
+					{Mastín del Pirineo}
+				Mâtin Espagnol
+					{Mastin Espanol}
+				Montagne des Pyrénées
+					{Chien de Montagne des Pyrénées}
+				Mudi
+					{Berger Hongrois}
+				Norfolk Terrier
+					{Terrier du Norfolk}
+				Norwich Terrier
+					{Terrier de Norwich}
+				Parson Jack Russell Terrier
+					{Terrier du Révérend Jack Russell}
+				Pékinois
+					{Epagneul Pékinois}
+				Petit Basset Griffon Vendéen
+				Petit Bleu de Gascogne
+					{Petit Basset Bleu de Gascogne}
+				Petit Brabancon
+				Petit Chien Courant Bernois
+					{Petit Chien Courant Suisse}
+				Petit Chien Courant de Schwyz
+					{Petit Chien Courant Suisse}
+				Petit Chien Courant du Jura
+					{Petit Chien Courant Suisse}
+				Petit Chien Courant Lucernois
+					{Petit Chien Courant Suisse}
+				Petit Chien Hollandais de Chasse au gibier d'eau
+					{Chien Hollandais de Canardière}
+				Petit Chien Lion
+					{Lowchen}
+				Petit chien Russe
+					{Russkiy Toy}
+				Petit Gascon Saintongeois
+				Petit Lévrier Italien
+					{Levrette d'Italie}
+				Petit Munsterlander
+					{Petit Epagneul de Münster}
+				Pinscher Autrichien à poil court
+					{Oesterreichischer Kurzhaariger Pinscher}
+				Pinscher Moyen
+					{Pinscher Allemand}
+				Pinscher Nain
+					{Zwergpinscher}
+				Plott Hound
+				Podenco Canario
+					{Lévrier des canaries}
+					{Chien de Garenne des Canaries}
+				Podenco Ibicenco de pelo corto
+					{Lévrier d'Ibiza à poil lisse}
+				Podenco Ibicenco de pelo duro
+					{Lévrier d'Ibiza à poil dur}
+				Podengo Portugais Grande
+					{Grand Lévrier Portugais}
+					{Grand Chien de Garenne Portuguais}
+				Podengo Portugais Medio
+					{Lévrier Portugais moyen}
+					{Chien de Garenne Portuguais Moyen}
+				Podengo Portugais Pequeno
+					{Petit Lévrier Portugais}
+					{Petit Chien de Garenne Portuguais}
+				Pointer Anglais
+					{Pointer}
+				Poitevin
+				Porcelaine
+				Pudel Pointer
+				Puli
+					{Berger Hongrois Puli}
+				Pumi
+					{Berger Hongrois Pumi}
+				Rafeiro de Alentejo
+					{Bouvier de l'Alentejo}
+				Redbone Coonhound
+				Redtick Coonhound
+					{English Coonhound}
+				Retriever à poil bouclé
+					{Curly coated Retriever}
+				Retriever à poil plat
+					{Flat coated Retriever}
+				Retriever de la baie de Chesapeake
+					{Chesapeake bay Retriever}
+				Retriever de la nouvelle Ecosse
+					{Nova-Scotia}
+				Rhodesian Ridgeback
+					{Chien de Rhodésie à crête dorsale}
+				Rottweiler
+				Saint Bernard
+					{Langhaariger Saint Bernardshund}
+				Saint Hubert
+					{Chien de Saint-Hubert}
+				Saluki
+				Samoyède
+					{Samoiedskaïa Sabaka}
+				Sanshu
+				Schapendoes
+					{Schapendoes néerlandais}
+					{Nederlandse Schapendoes}
+				Schiller Stovare
+					{Chien courant de Schiller}
+				Schipperke
+				Schnauzer géant
+					{Riesenschnauzer}
+				Schnauzer moyen
+					{Mittelschnauzer}
+				Schnauzer nain
+					{Zwergschnauzer}
+				Sealyham Terrier
+				Setter Anglais
+					{English Setter}
+				Setter Gordon
+					{Gordon Setter}
+				Setter Irlandais rouge
+					{Irish red Setter}
+				Setter Irlandais rouge et blanc
+					{Irish red and white Setter}
+				Shar Peï
+				Shiba
+					{Shiba Inu}
+				Shih Tzu
+				Shikoku
+					{Shikoku}
+				Silky Terrier
+					{Sydney Silky}
+				Skye Terrier
+				Sloughi
+				Smalandsstovare
+					{Chien Courant du Smaland}
+				Smous des Pays-Bas
+					{Smoushond}
+				Spinone Italiano
+					{Chien d’arrêt italien à poil dur}
+				Spitz Allemand
+					{Grand Spitz}
+				Spitz Allemand Loup
+					{Keeshond}
+					{Spitz-Loup}
+				Spitz Allemand Moyen
+					{Spitz Moyen}
+				Spitz Allemand Nain
+					{Spitz Nain}
+					{Poméranien}
+				Spitz Allemand Petit
+					{Petit Spitz}
+				Spitz de Norrbotten
+					{Norrbottenspitz}
+				Spitz Finlandais
+					{Finnish Spitz}
+				Spitz Italien
+					{Volpino Italien}
+				Spitz Japonais
+					{Nihon Supittzu}
+				Springer Spaniel Anglais
+					{English Springer Spaniel}
+				Springer Spaniel Gallois
+					{Welsh Springer Spaniel}
+				Stabyhoun
+					{Chien d'arrêt Frison}
+				StaffordShire Bull Terrier
+					{Bull Terrier du Staffordshire}
+				Stichelhaar
+					{Chien d'arrêt Allemand à poil raide}
+				Sussex Spaniel
+				Teckel à poil dur
+					{Teckel Normalgrosse Rauhhaar}
+				Teckel à poil long
+					{Teckel Normalgrosse Langhaar}
+				Teckel à poil ras
+					{Teckel Normalgrosse Kurzhaar}
+				Teckel de Chasse au lapin à poil dur
+				Teckel de Chasse au lapin à poil long
+				Teckel de Chasse au lapin à poil ras
+				Teckel nain à poil dur
+					{Teckel Zwerg Langhaar}
+				Teckel nain à poil long
+					{Teckel Zwerg Kurzhaar}
+				Teckel nain à poil ras
+					{Teckel Zwerg Rauhhaar}
+				Telomian
+				Terre Neuve
+					{Newfounland}
+				Terrier Australien
+					{Australian Terrier}
+				Terrier Brésilien
+				Terrier Dandie Dinmont
+					{Dandie Dinmont Terrier}
+				Terrier de Boston
+					{Boston Terrier}
+				Terrier de Manchester
+					{Manchester Terrier}
+				Terrier du Tibet
+					{Terrier Tibétain}
+					{Dhoki Apso}
+				Terrier Ecossais
+					{Scottish}
+					{Terrier d'Ecosse}
+				Terrier Irlandais
+					{Irish Red Terrier}
+				Terrier Irlandais à poil doux
+					{Irish Soft Coated Wheaten Terrier}
+				Terrier Irlandais Glen of Imaal
+					{Glen of Imaal Terrier}
+				Terrier japonais
+					{Nihon Teria, Japenese Terrier}
+				Terrier Noir Russe
+					{Tchiorny Terrier}
+				Terrier Tchèque
+					{Cesky Terrier}
+				Tosa
+					{Dog japonais}
+					{Sumo}
+				Toy Terrier noir et feu
+					{Terrier d'agrément Anglais noir et feu}
+				Welsh Corgi Cardigan
+				Welsh Corgi Pembroke
+				Welsh Terrier
+					{Terrier Gallois}
+				West Highland White Terrier
+					{Westie, White Terrier}
+				Whippet
+				Yorkshire Terrier
+					{Terrier du Yorkshire}
+					{York}
+			Loup
+				{Canis lupus lupus}
+				{Wolf}
+			Dhole
+				{Cuon alpinus}
+				{Chien sauvage d'Asie}
+			Chien viverrin
+				{Nyctereutes procyonoides}
+				{Tanuki}
+				{Raccoon Dog}
+			Renard roux
+				{Vulpes vulpes}
+				{Red Fox}
+		Felidés
+			{Felidae}
+			Chat domestique
+				{Felis catus}
+				{Chat haret}
+				{Feral Cat}
+				Chat à poils courts
+					Abyssin
+					American Bobtail Poils Courts
+					American Curl Poils Courts
+					American Shorthair
+					Asian
+					Bengal
+					Bombay
+					British Shorthair
+					Burmese
+						Burmese Americain
+						Burmese Anglais
+					Burmilla	
+					Ceylan
+					Chartreux
+					Cornish Rex
+						{Rex Cornish}
+					Devon Rex
+						{Rex Devon}
+					Donskoy
+						{Don Sphynx}
+						{Sphynx russe}
+					European Shorthair
+						{Européen à poils courts}
+						{Chat Européen}
+					Exotic Shorthair
+					German Rex
+						{Rex German}
+					Havana Brown
+						{Havana}
+					Japanese Bobtail Poils Courts
+						{Bobtail Japonais Poils Courts}
+					Korat
+					Kurilian Bobtail Poils Courts
+					Laperm Poils Courts
+					Manx Man
+						{Manx}
+						{Chat de l'Ile de Manx}
+					Mau Egyptien
+					Munchkin Poils Courts
+						{Munchkin Cat Poils Courts}
+					Ocicat
+					Oriental
+					Peterbald
+						{Peterbald Sphynx}
+					Pixie Bob Poils Courts
+					Russe
+						{Bleu Russe}
+					Scottish Fold
+					Scottish Straight
+					Selkirk Rex Poils Courts	
+					Siamois
+					Singapura
+					Snowshoe
+					Sokoke
+					Sphynx
+						{Sphynx canadien}
+					Thai
+					Tonkinois Poils Courts	
+				Chat à poils mi-longs
+					American Bobtail Poils Longs
+					American Curl Poils Longs
+					American Wirehair
+					Angora Turc
+					Balinais
+					British Longhair
+					Californian Rex
+						{Rex Californian}
+					Cymric
+					Highland Fold
+					Highland Straight
+					Japanese Bobtail Poils Longs
+						{Bobtail Japonais Poils longs}
+					Kurilian Bobtail Poils Longs
+					Laperm Poils Longs
+					Maine Coon
+					Mandarin
+					Munchkin Poils Longs
+					Nebelung
+					Norvégien
+						{Skogkatt}
+						{Chat des Forêts Norvégiennes}
+						{Chat norvégien}
+					Pixie Bob Poils Longs
+					Ragdoll
+					Sacré De Birmanie
+						{Birman}
+						{Chat Sacré de Birmanie}
+					Selkirk Rex Poils Longs
+					Sibérien
+						{Siberian}
+					Somali
+					Tiffany
+					Burmilla
+					Tonkinois Poils Longs
+					Turc Du Lac De Van
+						{Chat Turc du Lac de Van}
+					York Chocolat
+				Chat à poils longs
+					Persan
+			Chat sauvage
+				{Felis silvestris}
+				{Chat forestier}
+				{Wildcat}
+			Lynx boréal
+				{Lynx lynx}
+				{Lynx d'Europe}
+				{Eurasian Lynx}
+			Lynx pardelle
+				{Lynx pardinus}
+				{Iberian Lynx}
+		Mustelidés
+			{Mustelidae}
+			Glouton
+				{Gulo gulo}
+				{Carcajou}
+				{Wolverine}
+			Loutre
+				{Lutra lutra}
+				{Loutre d'Europe}
+				{European Otter}
+			Fouine
+				{Martes foina}
+				{Beech Marten}
+			Martre
+				{Martes martes}
+				{Martre des pins}
+				{Pine Marten}
+			Zibeline
+				{Martes zibellina}
+				{Sable}
+			Blaireau européen
+				{Meles meles}
+				{Eurasian Badger}
+			Hermine
+				{Mustela erminea}
+				{Stoat}
+			Furet
+				{Mustela furo}
+				{Putois domestique}
+				{Feral Ferret}
+			Vison
+				{Mustela lutreola}
+				{Vison d'Europe}
+				{European Mink}
+			Belette
+				{Mustela nivalis}
+				{Belette d'Europe}
+				{Weasel}
+			Putois d'Europe
+				{Mustela putorius}
+				{Polecat}
+			Vison d'Amérique
+				{Mustela vison}
+				{American Mink}
+			Putois marbré
+				{Vormela peregusna}
+				{Marbled Polecat}
+		Phocidés
+			{Phocidae}
+			Phoque gris
+				{Halichoerus grypus}
+				{Grey Seal}
+			Phoque moine
+				{Monachus monachus}
+				{Phoque moine de Méditerranée}
+				{Monachus}
+			Phoque veau marin
+				{Phoca vitulina}
+				{Common Seal}
+		Procyonidés
+			{Procyonidae}
+			Raton laveur
+				{Procyon lotor}
+				{Raccoon}
+		Ursidés
+			{Ursidae}
+			Ours
+				{Ursus arctos}
+				{Ours brun}
+				{Brown Bear}
+		Viverridés
+			{Viverridae}
+			Genette
+				{Genetta genetta}
+				{Genette commune}
+				{Common Genet}
+	Cétacés
+		{Cetacea}
+		Balaenidés
+			{Balaenidae}
+			Baleine franche
+				{Eubalaena glacialis}
+				{Baleine franche de l'Atlantique nord}
+				{North Atlantic Right Whale}
+		Balaenopteridés
+			{Balaenopteridae}
+			Rorqual à museau pointu
+				{Balaenoptera acutorostrata}
+				{Minke Whale}
+			Rorqual de Rudolphi
+				{Balaenoptera borealis}
+				{Sei Whale}
+			Rorqual bleu
+				{Balaenoptera musculus}
+				{Blue Whale}
+			Rorqual commun
+				{Balaenoptera physalus}
+				{Fin Whale}
+			Mégaptère
+				{Megaptera novaeangliae}
+				{Humpback Whale}
+		Delphinidés
+			{Delphinidae}
+			Dauphin commun
+				{Delphinus delphis}
+				{Common Dolphin}
+			Orque naine
+				{Feresa attenuata}
+				{Pygmy Killer Whale}
+			Globicéphale tropical
+				{Globicephala macrorhynchus}
+				{Short-Finned Pilot Whale}
+			Globicéphale noir
+				{Globicephala melas}
+				{Long-Finned Pilot Whale}
+			Dauphin de Risso
+				{Grampus griseus}
+				{Risso'S Dolphin}
+			Dauphin de Fraser
+				{Lagenodelphis hosei}
+				{Fraser'S Dolphin}
+			Lagenorhynque à flancs blancs
+				{Lagenorhynchus acutus}
+				{Atlantic White-Sided Dolphin}
+			Lagénorhynque à bec blanc
+				{Lagenorhynchus albirostris}
+				{White-Beaked Dolphin}
+			Orque
+				{Orcinus orca}
+				{Killer Whale}
+			Faux orque
+				{Pseudorca crassidens}
+				{False Killer Whale}
+			Dauphin bleu et blanc
+				{Stenella coeruleoalba}
+				{Striped Dolphin}
+			Dauphin à rostre étroit
+				{Steno bredanensis}
+				{Sténo à rostre étroit}
+				{Rough-Toothed Dolphin}
+			Grand dauphin
+				{Tursiops truncatus}
+				{Bottle-Nosed Dolphin}
+		Kogiidés
+			{Kogiidae}
+			Cachalot pygmée
+				{Kogia breviceps}
+				{Pygmy Sperm Whale}
+			Cachalot nain
+				{Kogia simus}
+				{Dwarf Sperm Whale}
+		Monodontidés
+			{Monodontidae}
+			Bélouga
+				{Delphinapterus leucas}
+				{Beluga Whale}
+		Phocoenidés
+			{Phocoenidae}
+			Marsouin commun
+				{Phocoena phocoena}
+				{Harbour Porpoise}
+		Physeteridés
+			{Physeteridae}
+			Cachalot
+				{Physeter macrocephalus}
+				{Grand cachalot}
+				{Sperm Whale}
+		Ziphiidés
+			{Ziphiidae}
+			Hyperoodon boréal
+				{Hyperoodon ampullatus}
+				{Northern Bottlenose Whale}
+			Mesoplodon de Sowerby
+				{Mesoplodon bidens}
+				{Sowerby'S Beaked Whale}
+			Mesoplodon de True
+				{Mesoplodon mirus}
+				{True'S Beaked Whale}
+			Ziphius
+				{Ziphius cavirostris}
+				{Ziphius de Cuvier}
+				{Cuvier'S Beaked Whale}
+	Chiroptères
+		{Chiroptera}
+		Molossidés
+			{Molossidae}
+			Molosse de Cestoni
+				{Tadarida teniotis}
+				{European Free-Tailed Bat}
+		Rhinolophidés
+			{Rhinolophidae}
+			Rhinolophe euryale
+				{Rhinolophus euryale}
+				{Mediterranean Horseshoe Bat}
+			Grand rhinolophe
+				{Rhinolophus ferrumequinum}
+				{Greater Horseshoe Bat}
+			Petit rhinolophe
+				{Rhinolophus hipposideros}
+				{Lesser Horseshoe Bat}
+			Rhinolophe de Mehely
+				{Rhinolophus mehelyi}
+				{Mehely'S Horseshoe Bat}
+		Vespertilionidés
+			{Vespertilionidae}
+			Barbastelle
+				{Barbastella barbastellus}
+				{Barbastelle d'Europe}
+				{Western Barbastelle}
+			Sérotine de Nilsson
+				{Eptesicus nilssonii}
+				{Northern Bat}
+			Sérotine commune
+				{Eptesicus serotinus}
+				{Serotine Bat}
+			Vespère de Savi
+				{Hypsugo savii}
+				{Savi'S Pipistrelle}
+			Minioptère de Schreibers
+				{Miniopterus schreibersii}
+				{Common Bent-Wing Bat}
+			Murin d'Alcathoe
+				{Myotis alcathoe}
+				{Alcathoe Bat}
+			Murin de Bechstein
+				{Myotis bechsteinii}
+				{Bechstein'S Bat}
+			Petit Murin
+				{Myotis blythii}
+				{Lesser Mouse-Eared Bat}
+			Murin de Brandt
+				{Myotis brandtii}
+				{Brandt'S Bat}
+			Murin de Capaccini
+				{Myotis capaccinii}
+				{Vespertilion de Capaccini}
+				{Long-Fingered Bat}
+			Murin des marais
+				{Myotis dasycneme}
+				{Vespertilion des marais}
+				{Pond Bat}
+			Murin de Daubenton
+				{Myotis daubentonii}
+				{Daubenton'S Bat}
+			Murin à oreilles échancrées
+				{Myotis emarginatus}
+				{Vespertilion à oreilles échancrées}
+				{Notch-Eared Bat}
+			Grand Murin
+				{Myotis myotis}
+				{Mouse-Eared Bat}
+			Murin à moustaches
+				{Myotis mystacinus}
+				{Vespertilion à moustaches}
+				{Whiskered Bat}
+			Murin de Natterer
+				{Myotis nattereri}
+				{Vespertilion de Natterer}
+				{Natterer'S Bat}
+			Murin du Magrheb
+				{Myotis punicus}
+				{Felten'S Myotis}
+			Grande Noctule
+				{Nyctalus lasiopterus}
+				{Greater Noctule Bat}
+			Noctule de Leisler
+				{Nyctalus leisleri}
+				{Leisler'S Bat}
+			Noctule commune
+				{Nyctalus noctula}
+				{Noctule Bat}
+			Pipistrelle de Kuhl
+				{Pipistrellus kuhlii}
+				{Kuhl'S Pipistrelle}
+			Pipistrelle de Nathusius
+				{Pipistrellus nathusii}
+				{Nathusius'S Bat}
+			Pipistrelle commune
+				{Pipistrellus pipistrellus}
+				{Common Pipistrelle}
+			Pipistrelle soprane
+				{Pipistrellus pygmaeus}
+				{Soprano Pipistrelle}
+			Oreillard roux
+				{Plecotus auritus}
+				{Oreillard septentrional}
+				{Brown Long-Eared Bat}
+			Oreillard gris
+				{Plecotus austriacus}
+				{Oreillard méridional}
+				{Grey Long-Eared Bat}
+			Sérotine bicolore
+				{Vespertilio murinus}
+				{Parti-Coloured Bat}
+	Diprotodontes
+		{Diprotodontia}
+		Macropodidés
+			{Macropodidae}
+			Wallaby de Bennett
+				{Macropus rufogriseus}
+				{Red-Necked Wallaby}
+	Insectivores
+		{Insectivora}
+		Erinaceidés
+			{Erinaceidae}
+			Hérisson d'Europe
+				{Erinaceus europaeus}
+				{West European Hedgehog}
+		Soricidés
+			{Soricidae}
+			Crocidure leucode
+				{Crocidura leucodon}
+				{Bicolored Shrew}
+			Crocidure musette
+				{Crocidura russula}
+				{Greater White-Toothed Shrew}
+			Crocidure des jardins
+				{Crocidura suaveolens}
+				{Lesser White Toothed Shrew}
+			Crossope de Miller
+				{Neomys anomalus}
+				{Musaraigne de Miller}
+				{Mediterranean Water Shrew}
+			Crossope aquatique
+				{Neomys fodiens}
+				{Musaraigne aquatique}
+				{Eurasian Water Shrew}
+			Musaraigne alpine
+				{Sorex alpinus}
+				{Alpine Shrew}
+			Musaraigne carrelet
+				{Sorex araneus}
+				{Eurasian Common Shrew}
+			Musaraigne couronnée
+				{Sorex coronatus}
+				{French Shrew}
+			Musaraigne naine
+				{Sorex minutissimus}
+				{Eurasian Last Shrew}
+			Musaraigne pygmée
+				{Sorex minutus}
+				{Eurasian Pygmy Shrew}
+			Pachyure étrusque
+				{Suncus etruscus}
+				{Etruscan Shrew}
+		Talpidés
+			{Talpidae}
+			Desman des Pyrénées
+				{Galemys pyrenaicus}
+				{Pyrenean Desman}
+			Taupe aveugle
+				{Talpa caeca}
+				{Blind Mole}
+			Taupe d'Europe
+				{Talpa europaea}
+				{European Mole}
+	Lagomorphes
+		{Lagomorpha}
+		Leporidés
+			{Leporidae}
+			Lièvre du Cap
+				{Lepus capensis}
+				{Cape Hare}
+			Lièvre de Corse
+				{Lepus corsicanus}
+				{Corsican Hare}
+			Lièvre d'Europe
+				{Lepus europaeus}
+				{Brown Hare}
+			Lièvre ibérique
+				{Lepus granatensis}
+				{Granada Hare}
+			Lièvre variable
+				{Lepus timidus}
+				{Mountain Hare}
+			Lapin de garenne
+				{Oryctolagus cuniculus}
+				{European Rabbit}
+				Lapin domestique
+					Lapin Argenté de Champagne
+					Lapin Belge
+						{Belgian Hare}
+					Lapin Bélier Francais
+					Lapin Black and Tan
+					Lapin Blaue Wiener
+					Lapin Bouscat
+					Lapin Castor Orylag-black mutation
+					Lapin Fauve de Bourgogne
+					Lapin Flemish Giant
+					Lapin French Havana
+					Lapin Géant Papillon Francais
+					Lapin Jarres Blancs
+					Lapin Russe
+						{Russian Hare}
+					Lapin Sablé des Vosges
+					Lapin Thüringer
+					Lapin Zibeline
+			Lapin de Floride
+				{Sylvilagus floridanus}
+				{Eastern Cottontail}
+	Périssodactyles
+		{Perissodactyla}
+		Equidés
+			{Equidae}
+			Ane domestique
+				{Equus asinus}
+				{Donkey}
+				Âne du Cotentin
+				Âne grand noir du Berry
+				Âne normand
+				Âne de Provence
+				Âne des Pyrénées
+				Baudet du Poitou
+					{Âne poitevin}
+				Âne Bourbonnais
+			Cheval domestique
+				{Equus caballus}
+				{Horse}
+				Cheval de sang
+					Cheval de Pur-Sang
+					Trotteur Français
+				Cheval de selle
+					Cheval Arabe
+					Cheval Anglo-Arabe
+					Selle Français
+					Cheval de Camargue
+						{Cheval Camarguais}
+					Cheval ariégeois de Castillon
+					Cheval de Mérens
+					Cheval Henson
+					Cheval Akhal-Téké de Pur sang
+						{Akhal-Téké}
+					Cheval Appaloosa
+					Cheval Barbe
+					Cheval Crème
+					Cheval Frison
+					Cheval Islandais
+					Cheval Lipizzan
+					Paint Horse
+					Cheval de Pure Race Lusitanienne
+						{Cheval Lusitanien}
+					Cheval de Pure race Espagnole
+						{Cheval Espagnol}
+					Quarter Horse
+					Cheval Shagya
+					Cheval Trakehner
+				Poney
+					Poney Connemara
+					Poney Dartmoor
+					Poney Fjord
+					Poney Français de Selle
+					Poney Haflinger
+						{Haflinger}
+					Poney Highland
+					Poney Landais
+					Poney New Forest
+					Poney Pottok
+						{Pottok}
+						{Pottock}
+					Poney Shetland
+					Poney Welsh
+				Cheval de trait
+					Trait Ardennais
+						{Cheval Ardennais}
+					Cheval Auxois
+						{Trait de l'Auxois}
+					Cheval Boulonnais
+						{Trait Boulonnais}
+					Cheval Breton
+					Cob Normand
+						{Trait Normand}
+					Cheval de trait Comtois
+						{Cheval Comtois}
+					Cheval de pure race Franches-Montagnes
+						{Franches-Montagnes}
+					Cheval mulassier du Poitou
+					Cheval Percheron
+					Trait du Nord
+					Cob Irlandais
+						Tinker
+						Irish Cob
+						Gypsy Cob
+							{Gypsy Vanner}
+	Rongeurs
+		{Rodentia}
+		Castoridés
+			{Castoridae}
+			Castor canadien
+				{Castor canadensis}
+				{North American Beaver}
+			Castor
+				{Castor fiber}
+				{Castor d'Eurasie}
+				{European Beaver}
+		Dipodidés
+			{Dipodidae}
+			Siciste des bouleaux
+				{Sicista betulina}
+				{Northern Birch Mouse}
+			Siciste de steppe
+				{Sicista subtilis}
+				{Southern Birch Mouse}
+		Muridés
+			{Muridae}
+			Mulot rayé
+				{Apodemus agrarius}
+				{Mulot de champs}
+				{Striped Field Mouse}
+			Mulot alpestre
+				{Apodemus alpicola}
+				{Alpine Field Mouse}
+			Mulot à collier
+				{Apodemus flavicollis}
+				{Yellow-Necked Mouse}
+			Mulot sylvestre
+				{Apodemus sylvaticus}
+				{Wood Mouse}
+			Campagnol amphibie
+				{Arvicola sapidus}
+				{Southwestern Water Vole}
+			Campagnol terrestre
+				{Arvicola terrestris}
+				{European Water Vole}
+			Campagnol des neiges
+				{Chionomys nivalis}
+				{European Snow Vole}
+			Campagnol roussâtre
+				{Clethrionomys glareolus}
+				{Bank Vole}
+			Grand hamster
+				{Cricetus cricetus}
+				{Hamster commun}
+				{European Hamster}
+			Lemming arctique
+				{Dicrostonyx torquatus}
+				{Arctic Lemming}
+			Lemming des steppes
+				{Lagurus lagurus}
+				{Steppe Lemming}
+			Lemming de tundra
+				{Lemmus lemmus}
+				{Norway Lemming}
+			Rat des moissons
+				{Micromys minutus}
+				{Harvest Mouse}
+			Campagnol agreste
+				{Microtus agrestis}
+				{Field Vole}
+			Campagnol des champs
+				{Microtus arvalis}
+				{Common Vole}
+			Campagnol de Cabrera
+				{Microtus cabrerae}
+				{Cabrera'S Vole}
+			Campagnol provençal
+				{Microtus duodecimcostatus}
+				{Mediterranean Pine Vole}
+			Campagnol des Pyrénées
+				{Microtus gerbei}
+				{Gerbe'S Vole}
+			Campagnol des hauteurs
+				{Microtus gregalis}
+				{Narrow-Headed Vole}
+			Campagnol basque
+				{Microtus lusitanicus}
+				{Lusitanian Pine Vole}
+			Campagnol de Fatio
+				{Microtus multiplex}
+				{Alpine Pine Vole}
+			Campagnol nordique
+				{Microtus oeconomus}
+				{Tundra Vole}
+			Campagnol de Savi
+				{Microtus savii}
+				{Savi Vole}
+			Campagnol souterrain
+				{Microtus subterraneus}
+				{European Pine Vole}
+			Souris domestique
+				{Mus musculus domesticus}
+				{Souris grise}
+				{House Mouse}
+			Souris d'Afrique du Nord
+				{Mus spretus}
+				{Souris à queue courte}
+				{Algerian Mouse}
+			Rat musqué
+				{Ondatra zibethicus}
+				{Muskrat}
+			Rat surmulot
+				{Rattus norvegicus}
+				{Brown Rat}
+			Rat noir
+				{Rattus rattus}
+				{Black Rat}
+			Mulot endémique corse
+				{Rhagamys orthodon}
+				{Hensel'S Field Mouse}
+		Myocastoridés
+			{Myocastoridae}
+			Ragondin
+				{Myocastor coypus}
+				{Coypu}
+		Myoxidés
+			{Myoxidae}
+			Lérot
+				{Eliomys quercinus}
+				{Loir lérot}
+				{Garden Dormouse}
+			Loir
+				{Glis glis}
+				{Loir gris}
+				{Fat Dormouse}
+			Muscardin
+				{Muscardinus avellanarius}
+				{Hazel Dormouse}
+		Sciuridés
+			{Sciuridae}
+			Ecureuil à ventre rouge
+				{Callosciurus erythraeus}
+				{Pallas'S Squirrel}
+			Marmotte
+				{Marmota marmota}
+				{Marmotte des Alpes}
+				{Alpine Marmot}
+			Ecureuil
+				{Sciurus vulgaris}
+				{Ecureuil roux}
+				{Eurasian Red Squirrel}
+			Souslik d'Europe
+				{Spermophilus citellus}
+				{Spermophile d'Europe}
+				{European Ground Squirrel}
+			Spermophile
+				{Spermophilus major}
+				{Russet Ground Squirrel}
+			Ecureuil de Corée
+				{Tamias sibiricus}
+				{Tamia de Sibérie}
+				{Siberian Chipmunk}
