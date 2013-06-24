@@ -3755,6 +3755,416 @@
 			{Thailand}
 			{TH}
 			{THA}
+			Région Centre
+				Ang Thong
+					{อ่างทอง}
+				Ayutthaya
+					{พระนครศรีอยุธยา}
+				Bangkok
+					{กรุงเทพ ฯ}
+				Chainat
+					{ชัยนาท}
+				Kanchanaburi
+					{กาญจนบุรี}
+					Mueang Kanchanaburi
+						{Ville de}
+					Sai Yok
+					Bo Phloi
+					Si Sawat
+					Tha Maka
+					Tha Muang
+					Thong Pha Phum
+					Sangkhla Buri
+					Phanom Thuan
+					Lao Khwan
+					Dan Makham Tia
+					Nong Prue
+					Huai Krachao
+				Lopburi
+					{ลพบุรี}
+					Mueang Lop Buri
+						{Ville de}
+					Phatthana Nikhom
+					Khok Samrong
+					Chai Badan
+					Tha Wung
+					Ban Mi
+					Tha Luang
+					Sa Bot
+					Khok Charoen
+					Lam Sonthi
+					Nong Muang
+				Nakhon Nayok
+					{นครนายก}
+				Nakhon Pathom
+					{นครปฐม}
+				Nonthaburi
+					{นนทบุรี}
+				Pathum Thani
+					{ปทุมธานี}
+				Phetchaburi
+					{เพชรบุรี}
+				Prachuap Khiri Khan
+					{ประจวบคีรีขันธ์}
+				Ratchaburi
+					{ราชบุรี}
+				Samut Prakan
+					{สมุทรปราการ}
+				Samut Sakhon
+					{สมุทรสาคร}
+				Samut Songkhram
+					{สมุทรสงคราม}
+				Saraburi
+					{สระบุรี}
+				Singburi
+					{สิงห์บุรี}
+				Suphanburi
+					{สุพรรณบุรี}
+					Mueang Suphan Buri
+						{Ville de}
+					Doem Bang Nang Buat
+					Dan Chang
+					Bang Pla Ma
+					Si Prachan
+					Don Chedi
+					Song Phi Nong
+					Sam Chuk
+					U Thong
+					Nong Ya Sai
+			Région Est
+				Chachoengsao
+					{ฉะเชิงเทรา}
+				Chanthaburi
+					{จันทบุรี}
+				Chonburi
+					{ชลบุรี}
+					 Mueang Chonburi
+						{Ville de}
+					 Ban Bueng
+					 Nong Yai
+					 Bang Lamung
+					 Phan Thong
+					 Phanat Nikhom
+					 Si Racha
+					 Ko Sichang
+					 Sattahip
+					 Bo Thong
+					 Ko Chan
+				Prachinburi
+					{ปราจีนบุรี}
+				Rayong
+					{ระยอง}
+				Sa Kaeo
+					{สระแก้ว}
+					Mueang Sa Kaeo
+						{Ville de}
+					Khlong Hat
+					Ta Phraya
+					Wang Nam Yen
+					Watthana Nakhon
+					Aranyaprathet
+					Khao Chakan
+					Khok Sung
+					Wang Sombun
+				Trat
+					{ตราด}
+					 Mueang Trat
+						{Ville de}
+					 Khlong Yai
+					 Khao Saming
+					 Bo Rai
+					 Laem Ngop
+					 Ko Kut
+					 Ko Chang
+			Région Nord
+				Chiang Mai
+					{เชียงใหม่}
+					Chai Prakan
+					Chiang Dao
+					Chom Thong
+					Doi Saket
+					Doi Tao
+					Fang
+					Hang Dong
+					Hot
+					Mae Ai
+					Mae Chaem
+					Mae Rim
+					Mae Taeng
+					Mae Wang
+					Mueang Chiang Mai
+						{Ville de}
+					Omkoi
+					Phrao
+					Samoeng
+					San Kamphaeng
+					San Pa Tong
+					San Sai
+					Saraphi
+					Wiang Haeng
+				Chiang Rai
+					{เชียงราย}
+				Kamphaeng Phet
+					{กำแพงเพชร}
+				Lampang
+					{ลำปาง}
+					Mueang Lampang
+						{Ville de }
+					Mae Mo
+					Ko Kha
+					Soem Ngam
+					Ngao
+					Chae Hom
+					Wang Nuea
+					Thoen
+					Mae Phrik
+					Mae Tha
+					Sop Prap
+					Hang Chat
+					Mueang Pan
+				Lamphun
+					{ลำพูน}
+				Mae Hong Son
+					{แม่ฮ่องสอน}
+				Nakhon Sawan
+					{นครสวรรค์}
+				Nan
+					{น่าน}
+					Mueang Nan
+						{Ville de}
+					Mae Charim
+					Ban Luang
+					Na Noi
+					Pua
+					Tha Wang Pha
+					Wiang Sa
+					Thung Chang
+					Chiang Klang
+					Na Muen
+					Santi Suk
+					Bo Kluea
+					Song Khwae
+					Chaloem Phra Kiat
+					Phu Phiang
+				Phayao
+					{พะเยา}
+				Phetchabun
+					{เพชรบูรณ์}
+				Phichit
+					{พิจิตร}
+				Phitsanulok
+					{พิษณุโลก}
+					Mueang Phitsanulok
+						{Ville de}
+					Nakhon Thai
+					Chat Trakan
+					Bang Rakam
+					Bang Krathum
+					Phrom Phiram
+					Wat Bot
+					Wang Thong
+					Noen Maprang
+				Phrae
+					{แพร่}
+					Mueang Phrae
+						{Ville de}
+					Rongkwang
+					Long
+					Soongmen
+					Denchai
+					Song
+					Wangchin
+					Nong muong kai
+				Sukhothai
+					{สุโขทัย}
+				Tak
+					{ตาก}
+					Mueang Tak
+						{Ville de}
+					Ban Tak
+					Sam Ngao
+					Mae Ramat
+					Tha Song Yang
+					Mae Sot
+					Phop Phra
+					Umphang
+					Wang Chao
+				Uthai Thani
+					{อุทัยธานี}
+				Uttaradit
+					{อุตรดิตถ์}
+					Mueang Uttaradit
+						{Ville de}
+					Tron
+					Tha Pla
+					Nam Pat
+					Fak Tha
+					Ban Khok
+					Phichai
+					Laplae
+					Thong Saen Khan
+			Région Nord-Est
+				{Isan}
+				{อีสาน}
+				Amnat Charoen
+					{อำนาจเจริญ}
+				Bueng Kan
+					{บึงกาฬ}
+				Buriram
+					{บุรีรัมย์}
+				Chaiyaphum
+					{ชัยภูมิ}
+				Kalasin
+					{กาฬสินธุ์}
+				Khon Kaen
+					{ขอนแก่น}
+				Loei
+					{เลย}
+				Maha Sarakham
+					{มหาสารคาม}
+				Mukdahan
+					{มุกดาหาร}
+				Nakhon Phanom
+					{นครพนม}
+				Nakhon Ratchasima
+					{นครราชสีมา}
+				Nong Bua Lamphu
+					{หนองบัวลำภู}
+				Nong Khai
+					{หนองคาย}
+				Roi Et
+					{ร้อยเอ็ด}
+					 Mueang Roi Et
+						{Ville de}
+					 Kaset Wisai
+					 Pathum Rat
+					 Chaturaphak Phiman
+					 Thawat Buri
+					 Phanom Phrai
+					 Phon Thong
+					 Pho Chai
+					 Nong Phok
+					 Selaphum
+					 Suwannaphum
+					 Mueang Suang
+						{Ville de}
+					 Phon Sai
+					 At Samat
+					 Moei Wadi
+					 Si Somdet
+					 Changhan
+					 Chiang Khwan
+					 Nong Hi
+					 Thung Khao Luang
+				Sakhon Nakhon
+					{สกลนคร}
+				Si Saket
+					{ศรีสะเกษ}
+				Surin
+					{สุรินทร์}
+				Ubon Ratchathani
+					{อุบลราชธานี}
+				Udon Thani
+					{อุดรธานี}
+				Yasothon
+					{ยโสธร}
+			Région Sud
+				Chumpon
+					{ชุมพร}
+					Mueang Chumphon
+						{ville de}
+					Tha Sae
+					Pathio
+					Lang Suan
+					Lamae
+					Phato
+					Sawi
+					Thung Tako
+				Krabi
+				{กระบี่}
+					Mueang Krabi
+						{ville de}
+					Khao Phanom
+					Ko Lanta
+					Khlong Thom
+					Ao Luek
+					Plai Phraya
+					Lam Thap
+					Nuea Khlong
+				Nakhon Si Thammarat
+					{นครศรีธรรมราช}
+				Narathiwat
+					{นราธิวาส}
+					Mueang Narathiwat
+						{Ville de}
+					Tak Bai
+					Bacho
+					Yi-ngo
+					Ra-ngae
+					Rueso
+					Si Sakhon
+					Waeng
+					Sukhirin
+					Su-ngai Kolok
+					Su-ngai Padi
+					Chanae
+					Cho-airong
+				Pattani
+					{ปัตตานี}
+				Phang Nga
+					{พังงา}
+					Mueang Phang Nga
+						{Ville de}
+					Ko Yao
+					Kapong
+					Takua Thung
+					Takua Pa
+					Khura Buri
+					Thap Put
+					Thai Mueang
+				Phatthalung
+					{พัทลุง}
+				Phuket
+					{ภูเก็ต}
+					Mueang Phuket
+						{Ville de}
+					Kathu
+					Thalang
+				Ranong
+					{ระนอง}
+					Mueang Ranong
+						{Ville de }
+					La-un
+					Kapoe
+					Kra Buri
+					Suk Samran
+				Satun
+					{สตูล}
+				Songkhla
+					{สงขลา}
+					Mueang Songkhla
+						{Ville de}
+					Sathing Phra
+					Chana
+					Na Thawi
+					Thepha
+					Saba Yoi
+					Ranot
+					Krasae Sin
+					Rattaphum
+					Sadao
+					Hat Yai
+					Na Mom
+					Khuan Niang
+					Bang Klam
+					Singhanakhon
+					Khlong Hoi Khong
+				Surat Thani
+					{สุราษฎร์ธานี}
+				Trang
+					{ตรัง}
+				Yala
+					{ยะลา}
 		Tibet
 		Timor oriental
 			{East Timor}
