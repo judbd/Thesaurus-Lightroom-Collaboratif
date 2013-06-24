@@ -4424,15 +4424,15 @@
 				Catanzaro 
 				Cosenza 
 				Crotone 
-				Reggio-de-Calabre 
-				Vibo-Valentia 
+				Reggio de Calabre 
+				Vibo Valentia 
 			Campanie 
 				Avellino 
 				Benevent 
 				Caserte 
 				Naples 
 				Salerne 
-			Emilie-Romagne 
+			Emilie Romagne 
 				Bologne 
 				Ferrare 
 				Forli-Cesena 
@@ -4442,7 +4442,7 @@
 				Ravenne 
 				Reggio-Emilia 
 				Rimini 
-			Frioul-Venetie-julienne 
+			Frioul-Vénétie Julienne 
 				Gorizia 
 				Pordenone 
 				Trieste 
