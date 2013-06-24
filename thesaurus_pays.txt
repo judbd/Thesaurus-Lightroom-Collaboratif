@@ -4414,7 +4414,7 @@
 			{ITA}
 			Abruzzes
 				Chieti 
-				L-Aquila 
+				L'Aquila 
 				Pescara 
 				Teramo 
 			Basilicate 
@@ -4532,7 +4532,7 @@
 			Trentin-Haut-Adige 
 				Bolzano 
 				Trente 
-			Vallee-d-Aoste 
+			Vallée d'Aoste 
 				Aoste 
 			Venetie 
 				Padoue 
@@ -4656,7 +4656,7 @@
 				Liestal 
 				Sissach 
 				Waldenburg 
-			Bale-Ville
+			Bâle-Ville
 			Berne
 				Jura-Bernois
 				Bienne
@@ -4676,7 +4676,7 @@
 				Sarine 
 				Singine 
 				Veveyse 
-			Geneve
+			Genève
 			Glaris
 			Grisons
 				Albula 
