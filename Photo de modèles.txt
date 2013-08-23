@@ -1,0 +1,58 @@
+Photo de modèles
+	Personnes
+		Bébé
+		Enfant
+		Adolescent
+		Adulte
+		Mature
+		Personne agé
+	Diffusion
+		Public
+		Privé
+	Type de photos
+		Portrait
+		Mode
+		Lingerie
+		Glamour
+		Topless
+		Nu
+			Nu artistique
+			Nu caché
+	Tenues
+		Robe
+		Jeans
+		Jupe
+		Lingerie
+		Short
+		Pantalon
+		Veste
+		Tailleur
+	Lieux
+		Intérieur
+			Habitation
+				Chambre
+				Cuisine
+				Salon
+			Industriel
+				Usine
+				Garage
+		Exterieur
+			Terrasse
+			Balcon
+			Rue
+			Champs
+			Colline
+			Forêt
+			Montagne
+			Ciel
+			Gare
+	Focale
+		35mm
+		50mm
+		70mm
+		85mm
+		135mm
+		200mm
+	Destination
+		Commande
+		Collaboration
