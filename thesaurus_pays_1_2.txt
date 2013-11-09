@@ -257,6 +257,109 @@
 		Canada
 			{CA}
 			{CAN}
+			Alberta
+				{AB}
+				Edmonton
+			Colombie-Britannique
+				{Brithish Columbia}
+				{BC}
+				Victoria
+			Île-du-Prince-Édouard
+				{P.E.I.}
+				{Pince Edouard Island}
+				{PE}
+				Charlottetown
+			Manitoba
+				{MB}
+				Winnipeg
+			Nouveau-Brunswick
+				{New Brunswick}
+				{NB}
+				Fredericton
+			Nouvelle-Écosse
+				{Pince Edouard Island}
+				{NS}
+				Halifax	
+			Nunavut
+				{NU}
+				Iqaluit	
+			Ontario
+				{ON}
+				Toronto	
+			Québec
+				{Quebec}
+				{Province de Québec}
+				{QC}
+				Québec
+					{Quebec}
+				Montréal
+					{Montreal}
+				Alma
+				Baie-Comeau
+				Blainville
+				Boisbriand
+				Boucherville
+				Brossard
+				Chambly
+				Châteauguay
+				Côte-Saint-Luc
+				Dollard-Des Ormeaux
+				Drummondville
+				Gatineau
+				Granby
+				Kirkland
+				La Prairie
+				Laval
+				Lévis
+				Longueuil
+				Magog
+				Mascouche
+				Mirabel
+				Pointe-Claire
+				Québec
+				Repentigny
+				Rimouski
+				Rouyn-Noranda
+				Saguenay
+				Saint-Bruno-de-Montarville
+				Saint-Constant
+				Saint-Eustache
+				Saint-Georges
+				Saint-Hyacinthe
+				Saint-Jean-sur-Richelieu
+				Saint-Jérôme
+				Saint-Lambert
+				Sainte-Julie
+				Sainte-Thérèse
+				Salaberry-de-Valleyfield
+				Sept-Îles
+				Shawinigan
+				Sherbrooke
+				Sorel-Tracy
+				Terrebonne
+				Thetford Mines
+				Trois-Rivières
+				Val-d'Or
+				Varennes
+				Vaudreuil-Dorion
+				Victoriaville
+			Saskatchewan
+				{SK}
+				Regina
+			Terre-Neuve-et-Labrador
+				{Newfoudland & Labrador}
+				{Newfoudland}
+				{Labrador}
+				{NL}
+				Saint-Jean
+					{St. John’s}
+			Territoires-du-Nord-Ouest
+				{Norhwest Territories}
+				{NT}
+				Yellowknife
+			Yukon
+				{YT}
+				Whitehorse
 		Chili
 			{Chile}
 			{CL}
@@ -3659,6 +3762,90 @@
 			{India}
 			{IN}
 			{IND}
+			Delhi
+				{New Delhi}
+				{Territoire de la Capitale nationale de Delhi}
+				{National Capital Territory of Delhi}
+				New Delhi
+			Andhra Pradesh
+				Hyderabad
+			Arunachal Pradesh
+				Itanagar
+			Assam
+				Dispur
+			Bihar
+				Patna
+				Bhagalpur
+				Gaya
+			Chhattisgarh
+				Raipur
+			Goa
+				Panjim
+			Gujarat
+				Gandhinagar
+				Ahmedabad
+			Haryana
+				Chandigarh
+				Faridabad
+			Himachal Pradesh
+				Shimla
+			Jammu-et-Cachemire
+				{Jammu and Kashmir}
+				Jammu
+				Srinagar
+			Jharkhand
+				Ranchi
+			Karnataka
+				Bangalore
+			Kerala
+				Thiruvananthapuram
+			Madhya Pradesh
+				Bhopal
+			Maharashtra
+				Mumbai
+			Manipur
+				Imphal
+			Meghalaya
+				Shillong
+			Mizoram
+				Aizawl
+			Nagaland
+				Kohima
+			Orissa
+				{Odisha}
+				Bhubaneswar
+			Penjab
+				{Punab}
+				Chandigarh
+			Rajasthan
+				Jaipur
+				Ajmer
+				Bharatpur
+				Bikaner
+				Bundi
+				Chittorgarh
+				Jaipur
+				Jaisalmer
+				Jodhpur
+				Sikar
+				Udaipur
+			Sikkim
+				Gangtok
+			Tamil Nadu
+				Chennai
+			Tripura
+				Agartala
+			Uttaranchal
+				{Uttarakhand}
+				Dehradun
+			Uttar Pradesh
+				Lucknow
+				Agra
+				Varanasi
+			Bengale occidental
+				{West Bengal}
+				Kolkata
+					{Calcutta}
 		Indonésie
 			{Indonesia}
 			{ID}
