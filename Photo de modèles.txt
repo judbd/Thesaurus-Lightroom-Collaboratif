@@ -4,29 +4,33 @@ Photo de modèles
 		Enfant
 		Adolescent
 		Adulte
-		Mature
 		Personne agé
 	Diffusion
 		Public
 		Privé
 	Type de photos
-		Portrait
-		Mode
-		Lingerie
 		Glamour
-		Topless
+		Lingerie
+		Mode
+		Portrait
 		Nu
 			Nu artistique
 			Nu caché
+			Nu explicite
+			Nu partiel
 	Tenues
-		Robe
+		Chemise
+		Chemisette
 		Jeans
 		Jupe
 		Lingerie
-		Short
 		Pantalon
-		Veste
+		Pull
+		Robe
+		Short
+		T-shirt
 		Tailleur
+		Veste
 	Lieux
 		Intérieur
 			Habitation
@@ -46,13 +50,6 @@ Photo de modèles
 			Montagne
 			Ciel
 			Gare
-	Focale
-		35mm
-		50mm
-		70mm
-		85mm
-		135mm
-		200mm
 	Destination
 		Commande
 		Collaboration
