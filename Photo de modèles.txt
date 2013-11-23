@@ -1,0 +1,62 @@
+Photo de modèles
+	Personnes
+		Bébé
+		Enfant
+		Adolescent
+		Adulte
+		Personne agé
+	Diffusion
+		Public
+		Privé
+	Type de photos
+		Glamour
+		Lingerie
+		Mode
+		Portrait
+		Nu
+			Nu artistique
+			Nu caché
+			Nu explicite
+			Nu partiel
+	Tenues
+		Chemise
+		Chemisette
+		Jeans
+		Jupe
+		Lingerie
+		Pantalon
+		Pull
+		Robe
+		Short
+		T-shirt
+		Tailleur
+		Veste
+	Lieux
+		Intérieur
+			Habitation
+				Chambre
+				Cuisine
+				Salon
+			Industriel
+				Usine
+				Garage
+		Exterieur
+			Terrasse
+			Balcon
+			Rue
+			Champs
+			Colline
+			Forêt
+			Montagne
+			Ciel
+			Gare
+		Moyens de transport
+			Avion
+			Bateau
+			Moto
+			Train
+			Voiture
+			Vélo
+	Destination
+		Commande
+		Collaboration
