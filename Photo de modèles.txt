@@ -50,6 +50,13 @@ Photo de modèles
 			Montagne
 			Ciel
 			Gare
+		Moyens de transport
+			Avion
+			Bateau
+			Moto
+			Train
+			Voiture
+			Vélo
 	Destination
 		Commande
 		Collaboration
