@@ -261,7 +261,7 @@
 				{AB}
 				Edmonton
 			Colombie-Britannique
-				{Brithish Columbia}
+				{British Columbia}
 				{BC}
 				Victoria
 			Île-du-Prince-Édouard
