@@ -290,59 +290,146 @@
 				{Quebec}
 				{Province de Québec}
 				{QC}
-				Québec
-					{Quebec}
+				Bas-Saint-Laurent
+					La Matapédia
+					Matane
+					La Mitis
+					Rimouski-Neigette
+						Rimouski
+					Les Basques
+					Rivière-du-Loup
+					Témiscouata
+					Kamouraska
+				Saguenay-Lac-Saint-Jean
+					Le Domaine-du-Roy
+					Maria-Chapdelaine
+					Lac-Saint-Jean-Est
+						Alma
+					Le Fjord-du-Saguenay
+						Saguenay
+				Capitale nationale
+					Charlevoix-Est
+					Charlevoix
+					L'Île-d'Orléans
+					La Côte-de-Beaupré
+					La Jacques-Cartier
+					Portneuf
+				Mauricie
+					Mékinac
+					Maskinongé
+					Les Chenaux
+					Shawinigan
+					Trois-Rivières
+				Estrie
+					Le Granit
+					Les Sources
+					Le Haut-Saint-François
+					Le Val-Saint-François
+					Coaticook
+					Memphrémagog
+						Magog
+					Sherbrooke
 				Montréal
-					{Montreal}
-				Alma
-				Baie-Comeau
-				Blainville
-				Boisbriand
-				Boucherville
-				Brossard
-				Chambly
-				Châteauguay
-				Côte-Saint-Luc
-				Dollard-Des Ormeaux
-				Drummondville
-				Gatineau
-				Granby
-				Kirkland
-				La Prairie
+				Outaouais
+					Papineau
+					Les Collines-de-l'Outaouais
+					La Vallée-de-la-Gatineau
+					Pontiac
+				Abitibi-Témiscamingue
+					Témiscamingue
+					Abitibi-Ouest
+					Abitibi
+						Rouyn-Noranda
+					La Vallée-de-l'Or
+						Val-d'Or
+				Côte-Nord
+					La Haute-Côte-Nord
+					Manicouagan
+						Baie-Comeau
+					Sept-Rivières
+						Sept-Îles
+					Caniapiscau
+					Minganie
+					Le Golfe-du-Saint-Laurent
+				Nord-du-Québec
+				Gaspésie-Îles-de-la-madeleine
+					Le Rocher-Percé
+					La Côte-de-Gaspé
+					La Haute-Gaspésie
+					Bonaventure
+					Avignon
+				Chaudière-Appalaches
+					L'Islet
+					Montmagny
+					Bellechasse
+					La Nouvelle-Beauce
+					Robert-Cliche
+					Les Etchemins
+					Beauce-Sartigan
+					Les Appalaches
+						Thetford Mines
+					Lotbinière
 				Laval
-				Lévis
-				Longueuil
-				Magog
-				Mascouche
-				Mirabel
-				Pointe-Claire
-				Québec
-				Repentigny
-				Rimouski
-				Rouyn-Noranda
-				Saguenay
-				Saint-Bruno-de-Montarville
-				Saint-Constant
-				Saint-Eustache
-				Saint-Georges
-				Saint-Hyacinthe
-				Saint-Jean-sur-Richelieu
-				Saint-Jérôme
-				Saint-Lambert
-				Sainte-Julie
-				Sainte-Thérèse
-				Salaberry-de-Valleyfield
-				Sept-Îles
-				Shawinigan
-				Sherbrooke
-				Sorel-Tracy
-				Terrebonne
-				Thetford Mines
-				Trois-Rivières
-				Val-d'Or
-				Varennes
-				Vaudreuil-Dorion
-				Victoriaville
+				Lanaudière
+					D'Autray
+					L'Assomption
+						Repentigny
+					Joliette
+					Matawinie
+					Montcalm
+					Les Moulins
+						Mascouche
+						Terrebonne
+				Laurentides
+					Deux-Montagnes
+					Thérèse-De Blainville
+						Blainville
+						Boisbriand
+						Sainte-Thérèse
+					Mirabel
+						Mirabel
+					La Rivière-du-Nord
+						Saint-Jérôme
+					Argenteuil
+					Les Pays-d'en-Haut
+					Les Laurentides
+					Antoine-Labelle
+				Montérégie
+					Brome-Missisquoi
+					La Haute-Yamaska
+						Granby
+					Acton
+					Pierre-De Saurel
+						Sorel-Tracy
+					Les Maskoutains
+						Saint-Hyacinthe
+					Rouville
+					Le Haut-Richelieu
+						Saint-Jean-sur-Richelieu
+					La Vallée-du-Richelieu
+						Chambly
+					Marguerite-D'Youville
+						Sainte-Julie
+						Varennes
+					Roussillon
+						Châteauguay
+						La Prairie
+					Les Jardins-de-Napierville
+					Le Haut-Saint-Laurent
+					Beauharnois-Salaberry
+						Salaberry-de-Valleyfield
+					Vaudreuil-Soulanges
+						Vaudreuil-Dorion
+				Centre-du-Québec
+					L'Érable
+						Laurierville
+					Bécancour
+					Arthabaska
+						Victoriaville
+					Drummond
+						Drummondville
+					Nicolet-Yamaska
+
 			Saskatchewan
 				{SK}
 				Regina
