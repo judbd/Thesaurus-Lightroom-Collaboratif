@@ -266,7 +266,7 @@
 				Victoria
 			Île-du-Prince-Édouard
 				{P.E.I.}
-				{Pince Edouard Island}
+				{Prince Edouard Island}
 				{PE}
 				Charlottetown
 			Manitoba
@@ -277,7 +277,7 @@
 				{NB}
 				Fredericton
 			Nouvelle-Écosse
-				{Pince Edouard Island}
+				{Prince Edouard Island}
 				{NS}
 				Halifax	
 			Nunavut
@@ -347,8 +347,8 @@
 				{SK}
 				Regina
 			Terre-Neuve-et-Labrador
-				{Newfoudland & Labrador}
-				{Newfoudland}
+				{Newfoundland & Labrador}
+				{Newfoundland}
 				{Labrador}
 				{NL}
 				Saint-Jean
@@ -3301,6 +3301,7 @@
 				Windsor County
 			Virginie
 				{VA}
+				{Virginia}
 				Accomack County
 				Albemarle County
 				Alleghany County
@@ -4455,7 +4456,7 @@
 				Gironde
 				Landes
 				Lot-et-Garonne
-				Pyrenées Atlantiques
+				Pyrénées Atlantiques
 			Auvergne
 				Allier
 				Cantal
@@ -4504,7 +4505,7 @@
 				Martinique
 				Mayotte
 				Saint-Pierre-et-Miquelon
-			Franche-Comte
+			Franche-Comté
 				Doubs
 				Haute-Saône
 				Jura
@@ -4526,7 +4527,7 @@
 				Gard
 				Herault
 				Lozère
-				Pyrenées-Orientales
+				Pyrénées-Orientales
 			Limousin
 				Corrèze
 				Creuse
@@ -4541,7 +4542,7 @@
 				Aveyron
 				Gers
 				Haute-Garonne
-				Hautes-Pyrenées
+				Hautes-Pyrénées
 				Lot
 				Tarn
 				Tarn-et-Garonne
@@ -4837,7 +4838,7 @@
 				Rheinfelden 
 				Zofingue 
 				Zurzach 
-			Bale-Campagne
+			Bâle-Campagne
 				Arlesheim 
 				Laufon 
 				Liestal 
