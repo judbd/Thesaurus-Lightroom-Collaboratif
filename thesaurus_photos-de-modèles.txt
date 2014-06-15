@@ -31,6 +31,10 @@ Photo de modèles
 		T-shirt
 		Tailleur
 		Veste
+	Accessoires
+		Casquette
+		Chapeau
+		Foulard
 	Lieux
 		Intérieur
 			Habitation
