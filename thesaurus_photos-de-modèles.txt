@@ -4,7 +4,7 @@ Photo de modèles
 		Enfant
 		Adolescent
 		Adulte
-		Personne agé
+		Personne agée
 	Diffusion
 		Public
 		Privé
