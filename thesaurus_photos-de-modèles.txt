@@ -1,66 +1,69 @@
-Photo de modèles
-	Personnes
-		Bébé
-		Enfant
-		Adolescent
-		Adulte
-		Personne agée
-	Diffusion
-		Public
-		Privé
-	Type de photos
-		Glamour
-		Lingerie
-		Mode
-		Portrait
-		Nu
-			Nu artistique
-			Nu caché
-			Nu explicite
-			Nu partiel
-	Tenues
-		Chemise
-		Chemisette
-		Jeans
-		Jupe
-		Lingerie
-		Pantalon
-		Pull
-		Robe
-		Short
-		T-shirt
-		Tailleur
-		Veste
-	Accessoires
-		Casquette
-		Chapeau
-		Foulard
-	Lieux
-		Intérieur
-			Habitation
-				Chambre
-				Cuisine
-				Salon
-			Industriel
-				Usine
-				Garage
-		Exterieur
-			Terrasse
-			Balcon
-			Rue
-			Champs
-			Colline
-			Forêt
-			Montagne
-			Ciel
-			Gare
-		Moyens de transport
-			Avion
-			Bateau
-			Moto
-			Train
-			Voiture
-			Vélo
-	Destination
-		Commande
-		Collaboration
+photo de modèle
+	accessoire
+		casquette
+		chapeau
+		écharpe
+		foulard
+	destination
+		collaboration
+		commande
+	diffusion
+		privé
+		public
+	lieu
+		extérieur
+			balcon
+			champs
+			ciel
+			colline
+			forêt
+			gare
+			montagne
+			rue
+			terrasse
+		intérieur
+			habitation
+				chambre
+				couloir
+				cuisine
+				salle de bain
+				salon
+			industriel
+				garage
+				usine
+		moyen de transport
+			avion
+			bateau
+			moto
+			train
+			vélo
+			voiture
+	personne
+		adolescent
+		adulte
+		bébé
+		enfant
+		personne agée
+	tenue
+		chemise
+		chemisette
+		jeans
+		jupe
+		lingerie
+		pantalon
+		pull
+		robe
+		short
+		t-shirt
+		tailleur
+		veste
+	type de photo
+		glamour
+		lingerie
+		mode
+		nu
+			nu artistique
+			nu caché
+			nu explicite
+			nu partiel
+		portrait
