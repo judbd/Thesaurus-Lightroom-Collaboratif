@@ -16,6 +16,9 @@ Voici quelques règles pour contribuer à ces thesaurus
 
 * Dans la mesure du possible, utiliser des bases de données génériques reconnues par tous
 * Les mots clés devront être orthographiquement corrects (Majuscule, espaces, accents)
+* Les mots clés devront commencer par des majuscules uniquement pour les noms propres
+* Les mots clés seront uniquement des singuliers, sauf mots invariables au pluriels
+
 
 Thesaurus Pays du monde
 -----------------------
