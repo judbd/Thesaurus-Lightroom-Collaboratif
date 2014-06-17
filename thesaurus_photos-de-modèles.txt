@@ -4,7 +4,7 @@ Photo de modèles
 		Enfant
 		Adolescent
 		Adulte
-		Personne agée
+		Personne âgée
 	Diffusion
 		Public
 		Privé
@@ -24,6 +24,7 @@ Photo de modèles
 		Jeans
 		Jupe
 		Lingerie
+		Manteau
 		Pantalon
 		Pull
 		Robe
@@ -32,18 +33,27 @@ Photo de modèles
 		Tailleur
 		Veste
 	Accessoires
+		Bonnet
 		Casquette
 		Chapeau
+		Cravate
+		Écharpe
 		Foulard
+		Gants
+		Nœud papillon
+		Voilette
 	Lieux
 		Intérieur
 			Habitation
 				Chambre
 				Cuisine
+				Salle de bains
 				Salon
 			Industriel
-				Usine
+				Atelier
 				Garage
+				Mine
+				Usine
 		Exterieur
 			Terrasse
 			Balcon
@@ -55,12 +65,16 @@ Photo de modèles
 			Ciel
 			Gare
 		Moyens de transport
+			Autobus
 			Avion
 			Bateau
+			Métro
 			Moto
+			Péniche
 			Train
-			Voiture
+			Tramway
 			Vélo
+			Voiture
 	Destination
 		Commande
 		Collaboration
