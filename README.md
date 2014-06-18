@@ -1,4 +1,4 @@
-Thesaurus lightroom
+Thésaurus lightroom
 ===================
 
 Ce projet à pour objet de constituer plusieurs thésaurus pour Lightroom en français, hiérarchisés, et avec des synonymes (et si possible la traduction anglaise dans les synonymes)
