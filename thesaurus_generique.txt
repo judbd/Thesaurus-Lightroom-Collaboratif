@@ -16,6 +16,7 @@
 		Composition
 		Contraste
 		Contre-plongée
+		Couleur
 		Coupe
 		Décentrement
 		Détourable
@@ -55,6 +56,7 @@
 		Multicolore
 		Nature morte
 		Netteté
+		Noir et blanc
 		Nuit
 		Objectif
 		Objectif fixe
