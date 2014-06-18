@@ -1,3282 +1,3282 @@
-2:40 PM 4/1/2014
-3-in-1 pictures
-	{Three-in-one pictures}
-A la poupée prints
-	{Poupée prints}
-A trois crayons drawings
-	{Three chalk drawings}
-	{Trois crayons drawings}
-Äac prints
-	{Photochrom prints}
-Abstract drawings
-Abstract paintings
-Abstract photographs
-Abstract prints
-Abstract works
+[Thesaurus for Graphic Materials genres and formats]
+	3-in-1 pictures
+		{Three-in-one pictures}
+	A la poupée prints
+		{Poupée prints}
+	A trois crayons drawings
+		{Three chalk drawings}
+		{Trois crayons drawings}
+	Äac prints
+		{Photochrom prints}
 	Abstract drawings
 	Abstract paintings
 	Abstract photographs
 	Abstract prints
-Acetate negatives
-	{Cellulose acetate negatives}
-	{Cellulose diacetate negatives}
-	{Cellulose triacetate negatives}
-	{Diacetate negatives}
-	{Triacetate negatives}
-Acrylic paintings
-Action comics
-	{Adventure comics}
-Ads
-	{Advertisements}
-	{Advertising}
-Adventure comics
-	{Action comics}
-Advertisements
-	{Ads}
+	Abstract works
+		Abstract drawings
+		Abstract paintings
+		Abstract photographs
+		Abstract prints
+	Acetate negatives
+		{Cellulose acetate negatives}
+		{Cellulose diacetate negatives}
+		{Cellulose triacetate negatives}
+		{Diacetate negatives}
+		{Triacetate negatives}
+	Acrylic paintings
+	Action comics
+		{Adventure comics}
+	Ads
+		{Advertisements}
+		{Advertising}
+	Adventure comics
+		{Action comics}
+	Advertisements
+		{Ads}
+		Advertising cards
+		Direct mail
+		Display cards
+		Promotional materials
 	Advertising cards
-	Direct mail
-	Display cards
-	Promotional materials
-Advertising cards
-	{Insert cards}
-	{Tradecards}
-	{Trading cards}
-	Sailing cards
-	Stock cards
-	Trade cards
-Advertising mail
-	{Direct mail}
-Aerial photographs
-Aerial views
-	{Air views}
-	{Balloon views}
-	{Views, Aerial}
+		{Insert cards}
+		{Tradecards}
+		{Trading cards}
+		Sailing cards
+		Stock cards
+		Trade cards
+	Advertising mail
+		{Direct mail}
 	Aerial photographs
-Agfacolor transparencies
-	{Dye coupler transparencies}
-Air conditioning, heating, & ventilating drawings
-	{HVAC drawings}
-Air views
-	{Aerial views}
-Airbrush works
-Albertypes
-	{Collotypes}
-Album cards
-Album covers
-	{Covers, Album}
-	{Covers, Record}
-	{Jackets, Record}
-	{Record covers}
-	{Record jackets}
-	{Sleeves, Record}
-Albumen prints
-	{Albumen photoprints}
-Albumen transparencies
-	{Hyalotypes}
-Albums
-	{Souvenir albums}
-	Photograph albums
-	Presentation albums
-	Scrapbooks
-	Sketchbooks
-Allegorical drawings
-Allegorical paintings
-Allegorical photographs
-Allegorical prints
-Allegories
+	Aerial views
+		{Air views}
+		{Balloon views}
+		{Views Aerial}
+		Aerial photographs
+	Agfacolor transparencies
+		{Dye coupler transparencies}
+	Air conditioning heating & ventilating drawings
+		{HVAC drawings}
+	Air views
+		{Aerial views}
+	Airbrush works
+	Albertypes
+		{Collotypes}
+	Album cards
+	Album covers
+		{Covers Album}
+		{Covers Record}
+		{Jackets Record}
+		{Record covers}
+		{Record jackets}
+		{Sleeves Record}
+	Albumen prints
+		{Albumen photoprints}
+	Albumen transparencies
+		{Hyalotypes}
+	Albums
+		{Souvenir albums}
+		Photograph albums
+		Presentation albums
+		Scrapbooks
+		Sketchbooks
 	Allegorical drawings
 	Allegorical paintings
 	Allegorical photographs
 	Allegorical prints
-Allusions
-Amateur works
-Ambrotypes
-	{Cased photographs}
-	{Collodion positive photographs}
-Anaglyphs
-Anamorphic images
-Animation cels
-	{Cartoon cels}
-	{Cels, Animation}
-Announcements
-Anthropological photographs
-	{Ethnographic photographs}
-Aquatints
-	Sugar-lift aquatints
-Architectural drawings
-	{Drawings, Architectural}
-Architectural photographs
-	Progress photographs
-Aristotypes
-Armorial bearings
-	{Coats of arms}
-Armorial bookplates
-	{Heraldic bookplates}
-Art by children
-	{Children's art}
-Art exhibition posters
-	{Exhibition posters}
-Art reproductions
-Artists' devices
-	{Devices, Artists'}
-	{Symbols, Artists'}
-Artists' early works
-	{Juvenilia}
-Artists' proofs
-Artists' signatures
-Artotypes
-	{Collotypes}
-As-built drawings
-	{Drawings, As-built}
-Auction catalogs
-Audiocassettes
-	{Audio cassettes}
-	{Cassettes, Audio}
-Audiotapes
-	{Audio tapes}
-	Audiocassettes
-Autochromes
-Autographs
-	Artists' signatures
-Autotypes
-	{Carbon prints}
-Avant des lettres prints
-	{Proofs before letters}
-Awards of merit
-	{Rewards of merit}
-Axonometric projections
-	Isometric projections
-Badges
-	{Ribbon badges}
-	Buttons
-Bags
-	{Sacks}
-Balloon views
-	{Aerial views}
-	{Bird's-eye views}
-	{Panoramic views}
-Ballots
-	{Election tickets}
-Bank note vignettes
-	{Security engravings}
-Bank notes
-Banners
-Banquet camera photographs
-Baptismal certificates
-Baseball cards
-Baxter-process prints
-Baxter prints
-Beefcake photographs
-	{Glamour photographs}
-Before & after views
-	{Then & now comparisons}
-Bellmen's verses
-	{Carriers' addresses}
-Bible cards
-	{Scripture cards}
-	{Sunday school cards}
-Bilderbogen
-Billboard posters
-Billheads
-Bills of fare
-	{Menus}
-Bird's-eye view prints
-	{Panoramic maps}
-Bird's-eye views
-	{Balloon views}
-	{Views, Bird's-eye}
-	Bird's-eye view prints
-Birth certificates
-Birthday cards
-Black-and-white prints
-	{Photographic prints}
-Black & white photographs
-Black light works
-	{Luminescent works}
-Black line prints
-	{Diazotypes}
-Blind embossed prints
-	{Inkless intaglio prints}
-Blind stamps
-	{Stamps, Blind}
-Block prints
-	{Relief prints}
-Blocks, Printing
-	{Printing blocks}
-Blue line prints
-	{Diazotypes}
-Blueprints
-Boards, Game
-	{Gameboards}
-Bonds
-	{Bonds}
-Bonds
-	{Bonds}
-Book & magazine posters
-	{Magazine posters}
-	{Newspaper posters}
-	{Periodical posters}
-Book covers
-Book illustrations
-	{Pamphlet illustrations}
-Book jackets
-	{Book wrappers}
-	{Dust jackets}
-	{Jackets, Book}
-Book plates
-	{Bookplates}
-Book wrappers
-	{Book jackets}
-Booklets
-	{Leaflets}
-	{Pamphlets}
-	{Viewbooks}
-Bookmarks
-Bookplates
-	{Book plates}
-	{Ex libris}
-	Armorial bookplates
-Books
-	Almanacs
-	Encyclopedias & dictionaries
-	Flip books
-	Registers
-	Religious books
-	Telephone directories
-Botanical drawings
-	{Botanical illustrations}
-Botanical illustrations
-	{Botanical drawings}
-	{Drawings, Botanical}
-Boudoir card photographs
-Boudoir photographs
-	{Glamour photographs}
-Broadsheets
-	{Broadsides}
-Broadsides
-	{Broadsheets}
-	Handbills
-	Playbills
-	Wanted posters
-Brochures
-	{Leaflets}
-Bromide prints
-	{Gelatin silver prints}
-Bromoil prints
-	{Bromoil photoprints}
-Brooches
-Brown line prints
-	{Diazotypes}
-Brownprints
-	{Kallitypes}
-Brush works
-Bubble gum cards
-	{Sports cards}
-Bubble jet prints
-	{Inkjet prints}
-Bumper stickers
-Burlesque posters
-	{Theatrical posters}
-Business cards
-	{Tradecards}
-Button badges
-	{Buttons}
-Buttons
-	{Buttons}
-	{Buttons}
-Buttons
-	{Buttons}
-Buttons
-	{Button badges}
-	{Buttons}
-Cabinet card photographs
-	{Cabinet photographs}
-Cabinet cards
-	{Cabinet photographs}
-Cabinet photographs
-	{Cabinet card photographs}
-	{Cabinet cards}
-CAD drawings
-	{Computer-aided designs}
-Calendars
-	Perpetual calendars
-	Religious calendars
-Calligrams
-	{Letter pictures}
-Calling cards
-	{Visiting cards}
-Callitypes
-	{Kallitypes}
-Calotypes
-	{Talbotypes}
-Cameos
-Camera lucida works
-Camera obscura works
-Campaign books
-	{Pressbooks}
-Campaign posters
-	{Political posters}
-Cancellation proofs
-	{Cancelled plate prints}
-Cancelled plate prints
-	{Cancellation proofs}
-Candid portraits
-	{Portrait photographs}
-Carbon prints
-	{Autotypes}
-	{Carbon photoprints}
-	{Chromotypes}
-	{Lambertypes}
-	Carbro prints
-Carbon transparencies
-Carborundum prints
-Carbro prints
-	{Carbro photoprints}
-	{Ozobrome photoprints}
-	{Ozobrome prints}
-	Tricolor carbro prints
-Card photograph albums
-	{Cartes de visite albums}
-Card photographs
-	Boudoir card photographs
-	Cabinet photographs
-	Cartes de visite
-	Imperial card photographs
-	Kodak card photographs
-	Panel card photographs
-	Promenade card photographs
-	Victoria card photographs
-Cards
-	Advertising cards
-	Business cards
-	Collecting cards
-	Comic cards
-	Dance cards
-	Display cards
-	Membership cards
-	Playing cards
-	Postcards
-	Sentiment cards
-	Speakeasy cards
-	Sports cards
-	Visiting cards
-Cards, Window
-	{Window cards}
-Caricatures
-	{Stereotypes}
-Carnival posters
-	{Circus posters}
-Cartes de visite
-Cartes de visite
-	{Visiting cards}
-Cartes de visite albums
-	{Card photograph albums}
-Cartoon cels
-	{Animation cels}
-Cartoon patterns
-	{Cartoons}
-Cartoon strips
-	{Comics}
-Cartoons
-	{Cartoons}
-Cartoons
-	{Cartoons}
-	{Comic pictures}
-	Caricatures
-	Comic cards
-	Comics
-	Editorial cartoons
-	Political cartoons
-	Satires
-Cartoons
-	{Cartoon patterns}
-Cartouches
-Cased photographs
-	{Ambrotypes}
-	{Daguerreotypes}
-	{Photograph cases}
-Casein paintings
-Cases, Photograph
-	{Union cases}
-Cast paper prints
-Catalogs
-	{Catalogues}
-	Auction catalogs
-	Exhibition catalogs
-	Sales catalogs
-Catalogues
-	{Catalogs}
-Cellocuts
-Cellulose acetate negatives
-	{Acetate negatives}
-Cellulose diacetate negatives
-	{Acetate negatives}
-Cellulose nitrate negatives
-	{Nitrate negatives}
-Cellulose triacetate negatives
-	{Acetate negatives}
-Cels, Animation
-	{Animation cels}
-Censored works
-Ceramic photographs
-	{Photoceramics}
-	{Porcelain photographs}
-Cerographs
-	{Glyphographs}
-	{Wax engravings}
-Certificates
-	Baptismal certificates
-	Birth certificates
-	Bonds
-	Death certificates
-	Diplomas
-	Insurance certificates
-	Marriage certificates
-	Membership certificates
-	Stock certificates
-Chalk drawings
-	A trois crayons drawings
-Charcoal drawings
-Charters
-Charts
-	Calendars
-	Family trees
-	Schedules
-	Schedules
-	Seating charts
-Cheesecake photographs
-	{Glamour photographs}
-Chiaroscuro woodcuts
-Children's art
-	{Art by children}
-	{Children's works}
-	{Juvenile art}
-Children's comics
-Children's works
-	{Children's art}
-	{Juvenilia}
-Chine collé prints
-Chloride prints
-	{Photographic prints}
-Chloro-bromide prints
-	{Gelatin silver prints}
-Chlorophyll prints
-	{Leaf photographs}
-	{Leaf prints}
-Chops
-Christmas cards
-Chromo-photographs
-	{Crystoleums}
-Chromolithographs
-	Oleographs
-Chromotypes
-	{Carbon prints}
-Chronophotographs
-	{Motion study photographs}
-Cibachrome prints
-	{Dye destruction prints}
-Cigar bands
-Cigarette cards
-	{Tobacco cards}
-Circulars
-Circus posters
-	{Carnival posters}
-	{Wild west show posters}
-Cirkut camera photographs
-	{Panoramic photographs}
-City planning drawings
-	{Planning drawings}
-City views
-	{Cityscapes}
-Cityscape drawings
-Cityscape paintings
-Cityscape photographs
-Cityscape prints
-Cityscapes
-	{City views}
-	{Skyline views}
-	{Topographical views}
-	{Townscapes}
-	{Views, City}
-	Cityscape drawings
-	Cityscape paintings
-	Cityscape photographs
-	Cityscape prints
-Civil War envelopes
-	{Patriotic envelopes}
-Clichés-verre
-	{Glass prints}
-Clipper ship cards
-	{Yankee clipper cards}
-Clippings
-	{Newspaper clippings}
-	{Press clippings}
-	Tear sheets
-Cloth photographs
-	{Collodion positive photographs}
-Cloth prints
-Coats of arms
-	{Armorial bearings}
-	{Heraldic devices}
-Collages
-Collagraphs
-	{Collographs}
-Collecting cards
-	{Trading cards}
-	Album cards
-Collectors' marks
-Collodio-chloride prints
-	{Collodion printing-out paper prints}
-Collodion dry plate negatives
-	{Dry collodion negatives}
-Collodion negatives
-	{Dry collodion negatives}
-	{Wet collodion negatives}
-Collodion positive photographs
-	{Ambrotypes}
-	{Cloth photographs}
-	{Collodion transparencies}
-	{Leather photographs}
-	{Tintypes}
-Collodion printing-out paper prints
-	{Collodio-chloride prints}
-	{Collodion printing-out paper photoprints}
-	Aristotypes
-Collodion transparencies
-	{Collodion positive photographs}
-Collographs
-	{Collagraphs}
-Collotypes
-	{Albertypes}
-	{Artotypes}
-	{Heliotypes}
-Color circles
-	{Color wheels}
-Color photographs
-Color screen transparencies
-	{Screen color film transparencies}
-	{Screen color glass transparencies}
-Color separation negatives
-	{Separation negatives}
-Color separation positives
-	{Color separation transparencies}
-	{Positives, Color separation}
-	{Postitives, Color separation}
-	{Postives, Color separation}
-	{Separation positives, Color}
-	{Separation transparencies, Color}
-Color separation transparencies
-	{Color separation positives}
-Color wheels
-	{Color circles}
-	{Wheels, Color}
-Combination prints
-	{Composite photographs}
-Comic books
-	{Manga}
-Comic cards
-Comic pictures
-	{Cartoons}
-	{Humorous pictures}
-Comic strips
-	{Comics}
-Comics
-	{Cartoon strips}
-	{Comic strips}
-	Adventure comics
-	Children's comics
-	Comic books
-	Underground comics
-Commemorative prints
-Commercial art design drawings
-	{Graphic design drawings}
-Commercial catalogs
-	{Sales catalogs}
-Comparisons, Then & now
-	{Then & now comparisons}
-Competition drawings
-	{Drawings, Competition}
-Composite drawings
-Composite photographs
-	{Combination prints}
-	{Simulated images}
-Composition cases
-	{Union cases}
-Computer-aided designs
-	{CAD drawings}
-Computer-generated prints
-	{Digital prints}
-Computer graphics
-	{Simulated images}
-	Computer-aided designs
-Concealed camera photographs
-	{Detective camera photographs}
-Concert posters
-	{Music posters}
-	Rock posters
-Conjectural works
-	{Historical studies}
-	{Imaginary views}
-	{Recreations}
-Construction progress photographs
-	{Progress photographs}
-Contact prints
-	{Lumiprints}
-	{Prints, Contact}
-	Chlorophyll prints
-	Contact sheets
-Contact sheets
-	{Proof sheets}
-Contract drawings
-	{Drawings, Contract}
-Copies
-	{Reproductions}
-Copy art
-	{Xerographic art}
-Corner cards
-Costume design drawings
-Costume prints
-Counterfeits
-	{Forgeries}
-Counterproofs
-Coupons
-	{Ration stamps}
-Courtroom art
-	{Courtroom sketches}
-Courtroom illustrations
-	{Courtroom sketches}
-Courtroom sketches
-	{Courtroom art}
-	{Courtroom illustrations}
-	{Trial sketches}
-Covers
-	{Illustrated covers}
-	Album covers
-	Book covers
-	Magazine covers
-Covers, Album
-	{Album covers}
-Covers, Illustrated
-	{Pictorial envelopes}
-Covers, Magazine
-	{Magazine covers}
-Covers, Patriotic
-	{Patriotic envelopes}
-Covers, Record
-	{Album covers}
-Covers, Sheet music
-	{Sheet music covers}
-Crate labels, Fruit
-	{Fruit crate labels}
-Crayon drawings
-	{Conté crayon drawings}
-Crayon enlargements
-	{Crayon photographic prints}
-	{Crayon prints}
-Crayon manner prints
-Crayon photographic prints
-	{Crayon enlargements}
-Crayon prints
-	{Crayon enlargements}
-Criblée prints
-	{Dotted prints}
-Cries
-	{Street cries}
-Crime photographs
-	{Forensic photographs}
-Crystalographs
-	{Crystoleums}
-Crystalotypes
-Crystoleum photographs
-	{Crystoleums}
-Crystoleum plates
-	{Crystoleums}
-Crystoleums
-	{Chromo-photographs}
-	{Crystalographs}
-	{Crystoleum photographs}
-	{Crystoleum plates}
-	{Reflectographs}
-Currency
-	{Money}
-Cut-out figures
-	{Cutouts}
-Cut-paper works
-	{Paper cut-outs}
-	{Scherenschnitte}
-	{Scissorcraft}
-Cutaway drawings
-	{Drawings, Cutaway}
-Cutouts
-	{Cut-out figures}
-	{Figures, Cut-out}
-	{Life-size cutouts}
-	{Paper cut-outs}
-Cyanotypes
-	Blueprints
-Daguerreotypes
-	{Cased photographs}
-Dance cards
-Dance posters
-Dealers' marks
-Death certificates
-Death portraits
-	{Postmortem photographs}
-Decals
-Decorations
-	{Ornaments}
-	Artificial flowers
-	Artificial plants
-	Cartouches
-	Dried plant arrangements
-	Festive decorations
-	Flower arrangements
-	Ribbons
-	Scraps
-	Table settings & decorations
-	Wreaths
-Design drawings
-	{Drawings, Design}
-	{Production drawings}
-	Architectural drawings
-	Competition drawings
-	Contract drawings
-	Costume design drawings
-	Electrical systems drawings
-	Engineering drawings
-	Fashion design drawings
-	Graphic design drawings
-	Industrial design drawings
-	Interior design drawings
-	Landscape architecture drawings
-	Measured drawings
-	Mechanical drawings
-	Mechanical systems drawings
-	Naval architecture drawings
-	Patent drawings
-	Pattern books
-	Pattern sheets
-	Planning drawings
-	Planting drawings
-	Presentation drawings
-	Proposed works
-	Record drawings
-	Renderings
-	Set design drawings
-	Site plans
-	Storyboards
-	Structural drawings
-	Studies
-	Textile design drawings
-	Working drawings
-Details
-Detective camera photographs
-	{Concealed camera photographs}
-	{Vest camera photographs}
-Devices, Artists'
-	{Artists' devices}
-Devotional images
-	{Holy cards}
-	{Religious pictures}
-	{Sunday school cards}
-	Bible cards
-	Mizriha'ot
-Diacetate negatives
-	{Acetate negatives}
-Diagrams
-	{Production drawings}
-	{Technical drawings}
-	Charts
-	Graphs
-Diaries
-	{Journals}
-Diazo prints
-	{Diazotypes}
-Diazotypes
-	{Black line prints}
-	{Blue line prints}
-	{Brown line prints}
-	{Diazo prints}
-	{Dyelines}
-	{Ozalids}
-	{Primuline process prints}
-	{White prints}
-	{Whiteprints}
-Digital images
-	Computer graphics
-	Digital photographs
-	Grayscale digital images
-Digital photographs
-Digital prints
-	{Computer-generated prints}
-	Inkjet prints
-Diplomas
-Diptychs
-Direct-mail advertising
-	{Direct mail}
-Direct mail
-	{Advertising mail}
-	{Direct-mail advertising}
-	{Junk mail}
-Display cards
-	Lobby cards
-	Window cards
-Display drawings
-	{Presentation drawings}
-Documents
-	{Records}
-	Charters
-	Manuscripts
-	Typescripts
-Dog tags
-Dotted prints
-	{Criblée prints}
-	{Manière criblée prints}
-Drawings
-	Abstract drawings
-	Allegorical drawings
-	Chalk drawings
-	Charcoal drawings
-	Cityscape drawings
-	Composite drawings
-	Crayon drawings
-	Cutaway drawings
-	Figure drawings
-	Genre drawings
-	Graphite drawings
-	Ink drawings
-	Landscape drawings
-	Marine drawings
-	Metalpoint drawings
-	Pastels
-	Portrait drawings
-	Scratchboard drawings
-	Seascape drawings
-	Still life drawings
-	Tracings
-	Wash drawings
-Drawings of record
-	{Record drawings}
-Drawings, Architectural
-	{Architectural drawings}
-Drawings, As-built
-	{As-built drawings}
-Drawings, Botanical
-	{Botanical illustrations}
-Drawings, Competition
-	{Competition drawings}
-Drawings, Contract
-	{Contract drawings}
-Drawings, Cutaway
-	{Cutaway drawings}
-Drawings, Design
-	{Design drawings}
-Drawings, Electrical systems
-	{Electrical systems drawings}
-Drawings, Engineering
-	{Engineering drawings}
-Drawings, Exploded
-	{Exploded drawings}
-Drawings, Framing
-	{Framing drawings}
-Drawings, Landscape architecture
-	{Landscape architecture drawings}
-Drawings, Measured
-	{Measured drawings}
-Drawings, Mechanical
-	{Mechanical drawings}
-Drawings, Mechanical systems
-	{Mechanical systems drawings}
-Drawings, Medical
-	{Medical illustrations}
-Drawings, Naval architecture
-	{Naval architecture drawings}
-Drawings, Patent
-	{Patent drawings}
-Drawings, Planning
-	{Planning drawings}
-Drawings, Presentation
-	{Presentation drawings}
-Drawings, Structural
-	{Structural drawings}
-Drawings, Structural systems
-	{Structural systems drawings}
-Drawings, Working
-	{Working drawings}
-Dried plant arrangements
-	Skeleton leaf arrangements
-Dry collodion negatives
-	{Collodion dry plate negatives}
-	{Collodion negatives}
-Dry plate negatives
-	{Gelatin dry plate negatives}
-	{Silver gelatin glass negatives}
-	Dry collodion negatives
-Drypoints
-Dufay color transparencies
-	{Screen color film transparencies}
-Duotone photomechanical prints
-Dust jackets
-	{Book jackets}
-Dye coupler negatives
-	{Ektacolor negatives}
-	{Fujicolor negatives}
-	{Kodacolor negatives}
-Dye coupler prints
-	{Dye coupler photoprints}
-	{Type C prints}
-	{Type R prints}
-Dye destruction prints
-	{Cibachrome prints}
-	{Dye destruction photoprints}
-	{Silver dye bleach prints}
-Dye diffusion transfer prints
-	{Dye diffusion transfer photoprints}
-	{Kodak instant color prints}
-	{Polaroid instant color prints}
-Dye transfer prints
-	{Dye transfer photoprints}
-	{Imbibition process prints}
-	{Pinatypes}
-Dyelines
-	{Diazotypes}
-Easter cards
-Editions, Limited
-	{Limited editions}
-Editorial cartoons
-Ektachrome transparencies
-	{Dye coupler transparencies}
-Ektacolor negatives
-	{Dye coupler negatives}
-Election posters
-	{Political posters}
-Election tickets
-	{Ballots}
-Electrical systems drawings
-	{Drawings, Electrical systems}
-Electronic images
-	{Images, Electronic}
-	Digital images
-	Transmitted images
-Electrostatic photocopies
-	{Photocopies}
-Elevations
-Emblem pictures
-	{Motto prints}
-Emblems
-	Artists' devices
-	Cameos
-	Coats of arms
-	Escutcheons
-	Fleur-de-lis
-	Insignia
-	National emblems
-Embossed prints
-	Inkless intaglio prints
-Embossed works
-	Embossed prints
-Engineering drawings
-	{Drawings, Engineering}
-Engravings
-	Steel engravings
-	Stipple engravings
-Engravings, Steel
-	{Steel engravings}
-Engravings, Wood
-	{Wood engravings}
-Entertainment posters
-	{Performing arts posters}
-Envelopes
-	Pictorial envelopes
-Ephemera
-	{Printed ephemera}
-	Advertisements
-	Announcements
-	Badges
-	Ballots
-	Bookmarks
-	Broadsides
-	Cards
-	Carriers' addresses
-	Certificates
-	Checks
-	Coupons
-	Credit cards
-	Fans
-	Fliers
-	Forms
-	Game pieces
-	Gameboards
-	Handkerchiefs
-	Invitations
-	Keepsakes
-	Labels
-	Lottery tickets
-	Memorabilia
-	Menus
-	Money
-	Packaging
-	Paper toys
-	Postage stamps
-	Premiums
-	Presentation albums
-	Price lists
-	Programs
-	Puzzles
-	Rewards of merit
-	Samples
-	Schedules
-	Scrapbooks
-	Scraps
-	Signs
-	Souvenirs
-	Stationery
-	Tickets
-	Viewbooks
-	Wallpapers
-	Watch papers
-Equipment
-	{Household equipment}
-	{Household goods}
-	{Implements}
-	{Tools}
-	Accessories
-	Agricultural equipment
-	Airplane equipment
-	Animal equipment
-	Anvils
-	Appliances
-	Arms & armament
-	Arrowheads
-	Artists' materials
-	Automobile equipment & supplies
-	Barbecue grills
-	Bellows
-	Belts & belting
-	Bird feeders
-	Booby traps
-	Butcher blocks
-	Cattle brands
-	Chains
-	Churns
-	Clocks & watches
-	Clotheslines
-	Coat hangers
-	Communication devices
-	Construction equipment
-	Containers
-	Cooking utensils
-	Corkscrews
-	Cradleboards
-	Cutlery
-	Diving boards
-	Dollies
-	Dressing & grooming equipment
-	Drills
-	Electric batteries
-	Electric lines
-	Electric switches
-	Exercise equipment & supplies
-	Explosives
-	Fasteners
-	Fishing & hunting gear
-	Flight simulators
-	Flypaper
-	Forks
-	Funnels
-	Gadgets
-	Gallows
-	Gardening equipment & supplies
-	Gas masks
-	Gavels
-	Glassware
-	Hand tools
-	Harnesses
-	Hoses
-	Irons
-	Kilns
-	Kites
-	Ladders
-	Lasers
-	Lighting
-	Machinery
-	Mannequins
-	Matches
-	Mechanical systems components
-	Medical equipment & supplies
-	Metronomes
-	Mining equipment
-	Molds
-	Mousetraps
-	Music stands
-	Musical instruments
-	Nets
-	Office equipment & supplies
-	Optical devices
-	Ovens
-	Oxygen masks
-	Pacifiers
-	Paper products
-	Paravanes
-	Photographic apparatus & supplies
-	Physical restraints
-	Pipes
-	Pistons & piston rings
-	Playground equipment
-	Polygraphs
-	Power outlets
-	Printmaking equipment
-	Prospecting equipment & supplies
-	Punishment devices
-	Racks
-	Ropes
-	Safety equipment
-	Sawhorses
-	Saws
-	Scaffolding
-	Scientific equipment
-	Security systems
-	Sewing equipment & supplies
-	Sharpening & honing tools
-	Ship equipment & rigging
-	Slingshots
-	Snowshoes
-	Soda fountains
-	Sound equipment & supplies
-	Spinning apparatus
-	Spoons
-	Sporting goods
-	Sprinklers
-	Spurs
-	Staffs
-	Stills
-	Stilts
-	Stoves
-	Templates
-	Twine
-	Umbrellas
-	Vehicles
-	Vices
-	Washboards
-	Weights & measures
-	Whips
-	Wire
-	Wrecking balls
-	Writing materials
-	Yokes
-Erotica
-Etchings
-	Soft-ground etchings
-Ethnic stereotypes
-	{National stereotypes}
-	{Racial stereotypes}
-	{Stereotypes, Ethnic}
-Ethnographic photographs
-	{Anthropological photographs}
-	{Ethnological photographs}
-Ethnological photographs
-	{Ethnographic photographs}
-Evidence photographs
-	{Forensic photographs}
-Ex libris
-	{Bookplates}
-Exhibit posters
-	{Exhibition posters}
-Exhibition catalogs
-Exhibition posters
-	{Art exhibition posters}
-	{Exhibit posters}
-Exotic works
-	{Novelty works}
-Expedition photographs
-	{Exploration photographs}
-Exploded drawings
-	{Drawings, Exploded}
-Exploration photographs
-	{Expedition photographs}
-Fabric design drawings
-	{Textile design drawings}
-Facsimile transmission images
-	{Transmitted images}
-Facsimiles
-Family records, Pictorial
-	{Family trees}
-Family registers, Pictorial
-	{Family trees}
-Family trees
-	{Family records, Pictorial}
-	{Family registers, Pictorial}
-	{Genealogical tables}
-	{Pictorial family records}
-Fans
-Fashion design drawings
-Fashion photographs
-Fashion plates
-Fashion prints
-Female figure drawings
-Ferrotypes
-	{Tintypes}
-Fiche
-	{Microfiche}
-Fiches
-	{Microfiche}
-Figure drawings
-	{Studies, Figure}
-	Female figure drawings
-	Male figure drawings
-Figures, Cut-out
-	{Cutouts}
-Film negatives
-	Color separation negatives
-	Dye coupler negatives
-	Gelatin silver film negatives
-	Halftone negatives
-	Nitrate negatives
-	Safety film negatives
-Film posters
-	{Motion picture posters}
-Film stills
-	{Motion picture stills}
-	{Movie stills}
-	{Production stills}
-	{Stills}
-Film transparencies
-	Color separation positives
-	Dye coupler transparencies
-	Gelatin silver film transparencies
-	Radiographs
-	Screen color film transparencies
-Fire insurance maps
-Fish-eye photographs
-	{Fisheye photographs}
-Fish-eye views
-	{Fisheye views}
-Fish impressions
-	{Fish prints}
-Fish prints
-	{Fish impressions}
-	{Fish rubbings}
-	{Gyotaku}
-Fish rubbings
-	{Fish prints}
-Fisheye photographs
-	{Fish-eye photographs}
-Fisheye views
-	{Fish-eye views}
-	Fisheye photographs
-Flash photographs
-Fliers
-	{Fliers}
-	{Flyers}
-	Circulars
-	Handbills
-Flip books
-	{Flipbooks}
-Flipbooks
-	{Flip books}
-Floating world prints
-	{Ukiyo-e}
-Floor plans
-Fluorescent works
-	{Luminescent works}
-Flyers
-	{Fliers}
-Forensic photographs
-	{Crime photographs}
-	{Evidence photographs}
-	{Legal photographs}
-	{Police photographs}
-	{Surveillance photographs}
-Forgeries
-	{Counterfeits}
-Formation photographs
-Forms
-	{Forms}
-Forms
-	{Forms}
-Fortune telling cards
-	Tarot cards
-Fractur
-	{Frakturs}
-Fraktur
-	{Frakturs}
-Frakturs
-	{Fractur}
-	{Fraktur}
-Framing drawings
-	{Drawings, Framing}
-French tissues
-	{Tissue stereographs}
-Fresson prints
-	{Quadichromes}
-Frontispieces
-Fruit box labels
-	{Fruit crate labels}
-Fruit crate labels
-	{Crate labels, Fruit}
-	{Fruit box labels}
-Fujichrome transparencies
-	{Dye coupler transparencies}
-Fujicolor negatives
-	{Dye coupler negatives}
-Game boards
-	{Gameboards}
-Game cards
-Game pieces
-	{Pieces, Game}
-	{Playing pieces}
-	Puzzles
-Gameboards
-	{Boards, Game}
-	{Game boards}
-Gaslight prints
-	{Gelatin silver prints}
-Gelatin dry plate negatives
-	{Dry plate negatives}
-Gelatin silver film negatives
-	{Silver gelatin film negatives}
-Gelatin silver film transparencies
-	{Gelatin silver transparencies}
-	{Silver gelatin film transparencies}
-Gelatin silver glass transparencies
-	{Gelatin silver transparencies}
-	{Silver gelatin glass transparencies}
-Gelatin silver printing-out paper prints
-	{Silver gelatin printing-out paper photoprints}
-	{Silver gelatin printing-out paper prints}
-	{Studio proof paper prints}
-	Aristotypes
-Gelatin silver prints
-	{Bromide prints}
-	{Chloro-bromide prints}
-	{Gaslight prints}
-	{Silver gelatin photoprints}
-	{Silver gelatin prints}
-	Resin-coated paper prints
-Gelatin silver transparencies
-	{Gelatin silver film transparencies}
-	{Gelatin silver glass transparencies}
-Gem photographs
-Genealogical tables
-	{Family trees}
-Genre drawings
-Genre paintings
-Genre photographs
-Genre prints
-Genre works
-	Cries
-	Genre drawings
-	Genre paintings
-	Genre photographs
-	Genre prints
-Ghost photographs
-	{Spirit photographs}
-Give-aways
-	{Premiums}
-Glamour photographs
-	{Beefcake photographs}
-	{Boudoir photographs}
-	{Cheesecake photographs}
-	{Pinup photographs}
-Glass negatives
-	Dry plate negatives
-	Wet collodion negatives
-Glass prints
-	{Clichés-verre}
-Glass transparencies
-	Albumen transparencies
-	Carbon transparencies
-	Collodion transparencies
-	Gelatin silver glass transparencies
-	Lantern slides
-	Screen color glass transparencies
-Glow-in-the-dark works
-	{Luminescent works}
-Glyphographs
-	{Cerographs}
-Gouache drawings
-	{Gouaches}
-Gouache paintings
-	{Gouaches}
-Gouaches
-	{Gouache drawings}
-	{Gouache paintings}
-Graphic design drawings
-	{Commercial art design drawings}
-	Covers
-	Lettering
-Graphite drawings
-Graphs
-	Histograms
-Gravures
-	{Photogravures}
-	{Rotogravures}
-Grayscale digital images
-	{Gray scale digital images}
-	{Grey scale digital images}
-	{Greyscale digital images}
-Greeting cards
-	Birthday cards
-	Christmas cards
-	Easter cards
-	New Year cards
-	Valentines
-Group portraits
-	Formation photographs
-Gum bichromate prints
-	{Gum bichromate photoprints}
-	{Gum prints}
-Gum prints
-	{Gum bichromate prints}
-Gutta-percha photograph cases
-	{Union cases}
-Gyotaku
-	{Fish prints}
-Hairwork jewelry
-Halftone negatives
-Halftone photomechanical prints
-	Duotone photomechanical prints
-Handbills
-Handkerchiefs
-Head shots
-	{Publicity photographs}
-Heating, ventilating, & air conditioning drawings
-	{HVAC drawings}
-Heliogravures
-	{Photogravures}
-Heliotypes
-	{Collotypes}
-Heraldic bookplates
-	{Armorial bookplates}
-Heraldic devices
-	{Coats of arms}
-Hidden image works
-	Hold-to-light works
-Histograms
-Historical studies
-	{Conjectural works}
-Hold-to-light works
-Holograms
-	{Laser photographs}
-	{Three-dimensional photographs}
-Holy cards
-	{Devotional images}
-Humorous pictures
-	{Comic pictures}
-HVAC drawings
-	{Air conditioning, heating, & ventilating drawings}
-	{Heating, ventilating, & air conditioning drawings}
-	{Ventilating, air conditioning & heating drawings}
-Hyalotypes
-	{Albumen transparencies}
-Identification keys
-	{Keys}
-Identification photographs
-	{Mug shots}
-Illuminations
-	Frakturs
-	Miniatures
-Illustrated covers
-	{Covers}
-Illustrated envelopes
-	{Pictorial envelopes}
-Illustrated letter paper
-	{Letterheads}
-	{Pictorial lettersheets}
-Illustrations
-	Book illustrations
-	Courtroom sketches
-	Frontispieces
-	Periodical illustrations
-	Picture sheets
-	Scientific illustrations
-	Technical illustrations
-Images, Electronic
-	{Electronic images}
-Imaginary views
-	{Conjectural works}
-Imbibition process prints
-	{Dye transfer prints}
-Imperial card photographs
-Industrial design drawings
-Infrared photographs
-Ink drawings
-	Marker works
-Ink jet prints
-	{Inkjet prints}
-Inkjet prints
-	{Bubble jet prints}
-	{Ink jet prints}
-Inkless intaglio prints
-	{Blind embossed prints}
-Inscriptions
-	Autographs
-	Monograms
-Insert cards
-	{Advertising cards}
-Instant camera photographs
-	{Polaroid instant photographs}
-	Dye diffusion transfer prints
-Insurance certificates
-Intaglio prints
-	{Mixed method intaglio prints}
-	Aquatints
-	Carborundum prints
-	Crayon manner prints
-	Drypoints
-	Engravings
-	Etchings
-	Inkless intaglio prints
-	Mezzotints
-Interior design drawings
-Invitations
-Iron-on transfers
-	{Transfer sheets}
-Iron photographs
-	{Tintypes}
-Isometric projections
-Jackets, Book
-	{Book jackets}
-Jackets, Record
-	{Album covers}
-Jigsaw puzzles
-Junk mail
-	{Direct mail}
-Juvenile art
-	{Children's art}
-Juvenilia
-	{Artists' early works}
-	{Children's works}
-Kallitypes
-	{Brownprints}
-	{Callitypes}
-	Vandyke prints
-Keepsakes
-Keys
-	{Keys}
-Keys
-	{Identification keys}
-	{Keys}
-	{Legends}
-	{Legends}
-Kodachrome transparencies
-	{Dye coupler transparencies}
-Kodacolor negatives
-	{Dye coupler negatives}
-Kodak card photographs
-Kodak instant color prints
-	{Dye diffusion transfer prints}
-Labels
-	Bookplates
-	Fruit crate labels
-	Stickers
-	Tags
-	Textile labels
-	Tobacco package labels
-	Wine labels
-Lace
-Lambertypes
-	{Carbon prints}
-Landscape architecture drawings
-	{Drawings, Landscape architecture}
-	Landscaping plans
-	Planting drawings
-Landscape drawings
-Landscape paintings
-Landscape photographs
-Landscape prints
-Landscapes
-	{Topographical views}
-	Landscape drawings
-	Landscape paintings
-	Landscape photographs
-	Landscape prints
-Landscaping plans
-Lantern slides
-	{Magic lantern slides}
-Laser photographs
-	{Holograms}
-Leaf photographs
-	{Chlorophyll prints}
-Leaf prints
-	{Chlorophyll prints}
-Leaflets
-	{Booklets}
-	{Brochures}
-Leather photographs
-	{Collodion positive photographs}
-Legal photographs
-	{Forensic photographs}
-Legends
-	{Keys}
-Lenticular photographs
-	{Three-dimensional photographs}
-Letter pictures
-	{Calligrams}
-	{Word art}
-Letter sheets
-	{Letterheads}
-Letterheads
-	{Illustrated letter paper}
-	{Letter sheets}
-	Pictorial lettersheets
-Lettering
-Letterpress works
-Lettersheets, Pictorial
-	{Pictorial lettersheets}
-Life-size cutouts
-	{Cutouts}
-Lift-ground aquatints
-	{Sugar-lift aquatints}
-Lift-ground etchings
-	{Sugar-lift aquatints}
-Limited editions
-	{Editions, Limited}
-Line block prints
-	{Line photoengravings}
-Line cuts
-	{Line photoengravings}
-Line photoengravings
-	{Line block prints}
-	{Line cuts}
-	{Line photomechanical prints}
-	{Photoengravings, Line}
-	{Process line engravings}
-Line photomechanical prints
-	{Line photoengravings}
-Linen labels
-	{Textile labels}
-Linocuts
-	{Linoleum cut prints}
-Linoleum blocks
-Linoleum cut prints
-	{Linocuts}
-Lithographic stones
-	{Printing stones}
-Lithographs
-	Chromolithographs
-	Lithotints
-	Offset lithographs
-	Transfer lithographs
-	Zincographs
-Lithographs, Transfer
-	{Transfer lithographs}
-Lithotints
-Lobby cards
-Lockets
-Lottery tickets
-	{Tickets, Lottery}
-Luminescent works
-	{Black light works}
-	{Fluorescent works}
-	{Glow-in-the-dark works}
-	{Luminous works}
-Luminous works
-	{Luminescent works}
-Lumiprints
-	{Contact prints}
-Macrophotographs
-Magazine covers
-	{Covers, Magazine}
-	{Periodical covers}
-Magazine illustrations
-	{Periodical illustrations}
-Magazine posters
-	{Book & magazine posters}
-Magazines
-	{Periodicals}
-Magic lantern slides
-	{Lantern slides}
-Magic posters
-	{Theatrical posters}
-Mailing cards
-	{Postcards}
-Male figure drawings
-Mammoth plates
-Manière criblée prints
-	{Dotted prints}
-Manufacturers' catalogs
-Manuscripts
-	Diaries
-	Grocery lists
-Maps
-	Fire insurance maps
-	Plats
-	Topographic maps
-Marine architecture drawings
-	{Naval architecture drawings}
-Marine drawings
-	{Waterscape drawings}
-Marine paintings
-	{Waterscape paintings}
-Marine photographs
-	{Waterscape photographs}
-Marine prints
-	{Maritime prints}
-	{Waterscape prints}
-Marine views
-	{Marines}
-	{Seascapes}
-Marines
-	{Marine views}
-	{Waterscapes}
-	Marine drawings
-	Marine paintings
-	Marine photographs
-	Marine prints
-Maritime prints
-	{Marine prints}
-Marker works
-Markings
-	{Marks}
-Marks
-	{Marks}
-Marks
-	{Markings}
-	{Marks}
-	Blind stamps
-	Chops
-	Dealers' marks
-	Emblems
-	Inscriptions
-	Ownership marks
-	Register marks
-	Seals
-	Tax stamps
-	Trademarks
-	Watermarks
-Marriage certificates
-Matchcovers
-Measured drawings
-	{Drawings, Measured}
-	{Survey drawings}
-Mechanical drawings
-	{Drawings, Mechanical}
-	{Technical drawings}
-Mechanical systems drawings
-	{Drawings, Mechanical systems}
-	HVAC drawings
-Mechanical works
-	{Movable works}
-	Hidden image works
-	Metamorphic pictures
-	Volvelles
-Medals
-	{Medallions}
-Medical drawings
-	{Medical illustrations}
-Medical illustrations
-	{Drawings, Medical}
-	{Medical drawings}
-Megalethoscope prints
-	{Megalethoscope photoprints}
-Melainotypes
-	{Tintypes}
-Membership cards
-Membership certificates
-Memorabilia
-Memorial photographs
-	{Morteotypes}
-Memorial works
-	{Mourning works}
-	Memorial photographs
-Menus
-	{Bills of fare}
-Metal cuts
-	Dotted prints
-Metalpoint drawings
-	Silverpoint drawings
-Metamorphic pictures
-	{Reversible head prints}
-	{Transformation pictures}
-Mezzotints
-Microfiche
-	{Fiche}
-	{Fiches}
-	{Microfiches}
-Microfiches
-	{Microfiche}
-Microfilms
-Microforms
-	Microfiche
-	Microopaques
-	Microphotographs
-Microopaques
-	{Microprints}
-	{Opaque microcopies}
-Microphotographs
-	Microfiche
-	Microfilms
-	Stanhopes
-Microprints
-	{Microopaques}
-Miniature works
-	Gem photographs
-	Miniatures
-Miniatures
-Miniatures
-	{Miniatures}
-	{Portrait miniatures}
-Minstrel posters
-	{Theatrical posters}
-Mixed media
-	{Multiple processes}
-Mixed method intaglio prints
-	{Intaglio prints}
-Mizrachs
-	{Mizriha'ot}
-Mizriha'ot
-	{Mizrachs}
-Money
-	{Currency}
-	{Paper money}
-	Bank notes
-	Children's allowances
-	Coins
-	Greenbacks
-	Political campaign funds
-	Scrip
-Monochrome works
-	Cyanotypes
-	Vandyke prints
-Monograms
-Monoprints
-	{Monotypes}
-Monotype prints
-	{Monotypes}
-Monotypes
-	{Monoprints}
-	{Monotype prints}
-Montages
-	{Photocollages}
-	{Photomontages}
-Morteotypes
-	{Memorial photographs}
-Motion picture posters
-	{Film posters}
-	{Movie posters}
-Motion picture stills
-	{Film stills}
-Motion study photographs
-	{Chronophotographs}
-	{Multiple flash photographs}
-	{Pulsed-light photographs}
-	{Stroboscopic photographs}
-	{Time-lapse photographs}
-Motto prints
-	{Emblem pictures}
-Mourning jewelry
-Mourning works
-	{Memorial works}
-Movable works
-	{Mechanical works}
-Movie posters
-	{Motion picture posters}
-Movie stills
-	{Film stills}
-Mug shots
-	{Identification photographs}
-Multiple flash photographs
-	{Motion study photographs}
-Multiple processes
-	{Mixed media}
-Music posters
-	{Concert posters}
-Music sheet covers
-	{Sheet music covers}
-Music title pages
-	Sheet music covers
-Musical play posters
-	{Theatrical posters}
-National emblems
-National stereotypes
-	{Ethnic stereotypes}
-Naval architecture drawings
-	{Drawings, Naval architecture}
-	{Marine architecture drawings}
-Naval prints
-Negative prints
-	{Negative photoprints}
-Negatives
-	{Photonegatives}
-	Film negatives
-	Glass negatives
-	Paper negatives
-	Pellicles
-New Year cards
-Newscarriers' addresses
-	{Carriers' addresses}
-Newsmen's presents
-	{Carriers' addresses}
-Newspaper clippings
-	{Clippings}
-Newspaper illustrations
-	{Periodical illustrations}
-Newspaper posters
-	{Book & magazine posters}
-Niello printing plates
-Night photographs
-Nitrate negatives
-	{Cellulose nitrate negatives}
-	{Nitrocellulose negatives}
-Nitrocellulose negatives
-	{Nitrate negatives}
-Novelty works
-	{Exotic works}
+	Allegories
+		Allegorical drawings
+		Allegorical paintings
+		Allegorical photographs
+		Allegorical prints
+	Allusions
+	Amateur works
+	Ambrotypes
+		{Cased photographs}
+		{Collodion positive photographs}
 	Anaglyphs
 	Anamorphic images
-	Luminescent works
-	Mechanical works
-Now & then comparisons
-	{Then & now comparisons}
-Offset lithographs
-Offset photomechanical prints
-Oil paintings
-Oleographs
-Opaline photographs
-	{Opalines}
-Opalines
-	{Opaline photographs}
-Opalotypes
-Opaque microcopies
-	{Microopaques}
-Opera posters
-	{Theatrical posters}
-Optical toys
-	{Phenakistoscopes}
-	{Toys, Optical}
-	{Zoopraxiscopes}
-Ornaments
-	{Decorations}
-Ornithological illustrations
-Orotones
-Ownership marks
-	Collectors' marks
-Ozalids
-	{Diazotypes}
-Ozobrome photoprints
-	{Carbro prints}
-Ozobrome prints
-	{Carbro prints}
-Packages
-	{Packaging}
-Packaging
-	{Packages}
-	{Wrappers}
-	{Wrapping materials}
-	{Wrappings}
-	Bags
-	Book jackets
-	Envelopes
-	Matchcovers
-	Photograph cases
-	Ream wrappers
-Paintings
-	Abstract paintings
-	Allegorical paintings
-	Casein paintings
-	Cityscape paintings
-	Genre paintings
-	Landscape paintings
-	Marine paintings
-	Miniatures
-	Oil paintings
-	Pastels
-	Polymer paintings
-	Portrait paintings
-	Screen paintings
-	Still life paintings
-	Tempera paintings
-Palladiotypes
-	{Palladium prints}
-Palladium prints
-	{Palladiotypes}
-	{Palladium photoprints}
-Pamphlet illustrations
-	{Book illustrations}
-Pamphlets
-	{Booklets}
-	Pressbooks
-Panel card photographs
-Panoramas
-	{Panoramic photographs}
-	{Panoramic views}
-Panoramic maps
-	{Bird's-eye view prints}
-Panoramic photographs
-	{Cirkut camera photographs}
-	{Panoramas}
-Panoramic postcards
-Panoramic views
-	{Balloon views}
-	{Panoramas}
-	{Views, Panoramic}
-	Panoramic photographs
-	Panoramic postcards
-Pantins
-Paper cut-outs
-	{Cut-paper works}
-	{Cutouts}
-Paper dolls
-	Pantins
-Paper money
-	{Money}
-Paper negatives
-	Calotypes
-	Photogenic drawings
-	Waxed paper negatives
-Paper toys
-	{Toys, Paper}
-	Flip books
-	Paper dolls
-Pastel drawings
-	{Pastels}
-Pastel paintings
-	{Pastels}
-Pastels
-	{Pastel drawings}
-	{Pastel paintings}
-Patent drawings
-	{Drawings, Patent}
-Patriotic envelopes
-	{Civil War envelopes}
-	{Covers, Patriotic}
-Pattern books
-Pattern sheets
-	{Patterns}
-Patterns
-	{Pattern sheets}
-Peep show prints
-	{Vues d'optique}
-Pellicles
-Pen works
-	Marker works
-Pencil works
-Pendants
-Performing arts posters
-	{Entertainment posters}
-	Circus posters
-	Concert posters
-	Dance posters
-	Motion picture posters
-	Theatrical posters
-Periodical covers
-	{Magazine covers}
-Periodical illustrations
-	{Magazine illustrations}
-	{Newspaper illustrations}
-	Editorial cartoons
-	Fashion plates
-Periodical posters
-	{Book & magazine posters}
-Periodicals
-	{Magazines}
-	Newspapers
-Perpetual calendars
-Perspective projections
-Phenakistoscopes
-	{Optical toys}
-Photo morgues
-	{Photograph morgues}
-Photoceramics
-	{Ceramic photographs}
-Photochrom prints
-	{Äac prints}
-Photocollages
-	{Montages}
-Photocopies
-	{Electrostatic photocopies}
-	{Xerographs}
-	Copy art
-Photoengravings
-Photoengravings, Line
-	{Line photoengravings}
-Photoetchings
-	{Photogravures}
-Photogenic drawings
-Photoglypties
-	{Woodburytypes}
-Photograms
-	{Rayographs}
-	{Schadographs}
-	{Vortographs}
-Photograph albums
-	Card photograph albums
-Photograph cases
-	{Cased photographs}
-	Union cases
-Photograph morgues
-	{Photo morgues}
-	{Photographic morgues}
-Photographic morgues
-	{Photograph morgues}
-Photographic papers
-Photographic postcards
-	{Real photo postcards}
-Photographic prints
-	{Black-and-white prints}
-	{Chloride prints}
-	{Photoprints}
-	Bromoil prints
-	Carbon prints
-	Ceramic photographs
-	Clichés-verre
-	Cloth photographs
-	Contact prints
-	Crayon enlargements
-	Crystoleums
-	Cyanotypes
-	Diazotypes
-	Dye coupler prints
-	Dye destruction prints
-	Dye diffusion transfer prints
-	Dye transfer prints
-	Fresson prints
-	Gelatin silver printing-out paper prints
-	Gelatin silver prints
-	Gum bichromate prints
-	Kallitypes
-	Leather photographs
-	Megalethoscope prints
-	Negative prints
-	Opaline photographs
-	Opalotypes
-	Palladium prints
-	Photographic postcards
-	Platinum prints
-	Silver platinum prints
-	Silver printing-out paper prints
-	Stabilization prints
-Photographs
-	Abstract photographs
-	Aerial photographs
-	Allegorical photographs
-	Ambrotypes
+	Animation cels
+		{Cartoon cels}
+		{Cels Animation}
+	Announcements
+	Anthropological photographs
+		{Ethnographic photographs}
+	Aquatints
+		Sugar-lift aquatints
+	Architectural drawings
+		{Drawings Architectural}
 	Architectural photographs
-	Banquet camera photographs
-	Black & white photographs
-	Card photographs
-	Cityscape photographs
-	Color photographs
-	Composite photographs
-	Daguerreotypes
-	Detective camera photographs
-	Digital photographs
-	Ethnographic photographs
-	Expedition photographs
-	Fashion photographs
-	Film stills
-	Fisheye photographs
-	Flash photographs
-	Forensic photographs
-	Genre photographs
-	Glamour photographs
-	Holograms
-	Identification photographs
-	Infrared photographs
-	Instant camera photographs
-	Landscape photographs
-	Lenticular photographs
-	Macrophotographs
-	Mammoth plates
-	Marine photographs
-	Memorial photographs
-	Microphotographs
-	Motion study photographs
-	Negatives
-	Night photographs
-	Orotones
-	Panoramic photographs
-	Photograms
-	Photographic prints
-	Photomicrographs
-	Pinhole camera photographs
-	Portrait photographs
-	Postmortem photographs
-	Publicity photographs
-	Radio photographs
-	Seascape photographs
-	Snapshots
-	Solarization photographs
-	Space photographs
-	Spirit photographs
-	Stats
-	Still life photographs
-	Television stills
-	Tintypes
-	Underwater photographs
-	Wire photographs
-Photogravures
-	{Gravures}
-	{Heliogravures}
-	{Photoetchings}
-Photolithographs
-Photomechanical prints
-	{Process prints}
-	Anaglyphs
-	Collotypes
-	Halftone photomechanical prints
-	Line photoengravings
-	Offset photomechanical prints
-	Photochrom prints
-	Photocopies
-	Photoengravings
-	Photogravures
-	Photolithographs
-	Rotogravures
-	Woodburytypes
-Photomicrographs
-Photomontages
-	{Montages}
-Photonegatives
-	{Negatives}
-Photostats
-	{Stats}
-Phototransparencies
-	{Transparencies}
-Physiognotrace works
-	{Physionotrace works}
-Physionotrace works
-	{Physiognotrace works}
-Pictorial envelopes
-	{Covers, Illustrated}
-	{Illustrated envelopes}
-	Corner cards
-	Patriotic envelopes
-Pictorial family records
-	{Family trees}
-Pictorial letter sheets
-	{Pictorial lettersheets}
-Pictorial lettersheets
-	{Illustrated letter paper}
-	{Lettersheets, Pictorial}
-	{Pictorial letter sheets}
-Picture puzzles
-Picture sheets
-	Bilderbogen
-Pictures
-	Cartoons
-	Children's art
-	Collages
-	Conjectural works
-	Decorations
-	Devotional images
-	Drawings
-	Genre works
-	Illustrations
-	Juvenilia
-	Montages
-	Paintings
-	Photographs
-	Portraits
-	Posters
-	Prints
-	Reconstructions
-	Sandpaintings
-	Still lifes
-	Three-in-one pictures
-	Transparencies
-	Ukiyo-e
-	Views
-	Vignettes
-Pieces, Game
-	{Game pieces}
-Pinatypes
-	{Dye transfer prints}
-Pinhole camera photographs
-Pinup photographs
-	{Glamour photographs}
-Planning drawings
-	{City planning drawings}
-	{Drawings, Planning}
-	{Urban planning drawings}
-Planographic prints
-	Lithographs
-	Monotypes
-	Stencils
-Plans
-	Floor plans
-	Site plans
-Planting drawings
-Plastic printing plates
-	Plastos
-Plastos
-Plates, Printing
-	{Printing plates}
-Platinotypes
-	{Platinum prints}
-Platinum prints
-	{Platinotypes}
-	{Platinum photoprints}
-Plats
-Playbills
-Playing cards
-	Fortune telling cards
-	Game cards
-Playing pieces
-	{Game pieces}
-Plot plans
-	{Site plans}
-Pochoir prints
-Polaroid instant color prints
-	{Dye diffusion transfer prints}
-Polaroid instant photographs
-	{Instant camera photographs}
-Police photographs
-	{Forensic photographs}
-Political cartoons
-Political posters
-	{Campaign posters}
-	{Election posters}
-	{Propaganda posters}
-	Protest posters
-Polyester negatives
-Polymer paintings
-	Acrylic paintings
-Polyptychs
-Porcelain photographs
-	{Ceramic photographs}
-Portfolios
-Portrait drawings
-Portrait miniatures
-	{Miniatures}
-Portrait paintings
-Portrait photographs
-	{Candid portraits}
-	{Studio portraits}
-	Formation photographs
-Portrait prints
-Portraits
-	Group portraits
-	Portrait drawings
-	Portrait paintings
-	Portrait photographs
-	Portrait prints
-	Self-portraits
-Positives, Color separation
-	{Color separation positives}
-Post-mortem photographs
-	{Postmortem photographs}
-Post cards
-	{Postcards}
-Postage stamps
-	{Stamps, Postage}
-Postal cards
-Postal stationery
-	Postal cards
-Postcards
-	{Mailing cards}
-	{Post cards}
-	Photographic postcards
-	Postal cards
-Posters
-	Billboard posters
-	Book & magazine posters
-	Exhibition posters
-	Performing arts posters
-	Political posters
-	Sports posters
-	Stock posters
-	Travel posters
-	Wanted posters
-	War posters
-Postmortem photographs
-	{Death portraits}
-	{Post-mortem photographs}
-Poupée prints
-	{A la poupée prints}
-Premiums
-	{Give-aways}
-Presentation albums
-Presentation drawings
-	{Presentation drawings}
-Presentation drawings
-	{Display drawings}
-	{Drawings, Presentation}
-	{Presentation drawings}
-Press clippings
-	{Clippings}
-Pressbooks
-	{Campaign books}
-	{Showman's manuals}
-Price lists
-Primuline process prints
-	{Diazotypes}
-Printed ephemera
-	{Ephemera}
-Printing-out paper prints, Silver
-	{Silver printing-out paper prints}
-Printing blocks
-	{Blocks, Printing}
-	Linoleum blocks
-	Wood blocks
-Printing plates
-	{Plates, Printing}
-	Niello printing plates
-	Plastic printing plates
-Printing stones
-	{Lithographic stones}
-	{Stones, Printing}
-Printmaking equipment
-	Printing blocks
-	Printing plates
-	Printing stones
-	Stencils
-Prints
-	A la poupée prints
-	Abstract prints
-	Allegorical prints
+		Progress photographs
+	Aristotypes
+	Armorial bearings
+		{Coats of arms}
+	Armorial bookplates
+		{Heraldic bookplates}
+	Art by children
+		{Children's art}
+	Art exhibition posters
+		{Exhibition posters}
+	Art reproductions
+	Artists' devices
+		{Devices Artists'}
+		{Symbols Artists'}
+	Artists' early works
+		{Juvenilia}
 	Artists' proofs
+	Artists' signatures
+	Artotypes
+		{Collotypes}
+	As-built drawings
+		{Drawings As-built}
+	Auction catalogs
+	Audiocassettes
+		{Audio cassettes}
+		{Cassettes Audio}
+	Audiotapes
+		{Audio tapes}
+		Audiocassettes
+	Autochromes
+	Autographs
+		Artists' signatures
+	Autotypes
+		{Carbon prints}
+	Avant des lettres prints
+		{Proofs before letters}
+	Awards of merit
+		{Rewards of merit}
+	Axonometric projections
+		Isometric projections
+	Badges
+		{Ribbon badges}
+		Buttons
+	Bags
+		{Sacks}
+	Balloon views
+		{Aerial views}
+		{Bird's-eye views}
+		{Panoramic views}
+	Ballots
+		{Election tickets}
+	Bank note vignettes
+		{Security engravings}
+	Bank notes
+	Banners
+	Banquet camera photographs
+	Baptismal certificates
+	Baseball cards
 	Baxter-process prints
 	Baxter prints
+	Beefcake photographs
+		{Glamour photographs}
+	Before & after views
+		{Then & now comparisons}
+	Bellmen's verses
+		{Carriers' addresses}
+	Bible cards
+		{Scripture cards}
+		{Sunday school cards}
+	Bilderbogen
+	Billboard posters
+	Billheads
+	Bills of fare
+		{Menus}
 	Bird's-eye view prints
-	Cast paper prints
-	Cellocuts
-	Chine collé prints
-	Cityscape prints
-	Cloth prints
-	Collagraphs
-	Commemorative prints
-	Costume prints
-	Counterproofs
-	Digital prints
-	Embossed prints
-	Fashion prints
-	Fish prints
-	Genre prints
-	Intaglio prints
-	Landscape prints
-	Marine prints
-	Naval prints
-	Photomechanical prints
-	Planographic prints
-	Portrait prints
-	Progressive proofs
-	Proofs before letters
-	Relief prints
-	Reproductive prints
-	Restrikes
-	Seascape prints
-	Still life prints
-	Trial proofs
-	Vues d'optique
-Prints, Contact
-	{Contact prints}
-Process line engravings
-	{Line photoengravings}
-Process prints
-	{Photomechanical prints}
-Production drawings
-	{Design drawings}
-	{Diagrams}
-Production stills
-	{Film stills}
-Programs
-	Theater programs
-Progress photographs
-	{Construction progress photographs}
-Progressive proofs
-	{Successive proofs}
-Projections
-	Axonometric projections
-	Elevations
-	Exploded drawings
-	Perspective projections
-	Plans
-	Sciagraphic projections
-	Sections
-Promenade card photographs
-Promotional materials
-Promotional photographs
-	{Publicity photographs}
-Proof sheets
-	{Contact sheets}
-Proofs
-	Artists' proofs
-	Cancellation proofs
-	Contact prints
-	Counterproofs
-	Progressive proofs
-	Proofs before letters
-	Trial proofs
-Proofs before letters
-	{Avant des lettres prints}
-Propaganda posters
-	{Political posters}
-Proposed works
-Protest posters
-	{Revolutionary posters}
-Protest works
-	Protest posters
-Publicity photographs
-	{Head shots}
-	{Promotional photographs}
-	{Publicity stills}
-	Glamour photographs
-Publicity stills
-	{Publicity photographs}
-Pulsed-light photographs
-	{Motion study photographs}
-Puns
-	{Puns}
-Puns
-	{Puns}
-Puzzles
-	Jigsaw puzzles
-	Mazes
-	Picture puzzles
-Quadichromes
-	{Fresson prints}
-Racial stereotypes
-	{Ethnic stereotypes}
-Radio photographs
-Radiographs
-	{X-ray photographs}
-Ration stamps
-	{Coupons}
-Rayographs
-	{Photograms}
-RC paper prints
-	{Resin-coated paper prints}
-Re-creations
-	{Reconstructions}
-Real photo postcards
-	{Photographic postcards}
-Ream wrappers
-Rebuses
-Reconstructions
-	{Re-creations}
-Record covers
-	{Album covers}
-Record drawings
-	{Drawings of record}
-Record jackets
-	{Album covers}
-Records
-	{Documents}
-Recreations
-	{Conjectural works}
-Reflectographs
-	{Crystoleums}
-Register marks
-	{Registration marks}
-Registration marks
-	{Register marks}
-Relief printed etchings
-Relief prints
-	{Block prints}
-	Cerographs
-	Letterpress works
-	Linocuts
-	Metal cuts
-	Relief printed etchings
-	Rubbings
-	Wood engravings
-	Woodcuts
-Religious calendars
-Religious pictures
-	{Devotional images}
-Remarques
-Renderings
-Reproductions
-	{Copies}
-	Art reproductions
+		{Panoramic maps}
+	Bird's-eye views
+		{Balloon views}
+		{Views Bird's-eye}
+		Bird's-eye view prints
+	Birth certificates
+	Birthday cards
+	Black-and-white prints
+		{Photographic prints}
+	Black & white photographs
+	Black light works
+		{Luminescent works}
+	Black line prints
+		{Diazotypes}
+	Blind embossed prints
+		{Inkless intaglio prints}
+	Blind stamps
+		{Stamps Blind}
+	Block prints
+		{Relief prints}
+	Blocks Printing
+		{Printing blocks}
+	Blue line prints
+		{Diazotypes}
 	Blueprints
-	Facsimiles
-	Reproductive prints
-	Restrikes
-	Stats
-	Thermal copies
-Reproductive prints
-Resin-coated paper prints
-	{RC paper prints}
-	{Resin-coated paper photoprints}
-Restrikes
-Revenue stamps
-	{Tax stamps}
-Reversible head prints
-	{Metamorphic pictures}
-Revolutionary posters
-	{Protest posters}
-Reward posters
-	{Wanted posters}
-Rewards of merit
-	{Awards of merit}
-Ribbon badges
-	{Badges}
-Rings
-	{Finger rings}
-Rock and roll posters
-	{Rock posters}
-Rock posters
-	{Rock and roll posters}
-Rolls
-	{Scrolls}
-Rotogravures
-	{Gravures}
-Rubbings
-Sabattier effect photographs
-	{Solarization photographs}
-Sacks
-	{Bags}
-Safety film negatives
-	Acetate negatives
-	Polyester negatives
-Sailing cards
-	{Ship cards}
-	Clipper ship cards
-Sales catalogs
-	{Commercial catalogs}
-	Trade catalogs
-Salt prints
-	{Salted paper prints}
-Salted paper prints
-	{Salt prints}
-	{Salted paper photoprints}
-	Crystalotypes
-Sample books
-	{Specimen books}
-Samples
-	Sample books
-Satires
-	{Satires}
-Satires
-	{Satires}
-Satista prints
-	{Silver platinum prints}
-Scenic wallpapers
-Schadographs
-	{Photograms}
-Schedules
-	{Schedules}
-Schedules
-	{Schedules}
-Schedules
-	{Schedules}
-Schedules
-	{Schedules}
-	Timetables
-Scherenschnitte
-	{Cut-paper works}
-Sciagraphic projections
-	{Shades & shadows}
-Scientific illustrations
-	{Technical drawings}
+	Boards Game
+		{Gameboards}
+	Bonds
+		{Bonds}
+	Bonds
+		{Bonds}
+	Book & magazine posters
+		{Magazine posters}
+		{Newspaper posters}
+		{Periodical posters}
+	Book covers
+	Book illustrations
+		{Pamphlet illustrations}
+	Book jackets
+		{Book wrappers}
+		{Dust jackets}
+		{Jackets Book}
+	Book plates
+		{Bookplates}
+	Book wrappers
+		{Book jackets}
+	Booklets
+		{Leaflets}
+		{Pamphlets}
+		{Viewbooks}
+	Bookmarks
+	Bookplates
+		{Book plates}
+		{Ex libris}
+		Armorial bookplates
+	Books
+		Almanacs
+		Encyclopedias & dictionaries
+		Flip books
+		Registers
+		Religious books
+		Telephone directories
+	Botanical drawings
+		{Botanical illustrations}
 	Botanical illustrations
+		{Botanical drawings}
+		{Drawings Botanical}
+	Boudoir card photographs
+	Boudoir photographs
+		{Glamour photographs}
+	Broadsheets
+		{Broadsides}
+	Broadsides
+		{Broadsheets}
+		Handbills
+		Playbills
+		Wanted posters
+	Brochures
+		{Leaflets}
+	Bromide prints
+		{Gelatin silver prints}
+	Bromoil prints
+		{Bromoil photoprints}
+	Brooches
+	Brown line prints
+		{Diazotypes}
+	Brownprints
+		{Kallitypes}
+	Brush works
+	Bubble gum cards
+		{Sports cards}
+	Bubble jet prints
+		{Inkjet prints}
+	Bumper stickers
+	Burlesque posters
+		{Theatrical posters}
+	Business cards
+		{Tradecards}
+	Button badges
+		{Buttons}
+	Buttons
+		{Buttons}
+		{Buttons}
+	Buttons
+		{Buttons}
+	Buttons
+		{Button badges}
+		{Buttons}
+	Cabinet card photographs
+		{Cabinet photographs}
+	Cabinet cards
+		{Cabinet photographs}
+	Cabinet photographs
+		{Cabinet card photographs}
+		{Cabinet cards}
+	CAD drawings
+		{Computer-aided designs}
+	Calendars
+		Perpetual calendars
+		Religious calendars
+	Calligrams
+		{Letter pictures}
+	Calling cards
+		{Visiting cards}
+	Callitypes
+		{Kallitypes}
+	Calotypes
+		{Talbotypes}
+	Cameos
+	Camera lucida works
+	Camera obscura works
+	Campaign books
+		{Pressbooks}
+	Campaign posters
+		{Political posters}
+	Cancellation proofs
+		{Cancelled plate prints}
+	Cancelled plate prints
+		{Cancellation proofs}
+	Candid portraits
+		{Portrait photographs}
+	Carbon prints
+		{Autotypes}
+		{Carbon photoprints}
+		{Chromotypes}
+		{Lambertypes}
+		Carbro prints
+	Carbon transparencies
+	Carborundum prints
+	Carbro prints
+		{Carbro photoprints}
+		{Ozobrome photoprints}
+		{Ozobrome prints}
+		Tricolor carbro prints
+	Card photograph albums
+		{Cartes de visite albums}
+	Card photographs
+		Boudoir card photographs
+		Cabinet photographs
+		Cartes de visite
+		Imperial card photographs
+		Kodak card photographs
+		Panel card photographs
+		Promenade card photographs
+		Victoria card photographs
+	Cards
+		Advertising cards
+		Business cards
+		Collecting cards
+		Comic cards
+		Dance cards
+		Display cards
+		Membership cards
+		Playing cards
+		Postcards
+		Sentiment cards
+		Speakeasy cards
+		Sports cards
+		Visiting cards
+	Cards Window
+		{Window cards}
+	Caricatures
+		{Stereotypes}
+	Carnival posters
+		{Circus posters}
+	Cartes de visite
+	Cartes de visite
+		{Visiting cards}
+	Cartes de visite albums
+		{Card photograph albums}
+	Cartoon cels
+		{Animation cels}
+	Cartoon patterns
+		{Cartoons}
+	Cartoon strips
+		{Comics}
+	Cartoons
+		{Cartoons}
+	Cartoons
+		{Cartoons}
+		{Comic pictures}
+		Caricatures
+		Comic cards
+		Comics
+		Editorial cartoons
+		Political cartoons
+		Satires
+	Cartoons
+		{Cartoon patterns}
+	Cartouches
+	Cased photographs
+		{Ambrotypes}
+		{Daguerreotypes}
+		{Photograph cases}
+	Casein paintings
+	Cases Photograph
+		{Union cases}
+	Cast paper prints
+	Catalogs
+		{Catalogues}
+		Auction catalogs
+		Exhibition catalogs
+		Sales catalogs
+	Catalogues
+		{Catalogs}
+	Cellocuts
+	Cellulose acetate negatives
+		{Acetate negatives}
+	Cellulose diacetate negatives
+		{Acetate negatives}
+	Cellulose nitrate negatives
+		{Nitrate negatives}
+	Cellulose triacetate negatives
+		{Acetate negatives}
+	Cels Animation
+		{Animation cels}
+	Censored works
+	Ceramic photographs
+		{Photoceramics}
+		{Porcelain photographs}
+	Cerographs
+		{Glyphographs}
+		{Wax engravings}
+	Certificates
+		Baptismal certificates
+		Birth certificates
+		Bonds
+		Death certificates
+		Diplomas
+		Insurance certificates
+		Marriage certificates
+		Membership certificates
+		Stock certificates
+	Chalk drawings
+		A trois crayons drawings
+	Charcoal drawings
+	Charters
+	Charts
+		Calendars
+		Family trees
+		Schedules
+		Schedules
+		Seating charts
+	Cheesecake photographs
+		{Glamour photographs}
+	Chiaroscuro woodcuts
+	Children's art
+		{Art by children}
+		{Children's works}
+		{Juvenile art}
+	Children's comics
+	Children's works
+		{Children's art}
+		{Juvenilia}
+	Chine collé prints
+	Chloride prints
+		{Photographic prints}
+	Chloro-bromide prints
+		{Gelatin silver prints}
+	Chlorophyll prints
+		{Leaf photographs}
+		{Leaf prints}
+	Chops
+	Christmas cards
+	Chromo-photographs
+		{Crystoleums}
+	Chromolithographs
+		Oleographs
+	Chromotypes
+		{Carbon prints}
+	Chronophotographs
+		{Motion study photographs}
+	Cibachrome prints
+		{Dye destruction prints}
+	Cigar bands
+	Cigarette cards
+		{Tobacco cards}
+	Circulars
+	Circus posters
+		{Carnival posters}
+		{Wild west show posters}
+	Cirkut camera photographs
+		{Panoramic photographs}
+	City planning drawings
+		{Planning drawings}
+	City views
+		{Cityscapes}
+	Cityscape drawings
+	Cityscape paintings
+	Cityscape photographs
+	Cityscape prints
+	Cityscapes
+		{City views}
+		{Skyline views}
+		{Topographical views}
+		{Townscapes}
+		{Views City}
+		Cityscape drawings
+		Cityscape paintings
+		Cityscape photographs
+		Cityscape prints
+	Civil War envelopes
+		{Patriotic envelopes}
+	Clichés-verre
+		{Glass prints}
+	Clipper ship cards
+		{Yankee clipper cards}
+	Clippings
+		{Newspaper clippings}
+		{Press clippings}
+		Tear sheets
+	Cloth photographs
+		{Collodion positive photographs}
+	Cloth prints
+	Coats of arms
+		{Armorial bearings}
+		{Heraldic devices}
+	Collages
+	Collagraphs
+		{Collographs}
+	Collecting cards
+		{Trading cards}
+		Album cards
+	Collectors' marks
+	Collodio-chloride prints
+		{Collodion printing-out paper prints}
+	Collodion dry plate negatives
+		{Dry collodion negatives}
+	Collodion negatives
+		{Dry collodion negatives}
+		{Wet collodion negatives}
+	Collodion positive photographs
+		{Ambrotypes}
+		{Cloth photographs}
+		{Collodion transparencies}
+		{Leather photographs}
+		{Tintypes}
+	Collodion printing-out paper prints
+		{Collodio-chloride prints}
+		{Collodion printing-out paper photoprints}
+		Aristotypes
+	Collodion transparencies
+		{Collodion positive photographs}
+	Collographs
+		{Collagraphs}
+	Collotypes
+		{Albertypes}
+		{Artotypes}
+		{Heliotypes}
+	Color circles
+		{Color wheels}
+	Color photographs
+	Color screen transparencies
+		{Screen color film transparencies}
+		{Screen color glass transparencies}
+	Color separation negatives
+		{Separation negatives}
+	Color separation positives
+		{Color separation transparencies}
+		{Positives Color separation}
+		{Postitives Color separation}
+		{Postives Color separation}
+		{Separation positives Color}
+		{Separation transparencies Color}
+	Color separation transparencies
+		{Color separation positives}
+	Color wheels
+		{Color circles}
+		{Wheels Color}
+	Combination prints
+		{Composite photographs}
+	Comic books
+		{Manga}
+	Comic cards
+	Comic pictures
+		{Cartoons}
+		{Humorous pictures}
+	Comic strips
+		{Comics}
+	Comics
+		{Cartoon strips}
+		{Comic strips}
+		Adventure comics
+		Children's comics
+		Comic books
+		Underground comics
+	Commemorative prints
+	Commercial art design drawings
+		{Graphic design drawings}
+	Commercial catalogs
+		{Sales catalogs}
+	Comparisons Then & now
+		{Then & now comparisons}
+	Competition drawings
+		{Drawings Competition}
+	Composite drawings
+	Composite photographs
+		{Combination prints}
+		{Simulated images}
+	Composition cases
+		{Union cases}
+	Computer-aided designs
+		{CAD drawings}
+	Computer-generated prints
+		{Digital prints}
+	Computer graphics
+		{Simulated images}
+		Computer-aided designs
+	Concealed camera photographs
+		{Detective camera photographs}
+	Concert posters
+		{Music posters}
+		Rock posters
+	Conjectural works
+		{Historical studies}
+		{Imaginary views}
+		{Recreations}
+	Construction progress photographs
+		{Progress photographs}
+	Contact prints
+		{Lumiprints}
+		{Prints Contact}
+		Chlorophyll prints
+		Contact sheets
+	Contact sheets
+		{Proof sheets}
+	Contract drawings
+		{Drawings Contract}
+	Copies
+		{Reproductions}
+	Copy art
+		{Xerographic art}
+	Corner cards
+	Costume design drawings
+	Costume prints
+	Counterfeits
+		{Forgeries}
+	Counterproofs
+	Coupons
+		{Ration stamps}
+	Courtroom art
+		{Courtroom sketches}
+	Courtroom illustrations
+		{Courtroom sketches}
+	Courtroom sketches
+		{Courtroom art}
+		{Courtroom illustrations}
+		{Trial sketches}
+	Covers
+		{Illustrated covers}
+		Album covers
+		Book covers
+		Magazine covers
+	Covers Album
+		{Album covers}
+	Covers Illustrated
+		{Pictorial envelopes}
+	Covers Magazine
+		{Magazine covers}
+	Covers Patriotic
+		{Patriotic envelopes}
+	Covers Record
+		{Album covers}
+	Covers Sheet music
+		{Sheet music covers}
+	Crate labels Fruit
+		{Fruit crate labels}
+	Crayon drawings
+		{Conté crayon drawings}
+	Crayon enlargements
+		{Crayon photographic prints}
+		{Crayon prints}
+	Crayon manner prints
+	Crayon photographic prints
+		{Crayon enlargements}
+	Crayon prints
+		{Crayon enlargements}
+	Criblée prints
+		{Dotted prints}
+	Cries
+		{Street cries}
+	Crime photographs
+		{Forensic photographs}
+	Crystalographs
+		{Crystoleums}
+	Crystalotypes
+	Crystoleum photographs
+		{Crystoleums}
+	Crystoleum plates
+		{Crystoleums}
+	Crystoleums
+		{Chromo-photographs}
+		{Crystalographs}
+		{Crystoleum photographs}
+		{Crystoleum plates}
+		{Reflectographs}
+	Currency
+		{Money}
+	Cut-out figures
+		{Cutouts}
+	Cut-paper works
+		{Paper cut-outs}
+		{Scherenschnitte}
+		{Scissorcraft}
+	Cutaway drawings
+		{Drawings Cutaway}
+	Cutouts
+		{Cut-out figures}
+		{Figures Cut-out}
+		{Life-size cutouts}
+		{Paper cut-outs}
+	Cyanotypes
+		Blueprints
+	Daguerreotypes
+		{Cased photographs}
+	Dance cards
+	Dance posters
+	Dealers' marks
+	Death certificates
+	Death portraits
+		{Postmortem photographs}
+	Decals
+	Decorations
+		{Ornaments}
+		Artificial flowers
+		Artificial plants
+		Cartouches
+		Dried plant arrangements
+		Festive decorations
+		Flower arrangements
+		Ribbons
+		Scraps
+		Table settings & decorations
+		Wreaths
+	Design drawings
+		{Drawings Design}
+		{Production drawings}
+		Architectural drawings
+		Competition drawings
+		Contract drawings
+		Costume design drawings
+		Electrical systems drawings
+		Engineering drawings
+		Fashion design drawings
+		Graphic design drawings
+		Industrial design drawings
+		Interior design drawings
+		Landscape architecture drawings
+		Measured drawings
+		Mechanical drawings
+		Mechanical systems drawings
+		Naval architecture drawings
+		Patent drawings
+		Pattern books
+		Pattern sheets
+		Planning drawings
+		Planting drawings
+		Presentation drawings
+		Proposed works
+		Record drawings
+		Renderings
+		Set design drawings
+		Site plans
+		Storyboards
+		Structural drawings
+		Studies
+		Textile design drawings
+		Working drawings
+	Details
+	Detective camera photographs
+		{Concealed camera photographs}
+		{Vest camera photographs}
+	Devices Artists'
+		{Artists' devices}
+	Devotional images
+		{Holy cards}
+		{Religious pictures}
+		{Sunday school cards}
+		Bible cards
+		Mizriha'ot
+	Diacetate negatives
+		{Acetate negatives}
+	Diagrams
+		{Production drawings}
+		{Technical drawings}
+		Charts
+		Graphs
+	Diaries
+		{Journals}
+	Diazo prints
+		{Diazotypes}
+	Diazotypes
+		{Black line prints}
+		{Blue line prints}
+		{Brown line prints}
+		{Diazo prints}
+		{Dyelines}
+		{Ozalids}
+		{Primuline process prints}
+		{White prints}
+		{Whiteprints}
+	Digital images
+		Computer graphics
+		Digital photographs
+		Grayscale digital images
+	Digital photographs
+	Digital prints
+		{Computer-generated prints}
+		Inkjet prints
+	Diplomas
+	Diptychs
+	Direct-mail advertising
+		{Direct mail}
+	Direct mail
+		{Advertising mail}
+		{Direct-mail advertising}
+		{Junk mail}
+	Display cards
+		Lobby cards
+		Window cards
+	Display drawings
+		{Presentation drawings}
+	Documents
+		{Records}
+		Charters
+		Manuscripts
+		Typescripts
+	Dog tags
+	Dotted prints
+		{Criblée prints}
+		{Manière criblée prints}
+	Drawings
+		Abstract drawings
+		Allegorical drawings
+		Chalk drawings
+		Charcoal drawings
+		Cityscape drawings
+		Composite drawings
+		Crayon drawings
+		Cutaway drawings
+		Figure drawings
+		Genre drawings
+		Graphite drawings
+		Ink drawings
+		Landscape drawings
+		Marine drawings
+		Metalpoint drawings
+		Pastels
+		Portrait drawings
+		Scratchboard drawings
+		Seascape drawings
+		Still life drawings
+		Tracings
+		Wash drawings
+	Drawings of record
+		{Record drawings}
+	Drawings Architectural
+		{Architectural drawings}
+	Drawings As-built
+		{As-built drawings}
+	Drawings Botanical
+		{Botanical illustrations}
+	Drawings Competition
+		{Competition drawings}
+	Drawings Contract
+		{Contract drawings}
+	Drawings Cutaway
+		{Cutaway drawings}
+	Drawings Design
+		{Design drawings}
+	Drawings Electrical systems
+		{Electrical systems drawings}
+	Drawings Engineering
+		{Engineering drawings}
+	Drawings Exploded
+		{Exploded drawings}
+	Drawings Framing
+		{Framing drawings}
+	Drawings Landscape architecture
+		{Landscape architecture drawings}
+	Drawings Measured
+		{Measured drawings}
+	Drawings Mechanical
+		{Mechanical drawings}
+	Drawings Mechanical systems
+		{Mechanical systems drawings}
+	Drawings Medical
+		{Medical illustrations}
+	Drawings Naval architecture
+		{Naval architecture drawings}
+	Drawings Patent
+		{Patent drawings}
+	Drawings Planning
+		{Planning drawings}
+	Drawings Presentation
+		{Presentation drawings}
+	Drawings Structural
+		{Structural drawings}
+	Drawings Structural systems
+		{Structural systems drawings}
+	Drawings Working
+		{Working drawings}
+	Dried plant arrangements
+		Skeleton leaf arrangements
+	Dry collodion negatives
+		{Collodion dry plate negatives}
+		{Collodion negatives}
+	Dry plate negatives
+		{Gelatin dry plate negatives}
+		{Silver gelatin glass negatives}
+		Dry collodion negatives
+	Drypoints
+	Dufay color transparencies
+		{Screen color film transparencies}
+	Duotone photomechanical prints
+	Dust jackets
+		{Book jackets}
+	Dye coupler negatives
+		{Ektacolor negatives}
+		{Fujicolor negatives}
+		{Kodacolor negatives}
+	Dye coupler prints
+		{Dye coupler photoprints}
+		{Type C prints}
+		{Type R prints}
+	Dye destruction prints
+		{Cibachrome prints}
+		{Dye destruction photoprints}
+		{Silver dye bleach prints}
+	Dye diffusion transfer prints
+		{Dye diffusion transfer photoprints}
+		{Kodak instant color prints}
+		{Polaroid instant color prints}
+	Dye transfer prints
+		{Dye transfer photoprints}
+		{Imbibition process prints}
+		{Pinatypes}
+	Dyelines
+		{Diazotypes}
+	Easter cards
+	Editions Limited
+		{Limited editions}
+	Editorial cartoons
+	Ektachrome transparencies
+		{Dye coupler transparencies}
+	Ektacolor negatives
+		{Dye coupler negatives}
+	Election posters
+		{Political posters}
+	Election tickets
+		{Ballots}
+	Electrical systems drawings
+		{Drawings Electrical systems}
+	Electronic images
+		{Images Electronic}
+		Digital images
+		Transmitted images
+	Electrostatic photocopies
+		{Photocopies}
+	Elevations
+	Emblem pictures
+		{Motto prints}
+	Emblems
+		Artists' devices
+		Cameos
+		Coats of arms
+		Escutcheons
+		Fleur-de-lis
+		Insignia
+		National emblems
+	Embossed prints
+		Inkless intaglio prints
+	Embossed works
+		Embossed prints
+	Engineering drawings
+		{Drawings Engineering}
+	Engravings
+		Steel engravings
+		Stipple engravings
+	Engravings Steel
+		{Steel engravings}
+	Engravings Wood
+		{Wood engravings}
+	Entertainment posters
+		{Performing arts posters}
+	Envelopes
+		Pictorial envelopes
+	Ephemera
+		{Printed ephemera}
+		Advertisements
+		Announcements
+		Badges
+		Ballots
+		Bookmarks
+		Broadsides
+		Cards
+		Carriers' addresses
+		Certificates
+		Checks
+		Coupons
+		Credit cards
+		Fans
+		Fliers
+		Forms
+		Game pieces
+		Gameboards
+		Handkerchiefs
+		Invitations
+		Keepsakes
+		Labels
+		Lottery tickets
+		Memorabilia
+		Menus
+		Money
+		Packaging
+		Paper toys
+		Postage stamps
+		Premiums
+		Presentation albums
+		Price lists
+		Programs
+		Puzzles
+		Rewards of merit
+		Samples
+		Schedules
+		Scrapbooks
+		Scraps
+		Signs
+		Souvenirs
+		Stationery
+		Tickets
+		Viewbooks
+		Wallpapers
+		Watch papers
+	Equipment
+		{Household equipment}
+		{Household goods}
+		{Implements}
+		{Tools}
+		Accessories
+		Agricultural equipment
+		Airplane equipment
+		Animal equipment
+		Anvils
+		Appliances
+		Arms & armament
+		Arrowheads
+		Artists' materials
+		Automobile equipment & supplies
+		Barbecue grills
+		Bellows
+		Belts & belting
+		Bird feeders
+		Booby traps
+		Butcher blocks
+		Cattle brands
+		Chains
+		Churns
+		Clocks & watches
+		Clotheslines
+		Coat hangers
+		Communication devices
+		Construction equipment
+		Containers
+		Cooking utensils
+		Corkscrews
+		Cradleboards
+		Cutlery
+		Diving boards
+		Dollies
+		Dressing & grooming equipment
+		Drills
+		Electric batteries
+		Electric lines
+		Electric switches
+		Exercise equipment & supplies
+		Explosives
+		Fasteners
+		Fishing & hunting gear
+		Flight simulators
+		Flypaper
+		Forks
+		Funnels
+		Gadgets
+		Gallows
+		Gardening equipment & supplies
+		Gas masks
+		Gavels
+		Glassware
+		Hand tools
+		Harnesses
+		Hoses
+		Irons
+		Kilns
+		Kites
+		Ladders
+		Lasers
+		Lighting
+		Machinery
+		Mannequins
+		Matches
+		Mechanical systems components
+		Medical equipment & supplies
+		Metronomes
+		Mining equipment
+		Molds
+		Mousetraps
+		Music stands
+		Musical instruments
+		Nets
+		Office equipment & supplies
+		Optical devices
+		Ovens
+		Oxygen masks
+		Pacifiers
+		Paper products
+		Paravanes
+		Photographic apparatus & supplies
+		Physical restraints
+		Pipes
+		Pistons & piston rings
+		Playground equipment
+		Polygraphs
+		Power outlets
+		Printmaking equipment
+		Prospecting equipment & supplies
+		Punishment devices
+		Racks
+		Ropes
+		Safety equipment
+		Sawhorses
+		Saws
+		Scaffolding
+		Scientific equipment
+		Security systems
+		Sewing equipment & supplies
+		Sharpening & honing tools
+		Ship equipment & rigging
+		Slingshots
+		Snowshoes
+		Soda fountains
+		Sound equipment & supplies
+		Spinning apparatus
+		Spoons
+		Sporting goods
+		Sprinklers
+		Spurs
+		Staffs
+		Stills
+		Stilts
+		Stoves
+		Templates
+		Twine
+		Umbrellas
+		Vehicles
+		Vices
+		Washboards
+		Weights & measures
+		Whips
+		Wire
+		Wrecking balls
+		Writing materials
+		Yokes
+	Erotica
+	Etchings
+		Soft-ground etchings
+	Ethnic stereotypes
+		{National stereotypes}
+		{Racial stereotypes}
+		{Stereotypes Ethnic}
+	Ethnographic photographs
+		{Anthropological photographs}
+		{Ethnological photographs}
+	Ethnological photographs
+		{Ethnographic photographs}
+	Evidence photographs
+		{Forensic photographs}
+	Ex libris
+		{Bookplates}
+	Exhibit posters
+		{Exhibition posters}
+	Exhibition catalogs
+	Exhibition posters
+		{Art exhibition posters}
+		{Exhibit posters}
+	Exotic works
+		{Novelty works}
+	Expedition photographs
+		{Exploration photographs}
+	Exploded drawings
+		{Drawings Exploded}
+	Exploration photographs
+		{Expedition photographs}
+	Fabric design drawings
+		{Textile design drawings}
+	Facsimile transmission images
+		{Transmitted images}
+	Facsimiles
+	Family records Pictorial
+		{Family trees}
+	Family registers Pictorial
+		{Family trees}
+	Family trees
+		{Family records Pictorial}
+		{Family registers Pictorial}
+		{Genealogical tables}
+		{Pictorial family records}
+	Fans
+	Fashion design drawings
+	Fashion photographs
+	Fashion plates
+	Fashion prints
+	Female figure drawings
+	Ferrotypes
+		{Tintypes}
+	Fiche
+		{Microfiche}
+	Fiches
+		{Microfiche}
+	Figure drawings
+		{Studies Figure}
+		Female figure drawings
+		Male figure drawings
+	Figures Cut-out
+		{Cutouts}
+	Film negatives
+		Color separation negatives
+		Dye coupler negatives
+		Gelatin silver film negatives
+		Halftone negatives
+		Nitrate negatives
+		Safety film negatives
+	Film posters
+		{Motion picture posters}
+	Film stills
+		{Motion picture stills}
+		{Movie stills}
+		{Production stills}
+		{Stills}
+	Film transparencies
+		Color separation positives
+		Dye coupler transparencies
+		Gelatin silver film transparencies
+		Radiographs
+		Screen color film transparencies
+	Fire insurance maps
+	Fish-eye photographs
+		{Fisheye photographs}
+	Fish-eye views
+		{Fisheye views}
+	Fish impressions
+		{Fish prints}
+	Fish prints
+		{Fish impressions}
+		{Fish rubbings}
+		{Gyotaku}
+	Fish rubbings
+		{Fish prints}
+	Fisheye photographs
+		{Fish-eye photographs}
+	Fisheye views
+		{Fish-eye views}
+		Fisheye photographs
+	Flash photographs
+	Fliers
+		{Fliers}
+		{Flyers}
+		Circulars
+		Handbills
+	Flip books
+		{Flipbooks}
+	Flipbooks
+		{Flip books}
+	Floating world prints
+		{Ukiyo-e}
+	Floor plans
+	Fluorescent works
+		{Luminescent works}
+	Flyers
+		{Fliers}
+	Forensic photographs
+		{Crime photographs}
+		{Evidence photographs}
+		{Legal photographs}
+		{Police photographs}
+		{Surveillance photographs}
+	Forgeries
+		{Counterfeits}
+	Formation photographs
+	Forms
+		{Forms}
+	Forms
+		{Forms}
+	Fortune telling cards
+		Tarot cards
+	Fractur
+		{Frakturs}
+	Fraktur
+		{Frakturs}
+	Frakturs
+		{Fractur}
+		{Fraktur}
+	Framing drawings
+		{Drawings Framing}
+	French tissues
+		{Tissue stereographs}
+	Fresson prints
+		{Quadichromes}
+	Frontispieces
+	Fruit box labels
+		{Fruit crate labels}
+	Fruit crate labels
+		{Crate labels Fruit}
+		{Fruit box labels}
+	Fujichrome transparencies
+		{Dye coupler transparencies}
+	Fujicolor negatives
+		{Dye coupler negatives}
+	Game boards
+		{Gameboards}
+	Game cards
+	Game pieces
+		{Pieces Game}
+		{Playing pieces}
+		Puzzles
+	Gameboards
+		{Boards Game}
+		{Game boards}
+	Gaslight prints
+		{Gelatin silver prints}
+	Gelatin dry plate negatives
+		{Dry plate negatives}
+	Gelatin silver film negatives
+		{Silver gelatin film negatives}
+	Gelatin silver film transparencies
+		{Gelatin silver transparencies}
+		{Silver gelatin film transparencies}
+	Gelatin silver glass transparencies
+		{Gelatin silver transparencies}
+		{Silver gelatin glass transparencies}
+	Gelatin silver printing-out paper prints
+		{Silver gelatin printing-out paper photoprints}
+		{Silver gelatin printing-out paper prints}
+		{Studio proof paper prints}
+		Aristotypes
+	Gelatin silver prints
+		{Bromide prints}
+		{Chloro-bromide prints}
+		{Gaslight prints}
+		{Silver gelatin photoprints}
+		{Silver gelatin prints}
+		Resin-coated paper prints
+	Gelatin silver transparencies
+		{Gelatin silver film transparencies}
+		{Gelatin silver glass transparencies}
+	Gem photographs
+	Genealogical tables
+		{Family trees}
+	Genre drawings
+	Genre paintings
+	Genre photographs
+	Genre prints
+	Genre works
+		Cries
+		Genre drawings
+		Genre paintings
+		Genre photographs
+		Genre prints
+	Ghost photographs
+		{Spirit photographs}
+	Give-aways
+		{Premiums}
+	Glamour photographs
+		{Beefcake photographs}
+		{Boudoir photographs}
+		{Cheesecake photographs}
+		{Pinup photographs}
+	Glass negatives
+		Dry plate negatives
+		Wet collodion negatives
+	Glass prints
+		{Clichés-verre}
+	Glass transparencies
+		Albumen transparencies
+		Carbon transparencies
+		Collodion transparencies
+		Gelatin silver glass transparencies
+		Lantern slides
+		Screen color glass transparencies
+	Glow-in-the-dark works
+		{Luminescent works}
+	Glyphographs
+		{Cerographs}
+	Gouache drawings
+		{Gouaches}
+	Gouache paintings
+		{Gouaches}
+	Gouaches
+		{Gouache drawings}
+		{Gouache paintings}
+	Graphic design drawings
+		{Commercial art design drawings}
+		Covers
+		Lettering
+	Graphite drawings
+	Graphs
+		Histograms
+	Gravures
+		{Photogravures}
+		{Rotogravures}
+	Grayscale digital images
+		{Gray scale digital images}
+		{Grey scale digital images}
+		{Greyscale digital images}
+	Greeting cards
+		Birthday cards
+		Christmas cards
+		Easter cards
+		New Year cards
+		Valentines
+	Group portraits
+		Formation photographs
+	Gum bichromate prints
+		{Gum bichromate photoprints}
+		{Gum prints}
+	Gum prints
+		{Gum bichromate prints}
+	Gutta-percha photograph cases
+		{Union cases}
+	Gyotaku
+		{Fish prints}
+	Hairwork jewelry
+	Halftone negatives
+	Halftone photomechanical prints
+		Duotone photomechanical prints
+	Handbills
+	Handkerchiefs
+	Head shots
+		{Publicity photographs}
+	Heating ventilating & air conditioning drawings
+		{HVAC drawings}
+	Heliogravures
+		{Photogravures}
+	Heliotypes
+		{Collotypes}
+	Heraldic bookplates
+		{Armorial bookplates}
+	Heraldic devices
+		{Coats of arms}
+	Hidden image works
+		Hold-to-light works
+	Histograms
+	Historical studies
+		{Conjectural works}
+	Hold-to-light works
+	Holograms
+		{Laser photographs}
+		{Three-dimensional photographs}
+	Holy cards
+		{Devotional images}
+	Humorous pictures
+		{Comic pictures}
+	HVAC drawings
+		{Air conditioning heating & ventilating drawings}
+		{Heating ventilating & air conditioning drawings}
+		{Ventilating air conditioning & heating drawings}
+	Hyalotypes
+		{Albumen transparencies}
+	Identification keys
+		{Keys}
+	Identification photographs
+		{Mug shots}
+	Illuminations
+		Frakturs
+		Miniatures
+	Illustrated covers
+		{Covers}
+	Illustrated envelopes
+		{Pictorial envelopes}
+	Illustrated letter paper
+		{Letterheads}
+		{Pictorial lettersheets}
+	Illustrations
+		Book illustrations
+		Courtroom sketches
+		Frontispieces
+		Periodical illustrations
+		Picture sheets
+		Scientific illustrations
+		Technical illustrations
+	Images Electronic
+		{Electronic images}
+	Imaginary views
+		{Conjectural works}
+	Imbibition process prints
+		{Dye transfer prints}
+	Imperial card photographs
+	Industrial design drawings
+	Infrared photographs
+	Ink drawings
+		Marker works
+	Ink jet prints
+		{Inkjet prints}
+	Inkjet prints
+		{Bubble jet prints}
+		{Ink jet prints}
+	Inkless intaglio prints
+		{Blind embossed prints}
+	Inscriptions
+		Autographs
+		Monograms
+	Insert cards
+		{Advertising cards}
+	Instant camera photographs
+		{Polaroid instant photographs}
+		Dye diffusion transfer prints
+	Insurance certificates
+	Intaglio prints
+		{Mixed method intaglio prints}
+		Aquatints
+		Carborundum prints
+		Crayon manner prints
+		Drypoints
+		Engravings
+		Etchings
+		Inkless intaglio prints
+		Mezzotints
+	Interior design drawings
+	Invitations
+	Iron-on transfers
+		{Transfer sheets}
+	Iron photographs
+		{Tintypes}
+	Isometric projections
+	Jackets Book
+		{Book jackets}
+	Jackets Record
+		{Album covers}
+	Jigsaw puzzles
+	Junk mail
+		{Direct mail}
+	Juvenile art
+		{Children's art}
+	Juvenilia
+		{Artists' early works}
+		{Children's works}
+	Kallitypes
+		{Brownprints}
+		{Callitypes}
+		Vandyke prints
+	Keepsakes
+	Keys
+		{Keys}
+	Keys
+		{Identification keys}
+		{Keys}
+		{Legends}
+		{Legends}
+	Kodachrome transparencies
+		{Dye coupler transparencies}
+	Kodacolor negatives
+		{Dye coupler negatives}
+	Kodak card photographs
+	Kodak instant color prints
+		{Dye diffusion transfer prints}
+	Labels
+		Bookplates
+		Fruit crate labels
+		Stickers
+		Tags
+		Textile labels
+		Tobacco package labels
+		Wine labels
+	Lace
+	Lambertypes
+		{Carbon prints}
+	Landscape architecture drawings
+		{Drawings Landscape architecture}
+		Landscaping plans
+		Planting drawings
+	Landscape drawings
+	Landscape paintings
+	Landscape photographs
+	Landscape prints
+	Landscapes
+		{Topographical views}
+		Landscape drawings
+		Landscape paintings
+		Landscape photographs
+		Landscape prints
+	Landscaping plans
+	Lantern slides
+		{Magic lantern slides}
+	Laser photographs
+		{Holograms}
+	Leaf photographs
+		{Chlorophyll prints}
+	Leaf prints
+		{Chlorophyll prints}
+	Leaflets
+		{Booklets}
+		{Brochures}
+	Leather photographs
+		{Collodion positive photographs}
+	Legal photographs
+		{Forensic photographs}
+	Legends
+		{Keys}
+	Lenticular photographs
+		{Three-dimensional photographs}
+	Letter pictures
+		{Calligrams}
+		{Word art}
+	Letter sheets
+		{Letterheads}
+	Letterheads
+		{Illustrated letter paper}
+		{Letter sheets}
+		Pictorial lettersheets
+	Lettering
+	Letterpress works
+	Lettersheets Pictorial
+		{Pictorial lettersheets}
+	Life-size cutouts
+		{Cutouts}
+	Lift-ground aquatints
+		{Sugar-lift aquatints}
+	Lift-ground etchings
+		{Sugar-lift aquatints}
+	Limited editions
+		{Editions Limited}
+	Line block prints
+		{Line photoengravings}
+	Line cuts
+		{Line photoengravings}
+	Line photoengravings
+		{Line block prints}
+		{Line cuts}
+		{Line photomechanical prints}
+		{Photoengravings Line}
+		{Process line engravings}
+	Line photomechanical prints
+		{Line photoengravings}
+	Linen labels
+		{Textile labels}
+	Linocuts
+		{Linoleum cut prints}
+	Linoleum blocks
+	Linoleum cut prints
+		{Linocuts}
+	Lithographic stones
+		{Printing stones}
+	Lithographs
+		Chromolithographs
+		Lithotints
+		Offset lithographs
+		Transfer lithographs
+		Zincographs
+	Lithographs Transfer
+		{Transfer lithographs}
+	Lithotints
+	Lobby cards
+	Lockets
+	Lottery tickets
+		{Tickets Lottery}
+	Luminescent works
+		{Black light works}
+		{Fluorescent works}
+		{Glow-in-the-dark works}
+		{Luminous works}
+	Luminous works
+		{Luminescent works}
+	Lumiprints
+		{Contact prints}
+	Macrophotographs
+	Magazine covers
+		{Covers Magazine}
+		{Periodical covers}
+	Magazine illustrations
+		{Periodical illustrations}
+	Magazine posters
+		{Book & magazine posters}
+	Magazines
+		{Periodicals}
+	Magic lantern slides
+		{Lantern slides}
+	Magic posters
+		{Theatrical posters}
+	Mailing cards
+		{Postcards}
+	Male figure drawings
+	Mammoth plates
+	Manière criblée prints
+		{Dotted prints}
+	Manufacturers' catalogs
+	Manuscripts
+		Diaries
+		Grocery lists
+	Maps
+		Fire insurance maps
+		Plats
+		Topographic maps
+	Marine architecture drawings
+		{Naval architecture drawings}
+	Marine drawings
+		{Waterscape drawings}
+	Marine paintings
+		{Waterscape paintings}
+	Marine photographs
+		{Waterscape photographs}
+	Marine prints
+		{Maritime prints}
+		{Waterscape prints}
+	Marine views
+		{Marines}
+		{Seascapes}
+	Marines
+		{Marine views}
+		{Waterscapes}
+		Marine drawings
+		Marine paintings
+		Marine photographs
+		Marine prints
+	Maritime prints
+		{Marine prints}
+	Marker works
+	Markings
+		{Marks}
+	Marks
+		{Marks}
+	Marks
+		{Markings}
+		{Marks}
+		Blind stamps
+		Chops
+		Dealers' marks
+		Emblems
+		Inscriptions
+		Ownership marks
+		Register marks
+		Seals
+		Tax stamps
+		Trademarks
+		Watermarks
+	Marriage certificates
+	Matchcovers
+	Measured drawings
+		{Drawings Measured}
+		{Survey drawings}
+	Mechanical drawings
+		{Drawings Mechanical}
+		{Technical drawings}
+	Mechanical systems drawings
+		{Drawings Mechanical systems}
+		HVAC drawings
+	Mechanical works
+		{Movable works}
+		Hidden image works
+		Metamorphic pictures
+		Volvelles
+	Medals
+		{Medallions}
+	Medical drawings
+		{Medical illustrations}
 	Medical illustrations
+		{Drawings Medical}
+		{Medical drawings}
+	Megalethoscope prints
+		{Megalethoscope photoprints}
+	Melainotypes
+		{Tintypes}
+	Membership cards
+	Membership certificates
+	Memorabilia
+	Memorial photographs
+		{Morteotypes}
+	Memorial works
+		{Mourning works}
+		Memorial photographs
+	Menus
+		{Bills of fare}
+	Metal cuts
+		Dotted prints
+	Metalpoint drawings
+		Silverpoint drawings
+	Metamorphic pictures
+		{Reversible head prints}
+		{Transformation pictures}
+	Mezzotints
+	Microfiche
+		{Fiche}
+		{Fiches}
+		{Microfiches}
+	Microfiches
+		{Microfiche}
+	Microfilms
+	Microforms
+		Microfiche
+		Microopaques
+		Microphotographs
+	Microopaques
+		{Microprints}
+		{Opaque microcopies}
+	Microphotographs
+		Microfiche
+		Microfilms
+		Stanhopes
+	Microprints
+		{Microopaques}
+	Miniature works
+		Gem photographs
+		Miniatures
+	Miniatures
+	Miniatures
+		{Miniatures}
+		{Portrait miniatures}
+	Minstrel posters
+		{Theatrical posters}
+	Mixed media
+		{Multiple processes}
+	Mixed method intaglio prints
+		{Intaglio prints}
+	Mizrachs
+		{Mizriha'ot}
+	Mizriha'ot
+		{Mizrachs}
+	Money
+		{Currency}
+		{Paper money}
+		Bank notes
+		Children's allowances
+		Coins
+		Greenbacks
+		Political campaign funds
+		Scrip
+	Monochrome works
+		Cyanotypes
+		Vandyke prints
+	Monograms
+	Monoprints
+		{Monotypes}
+	Monotype prints
+		{Monotypes}
+	Monotypes
+		{Monoprints}
+		{Monotype prints}
+	Montages
+		{Photocollages}
+		{Photomontages}
+	Morteotypes
+		{Memorial photographs}
+	Motion picture posters
+		{Film posters}
+		{Movie posters}
+	Motion picture stills
+		{Film stills}
+	Motion study photographs
+		{Chronophotographs}
+		{Multiple flash photographs}
+		{Pulsed-light photographs}
+		{Stroboscopic photographs}
+		{Time-lapse photographs}
+	Motto prints
+		{Emblem pictures}
+	Mourning jewelry
+	Mourning works
+		{Memorial works}
+	Movable works
+		{Mechanical works}
+	Movie posters
+		{Motion picture posters}
+	Movie stills
+		{Film stills}
+	Mug shots
+		{Identification photographs}
+	Multiple flash photographs
+		{Motion study photographs}
+	Multiple processes
+		{Mixed media}
+	Music posters
+		{Concert posters}
+	Music sheet covers
+		{Sheet music covers}
+	Music title pages
+		Sheet music covers
+	Musical play posters
+		{Theatrical posters}
+	National emblems
+	National stereotypes
+		{Ethnic stereotypes}
+	Naval architecture drawings
+		{Drawings Naval architecture}
+		{Marine architecture drawings}
+	Naval prints
+	Negative prints
+		{Negative photoprints}
+	Negatives
+		{Photonegatives}
+		Film negatives
+		Glass negatives
+		Paper negatives
+		Pellicles
+	New Year cards
+	Newscarriers' addresses
+		{Carriers' addresses}
+	Newsmen's presents
+		{Carriers' addresses}
+	Newspaper clippings
+		{Clippings}
+	Newspaper illustrations
+		{Periodical illustrations}
+	Newspaper posters
+		{Book & magazine posters}
+	Niello printing plates
+	Night photographs
+	Nitrate negatives
+		{Cellulose nitrate negatives}
+		{Nitrocellulose negatives}
+	Nitrocellulose negatives
+		{Nitrate negatives}
+	Novelty works
+		{Exotic works}
+		Anaglyphs
+		Anamorphic images
+		Luminescent works
+		Mechanical works
+	Now & then comparisons
+		{Then & now comparisons}
+	Offset lithographs
+	Offset photomechanical prints
+	Oil paintings
+	Oleographs
+	Opaline photographs
+		{Opalines}
+	Opalines
+		{Opaline photographs}
+	Opalotypes
+	Opaque microcopies
+		{Microopaques}
+	Opera posters
+		{Theatrical posters}
+	Optical toys
+		{Phenakistoscopes}
+		{Toys Optical}
+		{Zoopraxiscopes}
+	Ornaments
+		{Decorations}
 	Ornithological illustrations
-Scissorcraft
-	{Cut-paper works}
-Scrapbooks
-Scraperboard drawings
-	{Scratchboard drawings}
-Scraps
-Scratchboard drawings
-	{Scraperboard drawings}
-Screen color film transparencies
-	{Color screen transparencies}
-	{Dufay color transparencies}
-Screen color glass transparencies
-	{Color screen transparencies}
-	Autochromes
-Screen paintings
-Screen prints
-	{Serigraphs}
-	{Silk screen prints}
-	{Silkscreen prints}
-Scrip
-Scripture cards
-	{Bible cards}
-Scrolls
-	{Rolls}
-	{Scrolls}
-Seals
-Seascape drawings
-Seascape photographs
-Seascape prints
-Seascapes
-	{Marine views}
-	{Waterscapes}
+	Orotones
+	Ownership marks
+		Collectors' marks
+	Ozalids
+		{Diazotypes}
+	Ozobrome photoprints
+		{Carbro prints}
+	Ozobrome prints
+		{Carbro prints}
+	Packages
+		{Packaging}
+	Packaging
+		{Packages}
+		{Wrappers}
+		{Wrapping materials}
+		{Wrappings}
+		Bags
+		Book jackets
+		Envelopes
+		Matchcovers
+		Photograph cases
+		Ream wrappers
+	Paintings
+		Abstract paintings
+		Allegorical paintings
+		Casein paintings
+		Cityscape paintings
+		Genre paintings
+		Landscape paintings
+		Marine paintings
+		Miniatures
+		Oil paintings
+		Pastels
+		Polymer paintings
+		Portrait paintings
+		Screen paintings
+		Still life paintings
+		Tempera paintings
+	Palladiotypes
+		{Palladium prints}
+	Palladium prints
+		{Palladiotypes}
+		{Palladium photoprints}
+	Pamphlet illustrations
+		{Book illustrations}
+	Pamphlets
+		{Booklets}
+		Pressbooks
+	Panel card photographs
+	Panoramas
+		{Panoramic photographs}
+		{Panoramic views}
+	Panoramic maps
+		{Bird's-eye view prints}
+	Panoramic photographs
+		{Cirkut camera photographs}
+		{Panoramas}
+	Panoramic postcards
+	Panoramic views
+		{Balloon views}
+		{Panoramas}
+		{Views Panoramic}
+		Panoramic photographs
+		Panoramic postcards
+	Pantins
+	Paper cut-outs
+		{Cut-paper works}
+		{Cutouts}
+	Paper dolls
+		Pantins
+	Paper money
+		{Money}
+	Paper negatives
+		Calotypes
+		Photogenic drawings
+		Waxed paper negatives
+	Paper toys
+		{Toys Paper}
+		Flip books
+		Paper dolls
+	Pastel drawings
+		{Pastels}
+	Pastel paintings
+		{Pastels}
+	Pastels
+		{Pastel drawings}
+		{Pastel paintings}
+	Patent drawings
+		{Drawings Patent}
+	Patriotic envelopes
+		{Civil War envelopes}
+		{Covers Patriotic}
+	Pattern books
+	Pattern sheets
+		{Patterns}
+	Patterns
+		{Pattern sheets}
+	Peep show prints
+		{Vues d'optique}
+	Pellicles
+	Pen works
+		Marker works
+	Pencil works
+	Pendants
+	Performing arts posters
+		{Entertainment posters}
+		Circus posters
+		Concert posters
+		Dance posters
+		Motion picture posters
+		Theatrical posters
+	Periodical covers
+		{Magazine covers}
+	Periodical illustrations
+		{Magazine illustrations}
+		{Newspaper illustrations}
+		Editorial cartoons
+		Fashion plates
+	Periodical posters
+		{Book & magazine posters}
+	Periodicals
+		{Magazines}
+		Newspapers
+	Perpetual calendars
+	Perspective projections
+	Phenakistoscopes
+		{Optical toys}
+	Photo morgues
+		{Photograph morgues}
+	Photoceramics
+		{Ceramic photographs}
+	Photochrom prints
+		{Äac prints}
+	Photocollages
+		{Montages}
+	Photocopies
+		{Electrostatic photocopies}
+		{Xerographs}
+		Copy art
+	Photoengravings
+	Photoengravings Line
+		{Line photoengravings}
+	Photoetchings
+		{Photogravures}
+	Photogenic drawings
+	Photoglypties
+		{Woodburytypes}
+	Photograms
+		{Rayographs}
+		{Schadographs}
+		{Vortographs}
+	Photograph albums
+		Card photograph albums
+	Photograph cases
+		{Cased photographs}
+		Union cases
+	Photograph morgues
+		{Photo morgues}
+		{Photographic morgues}
+	Photographic morgues
+		{Photograph morgues}
+	Photographic papers
+	Photographic postcards
+		{Real photo postcards}
+	Photographic prints
+		{Black-and-white prints}
+		{Chloride prints}
+		{Photoprints}
+		Bromoil prints
+		Carbon prints
+		Ceramic photographs
+		Clichés-verre
+		Cloth photographs
+		Contact prints
+		Crayon enlargements
+		Crystoleums
+		Cyanotypes
+		Diazotypes
+		Dye coupler prints
+		Dye destruction prints
+		Dye diffusion transfer prints
+		Dye transfer prints
+		Fresson prints
+		Gelatin silver printing-out paper prints
+		Gelatin silver prints
+		Gum bichromate prints
+		Kallitypes
+		Leather photographs
+		Megalethoscope prints
+		Negative prints
+		Opaline photographs
+		Opalotypes
+		Palladium prints
+		Photographic postcards
+		Platinum prints
+		Silver platinum prints
+		Silver printing-out paper prints
+		Stabilization prints
+	Photographs
+		Abstract photographs
+		Aerial photographs
+		Allegorical photographs
+		Ambrotypes
+		Architectural photographs
+		Banquet camera photographs
+		Black & white photographs
+		Card photographs
+		Cityscape photographs
+		Color photographs
+		Composite photographs
+		Daguerreotypes
+		Detective camera photographs
+		Digital photographs
+		Ethnographic photographs
+		Expedition photographs
+		Fashion photographs
+		Film stills
+		Fisheye photographs
+		Flash photographs
+		Forensic photographs
+		Genre photographs
+		Glamour photographs
+		Holograms
+		Identification photographs
+		Infrared photographs
+		Instant camera photographs
+		Landscape photographs
+		Lenticular photographs
+		Macrophotographs
+		Mammoth plates
+		Marine photographs
+		Memorial photographs
+		Microphotographs
+		Motion study photographs
+		Negatives
+		Night photographs
+		Orotones
+		Panoramic photographs
+		Photograms
+		Photographic prints
+		Photomicrographs
+		Pinhole camera photographs
+		Portrait photographs
+		Postmortem photographs
+		Publicity photographs
+		Radio photographs
+		Seascape photographs
+		Snapshots
+		Solarization photographs
+		Space photographs
+		Spirit photographs
+		Stats
+		Still life photographs
+		Television stills
+		Tintypes
+		Underwater photographs
+		Wire photographs
+	Photogravures
+		{Gravures}
+		{Heliogravures}
+		{Photoetchings}
+	Photolithographs
+	Photomechanical prints
+		{Process prints}
+		Anaglyphs
+		Collotypes
+		Halftone photomechanical prints
+		Line photoengravings
+		Offset photomechanical prints
+		Photochrom prints
+		Photocopies
+		Photoengravings
+		Photogravures
+		Photolithographs
+		Rotogravures
+		Woodburytypes
+	Photomicrographs
+	Photomontages
+		{Montages}
+	Photonegatives
+		{Negatives}
+	Photostats
+		{Stats}
+	Phototransparencies
+		{Transparencies}
+	Physiognotrace works
+		{Physionotrace works}
+	Physionotrace works
+		{Physiognotrace works}
+	Pictorial envelopes
+		{Covers Illustrated}
+		{Illustrated envelopes}
+		Corner cards
+		Patriotic envelopes
+	Pictorial family records
+		{Family trees}
+	Pictorial letter sheets
+		{Pictorial lettersheets}
+	Pictorial lettersheets
+		{Illustrated letter paper}
+		{Lettersheets Pictorial}
+		{Pictorial letter sheets}
+	Picture puzzles
+	Picture sheets
+		Bilderbogen
+	Pictures
+		Cartoons
+		Children's art
+		Collages
+		Conjectural works
+		Decorations
+		Devotional images
+		Drawings
+		Genre works
+		Illustrations
+		Juvenilia
+		Montages
+		Paintings
+		Photographs
+		Portraits
+		Posters
+		Prints
+		Reconstructions
+		Sandpaintings
+		Still lifes
+		Three-in-one pictures
+		Transparencies
+		Ukiyo-e
+		Views
+		Vignettes
+	Pieces Game
+		{Game pieces}
+	Pinatypes
+		{Dye transfer prints}
+	Pinhole camera photographs
+	Pinup photographs
+		{Glamour photographs}
+	Planning drawings
+		{City planning drawings}
+		{Drawings Planning}
+		{Urban planning drawings}
+	Planographic prints
+		Lithographs
+		Monotypes
+		Stencils
+	Plans
+		Floor plans
+		Site plans
+	Planting drawings
+	Plastic printing plates
+		Plastos
+	Plastos
+	Plates Printing
+		{Printing plates}
+	Platinotypes
+		{Platinum prints}
+	Platinum prints
+		{Platinotypes}
+		{Platinum photoprints}
+	Plats
+	Playbills
+	Playing cards
+		Fortune telling cards
+		Game cards
+	Playing pieces
+		{Game pieces}
+	Plot plans
+		{Site plans}
+	Pochoir prints
+	Polaroid instant color prints
+		{Dye diffusion transfer prints}
+	Polaroid instant photographs
+		{Instant camera photographs}
+	Police photographs
+		{Forensic photographs}
+	Political cartoons
+	Political posters
+		{Campaign posters}
+		{Election posters}
+		{Propaganda posters}
+		Protest posters
+	Polyester negatives
+	Polymer paintings
+		Acrylic paintings
+	Polyptychs
+	Porcelain photographs
+		{Ceramic photographs}
+	Portfolios
+	Portrait drawings
+	Portrait miniatures
+		{Miniatures}
+	Portrait paintings
+	Portrait photographs
+		{Candid portraits}
+		{Studio portraits}
+		Formation photographs
+	Portrait prints
+	Portraits
+		Group portraits
+		Portrait drawings
+		Portrait paintings
+		Portrait photographs
+		Portrait prints
+		Self-portraits
+	Positives Color separation
+		{Color separation positives}
+	Post-mortem photographs
+		{Postmortem photographs}
+	Post cards
+		{Postcards}
+	Postage stamps
+		{Stamps Postage}
+	Postal cards
+	Postal stationery
+		Postal cards
+	Postcards
+		{Mailing cards}
+		{Post cards}
+		Photographic postcards
+		Postal cards
+	Posters
+		Billboard posters
+		Book & magazine posters
+		Exhibition posters
+		Performing arts posters
+		Political posters
+		Sports posters
+		Stock posters
+		Travel posters
+		Wanted posters
+		War posters
+	Postmortem photographs
+		{Death portraits}
+		{Post-mortem photographs}
+	Poupée prints
+		{A la poupée prints}
+	Premiums
+		{Give-aways}
+	Presentation albums
+	Presentation drawings
+		{Presentation drawings}
+	Presentation drawings
+		{Display drawings}
+		{Drawings Presentation}
+		{Presentation drawings}
+	Press clippings
+		{Clippings}
+	Pressbooks
+		{Campaign books}
+		{Showman's manuals}
+	Price lists
+	Primuline process prints
+		{Diazotypes}
+	Printed ephemera
+		{Ephemera}
+	Printing-out paper prints Silver
+		{Silver printing-out paper prints}
+	Printing blocks
+		{Blocks Printing}
+		Linoleum blocks
+		Wood blocks
+	Printing plates
+		{Plates Printing}
+		Niello printing plates
+		Plastic printing plates
+	Printing stones
+		{Lithographic stones}
+		{Stones Printing}
+	Printmaking equipment
+		Printing blocks
+		Printing plates
+		Printing stones
+		Stencils
+	Prints
+		A la poupée prints
+		Abstract prints
+		Allegorical prints
+		Artists' proofs
+		Baxter-process prints
+		Baxter prints
+		Bird's-eye view prints
+		Cast paper prints
+		Cellocuts
+		Chine collé prints
+		Cityscape prints
+		Cloth prints
+		Collagraphs
+		Commemorative prints
+		Costume prints
+		Counterproofs
+		Digital prints
+		Embossed prints
+		Fashion prints
+		Fish prints
+		Genre prints
+		Intaglio prints
+		Landscape prints
+		Marine prints
+		Naval prints
+		Photomechanical prints
+		Planographic prints
+		Portrait prints
+		Progressive proofs
+		Proofs before letters
+		Relief prints
+		Reproductive prints
+		Restrikes
+		Seascape prints
+		Still life prints
+		Trial proofs
+		Vues d'optique
+	Prints Contact
+		{Contact prints}
+	Process line engravings
+		{Line photoengravings}
+	Process prints
+		{Photomechanical prints}
+	Production drawings
+		{Design drawings}
+		{Diagrams}
+	Production stills
+		{Film stills}
+	Programs
+		Theater programs
+	Progress photographs
+		{Construction progress photographs}
+	Progressive proofs
+		{Successive proofs}
+	Projections
+		Axonometric projections
+		Elevations
+		Exploded drawings
+		Perspective projections
+		Plans
+		Sciagraphic projections
+		Sections
+	Promenade card photographs
+	Promotional materials
+	Promotional photographs
+		{Publicity photographs}
+	Proof sheets
+		{Contact sheets}
+	Proofs
+		Artists' proofs
+		Cancellation proofs
+		Contact prints
+		Counterproofs
+		Progressive proofs
+		Proofs before letters
+		Trial proofs
+	Proofs before letters
+		{Avant des lettres prints}
+	Propaganda posters
+		{Political posters}
+	Proposed works
+	Protest posters
+		{Revolutionary posters}
+	Protest works
+		Protest posters
+	Publicity photographs
+		{Head shots}
+		{Promotional photographs}
+		{Publicity stills}
+		Glamour photographs
+	Publicity stills
+		{Publicity photographs}
+	Pulsed-light photographs
+		{Motion study photographs}
+	Puns
+		{Puns}
+	Puns
+		{Puns}
+	Puzzles
+		Jigsaw puzzles
+		Mazes
+		Picture puzzles
+	Quadichromes
+		{Fresson prints}
+	Racial stereotypes
+		{Ethnic stereotypes}
+	Radio photographs
+	Radiographs
+		{X-ray photographs}
+	Ration stamps
+		{Coupons}
+	Rayographs
+		{Photograms}
+	RC paper prints
+		{Resin-coated paper prints}
+	Re-creations
+		{Reconstructions}
+	Real photo postcards
+		{Photographic postcards}
+	Ream wrappers
+	Rebuses
+	Reconstructions
+		{Re-creations}
+	Record covers
+		{Album covers}
+	Record drawings
+		{Drawings of record}
+	Record jackets
+		{Album covers}
+	Records
+		{Documents}
+	Recreations
+		{Conjectural works}
+	Reflectographs
+		{Crystoleums}
+	Register marks
+		{Registration marks}
+	Registration marks
+		{Register marks}
+	Relief printed etchings
+	Relief prints
+		{Block prints}
+		Cerographs
+		Letterpress works
+		Linocuts
+		Metal cuts
+		Relief printed etchings
+		Rubbings
+		Wood engravings
+		Woodcuts
+	Religious calendars
+	Religious pictures
+		{Devotional images}
+	Remarques
+	Renderings
+	Reproductions
+		{Copies}
+		Art reproductions
+		Blueprints
+		Facsimiles
+		Reproductive prints
+		Restrikes
+		Stats
+		Thermal copies
+	Reproductive prints
+	Resin-coated paper prints
+		{RC paper prints}
+		{Resin-coated paper photoprints}
+	Restrikes
+	Revenue stamps
+		{Tax stamps}
+	Reversible head prints
+		{Metamorphic pictures}
+	Revolutionary posters
+		{Protest posters}
+	Reward posters
+		{Wanted posters}
+	Rewards of merit
+		{Awards of merit}
+	Ribbon badges
+		{Badges}
+	Rings
+		{Finger rings}
+	Rock and roll posters
+		{Rock posters}
+	Rock posters
+		{Rock and roll posters}
+	Rolls
+		{Scrolls}
+	Rotogravures
+		{Gravures}
+	Rubbings
+	Sabattier effect photographs
+		{Solarization photographs}
+	Sacks
+		{Bags}
+	Safety film negatives
+		Acetate negatives
+		Polyester negatives
+	Sailing cards
+		{Ship cards}
+		Clipper ship cards
+	Sales catalogs
+		{Commercial catalogs}
+		Trade catalogs
+	Salt prints
+		{Salted paper prints}
+	Salted paper prints
+		{Salt prints}
+		{Salted paper photoprints}
+		Crystalotypes
+	Sample books
+		{Specimen books}
+	Samples
+		Sample books
+	Satires
+		{Satires}
+	Satires
+		{Satires}
+	Satista prints
+		{Silver platinum prints}
+	Scenic wallpapers
+	Schadographs
+		{Photograms}
+	Schedules
+		{Schedules}
+	Schedules
+		{Schedules}
+	Schedules
+		{Schedules}
+	Schedules
+		{Schedules}
+		Timetables
+	Scherenschnitte
+		{Cut-paper works}
+	Sciagraphic projections
+		{Shades & shadows}
+	Scientific illustrations
+		{Technical drawings}
+		Botanical illustrations
+		Medical illustrations
+		Ornithological illustrations
+	Scissorcraft
+		{Cut-paper works}
+	Scrapbooks
+	Scraperboard drawings
+		{Scratchboard drawings}
+	Scraps
+	Scratchboard drawings
+		{Scraperboard drawings}
+	Screen color film transparencies
+		{Color screen transparencies}
+		{Dufay color transparencies}
+	Screen color glass transparencies
+		{Color screen transparencies}
+		Autochromes
+	Screen paintings
+	Screen prints
+		{Serigraphs}
+		{Silk screen prints}
+		{Silkscreen prints}
+	Scrip
+	Scripture cards
+		{Bible cards}
+	Scrolls
+		{Rolls}
+		{Scrolls}
+	Seals
 	Seascape drawings
 	Seascape photographs
 	Seascape prints
-Seating charts
-Sections
-	Floor plans
-Security engravings
-	{Bank note vignettes}
-Self-portraits
-Sentiment cards
-Separation negatives
-	{Color separation negatives}
-Separation positives, Color
-	{Color separation positives}
-Separation transparencies, Color
-	{Color separation positives}
-Serigraphs
-	{Screen prints}
-Set design drawings
-Shades & shadows
-	{Sciagraphic projections}
-Sheet music covers
-	{Covers, Sheet music}
-	{Music sheet covers}
-Ship cards
-	{Sailing cards}
-Show cards, Window
-	{Window cards}
-Showcards, Window
-	{Window cards}
-Showman's manuals
-	{Pressbooks}
-Signs
-	{Signs}
-Signs
-	{Signs}
-	Banners
-	Barber poles
-	Billboards
-	Electric signs
-	Hymn boards
-	Plaques
-	Sandwich boards
-	Traffic signs & signals
-Silhouettes
-Silk screen prints
-	{Screen prints}
-Silkscreen prints
-	{Screen prints}
-Silver dye bleach prints
-	{Dye destruction prints}
-Silver gelatin film negatives
-	{Gelatin silver film negatives}
-Silver gelatin film transparencies
-	{Gelatin silver film transparencies}
-Silver gelatin glass negatives
-	{Dry plate negatives}
-Silver gelatin glass transparencies
-	{Gelatin silver glass transparencies}
-Silver gelatin printing-out paper prints
-	{Gelatin silver printing-out paper prints}
-Silver gelatin prints
-	{Gelatin silver prints}
-Silver platinum prints
-	{Satista prints}
-Silver printing-out paper prints
-	{Printing-out paper prints, Silver}
-	Albumen prints
-	Collodion printing-out paper prints
-	Salted paper prints
-Silverpoint drawings
-Simulated images
-	{Composite photographs}
-	{Computer graphics}
-Site plans
-	{Plot plans}
-	Landscaping plans
-Sketchbooks
-	{Sketchpads}
-Sketches
-	Travel sketches
-Sketchpads
-	{Sketchbooks}
-Skyline views
-	{Cityscapes}
-Sleeves, Record
-	{Album covers}
-Slides
-	Lantern slides
-Snapshots
-Soft-ground etchings
-Solarization photographs
-	{Sabattier effect photographs}
-Souvenir albums
-	{Albums}
-	{Viewbooks}
-Souvenir booklets
-	{Viewbooks}
-Souvenir viewbooks
-	{Viewbooks}
-Souvenirs
-Space photographs
-Speakeasy cards
-Specifications
-	Schedules
-Specimen books
-	{Sample books}
-Spirit photographs
-	{Ghost photographs}
-Sport posters
-	{Sports posters}
-Sports cards
-	{Bubble gum cards}
-	Baseball cards
-Sports posters
-	{Sport posters}
-Stabilization prints
-	{Stabilization photoprints}
-Stamps, Blind
-	{Blind stamps}
-Stamps, Postage
-	{Postage stamps}
-Stamps, Tax
-	{Tax stamps}
-Stanhopes
-	{Stanhopes}
-Stanhopes
-	{Stanhopes}
-State proofs
-	{Trial proofs}
-Stationery
-	Billheads
-	Greeting cards
-	Letterheads
-	Postal stationery
-Stats
-	{Photostats}
-Steel engravings
-	{Engravings, Steel}
-Stencil prints
-	{Stencils}
-Stencils
-	{Stencils}
-Stencils
-	{Stencil prints}
-	Pochoir prints
-	Screen prints
-Stencils
-	{Stencils}
-Stereograms
-	{Stereographs}
-Stereographs
-	{Stereograms}
-	{Stereoscopic views}
-	{Stereoviews}
-	{Three-dimensional photographs}
-	{Viewmaster cards}
-	Anaglyphs
-	Tissue stereographs
-Stereoscopic views
-	{Stereographs}
-Stereotypes, Ethnic
-	{Ethnic stereotypes}
-Stereoviews
-	{Stereographs}
-Stickers
-	Bumper stickers
-	Christmas seals
-	Decals
-Still life drawings
-Still life paintings
-Still life photographs
-Still life prints
-Still lifes
+	Seascapes
+		{Marine views}
+		{Waterscapes}
+		Seascape drawings
+		Seascape photographs
+		Seascape prints
+	Seating charts
+	Sections
+		Floor plans
+	Security engravings
+		{Bank note vignettes}
+	Self-portraits
+	Sentiment cards
+	Separation negatives
+		{Color separation negatives}
+	Separation positives Color
+		{Color separation positives}
+	Separation transparencies Color
+		{Color separation positives}
+	Serigraphs
+		{Screen prints}
+	Set design drawings
+	Shades & shadows
+		{Sciagraphic projections}
+	Sheet music covers
+		{Covers Sheet music}
+		{Music sheet covers}
+	Ship cards
+		{Sailing cards}
+	Show cards Window
+		{Window cards}
+	Showcards Window
+		{Window cards}
+	Showman's manuals
+		{Pressbooks}
+	Signs
+		{Signs}
+	Signs
+		{Signs}
+		Banners
+		Barber poles
+		Billboards
+		Electric signs
+		Hymn boards
+		Plaques
+		Sandwich boards
+		Traffic signs & signals
+	Silhouettes
+	Silk screen prints
+		{Screen prints}
+	Silkscreen prints
+		{Screen prints}
+	Silver dye bleach prints
+		{Dye destruction prints}
+	Silver gelatin film negatives
+		{Gelatin silver film negatives}
+	Silver gelatin film transparencies
+		{Gelatin silver film transparencies}
+	Silver gelatin glass negatives
+		{Dry plate negatives}
+	Silver gelatin glass transparencies
+		{Gelatin silver glass transparencies}
+	Silver gelatin printing-out paper prints
+		{Gelatin silver printing-out paper prints}
+	Silver gelatin prints
+		{Gelatin silver prints}
+	Silver platinum prints
+		{Satista prints}
+	Silver printing-out paper prints
+		{Printing-out paper prints Silver}
+		Albumen prints
+		Collodion printing-out paper prints
+		Salted paper prints
+	Silverpoint drawings
+	Simulated images
+		{Composite photographs}
+		{Computer graphics}
+	Site plans
+		{Plot plans}
+		Landscaping plans
+	Sketchbooks
+		{Sketchpads}
+	Sketches
+		Travel sketches
+	Sketchpads
+		{Sketchbooks}
+	Skyline views
+		{Cityscapes}
+	Sleeves Record
+		{Album covers}
+	Slides
+		Lantern slides
+	Snapshots
+	Soft-ground etchings
+	Solarization photographs
+		{Sabattier effect photographs}
+	Souvenir albums
+		{Albums}
+		{Viewbooks}
+	Souvenir booklets
+		{Viewbooks}
+	Souvenir viewbooks
+		{Viewbooks}
+	Souvenirs
+	Space photographs
+	Speakeasy cards
+	Specifications
+		Schedules
+	Specimen books
+		{Sample books}
+	Spirit photographs
+		{Ghost photographs}
+	Sport posters
+		{Sports posters}
+	Sports cards
+		{Bubble gum cards}
+		Baseball cards
+	Sports posters
+		{Sport posters}
+	Stabilization prints
+		{Stabilization photoprints}
+	Stamps Blind
+		{Blind stamps}
+	Stamps Postage
+		{Postage stamps}
+	Stamps Tax
+		{Tax stamps}
+	Stanhopes
+		{Stanhopes}
+	Stanhopes
+		{Stanhopes}
+	State proofs
+		{Trial proofs}
+	Stationery
+		Billheads
+		Greeting cards
+		Letterheads
+		Postal stationery
+	Stats
+		{Photostats}
+	Steel engravings
+		{Engravings Steel}
+	Stencil prints
+		{Stencils}
+	Stencils
+		{Stencils}
+	Stencils
+		{Stencil prints}
+		Pochoir prints
+		Screen prints
+	Stencils
+		{Stencils}
+	Stereograms
+		{Stereographs}
+	Stereographs
+		{Stereograms}
+		{Stereoscopic views}
+		{Stereoviews}
+		{Three-dimensional photographs}
+		{Viewmaster cards}
+		Anaglyphs
+		Tissue stereographs
+	Stereoscopic views
+		{Stereographs}
+	Stereotypes Ethnic
+		{Ethnic stereotypes}
+	Stereoviews
+		{Stereographs}
+	Stickers
+		Bumper stickers
+		Christmas seals
+		Decals
 	Still life drawings
 	Still life paintings
 	Still life photographs
 	Still life prints
-Stills
-	{Film stills}
-	{Television stills}
-Stipple engravings
-	{Stipple prints}
-Stipple prints
-	{Stipple engravings}
-Stock cards
-Stock certificates
-Stock paper
-	{Stock posters}
-Stock posters
-	{Stock paper}
-Stones, Printing
-	{Printing stones}
-Story boards
-	{Storyboards}
-Storyboards
-	{Story boards}
-Street cries
-	{Cries}
-Stroboscopic photographs
-	{Motion study photographs}
-Structural drawings
-	{Drawings, Structural}
-	Framing drawings
+	Still lifes
+		Still life drawings
+		Still life paintings
+		Still life photographs
+		Still life prints
+	Stills
+		{Film stills}
+		{Television stills}
+	Stipple engravings
+		{Stipple prints}
+	Stipple prints
+		{Stipple engravings}
+	Stock cards
+	Stock certificates
+	Stock paper
+		{Stock posters}
+	Stock posters
+		{Stock paper}
+	Stones Printing
+		{Printing stones}
+	Story boards
+		{Storyboards}
+	Storyboards
+		{Story boards}
+	Street cries
+		{Cries}
+	Stroboscopic photographs
+		{Motion study photographs}
+	Structural drawings
+		{Drawings Structural}
+		Framing drawings
+		Structural systems drawings
 	Structural systems drawings
-Structural systems drawings
-	{Drawings, Structural systems}
-Student works
-Studies
-	{Studies}
-	{Studies}
-Studies
-	{Studies}
-Studio portraits
-	{Portrait photographs}
-Studio proof paper prints
-	{Gelatin silver printing-out paper prints}
-Submarine photographs
-	{Underwater photographs}
-Successive proofs
-	{Progressive proofs}
-Sugar-lift aquatints
-	{Lift-ground aquatints}
-	{Lift-ground etchings}
-Sunday school cards
-	{Bible cards}
-	{Devotional images}
-Surveillance photographs
-	{Forensic photographs}
-Survey drawings
-	{Measured drawings}
-Symbols, Artists'
-	{Artists' devices}
-Tags
-	Dog tags
-	License plates
-Talbotypes
-	{Calotypes}
-Tarot cards
-	{Tarots}
-Tarots
-	{Tarot cards}
-Tax stamps
-	{Revenue stamps}
-	{Stamps, Tax}
-Tear sheets
-	{Tearsheets}
-Tearsheets
-	{Tear sheets}
-Technical drawings
-	{Diagrams}
-	{Mechanical drawings}
-	{Scientific illustrations}
-Technical illustrations
-Television program stills
-	{Television stills}
-Television stills
-	{Stills}
-	{Television program stills}
-	{TV stills}
-Tempera paintings
-Templates
-Test proofs
-	{Trial proofs}
-Textile design drawings
-	{Fabric design drawings}
-Textile labels
-	{Cloth labels}
-	{Linen labels}
-Textiles
-	{Cloth}
-	{Fabrics}
-	Batiks
-	Calico
-	Lace
-	Thread
-	Yarn
-Theater posters
-	{Theatrical posters}
-Theater programs
-Theatrical posters
-	{Burlesque posters}
-	{Magic posters}
-	{Minstrel posters}
-	{Musical play posters}
-	{Opera posters}
-	{Theater posters}
-	{Vaudeville posters}
-Then & now comparisons
-	{Before & after views}
-	{Comparisons, Then & now}
-	{Now & then comparisons}
-Thermal copies
-Thermoplastic union cases
-	{Union cases}
-Three-color carbro prints
-	{Tricolor carbro prints}
-Three-dimensional photographs
-	{Holograms}
-	{Lenticular photographs}
-	{Stereographs}
-Three-in-one pictures
-	{3-in-1 pictures}
-	{Turning pictures}
-Three chalk drawings
-	{A trois crayons drawings}
-Tickets
-Tickets, Lottery
-	{Lottery tickets}
-Time-lapse photographs
-	{Motion study photographs}
-Time tables
-	{Timetables}
-Timetables
-	{Time tables}
-Tintypes
-	{Collodion positive photographs}
-	{Ferrotypes}
-	{Iron photographs}
-	{Melainotypes}
-	Gem photographs
-Tissue stereographs
-	{French tissues}
-Title pages
-	Music title pages
-Toad's-eye views
-	{Worm's-eye views}
-Tobacco cards
-	{Cigarette cards}
-Tobacco package labels
-	{Tobacco tin tags}
-	Cigar bands
-Tobacco tin tags
-	{Tobacco package labels}
-Tools
-	{Equipment}
-Topographic maps
-Topographical views
-	{Cityscapes}
-	{Landscapes}
-	{Views}
-Tourist trade posters
-	{Travel posters}
-Townscapes
-	{Cityscapes}
-Toys, Optical
-	{Optical toys}
-Toys, Paper
-	{Paper toys}
-Tracings
-Trade cards
-	{Tradecards}
-	Cigarette cards
-Trade catalogs
-	Manufacturers' catalogs
-Tradecards
-	{Advertising cards}
-	{Business cards}
-	{Trade cards}
-Trademarks
-Trading cards
-	{Advertising cards}
-	{Collecting cards}
-Transfer lithographs
-	{Lithographs, Transfer}
-Transfer sheets
-	{Iron-on transfers}
-Transformation pictures
-	{Metamorphic pictures}
-Transmitted images
-	{Facsimile transmission images}
-	Radio photographs
-	Wire photographs
-Transparencies
-	{Phototransparencies}
-	Film transparencies
-	Glass transparencies
-	Slides
+		{Drawings Structural systems}
+	Student works
+	Studies
+		{Studies}
+		{Studies}
+	Studies
+		{Studies}
+	Studio portraits
+		{Portrait photographs}
+	Studio proof paper prints
+		{Gelatin silver printing-out paper prints}
+	Submarine photographs
+		{Underwater photographs}
+	Successive proofs
+		{Progressive proofs}
+	Sugar-lift aquatints
+		{Lift-ground aquatints}
+		{Lift-ground etchings}
+	Sunday school cards
+		{Bible cards}
+		{Devotional images}
+	Surveillance photographs
+		{Forensic photographs}
+	Survey drawings
+		{Measured drawings}
+	Symbols Artists'
+		{Artists' devices}
+	Tags
+		Dog tags
+		License plates
+	Talbotypes
+		{Calotypes}
+	Tarot cards
+		{Tarots}
+	Tarots
+		{Tarot cards}
+	Tax stamps
+		{Revenue stamps}
+		{Stamps Tax}
+	Tear sheets
+		{Tearsheets}
+	Tearsheets
+		{Tear sheets}
+	Technical drawings
+		{Diagrams}
+		{Mechanical drawings}
+		{Scientific illustrations}
+	Technical illustrations
+	Television program stills
+		{Television stills}
+	Television stills
+		{Stills}
+		{Television program stills}
+		{TV stills}
+	Tempera paintings
+	Templates
+	Test proofs
+		{Trial proofs}
+	Textile design drawings
+		{Fabric design drawings}
+	Textile labels
+		{Cloth labels}
+		{Linen labels}
+	Textiles
+		{Cloth}
+		{Fabrics}
+		Batiks
+		Calico
+		Lace
+		Thread
+		Yarn
+	Theater posters
+		{Theatrical posters}
+	Theater programs
+	Theatrical posters
+		{Burlesque posters}
+		{Magic posters}
+		{Minstrel posters}
+		{Musical play posters}
+		{Opera posters}
+		{Theater posters}
+		{Vaudeville posters}
+	Then & now comparisons
+		{Before & after views}
+		{Comparisons Then & now}
+		{Now & then comparisons}
+	Thermal copies
+	Thermoplastic union cases
+		{Union cases}
+	Three-color carbro prints
+		{Tricolor carbro prints}
+	Three-dimensional photographs
+		{Holograms}
+		{Lenticular photographs}
+		{Stereographs}
+	Three-in-one pictures
+		{3-in-1 pictures}
+		{Turning pictures}
+	Three chalk drawings
+		{A trois crayons drawings}
+	Tickets
+	Tickets Lottery
+		{Lottery tickets}
+	Time-lapse photographs
+		{Motion study photographs}
+	Time tables
+		{Timetables}
+	Timetables
+		{Time tables}
+	Tintypes
+		{Collodion positive photographs}
+		{Ferrotypes}
+		{Iron photographs}
+		{Melainotypes}
+		Gem photographs
 	Tissue stereographs
-Transportation posters
-	{Travel posters}
-Travel posters
-	{Tourist trade posters}
-	{Transportation posters}
-Travel sketches
-Triacetate negatives
-	{Acetate negatives}
-Trial proofs
-	{State proofs}
-	{Test proofs}
-	{Working proofs}
-Trial sketches
-	{Courtroom sketches}
-Trichrome carbro prints
-	{Tricolor carbro prints}
-Tricolor carbro prints
-	{Three-color carbro prints}
-	{Trichrome carbro prints}
-Triptychs
-Trois crayons drawings
-	{A trois crayons drawings}
-Turning pictures
-	{Three-in-one pictures}
-TV stills
-	{Television stills}
-Type C prints
-	{Dye coupler prints}
-Type R prints
-	{Dye coupler prints}
-Typescripts
-Ukiyo-e
-	{Floating world prints}
-	{Ukiyoe prints}
-Ukiyoe prints
-	{Ukiyo-e}
-Underground comics
-Underwater photographs
-	{Submarine photographs}
-Union cases
-	{Cases, Photograph}
-	{Composition cases}
-	{Gutta-percha photograph cases}
-	{Thermoplastic union cases}
-Urban planning drawings
-	{Planning drawings}
-Valentines
-Vandyke prints
-	{Vandyke photoprints}
-Vaudeville posters
-	{Theatrical posters}
-Ventilating, air conditioning & heating drawings
-	{HVAC drawings}
-Vest camera photographs
-	{Detective camera photographs}
-Victoria card photographs
-Video disks
-	{Videodiscs}
-Videodiscs
-	{Video disks}
-Viewbooks
-	{Booklets}
-	{Souvenir albums}
-	{Souvenir booklets}
-	{Souvenir viewbooks}
-	{Viewbooks, Souvenir}
-Viewbooks, Souvenir
-	{Viewbooks}
-Viewmaster cards
-	{Stereographs}
-Views
-	{Topographical views}
-	Aerial views
-	Bird's-eye views
-	Cityscapes
-	Landscapes
-	Marines
-	Panoramic views
-	Seascapes
-Views, Aerial
-	{Aerial views}
-Views, Bird's-eye
-	{Bird's-eye views}
-Views, City
-	{Cityscapes}
-Views, Panoramic
-	{Panoramic views}
-Views, Toad's-eye
-	{Worm's-eye views}
-Views, Worm's-eye
-	{Worm's-eye views}
-Vignettes
-	Bank note vignettes
-Visiting cards
-	{Calling cards}
-	{Cartes de visite}
-Volvelles
-Vortographs
-	{Photograms}
-Vues d'optique
-	{Peep show prints}
-Wallpaper
-	{Wallpapers}
-Wallpapers
-	{Wallpaper}
-	Scenic wallpapers
-Wanted posters
-	{Reward posters}
-War posters
-Wash drawings
-Watch papers
-Water marks
-	{Watermarks}
-Watercolor drawings
-	{Watercolors}
-Watercolor paintings
-	{Watercolors}
-Watercolors
-	{Watercolor drawings}
-	{Watercolor paintings}
-	Gouaches
-Watermarks
-	{Water marks}
-Waterscape drawings
-	{Marine drawings}
-Waterscape paintings
-	{Marine paintings}
-Waterscape photographs
-	{Marine photographs}
-Waterscape prints
-	{Marine prints}
-Waterscapes
-	{Marines}
-	{Seascapes}
-Wax engravings
-	{Cerographs}
-Waxed paper negatives
-Wet collodion negatives
-	{Collodion negatives}
-	{Wet plate negatives}
-Wet plate negatives
-	{Wet collodion negatives}
-Wheels, Color
-	{Color wheels}
-White prints
-	{Diazotypes}
-Whiteprints
-	{Diazotypes}
-Wild west show posters
-	{Circus posters}
-Window cards
-	{Cards, Window}
-	{Show cards, Window}
-	{Showcards, Window}
-	{Window show cards}
-Window show cards
-	{Window cards}
-Wine labels
-Wire photographs
-	{Wirephotos}
-Wirephotos
-	{Wire photographs}
-Wood blocks
-Wood cuts
-	{Woodcuts}
-Wood engravings
-	{Engravings, Wood}
-	{Xylographs}
-Woodburytypes
-	{Photoglypties}
-Woodcuts
-	{Wood cuts}
-	Chiaroscuro woodcuts
-Word art
-	{Letter pictures}
-Working drawings
-	{Drawings, Working}
-	As-built drawings
-	Cartoons
-Working proofs
-	{Trial proofs}
-Worm's-eye views
-	{Toad's-eye views}
-	{Views, Toad's-eye}
-	{Views, Worm's-eye}
-Wrappers
-	{Packaging}
-Wrapping materials
-	{Packaging}
-Wrappings
-	{Packaging}
-X-ray photographs
-	{Radiographs}
-Xerographic art
-	{Copy art}
-Xerographs
-	{Photocopies}
-Xylographs
-	{Wood engravings}
-Yankee clipper cards
-	{Clipper ship cards}
-Zincographs
-Zoopraxiscopes
-	{Optical toys}
+		{French tissues}
+	Title pages
+		Music title pages
+	Toad's-eye views
+		{Worm's-eye views}
+	Tobacco cards
+		{Cigarette cards}
+	Tobacco package labels
+		{Tobacco tin tags}
+		Cigar bands
+	Tobacco tin tags
+		{Tobacco package labels}
+	Tools
+		{Equipment}
+	Topographic maps
+	Topographical views
+		{Cityscapes}
+		{Landscapes}
+		{Views}
+	Tourist trade posters
+		{Travel posters}
+	Townscapes
+		{Cityscapes}
+	Toys Optical
+		{Optical toys}
+	Toys Paper
+		{Paper toys}
+	Tracings
+	Trade cards
+		{Tradecards}
+		Cigarette cards
+	Trade catalogs
+		Manufacturers' catalogs
+	Tradecards
+		{Advertising cards}
+		{Business cards}
+		{Trade cards}
+	Trademarks
+	Trading cards
+		{Advertising cards}
+		{Collecting cards}
+	Transfer lithographs
+		{Lithographs Transfer}
+	Transfer sheets
+		{Iron-on transfers}
+	Transformation pictures
+		{Metamorphic pictures}
+	Transmitted images
+		{Facsimile transmission images}
+		Radio photographs
+		Wire photographs
+	Transparencies
+		{Phototransparencies}
+		Film transparencies
+		Glass transparencies
+		Slides
+		Tissue stereographs
+	Transportation posters
+		{Travel posters}
+	Travel posters
+		{Tourist trade posters}
+		{Transportation posters}
+	Travel sketches
+	Triacetate negatives
+		{Acetate negatives}
+	Trial proofs
+		{State proofs}
+		{Test proofs}
+		{Working proofs}
+	Trial sketches
+		{Courtroom sketches}
+	Trichrome carbro prints
+		{Tricolor carbro prints}
+	Tricolor carbro prints
+		{Three-color carbro prints}
+		{Trichrome carbro prints}
+	Triptychs
+	Trois crayons drawings
+		{A trois crayons drawings}
+	Turning pictures
+		{Three-in-one pictures}
+	TV stills
+		{Television stills}
+	Type C prints
+		{Dye coupler prints}
+	Type R prints
+		{Dye coupler prints}
+	Typescripts
+	Ukiyo-e
+		{Floating world prints}
+		{Ukiyoe prints}
+	Ukiyoe prints
+		{Ukiyo-e}
+	Underground comics
+	Underwater photographs
+		{Submarine photographs}
+	Union cases
+		{Cases Photograph}
+		{Composition cases}
+		{Gutta-percha photograph cases}
+		{Thermoplastic union cases}
+	Urban planning drawings
+		{Planning drawings}
+	Valentines
+	Vandyke prints
+		{Vandyke photoprints}
+	Vaudeville posters
+		{Theatrical posters}
+	Ventilating air conditioning & heating drawings
+		{HVAC drawings}
+	Vest camera photographs
+		{Detective camera photographs}
+	Victoria card photographs
+	Video disks
+		{Videodiscs}
+	Videodiscs
+		{Video disks}
+	Viewbooks
+		{Booklets}
+		{Souvenir albums}
+		{Souvenir booklets}
+		{Souvenir viewbooks}
+		{Viewbooks Souvenir}
+	Viewbooks Souvenir
+		{Viewbooks}
+	Viewmaster cards
+		{Stereographs}
+	Views
+		{Topographical views}
+		Aerial views
+		Bird's-eye views
+		Cityscapes
+		Landscapes
+		Marines
+		Panoramic views
+		Seascapes
+	Views Aerial
+		{Aerial views}
+	Views Bird's-eye
+		{Bird's-eye views}
+	Views City
+		{Cityscapes}
+	Views Panoramic
+		{Panoramic views}
+	Views Toad's-eye
+		{Worm's-eye views}
+	Views Worm's-eye
+		{Worm's-eye views}
+	Vignettes
+		Bank note vignettes
+	Visiting cards
+		{Calling cards}
+		{Cartes de visite}
+	Volvelles
+	Vortographs
+		{Photograms}
+	Vues d'optique
+		{Peep show prints}
+	Wallpaper
+		{Wallpapers}
+	Wallpapers
+		{Wallpaper}
+		Scenic wallpapers
+	Wanted posters
+		{Reward posters}
+	War posters
+	Wash drawings
+	Watch papers
+	Water marks
+		{Watermarks}
+	Watercolor drawings
+		{Watercolors}
+	Watercolor paintings
+		{Watercolors}
+	Watercolors
+		{Watercolor drawings}
+		{Watercolor paintings}
+		Gouaches
+	Watermarks
+		{Water marks}
+	Waterscape drawings
+		{Marine drawings}
+	Waterscape paintings
+		{Marine paintings}
+	Waterscape photographs
+		{Marine photographs}
+	Waterscape prints
+		{Marine prints}
+	Waterscapes
+		{Marines}
+		{Seascapes}
+	Wax engravings
+		{Cerographs}
+	Waxed paper negatives
+	Wet collodion negatives
+		{Collodion negatives}
+		{Wet plate negatives}
+	Wet plate negatives
+		{Wet collodion negatives}
+	Wheels Color
+		{Color wheels}
+	White prints
+		{Diazotypes}
+	Whiteprints
+		{Diazotypes}
+	Wild west show posters
+		{Circus posters}
+	Window cards
+		{Cards Window}
+		{Show cards Window}
+		{Showcards Window}
+		{Window show cards}
+	Window show cards
+		{Window cards}
+	Wine labels
+	Wire photographs
+		{Wirephotos}
+	Wirephotos
+		{Wire photographs}
+	Wood blocks
+	Wood cuts
+		{Woodcuts}
+	Wood engravings
+		{Engravings Wood}
+		{Xylographs}
+	Woodburytypes
+		{Photoglypties}
+	Woodcuts
+		{Wood cuts}
+		Chiaroscuro woodcuts
+	Word art
+		{Letter pictures}
+	Working drawings
+		{Drawings Working}
+		As-built drawings
+		Cartoons
+	Working proofs
+		{Trial proofs}
+	Worm's-eye views
+		{Toad's-eye views}
+		{Views Toad's-eye}
+		{Views Worm's-eye}
+	Wrappers
+		{Packaging}
+	Wrapping materials
+		{Packaging}
+	Wrappings
+		{Packaging}
+	X-ray photographs
+		{Radiographs}
+	Xerographic art
+		{Copy art}
+	Xerographs
+		{Photocopies}
+	Xylographs
+		{Wood engravings}
+	Yankee clipper cards
+		{Clipper ship cards}
+	Zincographs
+	Zoopraxiscopes
+		{Optical toys}
