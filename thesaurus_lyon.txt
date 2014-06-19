@@ -1,7 +1,7 @@
 Lyon
-	espace vert
-		promenade
+	Espaces verts
+		Promenades
 			Promenade du Bas Rhône
-	musée
+	Musées
 		Musée des Beaux-Arts de Lyon
 
