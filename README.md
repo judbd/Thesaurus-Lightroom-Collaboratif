@@ -60,7 +60,7 @@ Thésaurus Ville de Paris
 ------------------------
 
 * Toutes les rues, voies, ponts et places… de Paris
-* Tous les quartiers et arrondissement
+* Tous les quartiers et arrondissements
 * Tous les espaces verts
 * Les cinémas et cabarets renommés
 * Toutes les stations et lignes de métro, et les station de RER intra-muros
@@ -68,6 +68,14 @@ Thésaurus Ville de Paris
 * Tous les musées et monuments
 * Tous les lieux de cultes
 * Lieux remarquables
+
+Thésaurus Ville de Lyon
+------------------------
+
+* Toutes les rues, voies, ponts et places… de Lyon
+* Tous les arrondissements
+* Tous les parcs
+* Tous les musées
 
 Thésaurus Culinaire
 -------------------
