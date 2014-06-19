@@ -1,7 +1,1987 @@
 Lyon
 	Espaces verts
+		Parcs
+			Grand parc de Miribel-Jonage
+			Parc de Parilly
+			Parc de la Tête d'Or
+			Parc de Lacroix-Laval
+			Parc de Gerland
+			Parc de la Feyssine
+			Parc Sergent Blandan
+			Parc du Vallon
+			Parc Chambovet
+			Parc de la Cerisaie
+			Parc du Brûlet
+			Parc Saint-Clair
+			Parc Bazin
+			Parc des Hauteurs
+			Parc de Montpellas
+			Jardin des Chartreux
+			Parc Francis-Popy
+			Jardin des Curiosités
+			Parc des berges du Rhône
+			Parc René-Dumont
 		Promenades
 			Promenade du Bas Rhône
-	Musées
-		Musée des Beaux-Arts de Lyon
+		Voies vertes
+			Voie de la Dombes
+	Musée
+		Musée africain de Lyon
+		Musée d'art contemporain de Lyon
+		Musée des beaux-arts de Lyon
+		Centre d'histoire de la résistance et de la déportation
+		Musée des Confluences
+		Musées Gadagne
+		Musée gallo-romain de Fourvière
+		Musée d'histoire naturelle - Guimet
+		Musée de l'Imprimerie
+		Institut Lumière
+		Musée des moulages
+		Sucrière
+		Musée des Tissus et des Arts décoratifs
+		Musée urbain Tony-Garnier
+		Maison des Canuts
+		Musée Testut-Latarjet
+		Musée des miniatures et décors de cinéma
+		Musée dentaire de Lyon
+		Musée d'histoire de la médecine et de la pharmacie de Lyon
+	[Quartiers]
+		1er arrondissement
+			[Rue]
+				Grande Rue des Feuillants
+				Petite Rue des Feuillants
+				Petite Rue Pizay
+				Rue Adamoli
+				Rue Alexandre Luigini
+				Rue Audran
+				Rue Bodin
+				Rue Bouteille
+				Rue Burdeau
+				Rue Calliet
+				Rue Camille Jordan
+				Rue Capponi
+				Rue Carquillat
+				Rue Chappet
+				Rue Chavanne
+				Rue Commarmot
+				Rue Constantine
+				Rue Coustou
+				Rue Couverte
+				Rue Coysevox
+				Rue d'Algerie
+				Rue d'Alsace Lorraine
+				Rue d'Oran
+				Rue de Crimee
+				Rue de Flesselles
+				Rue de l'Abbe Rozier
+				Rue de l'Alma
+				Rue de l'Annonciade
+				Rue de l'Arbre Sec
+				Rue de la Bourse
+				Rue de la Fromagerie
+				Rue de la Martinière
+				Rue de la Muette
+				Rue de la Paix
+				Rue de la Platiere
+				Rue de la Poudriere
+				Rue de la République
+				Rue de la Tourette
+				Rue de la Vieille
+				Rue de Provence
+				Rue de Thou
+				Rue de Vauzelles
+				Rue des Augustins
+				Rue des Bouquetiers
+				Rue des Capucins
+				Rue des Chartreux
+				Rue des Fantasques
+				Rue des Fargues
+				Rue des Pierres Plantees
+				Rue des Tables Claudiennes
+				Rue Desiree
+				Rue Diderot
+				Rue Dominique Perfetti
+				Rue Donnee
+				Rue du Bat d'Argent
+				Rue du Bon Pasteur
+				Rue du Garet
+				Rue du Griffon
+				Rue du Jardin des Plantes
+				Rue du Platre
+				Rue du President Édouard Herriot
+				Rue Duroc
+				Rue Eugenie Brazier
+				Rue Fernand Rey
+				Rue Général de Seve
+				Rue Grobon
+				Rue Grognard
+				Rue Hippolyte Flandrin
+				Rue Imbert Colomes
+				Rue Jean Baptiste Say
+				Rue Joseph Serlin
+				Rue Lanterne
+				Rue Lemot
+				Rue Longue
+				Rue Lorette
+				Rue Louis Vitet
+				Rue Lucien Sportisse
+				Rue Magneval
+				Rue Maisiat
+				Rue Major Martin
+				Rue Marie Anne Leroudier
+				Rue Masson
+				Rue Mottet de Gerando
+				Rue Mulet
+				Rue Neuve
+				Rue Neyret
+				Rue Ornano
+				Rue Ozanam
+				Rue Pareille
+				Rue Paul Chenavard
+				Rue Philibert Delorme
+				Rue Philippe Gonnard
+				Rue Pierre Blanc
+				Rue Pierre Dupont
+				Rue Pierre Poivre
+				Rue Pizay
+				Rue Pleney
+				Rue Pouteau
+				Rue Prunelle
+				Rue Puits Gaillot
+				Rue Rast Maupas
+				Rue Raymond
+				Rue René Leynaud
+				Rue Rivet
+				Rue Roger Violi
+				Rue Romarin
+				Rue Royale
+				Rue Saint Benoit
+				Rue Saint Bruno
+				Rue Saint Claude
+				Rue Saint François d'Assise
+				Rue Saint Polycarpe
+				Rue Sainte Catherine
+				Rue Sainte Clotilde
+				Rue Sainte Marie des Terreaux
+				Rue Savy
+				Rue Sergent Blandan
+				Rue Tavernier
+				Rue Terme
+				Rue Terraille
+				Rue Thimonnier
+				Rue Tourret
+				Rue Valfeniere
+				Rue Vaucanson
+				Rue Verdi
+			[Place]
+				Place Bellevue
+				Place Chardonnet
+				Place Colbert
+				Place Croix Paquet
+				Place d'Albon
+				Place de la Comedie
+				Place de la Paix
+				Place des Capucins
+				Place des Chartreux
+				Place des Terreaux
+				Place du 157e Rgt d'Infant Alpine
+				Place du Forez
+				Place du Griffon
+				Place du Port Neuville
+				Place Fernand Rey
+				Place Gabriel Rambaud
+				Place Lieutenant Morel
+				Place Louis Chazette
+				Place Louis Pradel
+				Place Meissonier
+				Place Michel Servet
+				Place Rouville
+				Place Saint Nizier
+				Place Saint Vincent
+				Place Sathonay
+				Place Tobie Robatel
+				Place Tolozan
+			[Impasse]
+				Impasse Beauregard
+				Impasse de Fond
+				Impasse de la Fromagerie
+				Impasse de la Pecherie
+				Impasse de la Verrerie
+				Impasse de la Vieille
+				Impasse de Vauzelles
+				Impasse des Capucins
+				Impasse des Chartreux
+				Impasse des Pierres Plantees
+				Impasse du Bon Pasteur
+				Impasse Fernand Rey
+				Impasse Flesselles
+				Impasse Saint Polycarpe
+				Impasse Sergent Blandan
+				Impasse Tavernier
+			[Montée]
+				Montée Bonafous
+				Montée Coquillat
+				Montée de l'Amphitheatre
+				Montée de la Butte
+				Montée de la Grande Cote
+				Montée de Vauzelles
+				Montée des Carmelites
+				Montée du Boulevard
+				Montée du Perron
+				Montée Hoche
+				Montée Lieutenant Allouche
+				Montée Neyret
+				Montée Saint Sebastien
+			[Passage]
+				Passage de la Soie
+				Passage des Terreaux
+				Passage Donat
+				Passage Gonin
+				Passage Mermet
+				Passage Thiaffait
+				Passage Tolozan
+			[Quai]
+				Quai André Lassagne
+				Quai de la Pecherie
+				Quai Jean Moulin
+				Quai Saint Vincent
+			[Pont]
+				Pont de la Feuillee
+				Pont de Lattre de Tassigny
+				Pont Général Koenig
+				Pont Morand
+			[Passerelle]
+				Passerelle l'Homme de la Roche
+				Passerelle Saint Vincent
+			[Ruelle]
+				Ruelle des Fantasques
+			[Cours]
+				Cours Général Giraud
+			[Boulevard]
+				Boulevard de la Croix Rousse
+		2e arrondissement
+			[Rue]
+				Rue Adelaide Perrin
+				Rue Antoine Salles
+				Rue Auguste Comte
+				Rue Bellecordiere
+				Rue Bichat
+				Rue Boissac
+				Rue Bourgelat
+				Rue Casimir Perier
+				Rue Champier
+				Rue Charles Biennier
+				Rue Charles Dullin
+				Rue Childebert
+				Rue Claudia
+				Rue Claudius Collonge
+				Rue Clotilde Bizolon
+				Rue Colonel Chambonnet
+				Rue Confort
+				Rue d'Amboise
+				Rue d'Auvergne
+				Rue d'Enghien
+				Rue David Girin
+				Rue de Brest
+				Rue de Castries
+				Rue de Conde
+				Rue de Fleurieu
+				Rue de Jussieu
+				Rue de l'Abbaye d'Ainay
+				Rue de l'Ancienne Prefecture
+				Rue de la Barre
+				Rue de la Bourse
+				Rue de la Charite
+				Rue de la Fromagerie
+				Rue de la Gerbe
+				Rue de la Monnaie
+				Rue de la Poulaillerie
+				Rue de la République
+				Rue de Pazzi
+				Rue de Savoie
+				Rue Delandine
+				Rue Denuziere
+				Rue des 3 Passages
+				Rue des 4 Chapeaux
+				Rue des Archers
+				Rue des Bouquetiers
+				Rue des Forces
+				Rue des Marronniers
+				Rue des Remparts d'Ainay
+				Rue des Templiers
+				Rue du Bat d'Argent
+				Rue du Belier
+				Rue du Petit David
+				Rue du Plat
+				Rue du Port du Temple
+				Rue du President Édouard Herriot
+				Rue Dubois
+				Rue Dugas Montbel
+				Rue Duhamel
+				Rue Émile Duploye
+				Rue Émile Zola
+				Rue Eynard
+				Rue Ferrandiere
+				Rue François Dauphin
+				Rue Franklin
+				Rue Gaspard Andre
+				Rue Gasparin
+				Rue Général Plessier
+				Rue Gentil
+				Rue Gilibert
+				Rue Grenette
+				Rue Grolee
+				Rue Guynemer
+				Rue Henri Germain
+				Rue Henri IV
+				Rue Hrant Dink
+				Rue Jarente
+				Rue Jean de Tournes
+				Rue Jean Fabre
+				Rue Joannes Drevet
+				Rue Laurencin
+				Rue Louis Paufique
+				Rue Marc Antoine Petit
+				Rue Marcel Gabriel Rivière
+				Rue Mazard
+				Rue Merciere
+				Rue Montcharmont
+				Rue Neuve
+				Rue Niviere Chol
+				Rue Palais Grillet
+				Rue Paul Borel
+				Rue Paul Lintier
+				Rue Paul Montrochet
+				Rue President Carnot
+				Rue Quivogne
+				Rue Ravat
+				Rue Saint Bonaventure
+				Rue Saint Exupery
+				Rue Saint François de Salles
+				Rue Saint Nizier
+				Rue Sainte Hélène
+				Rue Sala
+				Rue Seguin
+				Rue Simon Maupin
+				Rue Smith
+				Rue Stella
+				Rue Thomassin
+				Rue Tony Tollet
+				Rue Tupin
+				Rue Vaubecour
+				Rue Victor Hugo
+				Rue Vuillerme
+			[Place]
+				Place Ampère
+				Place Antoine Rivoire
+				Place Antoine Vollon
+				Place Antonin Gourju
+				Place Antonin Poncet
+				Place Bellecour
+				Place Carnot
+				Place Charles Marie Widor
+				Place d'Ainay
+				Place d'Albon
+				Place de l'Hippodrome
+				Place de l'Hôpital
+				Place de la Bourse
+				Place de la République
+				Place des Archives
+				Place des Celestins
+				Place des Cordeliers
+				Place des Jacobins
+				Place Francisque Regaud
+				Place Gailleton
+				Place Général Delfosse
+				Place Gensoul
+				Place Kiosque Bellecour
+				Place le Viste
+				Place Saint Nizier
+			[Quai]
+				Quai Antoine Riboud
+				Quai des Celestins
+				Quai Docteur Gailleton
+				Quai Jean Moulin
+				Quai Jules Courmont
+				Quai Maréchal Joffre
+				Quai Perrache
+				Quai Rambaud
+				Quai Saint Antoine
+				Quai Tilsitt
+			[Pont]
+				Pont Alphonse Juin
+				Pont de l'Universite
+				Pont de la Guillotiere
+				Pont de la Mulatiere
+				Pont Gallieni
+				Pont la Fayette
+				Pont Wilson
+			[Cours]
+				Cours Bayard
+				Cours Charlemagne
+				Cours de Verdun
+				Cours Suchet
+			[Autre]
+				Centre d'Echanges de Perrache
+				Petit Passage de l'Argue
+				Port Rambaud
+				Voute d'Ainay
+			[Passage]
+				Passage de l'Argue
+				Passage des Marronniers
+				Passage Menestrier
+			[Square]
+				Square Janmot
+				Square Julien Gras
+			[Cour]
+				Cour des 3 Passages
+				Cour des Archers
+			[Impasse]
+				Impasse Catelin
+				Impasse Gentil
+			[Allée]
+				Allée Marchande
+			[Passage]
+				Passerelle du Palais de Justice
+		3e arrondissement
+			[Rue]
+				Petite Rue Saint Eusebe
+				Rue Aime Collomb
+				Rue Alfred de Musset
+				Rue Alfred de Vigny
+				Rue Amiral Courbet
+				Rue Andre
+				Rue André de Chenier
+				Rue André Philip
+				Rue Antoine Charial
+				Rue Antoine Laviolette
+				Rue Antoinette
+				Rue Auguste Lacroix
+				Rue Balthazar
+				Rue Bara
+				Rue Baraban
+				Rue Bellecombe
+				Rue Bellevue
+				Rue Bellicard
+				Rue Bonnand
+				Rue Bonnefoi
+				Rue Bonnefond
+				Rue Cadets de la France Libre
+				Rue Camille
+				Rue Carry
+				Rue Chambovet
+				Rue Chaponnay
+				Rue Charles Richard
+				Rue Chevalier
+				Rue Claude Farrere
+				Rue Claudius Penet
+				Rue Claudius Pionchon
+				Rue Clos Suiphon
+				Rue Coignet
+				Rue Combet Descombes
+				Rue Commandant Dubois
+				Rue Commandant Fuzier
+				Rue Commandant Marchand
+				Rue Constant
+				Rue Cyrano
+				Rue d'Armenie
+				Rue d'Aubigny
+				Rue d'Essling
+				Rue Danielle Saynel Duclos
+				Rue Danton
+				Rue David
+				Rue de Bonnel
+				Rue de Crequi
+				Rue de l'Abbe Boisard
+				Rue de l'Abondance
+				Rue de l'Église
+				Rue de l'Epee
+				Rue de l'Espérance
+				Rue de l'Est
+				Rue de l'Harmonie
+				Rue de l'Humilite
+				Rue de la Balme
+				Rue de la Banniere
+				Rue de la Buire
+				Rue de la Caille
+				Rue de la Cite
+				Rue de la Convention
+				Rue de la Metallurgie
+				Rue de la Part Dieu
+				Rue de la Rize
+				Rue de la Ruche
+				Rue de la Tete d'Or
+				Rue de la Victoire
+				Rue de la Villette
+				Rue de Montbrillant
+				Rue de Nazareth
+				Rue de Sevigne
+				Rue de Turenne
+				Rue des Aubepins
+				Rue des Cerisiers
+				Rue des Cuirassiers
+				Rue des Dahlias
+				Rue des Mobiles
+				Rue des Petites Soeurs
+				Rue des Peupliers
+				Rue des Prevoyants de l'Avenir
+				Rue des Rancy
+				Rue des Sports
+				Rue des Teinturiers
+				Rue des Tuiliers
+				Rue Desaix
+				Rue Docteur Rebatel
+				Rue Docteur Vaillant
+				Rue Domremy
+				Rue du Capitaine
+				Rue du Dauphine
+				Rue du Diapason
+				Rue du Docteur Bonhomme
+				Rue du Docteur Bouchut
+				Rue du Gazometre
+				Rue du Guesclin
+				Rue du Lac
+				Rue du Milieu
+				Rue du Palais d'Ete
+				Rue du Pensionnat
+				Rue du Professeur Louis Roche
+				Rue du Vinatier
+				Rue Dunoir
+				Rue Duphot
+				Rue Edison
+				Rue Elie Paris
+				Rue Etienne Dolet
+				Rue Etienne Richerand
+				Rue Felix
+				Rue Ferdinand Buisson
+				Rue Feuillat
+				Rue Fiol
+				Rue François Garcin
+				Rue François Gillet
+				Rue François Villon
+				Rue Frédéric Mistral
+				Rue Gabillot
+				Rue Gandoliere
+				Rue Garibaldi
+				Rue Gelas
+				Rue Général Brulard
+				Rue Général Mouton Duvernet
+				Rue Germain David
+				Rue Girie
+				Rue Guilloud
+				Rue Gustave
+				Rue Gutenberg
+				Rue Guy
+				Rue Jean Bart
+				Rue Jean Cardona
+				Rue Jean Larrive
+				Rue Jean Marc Bernard
+				Rue Jean Pierre Levy
+				Rue Jean Quitout
+				Rue Jean Renoir
+				Rue Jeanne d'Arc
+				Rue Jeanne Hachette
+				Rue Jeanne Koehler
+				Rue Jules Massenet
+				Rue Jules Michelet
+				Rue Jules Verne
+				Rue Julie
+				Rue Julien
+				Rue Julien Duvivier
+				Rue Kimmerling
+				Rue Lamartine
+				Rue Lavoisier
+				Rue le Royer
+				Rue Léon Jouhaux
+				Rue Louis
+				Rue Louis Jasseron
+				Rue Louise
+				Rue Marcel Pehu
+				Rue Marignan
+				Rue Marius Audin
+				Rue Martin
+				Rue Massena
+				Rue Maurice Flandin
+				Rue Mazenod
+				Rue Meynis
+				Rue Moissonnier
+				Rue Molière
+				Rue Moncey
+				Rue Montaigne
+				Rue Montebello
+				Rue Mortier
+				Rue Ney
+				Rue Omer Louis
+				Rue Pascal
+				Rue Paul Bert
+				Rue Paul Bourde
+				Rue Paul Diday
+				Rue Philomene Magnin
+				Rue Pierre Bonnaud
+				Rue Pierre Bourdan
+				Rue Pierre Corneille
+				Rue Pierre Simon Ballanche
+				Rue Piperoux
+				Rue Pravaz
+				Rue Professeur Florence
+				Rue Professeur Paul Sisley
+				Rue Professeur René Guillet
+				Rue Professeur Rochaix
+				Rue Rabelais
+				Rue Rachais
+				Rue René Et Margueritte Pellet
+				Rue Riboud
+				Rue Roger Brechan
+				Rue Roposte
+				Rue Rossan
+				Rue Roux Soignat
+				Rue Saint Amour
+				Rue Saint Antoine
+				Rue Saint Charles
+				Rue Saint Eusebe
+				Rue Saint Isidore
+				Rue Saint Jacques
+				Rue Saint Marc
+				Rue Saint Maximin
+				Rue Saint Philippe
+				Rue Saint Sidoine
+				Rue Saint Théodore
+				Rue Saint Victorien
+				Rue Sainte Anne de Baraban
+				Rue Sainte Marie
+				Rue Servient
+				Rue Ternois
+				Rue Trarieux
+				Rue Turbil
+				Rue Vaudrey
+				Rue Vendome
+				Rue Verlet Hanus
+				Rue Viala
+				Rue Villebois Mareuil
+				Rue Villeroy
+				Rue Villon
+				Rue Voltaire
+			[Place]
+				Place Antoine Gallay
+				Place Antoinette
+				Place Antonin Jutard
+				Place Aristide Briand
+				Place Bahadourian
+				Place Bir Hakeim
+				Place Charles Beraudier
+				Place Charles de Gaulle
+				Place Charles Dufraine
+				Place Claudia
+				Place d'Arsonval
+				Place Danton
+				Place de Francfort
+				Place de la Ferrandiere
+				Place de la Reconnaissance
+				Place de Milan
+				Place des Martyrs de la Résistance
+				Place des Poilus
+				Place du Château
+				Place Gabriel Peri
+				Place Guichard
+				Place Henri
+				Place Jules Hottin
+				Place Louise
+				Place Pierre Renaudel
+				Place Ronde
+				Place Rouget de Lisle
+				Place Saint Charles
+				Place Sainte Anne
+				Place Victor Basch
+				Place Voltaire
+			[Impasse]
+				Impasse Alexandre Aujas
+				Impasse Belloeuf
+				Impasse de l'Ordre
+				Impasse des Pins
+				Impasse du Lutin
+				Impasse du Pensionnat
+				Impasse du Sablon
+				Impasse Duret
+				Impasse Édouard Aynard
+				Impasse Gazagnon
+				Impasse Jeanne d'Arc
+				Impasse Lacombe
+				Impasse Lamartine
+				Impasse Laurency
+				Impasse Lindbergh
+				Impasse Magnaudi
+				Impasse Meunier
+				Impasse Millon
+				Impasse Morel
+				Impasse Pommier
+				Impasse Saint Amour
+				Impasse Saint Eusebe
+				Impasse Saint Isidore
+				Impasse Victor Hugo
+			[Avenue]
+				Avenue des Acacias
+				Avenue du Château
+				Avenue du Maréchal de Saxe
+				Avenue Esquirol
+				Avenue Felix Faure
+				Avenue Georges Pompidou
+				Avenue Jules Jusserand
+				Avenue Lacassagne
+				Avenue Rockefeller
+			[Square]
+				Square Daisy Martin
+				Square Eugene Varlin
+				Square Jean Reverzy
+				Square Jussieu
+				Square Noel Aymard
+				Square Pierre Pelloux
+				Square Sainte Marie Perrin
+			[Cours]
+				Cours Albert Thomas
+				Cours de la Liberté
+				Cours Docteur Long
+				Cours Eugenie
+				Cours Gambetta
+				Cours la Fayette
+				Cours Richard Vitton
+			[Passage]
+				Passage Docteur Vaillant
+				Passage Felix Benoit
+				Passage Feuillat
+				Passage Meynis
+				Passage Rampon
+				Passage Roger Brechan
+			[Boulevard]
+				Boulevard Eugene Deruelle
+				Boulevard Marius Vivier Merle
+				Boulevard Pinel
+			[Allée]
+				Allée du Parc
+			[Route]
+				Route de Genas
+			[Quai]
+				Quai Victor Augagneur
+			[Autre]
+				Centre Commercial de la Part Dieu
+		4e arrondissement
+			[Rue]
+				Grande Rue de la Croix Rousse
+				Rue Aime Boussange
+				Rue André Bonin
+				Rue Anselme
+				Rue Artaud
+				Rue Barodet
+				Rue Bely
+				Rue Bleton
+				Rue Bony
+				Rue Bournes
+				Rue Calas
+				Rue Celu
+				Rue Chardonnet
+				Rue Chaziere
+				Rue Claude Joseph Bonnet
+				Rue Claudius Linossier
+				Rue Clos Savaron
+				Rue d'Austerlitz
+				Rue d'Isly
+				Rue d'Ivry
+				Rue d'Ypres
+				Rue Dangon
+				Rue de Belfort
+				Rue de Cuire
+				Rue de la Corniche
+				Rue de la Fontaine
+				Rue de la Terrasse
+				Rue de la Tour du Pin
+				Rue de Nuits
+				Rue Deleuvre
+				Rue Denfert Rochereau
+				Rue des 3 Enfants
+				Rue des Actionnaires
+				Rue des Entrepots
+				Rue du Bois de la Caille
+				Rue du Chariot d'Or
+				Rue du Mail
+				Rue du Pavillon
+				Rue Dumenge
+				Rue Dumont
+				Rue Dumont d'Urville
+				Rue Duviard
+				Rue Édouard Millaud
+				Rue Eugene Pons
+				Rue Gigodot
+				Rue Grataloup
+				Rue Guitton
+				Rue Henon
+				Rue Henri Chevalier
+				Rue Henri Ferre
+				Rue Henri Gorjus
+				Rue Henri Lachieze Rey
+				Rue Herman Sabran
+				Rue Jacquard
+				Rue Janin
+				Rue Jean Jullien
+				Rue Jean Revel
+				Rue Jerome Dulaar
+				Rue Josephin Soulary
+				Rue Justin Godart
+				Rue Lebrun
+				Rue Louis Pize
+				Rue Louis Thevenet
+				Rue Marie Henriette
+				Rue Mascrany
+				Rue Niepce
+				Rue Pailleron
+				Rue Pelletier
+				Rue Pernon
+				Rue Perrod
+				Rue Pétrus Sambardier
+				Rue Philippe de Lassalle
+				Rue Philippeville
+				Rue Pillement
+				Rue Professeur Maurice Vallas
+				Rue Ribot
+				Rue Richan
+				Rue Rosset
+				Rue Roussy
+				Rue Ruplinger
+				Rue Saint Die
+				Rue Saint Eucher
+				Rue Tabareau
+				Rue Valentin Couturier
+				Rue Victor Fort
+				Rue Villeneuve
+			[Place]
+				Place Adrien Godien
+				Place Bellevue
+				Place Bertone
+				Place Camille Flammarion
+				Place de la Croix des Bois
+				Place de la Croix Rousse
+				Place de Serin
+				Place des Tapis
+				Place du Commandant Arnaud
+				Place Édouard Charret
+				Place Édouard Millaud
+				Place Émile Chanel
+				Place Georges Mattelon
+				Place Joannes Ambre
+				Place Picard
+				Place Saint Jacques
+				Place Tabareau
+			[Impasse]
+				Impasse Ancel
+				Impasse Berger
+				Impasse Brunet
+				Impasse Chaziere
+				Impasse d'Ypres
+				Impasse de la Loge
+				Impasse des Chalets
+				Impasse des Tapis
+				Impasse Devic
+				Impasse Dubois
+				Impasse Gigodot
+				Impasse Gord
+				Impasse Leopold Dupeyroux
+				Impasse Viard
+			[Passage]
+				Passage Claude Louis Perret
+				Passage Cuzin
+				Passage des Gloriettes
+				Passage Dumont
+				Passage Guillermier
+				Passage Lamure
+				Passage Richan
+			[Montée]
+				Montée Bonafous
+				Montée de la Boucle
+				Montée des Esses
+				Montée Georges Kubler
+				Montée Rater
+			[Chemin]
+				Chemin de Serin À la Croix Rousse
+				Chemin du Vallon
+				Chemin Vert
+			[Square]
+				Square Docteur Joseph Bouvier
+				Square Ninon Vallin
+			[Boulevard]
+				Boulevard de la Croix Rousse
+				Boulevard des Canuts
+			[Avenue]
+				Avenue Cabias
+				Avenue de Birmingham
+			[Quai]
+				Quai Joseph Gillet
+			[Cours]
+				Cours d'Herbouville
+		5e arrondissement
+			[Rue]
+				Petite Rue Tramassac
+				Rue Abbe Papon
+				Rue Appian
+				Rue Armand Calliat
+				Rue Arnoud
+				Rue Belissen
+				Rue Bellievre
+				Rue Benoist Mary
+				Rue Cardinal Gerlier
+				Rue Chanteclair
+				Rue Chapiron
+				Rue Chazay
+				Rue Cleberg
+				Rue de Boyer
+				Rue de Champvert
+				Rue de Gadagne
+				Rue de l'Angile
+				Rue de l'Antiquaille
+				Rue de l'Aube
+				Rue de l'Oiseau Blanc
+				Rue de la Baleine
+				Rue de la Bombarde
+				Rue de la Breche
+				Rue de la Favorite
+				Rue de la Fronde
+				Rue de la Garde
+				Rue de la Garenne
+				Rue de la Loge
+				Rue de la Quarantaine
+				Rue de la Sarra
+				Rue de Montauban
+				Rue de Tourvielle
+				Rue de Trion
+				Rue des 3 Artichauts
+				Rue des 3 Maries
+				Rue des 4 Colonnes
+				Rue des Anges
+				Rue des Antonins
+				Rue des Aqueducs
+				Rue des Basses Vercheres
+				Rue des Battieres
+				Rue des Chevaucheurs
+				Rue des Estrees
+				Rue des Farges
+				Rue des Fosses de Trion
+				Rue des Granges
+				Rue des Macchabees
+				Rue des Noyers
+				Rue des Pepinieres
+				Rue des Pommieres
+				Rue des Tourelles
+				Rue du Boeuf
+				Rue du Commandant Charcot
+				Rue du Docteur Alberic Pont
+				Rue du Docteur Augros
+				Rue du Docteur Edmond Locard
+				Rue du Doyenne
+				Rue du Fort Saint Irenee
+				Rue du Manteau Jaune
+				Rue du Palais de Justice
+				Rue du Panorama
+				Rue du Viel Renverse
+				Rue Ferrachat
+				Rue François Genin
+				Rue François Vernay
+				Rue Georges Martin Witkowski
+				Rue Grange Bruyère
+				Rue Henriette
+				Rue Henry le Chatelier
+				Rue Jean Carries
+				Rue Jean Fauconnet
+				Rue Jean Louis Vincent
+				Rue Jean Marie Duclos
+				Rue Jean Prevost
+				Rue Jeunet
+				Rue Joliot Curie
+				Rue Juiverie
+				Rue Lainerie
+				Rue Louis Carrand
+				Rue Louis Garrand
+				Rue M l'Et Anne Marie Soucelier
+				Rue Mandelot
+				Rue Marius Gonin
+				Rue Maurice Bellemain
+				Rue Maurice Jacob
+				Rue Mere Elisabeth Rivet
+				Rue Monseigneur Lavarenne
+				Rue Mourguet
+				Rue Mouton
+				Rue Nicolas Sicard
+				Rue Octavio Mey
+				Rue Pauline Marie Jaricot
+				Rue Pierre Audry
+				Rue Pierre Valdo
+				Rue Roger Radisson
+				Rue Saint Alexandre
+				Rue Saint Eloi
+				Rue Saint Etienne
+				Rue Saint Fiacre
+				Rue Saint Georges
+				Rue Saint Irenee
+				Rue Saint Jean
+				Rue Saint Nicolas
+				Rue Saint Paul
+				Rue Sainte Croix
+				Rue Simon Jallade
+				Rue Soeur Bouvier
+				Rue Soeur Janin
+				Rue Soufflot
+				Rue Tramassac
+				Rue Trouvee
+				Rue Vide Bourse
+			[Place]
+				Place Abbe Larue
+				Place Beauregard
+				Place Benedict Tessier
+				Place Benoit Crepu
+				Place Cesar Geoffray
+				Place de Fourviere
+				Place de l'Antiquaille
+				Place de la Baleine
+				Place de la Basoche
+				Place de la Commanderie
+				Place de la Trinite
+				Place de Trion
+				Place des Compagnons de la Chanson
+				Place des Minimes
+				Place du 158e Regiment d'Infanterie
+				Place du Batonnier Valensio
+				Place du Change
+				Place du Cloitre de Fourviere
+				Place du Docteur Schweitzer
+				Place du Gouvernement
+				Place du Petit Collège
+				Place du Port Neuf
+				Place Édouard Commette
+				Place Ennemond Fousseret
+				Place Eugene Wernert
+				Place François Bertras
+				Place Gerson
+				Place Neuve Saint Jean
+				Place Paul Duquaire
+				Place Pere François Varillon
+				Place Pierre Bossan
+				Place Saint Alexandre
+				Place Saint Irenee
+				Place Saint Jean
+				Place Saint Paul
+			[Montée]
+				Montée Cardinal Decourtray
+				Montée de Choulans
+				Montée de la Chana
+				Montée de la Sarra
+				Montée de Loyasse
+				Montée des Carmes Dechaussees
+				Montée des Chazeaux
+				Montée des Epies
+				Montée des Genovefains
+				Montée du Change
+				Montée du Chemin Neuf
+				Montée du Garillan
+				Montée du Gourguillon
+				Montée du Telegraphe
+				Montée Nicolas de Lange
+				Montée Saint Barthelemy
+				Montée Saint Laurent
+			[Impasse]
+				Impasse Chomel
+				Impasse Cumin
+				Impasse de Choulans
+				Impasse de la Garde
+				Impasse de la Joconde
+				Impasse de la Reine
+				Impasse de la Sarra
+				Impasse de Tourvielle
+				Impasse des Anglais
+				Impasse des Cytises
+				Impasse des Mures
+				Impasse du Fort Saint Irenee
+				Impasse du Général Luzy
+				Impasse du Point du Jour
+				Impasse Edmond Rostand
+				Impasse Secret
+				Impasse Turquet
+			[Avenue]
+				Avenue Adolphe Max
+				Avenue Barthelemy Buyer
+				Avenue de la 1ere Division Française Libre
+				Avenue de Menival
+				Avenue Debrousse
+				Avenue du Doyenne
+				Avenue du Point du Jour
+				Avenue Général Eisenhower
+			[Allée]
+				Allée de Bretagne
+				Allée de l'Aurore
+				Allée de la Sante
+				Allée des Tamaris
+				Allée des Troenes
+				Allée Emmanuel Gounot
+				Allée Henriette
+			[Quai]
+				Quai de Bondy
+				Quai des Etroits
+				Quai Fulchiron
+				Quai Pierre Scize
+				Quai Romain Rolland
+			[Ruelle]
+				Ruelle Punaise
+			[Boulevard]
+				Boulevard des Castors
+			[Chemin]
+				Chemin de Choulans
+		6e arrondissement
+			[Rue]
+				Petite Rue de la Viabert
+				Rue Amedee Bonnet
+				Rue Antoine Remond
+				Rue Baraban
+				Rue Barreme
+				Rue Barrier
+				Rue Bellecombe
+				Rue Beranger
+				Rue Boileau
+				Rue Bossuet
+				Rue Bugeaud
+				Rue Chevillard
+				Rue Crillon
+				Rue Curie
+				Rue Curtelin
+				Rue Cuvier
+				Rue d'Inkermann
+				Rue de Crequi
+				Rue de Geneve
+				Rue de Hanoi
+				Rue de la Gaite
+				Rue de la Tete d'Or
+				Rue de la Viabert
+				Rue de Seze
+				Rue des Charmettes
+				Rue des Droits de l'Homme
+				Rue des Emeraudes
+				Rue Desgranges
+				Rue du Commandant Faurax
+				Rue du Docteur Mouisset
+				Rue du Lt Colonel Prevost
+				Rue du Musee Guimet
+				Rue du Professeur Weill
+				Rue Duguesclin
+				Rue Duquesne
+				Rue Dussaussoy
+				Rue Felix Jacquier
+				Rue Fenelon
+				Rue Fournet
+				Rue Garibaldi
+				Rue Germain
+				Rue Godefroy
+				Rue Godinot
+				Rue Jacques Moyron
+				Rue Jean Broquin
+				Rue Jean Jacques de Boissieu
+				Rue Jean Novel
+				Rue Juliette Recamier
+				Rue Lalande
+				Rue Lannes
+				Rue Laurent Vibert
+				Rue Louis Blanc
+				Rue Louis Guerin
+				Rue Malesherbes
+				Rue Massena
+				Rue Michel Rambaud
+				Rue Molière
+				Rue Montgolfier
+				Rue Morellet
+				Rue Ney
+				Rue Notre Dame
+				Rue Paul Michel Perret
+				Rue Petrequin
+				Rue Pierre Corneille
+				Rue Robert
+				Rue Sainte Genevieve
+				Rue Sully
+				Rue Tronchet
+				Rue Vaisse
+				Rue Vauban
+				Rue Vendome
+				Rue Viricel
+				Rue Waldeck Rousseau
+			[Allée]
+				Allée Achille Lignon
+				Allée de Belle Vue
+				Allée de Ceinture
+				Allée de l'Ile
+				Allée de l'Orangerie
+				Allée de la Tete d'Or
+				Allée de la Voliere
+				Allée des Ebats
+				Allée des Fleuristes
+				Allée des Ormeaux
+				Allée des Pavillons
+				Allée des Serres
+				Allée des Villas
+				Allée du Chalet
+				Allée du Chemin de Fer
+				Allée du Grand Camp
+				Allée du Lac
+				Allée du Parc Aux Daims
+				Allée du Parc Aux Moutons
+				Allée du Pre Fleuri
+			[Place]
+				Place d'Helvetie
+				Place de l'Europe
+				Place du Cardinal Villot
+				Place Edgar Quinet
+				Place Général Leclerc
+				Place Jules Ferry
+				Place Kleber
+				Place Maréchal Lyautey
+				Place Puvis de Chavannes
+				Place René Deroudille
+			[Avenue]
+				Avenue de Grande Bretagne
+				Avenue du Maréchal de Saxe
+				Avenue Général Brosset
+				Avenue Maréchal Foch
+				Avenue Thiers
+				Avenue Verguin
+			[Boulevard]
+				Boulevard Anatole France
+				Boulevard de Stalingrad
+				Boulevard des Belges
+				Boulevard des Brotteaux
+				Boulevard Jules Favre
+			[Cours]
+				Cours Franklin Roosevelt
+				Cours la Fayette
+				Cours Vitton
+			[Quai]
+				Quai Charles de Gaulle
+				Quai de Serbie
+				Quai Général Sarrail
+			[Passage]
+				Passage Cazenove
+				Passage Coste
+			[Square]
+				Square Billon
+			[Parc]
+				Parc de la Tete d'Or
+			[Impasse]
+				Impasse Molière
+		7e arrondissement
+			[Rue]
+				Grande Rue de la Guillotiere
+				Rue Abraham Bloch
+				Rue Alexander Fleming
+				Rue Alphonse Daudet
+				Rue Amedee Lambert
+				Rue André Bollier
+				Rue André Philip
+				Rue Antonin Perrin
+				Rue Auguste Payant
+				Rue Bancel
+				Rue Basse Combalot
+				Rue Batonnier Jacquier
+				Rue Bechevelin
+				Rue Benjamin Delessert
+				Rue Camille Desmoulins
+				Rue Camille Roy
+				Rue Capitaine Robert Cluzan
+				Rue Cavenne
+				Rue Challemel Lacour
+				Rue Chalopin
+				Rue Château de Gerland
+				Rue Châteaubriand
+				Rue Chevreul
+				Rue Clair Tisseur
+				Rue Claude Boyer
+				Rue Claude Veyron
+				Rue Clement Marot
+				Rue Commandant Ayasse
+				Rue Crepet
+				Rue Creuzet
+				Rue Croix Barret
+				Rue d'Aguesseau
+				Rue d'Amsterdam
+				Rue d'Anvers
+				Rue d'Arles
+				Rue d'Athenes
+				Rue d'Avignon
+				Rue de Bale
+				Rue de Bonald
+				Rue de Bordeaux
+				Rue de Chalon Sur Saone
+				Rue de Crequi
+				Rue de Cronstadt
+				Rue de Dijon
+				Rue de Dole
+				Rue de Fos Sur Mer
+				Rue de Gerland
+				Rue de l'Abbe Boisard
+				Rue de l'Ardoise
+				Rue de l'Effort
+				Rue de l'Universite
+				Rue de la Grande Famille
+				Rue de la Madeleine
+				Rue de la Thibaudiere
+				Rue de Marseille
+				Rue de Saint Cloud
+				Rue de Surville
+				Rue de Toulon
+				Rue de Turin
+				Rue des 3 Pierres
+				Rue des 3 Rois
+				Rue des Bons Enfants
+				Rue des Girondins
+				Rue des Verriers
+				Rue Desaugiers
+				Rue Docteur Salvat
+				Rue Domer
+				Rue du Beguin
+				Rue du Brigadier Voituret
+				Rue du Colombier
+				Rue du Docteur Crestin
+				Rue du Guesclin
+				Rue du Lieutenant Colonel Girard
+				Rue du Pr Charles Appleton
+				Rue du Repos
+				Rue du Rhone
+				Rue du Sauveur
+				Rue du Vercors
+				Rue du Vivier
+				Rue Elie Rochette
+				Rue Etienne Jayet
+				Rue Etienne Rognon
+				Rue Faidherbe
+				Rue Felissent
+				Rue Felix Brun
+				Rue Galland
+				Rue Garibaldi
+				Rue Général de Miribel
+				Rue Georges Gouy
+				Rue Gilbert Dru
+				Rue Grillet
+				Rue Gustave Nadaud
+				Rue Hector Malot
+				Rue Hermann Frenkel
+				Rue Jaboulay
+				Rue Jacques Monod
+				Rue Jangot
+				Rue Jean Baldassini
+				Rue Jean Bouin
+				Rue Jean Grolier
+				Rue Jean Marie Chavant
+				Rue Jean Pierre Chevrot
+				Rue Jean Vallier
+				Rue Jonas Salk
+				Rue Jules Brunard
+				Rue Jules Vercherin
+				Rue Lamothe
+				Rue Lortet
+				Rue Louis Dansard
+				Rue Marc Bloch
+				Rue Marcel Merieux
+				Rue Marie Madeleine Fourcade
+				Rue Mathieu Varille
+				Rue Maurice Bouchor
+				Rue Maurice Carraz
+				Rue Mazagran
+				Rue Montesquieu
+				Rue Nicolai
+				Rue Parmentier
+				Rue Passet
+				Rue Pasteur
+				Rue Paul Massimi
+				Rue Pere Chevrier
+				Rue Pierre Bourdeix
+				Rue Pierre Robin
+				Rue Pierre Semard
+				Rue Pre Gaudry
+				Rue Professeur Grignard
+				Rue Professeur Zimmermann
+				Rue Prosper Chappet
+				Rue Rachais
+				Rue Raoul Servant
+				Rue Raulin
+				Rue Ravier
+				Rue Renan
+				Rue Saint Andre
+				Rue Saint Jean de Dieu
+				Rue Saint Jerome
+				Rue Saint Lazare
+				Rue Saint Michel
+				Rue Salomon Reinach
+				Rue Sebastien Gryphe
+				Rue Simon Fryd
+				Rue Tourville
+				Rue Victor Lagrange
+				Rue Victorien Sardou
+			[Place]
+				Place Alexandre Morin
+				Place Aristide Briand
+				Place de l'École
+				Place de Montreal
+				Place Deperret
+				Place des Pavillons
+				Place Docteurs C Et C Merieux
+				Place du Commandant Claude Bulard
+				Place du Prado
+				Place du Traite de Rome
+				Place Gabriel Peri
+				Place Henri Cochet
+				Place Jean Jaurès
+				Place Jean Mace
+				Place Jules Guesde
+				Place l'Exposition Internationale
+				Place Ollier
+				Place Raspail
+				Place Saint Louis
+				Place Stalingrad
+				Place Victor Basch
+			[Avenue]
+				Avenue Berthelot
+				Avenue Debourg
+				Avenue du Pont Pasteur
+				Avenue Felix Faure
+				Avenue Jean François Raclet
+				Avenue Jean Jaurès
+				Avenue Jules Carteret
+				Avenue Leclerc
+				Avenue Tony Garnier
+			[Allée]
+				Allée d'Italie
+				Allée de Lodz
+				Allée du Bon Lait
+				Allée Leopold Sedar Senghor
+				Allée Pierre de Coubertin
+			[Impasse]
+				Impasse de l'Asphalte
+				Impasse des Chalets
+				Impasse Midrie
+				Impasse Pre Gaudry
+				Impasse Rival
+			[Boulevard]
+				Boulevard Chambaud de la Bruyère
+				Boulevard de l'Artillerie
+				Boulevard des Tchecoslovaques
+				Boulevard du Parc d'Artillerie
+				Boulevard Yves Farge
+			[Quai]
+				Quai Claude Bernard
+				Quai de Beaucaire
+				Quai du Canada
+				Quai Fillion
+			[Autres]
+				Espace Henry Vallée
+				Mail de Fontenay
+			[Passage]
+				Passage du Vercors
+				Passage Faugier
+			[Square]
+				Square du Professeur Galtier
+			[Route]
+				Route de Vienne
+			[Cours]
+				Cours Gambetta
+			[Parvis]
+				Parvis René Descartes
+		8e arrondissement
+			[Rue]
+				Grande Rue de Saint Rambert
+				Grande Rue de Vaise
+				Rue Albert Camus
+				Rue Albert Chalinel
+				Rue Albert Falsan
+				Rue Albert Falsan Prolongee
+				Rue Antoine Beroud
+				Rue Antonin Laborde
+				Rue Auguste Isaac
+				Rue Beer Sheva
+				Rue Berjon
+				Rue Bourget
+				Rue C Afrique Nord 1952 1962
+				Rue Camille de Neuville
+				Rue Charles Porcher
+				Rue Chinard
+				Rue Claude Debussy
+				Rue Claude Fayes
+				Rue Claude le Laboureur
+				Rue Claudy
+				Rue Claviere
+				Rue Communieu
+				Rue Cottin
+				Rue de Bourgogne
+				Rue de l'Oiseliere
+				Rue de la Carrière
+				Rue de la Chapelle
+				Rue de la Claire
+				Rue de la Conciergerie
+				Rue de la Corderie
+				Rue de la Fraternelle
+				Rue de la Gare
+				Rue de la Grange
+				Rue de la Graviere
+				Rue de la Martinique
+				Rue de la Mignonne
+				Rue de la Perseverance
+				Rue de la Piemente
+				Rue de la Sparterie
+				Rue de Montauban
+				Rue de Montribloud
+				Rue de Saint Cyr
+				Rue de Treves
+				Rue des 2 Amants
+				Rue des 2 Places
+				Rue des 3 Maisons
+				Rue des 39 Fusilles
+				Rue des Bains
+				Rue des Contrebandiers
+				Rue des Docks
+				Rue des Docteurs Cordier
+				Rue des Érables
+				Rue des Fougères
+				Rue des Muriers
+				Rue des Nouvelles Maisons
+				Rue des Platriers
+				Rue des Pres
+				Rue des Rivières
+				Rue des Tanneurs
+				Rue des Tuileries
+				Rue des Villas
+				Rue Docteur Horand
+				Rue Docteur Raffin
+				Rue du 24 Mars 1852
+				Rue du 3 Septembre 1944
+				Rue du Bas de Loyasse
+				Rue du Beal
+				Rue du Bourbonnais
+				Rue du Chapeau Rouge
+				Rue du Château de la Duchere
+				Rue du Doyen Georges Chapas
+				Rue du Four A Chaux
+				Rue du Frere Benoit
+				Rue du Général Girodon
+				Rue du Mal de Lattre de Tassigny
+				Rue du Marche
+				Rue du Mont d'Or
+				Rue du Pont Cotton
+				Rue du Professeur Guerin
+				Rue du Souvenir
+				Rue Dumas
+				Rue Edith Piaf
+				Rue Émile Duport
+				Rue Ernest Fabregue
+				Rue Eugene Baudin
+				Rue Fayolle
+				Rue Gabriel Chevallier
+				Rue Gilgain
+				Rue Gorge de Loup
+				Rue Hector Berlioz
+				Rue Jean Baptiste Chopin
+				Rue Jean Baptiste Couty
+				Rue Jean Fournier
+				Rue Jean Marcuit
+				Rue Jean Marie Leclair
+				Rue Jean Perrin
+				Rue Jean Zay
+				Rue Joannes Carret
+				Rue Jolivet
+				Rue Joseph Folliet
+				Rue Jouffroy d'Abbans
+				Rue Laporte
+				Rue Laure Diebold
+				Rue Littre
+				Rue Louis Bouquet
+				Rue Louis Juttet
+				Rue Louis Loucheur
+				Rue Malibran
+				Rue Marc Boegner
+				Rue Marcel Cerdan
+				Rue Marcel Mouloudji
+				Rue Marietton
+				Rue Marius Donjon
+				Rue Masaryk
+				Rue Mouillard
+				Rue Nerard
+				Rue Pierre Audry
+				Rue Pierre Baizet
+				Rue Pierre Termier
+				Rue Professeur Patel
+				Rue René Sabran
+				Rue Rhin Et Danube
+				Rue Robert Wolville
+				Rue Roger Salengro
+				Rue Roquette
+				Rue Saint Didier
+				Rue Saint Pierre de Vaise
+				Rue Saint Simon
+				Rue Sergent Michel Berthet
+				Rue Sylvain Simondan
+				Rue Tissot
+				Rue Transversale
+				Rue Velten
+				Rue Victor Muhlstein
+				Rue Victor Schoelcher
+			[Place]
+				Place Abbe Pierre
+				Place Bachaga Boualem
+				Place Bernard Schomberg
+				Place Bourgneuf
+				Place de la Rhodiaceta
+				Place de Paris
+				Place de Saint Rambert
+				Place du Marche
+				Place du Pont Mouton
+				Place Dumas de Loire
+				Place Ferber
+				Place Henri Barbusse
+				Place Jean Monnet
+				Place Maurice Bariod
+				Place Notre Dame
+				Place Pierre Puget
+				Place Saint Didier
+				Place Valmy
+				Place Vanderpol
+				Place Verrazzano
+			[Impasse]
+				Impasse Bellefontaine
+				Impasse Charavay
+				Impasse de l'Horloge
+				Impasse de la Courtille
+				Impasse de la Mouchonne
+				Impasse de la Sauvagere
+				Impasse de la Trappe
+				Impasse des 2 Amants
+				Impasse des Jardins
+				Impasse des Tanneurs
+				Impasse du Frere Benoit
+				Impasse Gorge de Loup
+				Impasse Louis Pasteur
+				Impasse Masson
+				Impasse Mouillard
+				Impasse Paquet Merel
+				Impasse Pierre Baizet
+				Impasse Saint Louis
+				Impasse Saint Loup
+			[Avenue]
+				Avenue 25e Rgt T Senegalais
+				Avenue Andrei Sakharov
+				Avenue Barthelemy Buyer
+				Avenue Ben Gourion
+				Avenue d'Ecully
+				Avenue de Champagne
+				Avenue de Douaumont
+				Avenue de la Sauvegarde
+				Avenue des Sources
+				Avenue du Frene
+				Avenue du Plateau
+				Avenue Joannes Masset
+				Avenue Lannesan
+				Avenue René Cassin
+				Avenue Rosa Parks
+				Avenue Sidoine Apollinaire
+			[Allée]
+				Allée de Beaulieu
+				Allée de Beaulieu Montribloud
+				Allée de l'Aquilon
+				Allée de l'Observatoire
+				Allée de la Sauvegarde
+				Allée des Cavatines
+				Allée Edith Piaf
+				Allée Jean Quiquerez
+				Allée Victor Muhlstein
+			[Quai]
+				Quai Arloing
+				Quai Chauveau
+				Quai de la Gare d'Eau
+				Quai du Commerce
+				Quai Jayr
+				Quai Paul Sedallian
+				Quai Pierre Scize
+				Quai Raoul Carrie
+			[Autre]
+				Centre Commercial Balmont
+				Centre Commercial Château
+				Centre Commercial de la Sauvegarde
+				Centre Commercial du Plateau
+				Ile Barbe
+				Tour Panoramique
+			[Montée]
+				Montée de Balmont
+				Montée de l'Observance
+				Montée de la Chana
+				Montée de la Sarra
+				Montée des Balmes
+				Montée du Greillon
+			[Chemin]
+				Chemin de Montessuy
+				Chemin de Montpellas
+				Chemin des Charbottes
+				Chemin du Bas Port
+				Chemin du Petit Montessuy
+			[Square]
+				Square Averroes
+				Square Édouard Mouriquand
+				Square Maurice Ravel
+				Square Paul Cezanne
+			[Passage]
+				Passage Auguste Rodin
+				Passage du Beal
+				Passage Gorge de Loup
+				Passage Mas
+			[Boulevard]
+				Boulevard Antoine de Saint Exupery
+				Boulevard de Balmont
+				Boulevard de la Duchere
+			[Rond-point]
+				Rond Point des Monts d'Or
+		9e arrondissement
+			[Rue]
+				Grande Rue de Saint Rambert
+				Grande Rue de Vaise
+				Rue Albert Camus
+				Rue Albert Chalinel
+				Rue Albert Falsan
+				Rue Albert Falsan Prolongee
+				Rue Antoine Beroud
+				Rue Antonin Laborde
+				Rue Auguste Isaac
+				Rue Beer Sheva
+				Rue Berjon
+				Rue Bourget
+				Rue C Afrique Nord 1952 1962
+				Rue Camille de Neuville
+				Rue Charles Porcher
+				Rue Chinard
+				Rue Claude Debussy
+				Rue Claude Fayes
+				Rue Claude le Laboureur
+				Rue Claudy
+				Rue Claviere
+				Rue Communieu
+				Rue Cottin
+				Rue de Bourgogne
+				Rue de l'Oiseliere
+				Rue de la Carrière
+				Rue de la Chapelle
+				Rue de la Claire
+				Rue de la Conciergerie
+				Rue de la Corderie
+				Rue de la Fraternelle
+				Rue de la Gare
+				Rue de la Grange
+				Rue de la Graviere
+				Rue de la Martinique
+				Rue de la Mignonne
+				Rue de la Perseverance
+				Rue de la Piemente
+				Rue de la Sparterie
+				Rue de Montauban
+				Rue de Montribloud
+				Rue de Saint Cyr
+				Rue de Treves
+				Rue des 2 Amants
+				Rue des 2 Places
+				Rue des 3 Maisons
+				Rue des 39 Fusilles
+				Rue des Bains
+				Rue des Contrebandiers
+				Rue des Docks
+				Rue des Docteurs Cordier
+				Rue des Érables
+				Rue des Fougères
+				Rue des Muriers
+				Rue des Nouvelles Maisons
+				Rue des Platriers
+				Rue des Pres
+				Rue des Rivières
+				Rue des Tanneurs
+				Rue des Tuileries
+				Rue des Villas
+				Rue Docteur Horand
+				Rue Docteur Raffin
+				Rue du 24 Mars 1852
+				Rue du 3 Septembre 1944
+				Rue du Bas de Loyasse
+				Rue du Beal
+				Rue du Bourbonnais
+				Rue du Chapeau Rouge
+				Rue du Château de la Duchere
+				Rue du Doyen Georges Chapas
+				Rue du Four A Chaux
+				Rue du Frere Benoit
+				Rue du Général Girodon
+				Rue du Mal de Lattre de Tassigny
+				Rue du Marche
+				Rue du Mont d'Or
+				Rue du Pont Cotton
+				Rue du Professeur Guerin
+				Rue du Souvenir
+				Rue Dumas
+				Rue Edith Piaf
+				Rue Émile Duport
+				Rue Ernest Fabregue
+				Rue Eugene Baudin
+				Rue Fayolle
+				Rue Gabriel Chevallier
+				Rue Gilgain
+				Rue Gorge de Loup
+				Rue Hector Berlioz
+				Rue Jean Baptiste Chopin
+				Rue Jean Baptiste Couty
+				Rue Jean Fournier
+				Rue Jean Marcuit
+				Rue Jean Marie Leclair
+				Rue Jean Perrin
+				Rue Jean Zay
+				Rue Joannes Carret
+				Rue Jolivet
+				Rue Joseph Folliet
+				Rue Jouffroy d'Abbans
+				Rue Laporte
+				Rue Laure Diebold
+				Rue Littre
+				Rue Louis Bouquet
+				Rue Louis Juttet
+				Rue Louis Loucheur
+				Rue Malibran
+				Rue Marc Boegner
+				Rue Marcel Cerdan
+				Rue Marcel Mouloudji
+				Rue Marietton
+				Rue Marius Donjon
+				Rue Masaryk
+				Rue Mouillard
+				Rue Nerard
+				Rue Pierre Audry
+				Rue Pierre Baizet
+				Rue Pierre Termier
+				Rue Professeur Patel
+				Rue René Sabran
+				Rue Rhin Et Danube
+				Rue Robert Wolville
+				Rue Roger Salengro
+				Rue Roquette
+				Rue Saint Didier
+				Rue Saint Pierre de Vaise
+				Rue Saint Simon
+				Rue Sergent Michel Berthet
+				Rue Sylvain Simondan
+				Rue Tissot
+				Rue Transversale
+				Rue Velten
+				Rue Victor Muhlstein
+				Rue Victor Schoelcher
+			[Place]
+				Place Abbe Pierre
+				Place Bachaga Boualem
+				Place Bernard Schomberg
+				Place Bourgneuf
+				Place de la Rhodiaceta
+				Place de Paris
+				Place de Saint Rambert
+				Place du Marche
+				Place du Pont Mouton
+				Place Dumas de Loire
+				Place Ferber
+				Place Henri Barbusse
+				Place Jean Monnet
+				Place Maurice Bariod
+				Place Notre Dame
+				Place Pierre Puget
+				Place Saint Didier
+				Place Valmy
+				Place Vanderpol
+				Place Verrazzano
+			[Impasse]
+				Impasse Bellefontaine
+				Impasse Charavay
+				Impasse de l'Horloge
+				Impasse de la Courtille
+				Impasse de la Mouchonne
+				Impasse de la Sauvagere
+				Impasse de la Trappe
+				Impasse des 2 Amants
+				Impasse des Jardins
+				Impasse des Tanneurs
+				Impasse du Frere Benoit
+				Impasse Gorge de Loup
+				Impasse Louis Pasteur
+				Impasse Masson
+				Impasse Mouillard
+				Impasse Paquet Merel
+				Impasse Pierre Baizet
+				Impasse Saint Louis
+				Impasse Saint Loup
+			[Avenue]
+				Avenue 25e Rgt T Senegalais
+				Avenue Andrei Sakharov
+				Avenue Barthelemy Buyer
+				Avenue Ben Gourion
+				Avenue d'Ecully
+				Avenue de Champagne
+				Avenue de Douaumont
+				Avenue de la Sauvegarde
+				Avenue des Sources
+				Avenue du Frene
+				Avenue du Plateau
+				Avenue Joannes Masset
+				Avenue Lannesan
+				Avenue René Cassin
+				Avenue Rosa Parks
+				Avenue Sidoine Apollinaire
+			[Allée]
+				Allée de Beaulieu
+				Allée de Beaulieu Montribloud
+				Allée de l'Aquilon
+				Allée de l'Observatoire
+				Allée de la Sauvegarde
+				Allée des Cavatines
+				Allée Edith Piaf
+				Allée Jean Quiquerez
+				Allée Victor Muhlstein
+			[Quai]
+				Quai Arloing
+				Quai Chauveau
+				Quai de la Gare d'Eau
+				Quai du Commerce
+				Quai Jayr
+				Quai Paul Sedallian
+				Quai Pierre Scize
+				Quai Raoul Carrie
+			[Autre]
+				Centre Commercial Balmont
+				Centre Commercial Château
+				Centre Commercial de la Sauvegarde
+				Centre Commercial du Plateau
+				Ile Barbe
+				Tour Panoramique
+			[Montée]
+				Montée de Balmont
+				Montée de l'Observance
+				Montée de la Chana
+				Montée de la Sarra
+				Montée des Balmes
+				Montée du Greillon
+			[Chemin]
+				Chemin de Montessuy
+				Chemin de Montpellas
+				Chemin des Charbottes
+				Chemin du Bas Port
+				Chemin du Petit Montessuy
+			[Square]
+				Square Averroes
+				Square Édouard Mouriquand
+				Square Maurice Ravel
+				Square Paul Cezanne
+			[Passage]
+				Passage Auguste Rodin
+				Passage du Beal
+				Passage Gorge de Loup
+				Passage Mas
+			[Boulevard]
+				Boulevard Antoine de Saint Exupery
+				Boulevard de Balmont
+				Boulevard de la Duchere
+			[Rond-point]
+				Rond Point des Monts d'Or
 
