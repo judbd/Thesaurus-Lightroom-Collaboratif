@@ -4530,7 +4530,7 @@
 		Posant
 			{012100}
 			{posing}
-		Sympbolique
+		Symbolique
 			{012200}
 			{symbolic}
 		Off beat
