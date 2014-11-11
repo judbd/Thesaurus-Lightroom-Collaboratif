@@ -807,7 +807,7 @@
 			Industries métallurgiques et mécaniques
 				{manufacturing and engineering}
 				{04011000}
-				Industrie aéronautique et de l' espace
+				Industrie aéronautique et de l'espace
 					{aerospace}
 					{04011001}
 				Industrie automobile
@@ -2567,58 +2567,58 @@
 			Athlétisme
 				{athletics track and field}
 				{15005000}
-				100m
+				100 m
 					{100 m}
 					{15005001}
-				200m
+				200 m
 					{200 m}
 					{15005002}
-				400m
+				400 m
 					{400 m}
 					{15005003}
-				800m
+				800 m
 					{800 m}
 					{15005004}
-				1000m
+				1000 m
 					{1000 m}
 					{15005005}
-				1500m
+				1500 m
 					{1500 m}
 					{15005006}
 				Mile
 					{mile}
 					{15005007}
-				2000m
+				2000 m
 					{2000 m}
 					{15005008}
-				3000m
+				3000 m
 					{3000 m}
 					{15005009}
-				5000m
+				5000 m
 					{5000 m}
 					{15005010}
-				10000m
+				10000 m
 					{10000 m}
 					{15005011}
-				20km
+				20 km
 					{20 km}
 					{15005012}
 				L'heure
 					{one hour}
 					{15005013}
-				25km
+				25 km
 					{25000}
 					{15005014}
-				30km
+				30 km
 					{30000}
 					{15005015}
-				110mhaies
+				110 m haies
 					{110 m hurdles}
 					{15005016}
-				400mhaies
+				400 m haies
 					{400 m hurdles}
 					{15005017}
-				3000m steeple
+				3000 m steeple
 					{3000 m steeplechase}
 					{15005018}
 				Saut en hauteur
@@ -2645,7 +2645,7 @@
 				Lancer de javelot
 					{javelin throw}
 					{15005026}
-				Decathlon
+				Décathlon
 					{decathlon}
 					{15005027}
 				Relais 4x100 m
@@ -2660,31 +2660,31 @@
 				Relais 4x800 m
 					{4x800 m}
 					{15005031}
-				Relais4x1500 m
+				Relais 4x1500 m
 					{4x1500 m}
 					{15005032}
-				Marche 1h
+				Marche 1 h
 					{walk 1 h}
 					{15005033}
-				Marche 2h
+				Marche 2 h
 					{walk 2 h}
 					{15005034}
-				10km marche
+				10 km marche
 					{10 km walk}
 					{15005035}
-				15km marche
+				15 km marche
 					{15 km walk}
 					{15005036}
-				20km marche
+				20 km marche
 					{20 km walk}
 					{15005037}
-				30km marche
+				30 km marche
 					{30 km walk}
 					{15005038}
-				50km marche
+				50 km marche
 					{50 km walk}
 					{15005039}
-				100m haies
+				100 m haies
 					{100 m hurdles}
 					{15005040}
 				5 km marche
@@ -2693,19 +2693,19 @@
 				heptathlon
 					{heptathlon}
 					{15005042}
-				1500m marche
+				1500 m marche
 					{1500 m walk}
 					{15005043}
-				2000m marche
+				2000 m marche
 					{2000 m walk}
 					{15005044}
-				3000m marche
+				3000 m marche
 					{3000 m walk}
 					{15005045}
-				50m
+				50 m
 					{50 m}
 					{15005046}
-				50m haies
+				50 m haies
 					{50 m hurdles}
 					{15005047}
 				50 yards
@@ -2714,10 +2714,10 @@
 				50 yard haies
 					{50 yard hurdles}
 					{15005049}
-				60m
+				60 m
 					{60 m}
 					{15005050}
-				60m haies
+				60 m haies
 					{60 m hurdles}
 					{15005051}
 				60 yards
@@ -2732,7 +2732,7 @@
 				100 yard haies
 					{100 yard hurdles}
 					{15005055}
-				300m
+				300 m
 					{300 m}
 					{15005056}
 				300 yards
@@ -2741,13 +2741,13 @@
 				440 yards
 					{440 yards}
 					{15005058}
-				500m
+				500 m
 					{500 m}
 					{15005059}
 				500 yards
 					{500 yards}
 					{15005060}
-				600m
+				600 m
 					{600 m}
 					{15005061}
 				600 yards
@@ -2954,13 +2954,13 @@
 				Slalom
 					{Slalom}
 					{15015001}
-				200m
+				200 m
 					{200 m}
 					{15015002}
-				500m
+				500 m
 					{500 m}
 					{15015003}
-				1000m
+				1000 m
 					{1000 m}
 					{15015004}
 				K1
@@ -3404,13 +3404,13 @@
 				superbike
 					{superbike}
 					{15041009}
-				125cm3
+				125 cm3
 					{125 cm3}
 					{15041010}
-				250cm3
+				250 cm3
 					{250 cm3}
 					{15041011}
-				500cm3
+				500 cm3
 					{500 cm3}
 					{15041012}
 				side-cars
@@ -3647,47 +3647,47 @@
 			Patinage de vitesse
 				{speed skating}
 				{15056000}
-				500m
+				500 m
 					{500 m}
 					{15056001}
-				1000m
+				1000 m
 					{1000 m}
 					{15056002}
-				1500m
+				1500 m
 					{1500 m}
 					{15056003}
-				3000m
+				3000 m
 					{3000 m}
 					{15056004}
-				5000m
+				5000 m
 					{5000 m}
 					{15056005}
-				10000m
+				10000 m
 					{10000 m}
 					{15056006}
 				Short-track
 					{Short-track}
 					{15056007}
-				st500m
+				st 500 m
 					{st 500 m}
 					{15056008}
-				st1000m
-					{st 1000m}
+				st 1000 m
+					{st 1000 m}
 					{15056009}
-				st1500m
-					{st 1500m}
+				st 1500 m
+					{st 1500 m}
 					{15056010}
-				st3000m
-					{st 3000m}
+				st 3000 m
+					{st 3000 m}
 					{15056011}
-				st 3000m relais
-					{st 3000m relay}
+				st 3000 m relais
+					{st 3000 m relay}
 					{15056012}
-				st5000m
-					{st 5000m}
+				st 5000 m
+					{st 5000 m}
 					{15056013}
-				st 5000m relais
-					{st 5000m relay}
+				st 5000 m relais
+					{st 5000 m relay}
 					{15056014}
 			Speedway
 				{speedway}
@@ -3749,28 +3749,28 @@
 				Relais 4x200 m libre
 					{relay 4x200 m freestyle}
 					{15062009}
-				50m dos
+				50 m dos
 					{50 m backstroke}
 					{15062010}
-				100m dos
+				100 m dos
 					{100 m backstroke}
 					{15062011}
-				200m dos
+				200 m dos
 					{200 m backstroke}
 					{15062012}
-				50m brasse
+				50 m brasse
 					{50 m breaststroke}
 					{15062013}
-				100m brasse
+				100 m brasse
 					{100 m breaststroke}
 					{15062014}
-				200m brasse
+				200 m brasse
 					{200 m breaststroke}
 					{15062015}
-				50m papillon
+				50 m papillon
 					{50 m butterfly}
 					{15062016}
-				100m papillon
+				100 m papillon
 					{100 m butterfly}
 					{15062017}
 				200 m papillon
@@ -3785,11 +3785,11 @@
 				400 m 4 nages
 					{400 m medley}
 					{15062021}
-				relais 4x50m 4 nages
+				relais 4x50 m 4 nages
 					{relay 4x50 m medlay}
 					{15062022}
-				Relais 4x100 m 4nages
-					{relay4x100 m medley}
+				Relais 4x100 m 4 nages
+					{relay 4x100 m medley}
 					{15062023}
 				petit bassin
 					{short course}
@@ -3815,13 +3815,13 @@
 				49-57 kg
 					{49-57 kg}
 					{15064003}
-				58-68kg
+				58-68 kg
 					{58-68 kg}
 					{15064004}
-				57-67kg
+				57-67 kg
 					{57-67 kg}
 					{15064005}
-				68-80kg
+				68-80 kg
 					{68-80 kg}
 					{15064006}
 				Plus de 67 kg
@@ -3881,40 +3881,40 @@
 				épaulé-jeté
 					{clean and jerk}
 					{15070002}
-				48kg
+				48 kg
 					{48 kg}
 					{15070003}
-				53kg
+				53 kg
 					{53 kg}
 					{15070004}
-				63kg
+				63 kg
 					{63 kg}
 					{15070005}
-				75kg
+				75 kg
 					{75 kg}
 					{15070006}
-				Plus de 75kg
+				Plus de 75 kg
 					{over 75 kg}
 					{15070007}
-				56kg
+				56 kg
 					{56 kg}
 					{15070008}
-				62kg
+				62 kg
 					{62 kg}
 					{15070009}
-				69kg
+				69 kg
 					{69 kg}
 					{15070010}
-				77kg
+				77 kg
 					{77 kg}
 					{15070011}
-				85kg
+				85 kg
 					{85 kg}
 					{15070012}
-				94kg
+				94 kg
 					{94 kg}
 					{15070013}
-				105kg
+				105 kg
 					{105 kg}
 					{15070014}
 				> 105 kg
@@ -3950,28 +3950,28 @@
 				Plus de 130 kg
 					{over 130 kg}
 					{15072003}
-				130kg
+				130 kg
 					{130 kg}
 					{15072004}
-				97kg
+				97 kg
 					{97 kg}
 					{15072005}
-				85kg
+				85 kg
 					{85 kg}
 					{15072006}
-				76kg
+				76 kg
 					{76 kg}
 					{15072007}
-				69kg
+				69 kg
 					{69 kg}
 					{15072008}
-				63kg
+				63 kg
 					{63 kg}
 					{15072009}
-				58kg
+				58 kg
 					{58 kg}
 					{15072010}
-				54kg
+				54 kg
 					{54 kg}
 					{15072011}
 				Lutte suisse
@@ -4524,7 +4524,7 @@
 		Action
 			{011900}
 			{action}
-		En train d'executer
+		En train d'exécuter
 			{012000}
 			{performing}
 		Posant
