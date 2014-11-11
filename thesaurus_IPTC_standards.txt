@@ -4385,7 +4385,7 @@
 			{Biography}
 		En cours
 			{Current}
-		Curtain raiser
+		Levée de rideau
 			{Curtain Raiser}
 		Agenda
 			{Daybook}
@@ -4433,7 +4433,7 @@
 			{Response to a Question}
 		Liste de résultats et statistiques
 			{Results Listings and Statistics}
-		Retrospective
+		Rétrospective
 			{Retrospective}
 		Avis et revues
 			{Review}
