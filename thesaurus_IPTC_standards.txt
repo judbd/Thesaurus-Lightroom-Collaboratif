@@ -1,5 +1,5 @@
 [IPTC Newscodes]
-	[IPTC Subjects]
+	IPTC Subjects
 		Arts culture et spectacles
 			{arts culture and entertainment}
 			{01000000}
@@ -4364,7 +4364,7 @@
 			Alertes
 				{warning}
 				{17005000}
-	[IPTC Genres]
+	IPTC Genres
 		Actualité
 			{Actuality}
 		Conseil
@@ -4459,14 +4459,14 @@
 			{Wrap}
 		Bilan intermédiaire
 			{Wrapup}
-	[IPTC Qualifiers]
+	IPTC Qualifiers
 		Femelle
 			{00000001}
 			{female}
 		Mâle
 			{00000002}
 			{male}
-	[IPTC Scenes]
+	IPTC Scenes
 		Portrait
 			{010100}
 			{headshot}
@@ -4539,7 +4539,7 @@
 		Scène de film
 			{012400}
 			{movie scene}
-	[IPTC Content warnings]
+	IPTC Content warnings
 		Mort
 			{Death}
 		Vocabulaire
