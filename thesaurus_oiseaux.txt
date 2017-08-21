@@ -1,9 +1,12 @@
-﻿Oiseaux
+Oiseaux
 	{Aves}
 	{Birds}
 	Accipitriformes
 		Accipitridés
 			{Accipitridae}
+			Aigle botté
+				{Hieraaetus pennatus}
+				{Booted Eagle}
 			Aigle criard
 				{Aquila clanga}
 				{Greater Spotted Eagle}
@@ -314,6 +317,9 @@
 			Oie cendrée
 				{Anser anser}
 				{Greylag Goose}
+			Oie cygnoïde
+				{Anser cygnoides}
+				{Swan Goose}
 			Oie de la toundra
 				{Anser serrirostris}
 				{Tundra Bean Goose}
@@ -1033,6 +1039,9 @@
 			Colombe rouviolette
 				{Geotrygon montana}
 				{Ruddy Quail-Dove}
+			Goura de Scheepmaker
+				{Goura scheepmakeri}
+				{Southern Crowned Pigeon}
 			Pigeon à cou rouge
 				{Patagioenas squamosa}
 				{Scaly-naped Pigeon}
@@ -1060,6 +1069,9 @@
 			Pigeon trocaz
 				{Columba trocaz}
 				{Trocaz Pigeon}
+			Ptilope porphyre
+				{Ptilinopus porphyreus}
+				{Pink-headed Fruit Dove}
 			Tourterelle à queue carrée
 				{Zenaida aurita}
 				{Zenaida Dove}
@@ -1224,6 +1236,12 @@
 			Caille des blés
 				{Coturnix coturnix}
 				{Common Quail}
+			Caille peinte
+				{Excalfactoria chinensis}
+				{King Quail}
+			Coq bankiva
+				{Gallus gallus}
+				{Red Junglefowl}
 			Dindon sauvage
 				{Meleagris gallopavo}
 				{Wild Turkey}
@@ -1254,6 +1272,9 @@
 			Grand Tétras
 				{Tetrao urogallus}
 				{Western Capercaillie}
+			Hokki bleu
+				{Crossoptilon auritum}
+				{Blue Eared Pheasant}
 			Lagopède alpin
 				{Lagopus muta}
 				{Rock Ptarmigan}
@@ -1281,6 +1302,9 @@
 			Perdrix si-si
 				{Ammoperdix griseogularis}
 				{See-see Partridge}
+			Rouloul couronné
+				{Rollulus rouloul}
+				{Crested Partridge}
 			Tétraogalle de Perse
 				{Tetraogallus caspius}
 				{Caspian Snowcock}
@@ -1326,6 +1350,9 @@
 			Grue du Canada
 				{Grus canadensis}
 				{Sandhill Crane}
+			Grue royale
+				{Balearica regulorum}
+				{Grey Crowned Crane}
 		Rallidés
 			{Rallidae}
 			Foulque à cachet blanc
@@ -1765,9 +1792,18 @@
 			Capucin bec-de-plomb
 				{Euodice malabarica}
 				{Indian Silverbill}
+			Diamant azuvert
+				{Erythrura tricolor}
+				{Tricolored Parrotfinch}
+			Diamant de Gould
+				{Erythrura gouldiae}
+				{Gouldian Finch}
 			Diamant mandarin
 				{Taeniopygia guttata}
 				{Zebra Finch}
+			Padda de Java
+				{Lonchura oryzivora}
+				{Java Sparrow}
 		Fringillidés
 			{Fringillidae}
 			Bec-croisé bifascié
@@ -2942,6 +2978,9 @@
 			Pélican blanc
 				{Pelecanus onocrotalus}
 				{Great White Pelican}
+			Pélican d'Amérique
+				{Pelecanus erythrorhynchos}
+				{American White Pelican}
 			Pélican frisé
 				{Pelecanus crispus}
 				{Dalmatian Pelican}
@@ -3240,6 +3279,14 @@
 			Toui été
 				{Forpus passerinus}
 				{Green-rumped Parrotlet}
+		Psittaculidés
+			{Psittaculae}
+			Loriquet à tête bleue
+				{Trichoglossus haematodus}
+				{Coconut Lorikeet}
+			Lori noira
+				{Lorius garrulus}
+				{Chattering Lory}
 	Ptéroclidiformes
 		Ptéroclididés
 			{Ptéroclididae}
