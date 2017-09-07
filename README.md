@@ -1,23 +1,23 @@
 Thésaurus lightroom
 ===================
 
-Ce projet à pour objet de constituer plusieurs thésaurus pour Lightroom en français, hiérarchisés, et avec des synonymes (et si possible la traduction anglaise dans les synonymes)
+Ce projet a pour objet de constituer plusieurs thésaurus pour Lightroom en français, hiérarchisés, et avec des synonymes (et si possible la traduction anglaise dans les synonymes)
 
-Les thesaurus peuvent toucher un domaine précis utile au photographe, et pourront être compilés dans un super thésaurus de vocabulaire contrôlé (qui s'appelera Super Thesaurus Rex).
+Les thésaurus peuvent toucher un domaine précis utile au photographe, et pourront être compilés dans un super thésaurus de vocabulaire contrôlé (qui s'appelera Super Thesaurus Rex).
 
 Ce projet rassemble déjà plusieurs thésaurus dont le contenu est listé ci-dessous.
 
 Licence
 -------
 
-Les thesaurus dont je suis l'auteur sont en licence quasi WTFPL (Do What the Fuck You Want to Public License). En gros vous faites ce que vous voulez des fichiers, pourvu que vous ne les hébergiez pas sur votre serveur en faisant croire que c’est vous qui les avez créés.
+Les thésaurus dont je suis l'auteur sont en licence quasi WTFPL (Do What the Fuck You Want to Public License). En gros vous faites ce que vous voulez des fichiers, pourvu que vous ne les hébergiez pas sur votre serveur en faisant croire que c’est vous qui les avez créés.
 
-Les autres thesaurus rassemblés ici (mammifères, odonates, arbres et arbustes, herpeto, et oiseaux) sont la propriété de leurs auteurs respectifs, et sont disponible au téléchargement sur cette page avec leur aimable autorisation.
+Les autres thésaurus rassemblés ici (mammifères, odonates, arbres et arbustes, herpeto, et oiseaux) sont la propriété de leurs auteurs respectifs, et sont disponibles au téléchargement sur cette page avec leur aimable autorisation.
 
 Important, à lire avant de contribuer
 -------------------------------------
 
-Voici quelques règles pour contribuer à ces thesaurus
+Voici quelques règles pour contribuer à ces thesaurus :
 
 * Dans la mesure du possible, utiliser des bases de données génériques reconnues par tous
 * Les mots clés devront être orthographiquement corrects (majuscules en début de mots, espaces, accents)
@@ -63,7 +63,7 @@ Thésaurus Ville de Paris
 * Tous les quartiers et arrondissements
 * Tous les espaces verts
 * Les cinémas et cabarets renommés
-* Toutes les stations et lignes de métro, et les station de RER intra-muros
+* Toutes les stations et lignes de métro, et les stations de RER intra-muros
 * Tous les cours d’eau
 * Tous les musées et monuments
 * Tous les lieux de cultes
